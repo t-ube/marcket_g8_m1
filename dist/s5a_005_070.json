@@ -24,14 +24,28 @@
         },
         "volatility": {
             "weekly": {
-                "basePrice": 33.0,
-                "latestPrice": 33.0,
-                "percent": 0.0
+                "min": {
+                    "basePrice": 30.0,
+                    "latestPrice": 30.0,
+                    "percent": 0.0
+                },
+                "50%": {
+                    "basePrice": 33.0,
+                    "latestPrice": 33.0,
+                    "percent": 0.0
+                }
             },
             "daily": {
-                "basePrice": 33.0,
-                "latestPrice": 33.0,
-                "percent": 0.0
+                "min": {
+                    "basePrice": 30.0,
+                    "latestPrice": 30.0,
+                    "percent": 0.0
+                },
+                "50%": {
+                    "basePrice": 33.0,
+                    "latestPrice": 33.0,
+                    "percent": 0.0
+                }
             }
         },
         "weekly": {
@@ -96,7 +110,7 @@
                     {
                         "datetime": "2022-11-02 00:00:00",
                         "count": 84.0,
-                        "mean": 37.464285714285715,
+                        "mean": 37.46428571428572,
                         "std": 8.768022992356501,
                         "min": 30.0,
                         "25%": 30.0,
@@ -178,7 +192,7 @@
                     {
                         "datetime": "2022-11-02 00:00:00",
                         "count": 0.0,
-                        "mean": -7.105427357601002e-15,
+                        "mean": 0.0,
                         "std": 0.0,
                         "min": 0.0,
                         "25%": 0.0,
@@ -189,7 +203,7 @@
                     {
                         "datetime": "2022-11-03 00:00:00",
                         "count": 0.0,
-                        "mean": 0.0,
+                        "mean": -7.105427357601002e-15,
                         "std": 0.0,
                         "min": 0.0,
                         "25%": 0.0,
@@ -379,6 +393,6 @@
     },
     "calc": {
         "latest_date": "2022-11-03 00:00:00",
-        "updated_at": "2022-11-03 20:16:08"
+        "updated_at": "2022-11-03 21:11:02"
     }
 }
