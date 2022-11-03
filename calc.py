@@ -38,7 +38,7 @@ for exp in expansion.getList():
             continue
 
         calc = marcketCalc.calc(currentDT.strftime('%Y-%m-%d'))
-        if calc.checkUpdate(file, 0) is False:
+        if calc.checkUpdate(file, 4) is False:
             print('Already calculated')
         else:
             ioCsv = marcketPrice.dailyPriceIOCSV(dataDir)
