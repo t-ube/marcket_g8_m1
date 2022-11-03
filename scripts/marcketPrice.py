@@ -50,6 +50,43 @@ class priceDaily():
             return None
         return value
 
+# 価格データ
+class priceVolatility():
+    def __init__(self):
+        self.data = {
+            "weekly": None,
+            "daily": None,
+        }
+
+    # 差分データの変化率を計算する
+    def calcWeeklyData(self, df):
+        d7 = pd.concat([df.head(1), df.tail(1)])
+        d2 = df.tail(2)
+        weeklyBase = 0.0
+        weekly = 0.0
+        weeklyCurrent = 0.0
+        dailyBase = 0.0
+        daily = 0.0
+        dailyCurrent = 0.0
+        for index, data in d7.fillna(0).head(1).iterrows():
+            weeklyBase = data['50%']
+        for index, data in d2.fillna(0).head(1).iterrows():
+            dailyBase = data['50%']
+        for index, data in d7.fillna(0).tail(1).iterrows():
+            weeklyCurrent = data['50%']
+        for index, data in d2.fillna(0).tail(1).iterrows():
+            dailyCurrent = data['50%']
+        for index, data in d7.pct_change().fillna(0).tail(1).iterrows():
+            weekly = data['50%']
+        for index, data in d2.pct_change().fillna(0).tail(1).iterrows():
+            daily = data['50%']
+        return {
+        'weekly': {'basePrice': weeklyBase, 'latestPrice': weeklyCurrent, 'percent': round(weekly*100, 2)},
+        'daily': {'basePrice': dailyBase, 'latestPrice': dailyCurrent, 'percent': round(daily*100, 2)}}
+
+    def setWeeklyData(self,df):
+        self.data = self.calcWeeklyData(df)
+
 # 価格読み書き
 class priceIO():
     def __init__(self, _file):
@@ -58,6 +95,7 @@ class priceIO():
             "price": {
                 "current": None,
                 "summary7Days": None,
+                "volatility": None,
                 "weekly": {
                     "archive": {
                         "count": 0,
@@ -121,6 +159,9 @@ class priceIO():
 
     def set7DSummary(self,price:priceDaily):
         self.data['price']['summary7Days'] = price.data
+    
+    def setPriceVolatility(self,price:priceVolatility):
+        self.data['price']['volatility'] = price.data
 
     def addWeeklyArchive(self,price:priceDaily):
         self.addArchive('weekly', price)

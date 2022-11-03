@@ -81,6 +81,11 @@ class calc():
             pd.setDateTime(index)
             pd.setDescribeData(priceData)
             io.set7DSummary(pd)
+
+        pp = marcketPrice.priceVolatility()
+        pp.setWeeklyData(archiveWeekDf.interpolate('ffill').interpolate('bfill'))
+        io.setPriceVolatility(pp)
+        
         for index, priceData in archiveWeekDf.iterrows():
             pd = marcketPrice.priceDaily()
             pd.setDateTime(index)

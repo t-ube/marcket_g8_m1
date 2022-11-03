@@ -65,4 +65,4 @@ for exp in expansion.getList():
                 halfYearDf,
                 halfYearDf.diff())
             backup.backup(1)
-            backup.delete(3)
+            backup.delete(2)
