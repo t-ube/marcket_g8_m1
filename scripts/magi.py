@@ -22,7 +22,7 @@ import traceback
 class magiListParser():
     def __init__(self, _html):
         self.__html = _html
-        self.__reject = ['デッキ','ケース','募集','専用','様','プレイマット', 'スリーブ', '未開封', '予約', '構築', 'オリパ', 'パック', '管理', '買い取り', '買取']
+        self.__reject = ['デッキ','ケース','募集','専用','様','プレイマット', 'スリーブ', '未開封', '予約', '構築', 'オリパ', 'パック', '管理', '買い取り', '買取', '注文用']
         #(ミラー)/
 
     def getItemList(self,keyword):
