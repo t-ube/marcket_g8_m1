@@ -33,6 +33,7 @@ jobs:
         git config --local user.name "Tomoyuki UBE"
         git add data
         git add dist
+        git add log
         git diff-index --quiet HEAD || git commit -m "[BOT] crawler"
     - name: Push changes
       uses: ad-m/github-push-action@master

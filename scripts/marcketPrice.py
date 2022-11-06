@@ -294,6 +294,17 @@ class priceLogCsv():
             date_format='%Y-%m-%d %H:%M:%S'
         )
 
+    def convert2JsonLines(self, _json_file):
+        if os.path.isfile(self.__file) == False:
+            return
+        readDf = pd.read_csv(
+            self.__file,
+            encoding="utf_8_sig", sep=",",
+            header=0)
+        readDf.to_json(path_or_buf=_json_file,
+            force_ascii=False,
+            orient='records',
+            lines=True)
 
 # 日次経過ファイルをバックアップする
 class backupPriceRawCSV():

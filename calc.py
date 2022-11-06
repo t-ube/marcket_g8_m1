@@ -23,6 +23,7 @@ currentDT = jst.now()
 print(currentDT)
 
 Path('./dist').mkdir(parents=True, exist_ok=True)
+Path('./log').mkdir(parents=True, exist_ok=True)
 
 for exp in expansion.getList():
     dfExp = pd.read_csv('./data/card/'+exp+'.csv', header=0, encoding='utf_8_sig')
@@ -33,6 +34,7 @@ for exp in expansion.getList():
 
         dataDir = './data/marcket/'+row['master_id']
         file = './dist/'+row['master_id']+'.json'
+        log_file = './log/'+row['master_id']+'.jsonl'
 
         if os.path.exists(dataDir) == False:
             continue
@@ -48,6 +50,7 @@ for exp in expansion.getList():
             
             df = calc.getUniqueRecodes(dataDir)
             log.save(df, currentDT.strftime('%Y-%m-%d'))
+            log.convert2JsonLines(log_file)
 
             df = calc.convert2BaseDf(df)
             days30Df = calc.getDailyDf(df,30)
