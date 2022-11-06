@@ -258,6 +258,43 @@ class dailyPriceIOCSV():
     def getDataframe(self):
         return self.__df
 
+# 価格表結合ファイル
+class priceLogCsv():
+    def __init__(self, data_dir):
+        self.__data_dir = data_dir
+        self.__calc_dir = self.__data_dir + '/calc'
+        self.__file = self.__calc_dir + '/log.csv'
+
+    # 既存の表と結合し、重複を除外する
+    def unionExists(self, df):
+        if os.path.isfile(self.__file) == False:
+            return df
+        readDf = pd.read_csv(
+            self.__file,
+            encoding="utf_8_sig", sep=",",
+            header=0)
+        df = pd.concat([readDf, df], ignore_index=True,axis=0,sort=False)
+        df = df.sort_values(by=['datetime'], ascending=False) 
+        df = df[~df.duplicated(subset=['market','date','name','link'],keep='first')]
+        return df
+
+    def save(self, df, _date):
+        if os.path.isdir(self.__calc_dir) is False:
+            os.mkdir(self.__calc_dir)
+        tdatetime = datetime.datetime.strptime(_date, '%Y-%m-%d')
+        df = self.unionExists(df)
+        df['datetime'] = pd.to_datetime(df['datetime'])
+        df = df[df['stock'] > 0]
+        df = df[df['datetime'] > tdatetime - datetime.timedelta(days=7)]
+        df.to_csv(self.__file,
+            header=True,
+            index=False,
+            encoding='utf_8_sig',
+            columns=['market','link','price','name','date','datetime','stock'],
+            date_format='%Y-%m-%d %H:%M:%S'
+        )
+
+
 # 日次経過ファイルをバックアップする
 class backupPriceRawCSV():
     def __init__(self, data_dir):

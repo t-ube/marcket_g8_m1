@@ -43,8 +43,13 @@ for exp in expansion.getList():
         else:
             ioCsv = marcketPrice.dailyPriceIOCSV(dataDir)
             backup = marcketPrice.backupPriceRawCSV(dataDir)
+            log = marcketPrice.priceLogCsv(dataDir)
             ioCsv.load()
-            df = calc.getBaseDf(dataDir)
+            
+            df = calc.getUniqueRecodes(dataDir)
+            log.save(df, currentDT.strftime('%Y-%m-%d'))
+
+            df = calc.convert2BaseDf(df)
             days30Df = calc.getDailyDf(df,30)
             ioCsv.add(days30Df)
             ioCsv.save()

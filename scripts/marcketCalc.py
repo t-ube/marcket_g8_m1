@@ -8,6 +8,38 @@ class calc():
     def __init__(self, _date):
         self._date = _date
 
+    def getUniqueRecodes(self, _data_dir):
+        df = pd.DataFrame(index=[], columns=['market','link','price','name','date','datetime','stock'])
+        files = os.listdir(_data_dir)
+        files_file = [f for f in files if os.path.isfile(os.path.join(_data_dir, f)) and '.csv' in f]
+        for item in files_file:
+            if os.path.getsize(_data_dir + '/' + item) < 10:
+                continue
+            readDf = pd.read_csv(
+                _data_dir + '/' + item,
+                encoding="utf_8_sig", sep=",",
+                header=0)
+            df = pd.concat([readDf, df], ignore_index=True,axis=0,sort=False)
+        df = df.sort_values(by=['datetime'], ascending=False) 
+        df = df[~df.duplicated(subset=['market','date','name','link'],keep='first')]
+        return df
+
+    def convert2BaseDf(self, _uniqueDf):
+        dfWrite = pd.DataFrame(index=[], columns=['market','link','price','name','date','datetime','stock'])
+        dict_tmp = {}
+        counter = 0
+        _uniqueDf['date'] = _uniqueDf['date'] + ' 00:00:00'
+        if 'stock' not in _uniqueDf:
+            _uniqueDf['stock'] = 0
+        for index, row in _uniqueDf.iterrows():
+            newRow = copy.deepcopy(row)
+            newRow['stock'] = 1
+            for i in range(row['stock']):
+                dict_tmp[counter] = newRow
+                counter += 1
+        dfWrite = dfWrite.from_dict(dict_tmp, orient="index")
+        return dfWrite
+
     def getBaseDf(self, _data_dir):
         files = os.listdir(_data_dir)
         files_file = [f for f in files if os.path.isfile(os.path.join(_data_dir, f)) and '.csv' in f]
