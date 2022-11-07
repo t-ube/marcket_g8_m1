@@ -2,7 +2,7 @@
     "price": {
         "current": null,
         "summary7Days": {
-            "datetime": "2022-11-06 00:00:00",
+            "datetime": "2022-11-07 00:00:00",
             "count": 0.0,
             "mean": null,
             "std": null,
@@ -43,17 +43,6 @@
                 "count": 7,
                 "data": [
                     {
-                        "datetime": "2022-10-31 00:00:00",
-                        "count": 0.0,
-                        "mean": null,
-                        "std": null,
-                        "min": null,
-                        "25%": null,
-                        "50%": null,
-                        "75%": null,
-                        "max": null
-                    },
-                    {
                         "datetime": "2022-11-01 00:00:00",
                         "count": 0.0,
                         "mean": null,
@@ -110,6 +99,17 @@
                     },
                     {
                         "datetime": "2022-11-06 00:00:00",
+                        "count": 0.0,
+                        "mean": null,
+                        "std": null,
+                        "min": null,
+                        "25%": null,
+                        "50%": null,
+                        "75%": null,
+                        "max": null
+                    },
+                    {
+                        "datetime": "2022-11-07 00:00:00",
                         "count": 0.0,
                         "mean": null,
                         "std": null,
@@ -125,19 +125,8 @@
                 "count": 7,
                 "data": [
                     {
-                        "datetime": "2022-10-31 00:00:00",
-                        "count": null,
-                        "mean": null,
-                        "std": null,
-                        "min": null,
-                        "25%": null,
-                        "50%": null,
-                        "75%": null,
-                        "max": null
-                    },
-                    {
                         "datetime": "2022-11-01 00:00:00",
-                        "count": 0.0,
+                        "count": null,
                         "mean": null,
                         "std": null,
                         "min": null,
@@ -192,6 +181,17 @@
                     },
                     {
                         "datetime": "2022-11-06 00:00:00",
+                        "count": 0.0,
+                        "mean": null,
+                        "std": null,
+                        "min": null,
+                        "25%": null,
+                        "50%": null,
+                        "75%": null,
+                        "max": null
+                    },
+                    {
+                        "datetime": "2022-11-07 00:00:00",
                         "count": 0.0,
                         "mean": null,
                         "std": null,
@@ -383,6 +383,6 @@
     },
     "calc": {
         "latest_date": null,
-        "updated_at": "2022-11-06 20:16:49"
+        "updated_at": "2022-11-07 20:17:39"
     }
 }
