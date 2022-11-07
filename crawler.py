@@ -44,19 +44,19 @@ for exp in expansion.getList():
         conf = marcketConfig.marcketConfigIO(dataDir)
         conf.load()
 
-        if conf.checkUpdate('torecolo', 24):
+        if conf.checkUpdate('torecolo', 6):
             torecoloBot.download(wrapper, row['name'], row['cn'], dataDir)
             conf.update('torecolo')
             conf.save()
-        if conf.checkUpdate('cardrush', 24):
+        if conf.checkUpdate('cardrush', 6):
             cardrushBot.download(wrapper, row['name'], row['cn'], dataDir)
             conf.update('cardrush')
             conf.save()
-        if conf.checkUpdate('hareruya2', 24):
+        if conf.checkUpdate('hareruya2', 6):
             hareruya2Bot.download(wrapper, row['name'], row['cn'], dataDir)
             conf.update('hareruya2')
             conf.save()
-        if conf.checkUpdate('magi', 24):
+        if conf.checkUpdate('magi', 6):
             magiBot.download(wrapper, 1, row['name'], row['cn'], dataDir)
             conf.update('magi')
             conf.save()

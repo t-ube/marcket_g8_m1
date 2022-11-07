@@ -61,7 +61,7 @@ class marcketConfigIO():
         if self.data['marcket'][marcket]['updated_at'] is None:
             return True
         tdelta = datetime.timedelta(hours=spanHours)
-        tdatetime = datetime.datetime.strptime(self.data['marcket'][marcket]['updated_at'], '%Y-%m-%d %H:%M:%S')
+        tdatetime = datetime.datetime.strptime(self.data['marcket'][marcket]['updated_at'], '%Y-%m-%d %H:%M:%S').replace(hour=0,minute=0,second=0) + datetime.timedelta(days=1)
         if current > tdatetime + tdelta:
             return True
         return False
