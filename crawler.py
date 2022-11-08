@@ -57,7 +57,7 @@ for exp in expansion.getList():
             conf.update('hareruya2')
             conf.save()
         if conf.checkUpdate('magi', 6):
-            magiBot.download(wrapper, 1, row['name'], row['cn'], dataDir)
+            magiBot.download(wrapper, 1, row['name'], row['expansion'], row['cn'], row['rarity'], dataDir)
             conf.update('magi')
             conf.save()
 

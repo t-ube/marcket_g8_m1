@@ -22,7 +22,7 @@ import traceback
 class magiListParser():
     def __init__(self, _html):
         self.__html = _html
-        self.__reject = ['デッキ','ケース','募集','専用','様','プレイマット', 'スリーブ', '未開封', '予約', '構築', 'オリパ', 'パック', '管理', '買い取り', '買取', '注文用']
+        self.__reject = ['デッキ','ケース','募集','専用','様','プレイマット', 'スリーブ', '未開封', '予約', '構築', 'オリパ', 'パック', '管理', '買い取り', '買取', '注文用', '送料']
         #(ミラー)/
 
     def getItemList(self,keyword):
@@ -302,38 +302,37 @@ class magiSearchCsv():
         df.to_csv(self.__file, index=False, encoding='utf_8_sig')
 
 class magiCsvBot():
-    def download(self, drvWrapper, first_page, keyword, collection_num, out_dir):
+    def download(self, drvWrapper, first_page, keyword, expansion, collection_num, rarity, out_dir):
         # カード一覧へ移動
-        nextLoop = True
-        page_number = first_page - 1
-
         Path(out_dir).mkdir(parents=True, exist_ok=True)
         csv = magiSearchCsv(out_dir)
 
-        while nextLoop:
-            page_number += 1
-            print('---------------')
-            print(page_number)
-            print('---------------')
-            new_key = self.getNewKey(keyword,collection_num)
-            self.getResultPageB(drvWrapper.getDriver(), new_key, page_number)
+        new_keylist = self.getNewKey(keyword,expansion,collection_num,rarity)
+        for new_key in new_keylist:
+            nextLoop = True
+            page_number = first_page - 1
+            while nextLoop:
+                page_number += 1
+                print('---------------')
+                print(page_number)
+                print('---------------')
+                self.getResultPageB(drvWrapper.getDriver(), new_key, page_number)
 
-            try:
-                drvWrapper.getWait().until(EC.visibility_of_all_elements_located((By.CLASS_NAME,'item-list__container')))
-                #time.sleep(1)
-                listHtml = drvWrapper.getDriver().page_source.encode('utf-8')
-                parser = magiListParser(listHtml)
-                l = parser.getItemList(keyword)
-                if len(l) == 0:
-                    break
-                for item in l:
-                    csv.add(item)
-                    print(item)
-            except TimeoutException as e:
-                print("TimeoutException")
-            except Exception as e:
-                print(traceback.format_exc())
-
+                try:
+                    drvWrapper.getWait().until(EC.visibility_of_all_elements_located((By.CLASS_NAME,'item-list__container')))
+                    #time.sleep(1)
+                    listHtml = drvWrapper.getDriver().page_source.encode('utf-8')
+                    parser = magiListParser(listHtml)
+                    l = parser.getItemList(keyword)
+                    if len(l) == 0:
+                        break
+                    for item in l:
+                        csv.add(item)
+                        print(item)
+                except TimeoutException as e:
+                    print("TimeoutException")
+                except Exception as e:
+                    print(traceback.format_exc())
         csv.save()
 
     def getCardFileName(self, data_src):
@@ -397,7 +396,8 @@ class magiCsvBot():
         except Exception as e:
             print(traceback.format_exc())
 
-    def getNewKey(self, keyword, collection_num):
+    def getNewKey(self, keyword, expansion, collection_num, rarity):
+        keylist = []
         temp = keyword.replace('　',' ').replace('（',' ').replace('）',' ')
         if 'V-UNION' in temp and 'モルペコ' in temp:
             if '226' in collection_num or '227' in collection_num or '228' in collection_num or '229' in collection_num:
@@ -406,4 +406,10 @@ class magiCsvBot():
                 newkey = urllib.parse.quote(temp+'　'+'RRR')
         else:
             newkey = urllib.parse.quote(temp+'　'+collection_num)
-        return newkey
+        keylist.append(newkey)
+
+        if rarity == 'A' and (expansion == 'S3a' or expansion == 'S4a'):
+            newkey = urllib.parse.quote(temp+'　'+'アメイジング')
+            keylist.append(newkey)
+
+        return keylist
