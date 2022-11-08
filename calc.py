@@ -3,17 +3,37 @@ import pandas as pd
 from pathlib import Path
 import os
 import expansion
+import datetime
 from scripts import jst
 from scripts import marcketCalc
 from scripts import marcketPrice
 
+# 1週間分のデータを取得する。
+def getWeeklyData(ioCsv, currentDT):
+    firstDate = currentDT - datetime.timedelta(days=7)
+    rangeDf = pd.DataFrame(index=pd.date_range(
+        firstDate.strftime('%Y-%m-%d'),
+        currentDT.strftime('%Y-%m-%d')))
+    dfCsv = ioCsv.getDataframe()
+    d7Df = pd.merge(rangeDf,dfCsv,how='outer',left_index=True,right_index=True)
+    d7Df = d7Df.replace(0, {'count': None})
+    fillDf = d7Df.interpolate('ffill')
+    formatDf = fillDf.asfreq('1D', method='ffill').fillna(0).tail(7)
+    #print(formatDf)
+    return formatDf
+
 # 半年分のデータを取得する。（2週間間隔）
-def getHalfYearData(ioCsv):
-    d180Df = ioCsv.getDataframe().tail(180)
-    d180Df = d180Df.replace(0, {'count': None})
-    fillDf = d180Df.interpolate('ffill').interpolate('bfill')
-    formatDf = fillDf.asfreq('14D', method='ffill')
-    print(formatDf)
+def getHalfYearData(ioCsv, currentDT):
+    firstDate = currentDT - datetime.timedelta(days=168)
+    rangeDf = pd.DataFrame(index=pd.date_range(
+        firstDate.strftime('%Y-%m-%d'),
+        currentDT.strftime('%Y-%m-%d')))
+    dfCsv = ioCsv.getDataframe()
+    d168Df = pd.merge(rangeDf,dfCsv,how='outer',left_index=True,right_index=True)
+    d168Df = d168Df.replace(0, {'count': None})
+    fillDf = d168Df.interpolate('ffill')
+    formatDf = fillDf.asfreq('14D', method='ffill').fillna(0)
+    #print(formatDf)
     return formatDf
 
 ip = socket.gethostbyname(socket.gethostname())
@@ -58,18 +78,16 @@ for exp in expansion.getList():
             ioCsv.save()
 
             # 1週間分のデータを取得する。（日間）
-            daysDf = ioCsv.getDataframe().tail(7)
-            daysDf = daysDf.replace(0, {'count': None})
-            fillDf = daysDf.interpolate('ffill').interpolate('bfill')
-            halfYearDf = getHalfYearData(ioCsv)
+            daysDf = getWeeklyData(ioCsv, currentDT)
+            halfYearDf = getHalfYearData(ioCsv, currentDT)
             # 最初と最後を抽出する
-            sampleDf = pd.concat([fillDf.head(1), fillDf.tail(1)])
+            sampleDf = pd.concat([daysDf.head(1), daysDf.tail(1)])
             calc.writeDailyDf(
                 file,
-                fillDf.tail(1),
+                daysDf.tail(1),
                 sampleDf.diff().tail(1),
                 daysDf,
-                fillDf.diff(),
+                daysDf.diff(),
                 halfYearDf,
                 halfYearDf.diff())
             backup.backup(1)
