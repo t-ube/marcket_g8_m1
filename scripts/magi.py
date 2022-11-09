@@ -38,8 +38,11 @@ class magiListParser():
             find = False
             for reject in self.__reject:
                 if reject in name:
-                    find = True
-                    break
+                    if reject == '様' and '仕様' in name:
+                        continue
+                    else:
+                        find = True
+                        break
             if find == False and self.keywordInName(keyword,name) and self.getSoldIcon(a) == False:
                 price = int(self.getPrice(a).replace("¥ ","").replace(",","").replace(" ",""))
                 priceTemp = self.getTitlePrice(name)
@@ -410,6 +413,16 @@ class magiCsvBot():
 
         if rarity == 'A' and (expansion == 'S3a' or expansion == 'S4a'):
             newkey = urllib.parse.quote(temp+'　'+'アメイジング')
+            keylist.append(newkey)
+
+        if keyword == 'ブースターVMAX' and collection_num == '186/S-P':
+            newkey = urllib.parse.quote(temp+'　'+'夏ポ')
+            keylist.append(newkey)
+        if keyword == 'シャワーズVMAX' and collection_num == '187/S-P':
+            newkey = urllib.parse.quote(temp+'　'+'夏ポ')
+            keylist.append(newkey)
+        if keyword == 'サンダースVMAX' and collection_num == '188/S-P':
+            newkey = urllib.parse.quote(temp+'　'+'夏ポ')
             keylist.append(newkey)
 
         return keylist
