@@ -306,6 +306,32 @@ class priceLogCsv():
             orient='records',
             lines=True)
 
+    def delete2JsonLines(self, _json_file):
+        if os.path.isfile(_json_file) == False:
+            return
+        os.remove(_json_file)
+
+    def convert2Json(self, _json_file):
+        if os.path.isfile(self.__file) == False:
+            return
+        readDf = pd.read_csv(
+            self.__file,
+            encoding="utf_8_sig", sep=",",
+            header=0)
+        l = []
+        for index, data in readDf.iterrows():
+            l.append({
+                'market': data['market'],
+                'link': data['link'],
+                'price': data['price'],
+                'name': data['name'],
+                'date': data['date'],
+                'stock': data['stock'],
+            })
+        data = {'items': l}
+        with open(_json_file, 'w', encoding="utf_8_sig") as f:
+            json.dump(data, f, indent=4, ensure_ascii=False)
+
 # 日次経過ファイルをバックアップする
 class backupPriceRawCSV():
     def __init__(self, data_dir):

@@ -55,6 +55,7 @@ for exp in expansion.getList():
         dataDir = './data/marcket/'+row['master_id']
         file = './dist/'+row['master_id']+'.json'
         log_file = './log/'+row['master_id']+'.jsonl'
+        log_file2 = './log/'+row['master_id']+'.json'
 
         if os.path.exists(dataDir) == False:
             continue
@@ -70,7 +71,8 @@ for exp in expansion.getList():
             
             df = calc.getUniqueRecodes(dataDir)
             log.save(df, currentDT.strftime('%Y-%m-%d'))
-            log.convert2JsonLines(log_file)
+            log.delete2JsonLines(log_file)
+            log.convert2Json(log_file2)
 
             df = calc.convert2BaseDf(df)
             days30Df = calc.getDailyDf(df,30)
