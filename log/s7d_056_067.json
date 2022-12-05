@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/19697",
             "price": 100,
             "name": "あなぬけのヒモ(U)",
+            "date": "2022-12-05",
+            "stock": 20
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32248",
+            "price": 110,
+            "name": "あなぬけのヒモ056",
+            "date": "2022-12-05",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21269",
+            "price": 120,
+            "name": "あなぬけのヒモ056",
+            "date": "2022-12-05",
+            "stock": 75
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19697",
+            "price": 100,
+            "name": "あなぬけのヒモ(U)",
             "date": "2022-12-04",
             "stock": 20
         },
@@ -34,19 +58,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32248",
-            "price": 110,
-            "name": "あなぬけのヒモ056",
-            "date": "2022-12-03",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21269",
             "price": 120,
             "name": "あなぬけのヒモ056",
             "date": "2022-12-03",
             "stock": 81
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32248",
+            "price": 110,
+            "name": "あなぬけのヒモ056",
+            "date": "2022-12-03",
+            "stock": 9
         },
         {
             "market": "hareruya2",
@@ -134,22 +158,6 @@
             "price": 120,
             "name": "あなぬけのヒモ056",
             "date": "2022-11-28",
-            "stock": 92
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19697",
-            "price": 100,
-            "name": "あなぬけのヒモ(U)",
-            "date": "2022-11-27",
-            "stock": 42
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21269",
-            "price": 120,
-            "name": "あなぬけのヒモ056",
-            "date": "2022-11-27",
             "stock": 92
         }
     ]

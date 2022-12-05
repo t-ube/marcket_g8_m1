@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/19118",
             "price": 100,
             "name": "ポケモンいれかえ(D",
+            "date": "2022-12-05",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18210",
+            "price": 80,
+            "name": "ポケモンいれかえ01",
+            "date": "2022-12-05",
+            "stock": 2
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19118",
+            "price": 100,
+            "name": "ポケモンいれかえ(D",
             "date": "2022-12-04",
             "stock": 4
         },
@@ -110,22 +126,6 @@
             "price": 80,
             "name": "ポケモンいれかえ01",
             "date": "2022-11-28",
-            "stock": 2
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19118",
-            "price": 100,
-            "name": "ポケモンいれかえ(D",
-            "date": "2022-11-27",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18210",
-            "price": 80,
-            "name": "ポケモンいれかえ01",
-            "date": "2022-11-27",
             "stock": 2
         }
     ]
