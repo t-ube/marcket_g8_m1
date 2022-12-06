@@ -5,6 +5,38 @@
             "link": "/items/290202219",
             "price": 200,
             "name": "ポケモンごっこ【-】",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17837",
+            "price": 50,
+            "name": "ポケモンごっこ(D)",
+            "date": "2022-12-06",
+            "stock": 41
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7818",
+            "price": 80,
+            "name": "ポケモンごっこ019",
+            "date": "2022-12-06",
+            "stock": 96
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g019-021-SC-R/",
+            "price": 50,
+            "name": "【ポケカ】ＳＳ◇ポケ",
+            "date": "2022-12-06",
+            "stock": 6
+        },
+        {
+            "market": "magi",
+            "link": "/items/290202219",
+            "price": 200,
+            "name": "ポケモンごっこ【-】",
             "date": "2022-12-05",
             "stock": 1
         },
@@ -222,38 +254,6 @@
             "price": 50,
             "name": "【ポケカ】ＳＳ◇ポケ",
             "date": "2022-11-29",
-            "stock": 6
-        },
-        {
-            "market": "magi",
-            "link": "/items/290202219",
-            "price": 200,
-            "name": "ポケモンごっこ【-】",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17837",
-            "price": 50,
-            "name": "ポケモンごっこ(D)",
-            "date": "2022-11-28",
-            "stock": 41
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7818",
-            "price": 80,
-            "name": "ポケモンごっこ019",
-            "date": "2022-11-28",
-            "stock": 96
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g019-021-SC-R/",
-            "price": 50,
-            "name": "【ポケカ】ＳＳ◇ポケ",
-            "date": "2022-11-28",
             "stock": 6
         }
     ]

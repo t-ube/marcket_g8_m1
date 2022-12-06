@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/19463",
             "price": 600,
             "name": "エネルギー回収(-)",
+            "date": "2022-12-06",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31981",
+            "price": 530,
+            "name": "エネルギー回収011",
+            "date": "2022-12-06",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20637",
+            "price": 580,
+            "name": "エネルギー回収011",
+            "date": "2022-12-06",
+            "stock": 58
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19463",
+            "price": 600,
+            "name": "エネルギー回収(-)",
             "date": "2022-12-05",
             "stock": 2
         },
@@ -79,6 +103,14 @@
             "name": "エネルギー回収(-)",
             "date": "2022-12-02",
             "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20637",
+            "price": 580,
+            "name": "エネルギー回収011",
+            "date": "2022-12-02",
+            "stock": 58
         },
         {
             "market": "cardrush",
@@ -87,14 +119,6 @@
             "name": "エネルギー回収011",
             "date": "2022-12-02",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20637",
-            "price": 580,
-            "name": "エネルギー回収011",
-            "date": "2022-12-02",
-            "stock": 58
         },
         {
             "market": "hareruya2",
@@ -130,19 +154,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20637",
-            "price": 580,
-            "name": "エネルギー回収011",
-            "date": "2022-11-30",
-            "stock": 60
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31981",
             "price": 530,
             "name": "エネルギー回収011",
             "date": "2022-11-30",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20637",
+            "price": 580,
+            "name": "エネルギー回収011",
+            "date": "2022-11-30",
+            "stock": 60
         },
         {
             "market": "hareruya2",
@@ -154,14 +178,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31981",
-            "price": 530,
-            "name": "エネルギー回収011",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20637",
             "price": 580,
             "name": "エネルギー回収011",
@@ -169,27 +185,11 @@
             "stock": 33
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19463",
-            "price": 600,
-            "name": "エネルギー回収(-)",
-            "date": "2022-11-28",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20637",
-            "price": 580,
-            "name": "エネルギー回収011",
-            "date": "2022-11-28",
-            "stock": 36
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31981",
             "price": 530,
             "name": "エネルギー回収011",
-            "date": "2022-11-28",
+            "date": "2022-11-29",
             "stock": 1
         }
     ]

@@ -2,6 +2,78 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/541641327",
+            "price": 480,
+            "name": "【最終値下げ】コック",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1082802389",
+            "price": 800,
+            "name": "コック SR 260",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/466191970",
+            "price": 495,
+            "name": "コック SR 260",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/72424624",
+            "price": 500,
+            "name": "コック SR 260",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21404",
+            "price": 700,
+            "name": "コック(SR){サポ",
+            "date": "2022-12-06",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23127",
+            "price": 680,
+            "name": "コック260/184",
+            "date": "2022-12-06",
+            "stock": 25
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23036",
+            "price": 780,
+            "name": "コック260/184",
+            "date": "2022-12-06",
+            "stock": 83
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34499",
+            "price": 480,
+            "name": "コック260/184",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g260-184-S8B-B/",
+            "price": 770,
+            "name": "【ポケカ】ＳＲ◇コッ",
+            "date": "2022-12-06",
+            "stock": 7
+        },
+        {
+            "market": "magi",
             "link": "/items/1082802389",
             "price": 800,
             "name": "コック SR 260",
@@ -18,17 +90,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/466191970",
-            "price": 495,
-            "name": "コック SR 260",
+            "link": "/items/541641327",
+            "price": 480,
+            "name": "【最終値下げ】コック",
             "date": "2022-12-05",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/541641327",
-            "price": 480,
-            "name": "【最終値下げ】コック",
+            "link": "/items/466191970",
+            "price": 495,
+            "name": "コック SR 260",
             "date": "2022-12-05",
             "stock": 1
         },
@@ -42,19 +114,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34499",
-            "price": 480,
-            "name": "コック260/184",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23036",
             "price": 780,
             "name": "コック260/184",
             "date": "2022-12-05",
             "stock": 89
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34499",
+            "price": 480,
+            "name": "コック260/184",
+            "date": "2022-12-05",
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -82,9 +154,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/541641327",
-            "price": 480,
-            "name": "【最終値下げ】コック",
+            "link": "/items/72424624",
+            "price": 500,
+            "name": "コック SR 260",
             "date": "2022-12-04",
             "stock": 1
         },
@@ -98,9 +170,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/72424624",
-            "price": 500,
-            "name": "コック SR 260",
+            "link": "/items/541641327",
+            "price": 480,
+            "name": "【最終値下げ】コック",
             "date": "2022-12-04",
             "stock": 1
         },
@@ -111,14 +183,6 @@
             "name": "コック(SR){サポ",
             "date": "2022-12-04",
             "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23036",
-            "price": 780,
-            "name": "コック260/184",
-            "date": "2022-12-04",
-            "stock": 89
         },
         {
             "market": "cardrush",
@@ -137,6 +201,14 @@
             "stock": 25
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23036",
+            "price": 780,
+            "name": "コック260/184",
+            "date": "2022-12-04",
+            "stock": 89
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g260-184-S8B-B/",
             "price": 770,
@@ -146,16 +218,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/541641327",
-            "price": 480,
-            "name": "【最終値下げ】コック",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/72424624",
-            "price": 500,
+            "link": "/items/466191970",
+            "price": 495,
             "name": "コック SR 260",
             "date": "2022-12-03",
             "stock": 1
@@ -170,9 +234,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/466191970",
-            "price": 495,
+            "link": "/items/72424624",
+            "price": 500,
             "name": "コック SR 260",
+            "date": "2022-12-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/541641327",
+            "price": 480,
+            "name": "【最終値下げ】コック",
             "date": "2022-12-03",
             "stock": 1
         },
@@ -218,9 +290,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/466191970",
-            "price": 495,
-            "name": "コック SR 260",
+            "link": "/items/541641327",
+            "price": 480,
+            "name": "【最終値下げ】コック",
             "date": "2022-12-02",
             "stock": 1
         },
@@ -242,9 +314,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/541641327",
-            "price": 480,
-            "name": "【最終値下げ】コック",
+            "link": "/items/466191970",
+            "price": 495,
+            "name": "コック SR 260",
             "date": "2022-12-02",
             "stock": 1
         },
@@ -258,11 +330,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23127",
-            "price": 680,
+            "link": "https://www.cardrush-pokemon.jp/product/34499",
+            "price": 480,
             "name": "コック260/184",
             "date": "2022-12-02",
-            "stock": 25
+            "stock": 2
         },
         {
             "market": "cardrush",
@@ -274,11 +346,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34499",
-            "price": 480,
+            "link": "https://www.cardrush-pokemon.jp/product/23127",
+            "price": 680,
             "name": "コック260/184",
             "date": "2022-12-02",
-            "stock": 2
+            "stock": 25
         },
         {
             "market": "torecolo",
@@ -290,8 +362,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1082802389",
-            "price": 800,
+            "link": "/items/72424624",
+            "price": 500,
+            "name": "コック SR 260",
+            "date": "2022-12-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/466191970",
+            "price": 495,
             "name": "コック SR 260",
             "date": "2022-12-01",
             "stock": 1
@@ -306,16 +386,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/466191970",
-            "price": 495,
-            "name": "コック SR 260",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/72424624",
-            "price": 500,
+            "link": "/items/1082802389",
+            "price": 800,
             "name": "コック SR 260",
             "date": "2022-12-01",
             "stock": 1
@@ -330,11 +402,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23036",
-            "price": 780,
+            "link": "https://www.cardrush-pokemon.jp/product/34499",
+            "price": 480,
             "name": "コック260/184",
             "date": "2022-12-01",
-            "stock": 104
+            "stock": 2
         },
         {
             "market": "cardrush",
@@ -346,11 +418,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34499",
-            "price": 480,
+            "link": "https://www.cardrush-pokemon.jp/product/23036",
+            "price": 780,
             "name": "コック260/184",
             "date": "2022-12-01",
-            "stock": 2
+            "stock": 104
         },
         {
             "market": "torecolo",
@@ -434,17 +506,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/72424624",
-            "price": 500,
-            "name": "コック SR 260",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/466191970",
-            "price": 495,
-            "name": "コック SR 260",
+            "link": "/items/541641327",
+            "price": 480,
+            "name": "【最終値下げ】コック",
             "date": "2022-11-29",
             "stock": 1
         },
@@ -458,9 +522,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/541641327",
-            "price": 480,
-            "name": "【最終値下げ】コック",
+            "link": "/items/72424624",
+            "price": 500,
+            "name": "コック SR 260",
+            "date": "2022-11-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/466191970",
+            "price": 495,
+            "name": "コック SR 260",
             "date": "2022-11-29",
             "stock": 1
         },
@@ -502,78 +574,6 @@
             "price": 770,
             "name": "【ポケカ】ＳＲ◇コッ",
             "date": "2022-11-29",
-            "stock": 10
-        },
-        {
-            "market": "magi",
-            "link": "/items/72424624",
-            "price": 500,
-            "name": "コック SR 260",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/541641327",
-            "price": 480,
-            "name": "【最終値下げ】コック",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/466191970",
-            "price": 495,
-            "name": "コック SR 260",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1082802389",
-            "price": 800,
-            "name": "コック SR 260",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21404",
-            "price": 700,
-            "name": "コック(SR){サポ",
-            "date": "2022-11-28",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23036",
-            "price": 780,
-            "name": "コック260/184",
-            "date": "2022-11-28",
-            "stock": 94
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34499",
-            "price": 480,
-            "name": "コック260/184",
-            "date": "2022-11-28",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23127",
-            "price": 680,
-            "name": "コック260/184",
-            "date": "2022-11-28",
-            "stock": 25
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g260-184-S8B-B/",
-            "price": 770,
-            "name": "【ポケカ】ＳＲ◇コッ",
-            "date": "2022-11-28",
             "stock": 10
         }
     ]

@@ -5,6 +5,38 @@
             "link": "https://www.hareruya2.com/product/19093",
             "price": 1200,
             "name": "マスタード れんげき",
+            "date": "2022-12-06",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31214",
+            "price": 830,
+            "name": "マスタードれんげきの",
+            "date": "2022-12-06",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18267",
+            "price": 980,
+            "name": "マスタードれんげきの",
+            "date": "2022-12-06",
+            "stock": 28
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g080-070-S5R-B/",
+            "price": 770,
+            "name": "【ポケカ】ＳＲ◇マス",
+            "date": "2022-12-06",
+            "stock": 3
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19093",
+            "price": 1200,
+            "name": "マスタード れんげき",
             "date": "2022-12-05",
             "stock": 2
         },
@@ -74,19 +106,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31214",
-            "price": 830,
-            "name": "マスタードれんげきの",
-            "date": "2022-12-03",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/18267",
             "price": 980,
             "name": "マスタードれんげきの",
             "date": "2022-12-03",
             "stock": 18
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31214",
+            "price": 830,
+            "name": "マスタードれんげきの",
+            "date": "2022-12-03",
+            "stock": 5
         },
         {
             "market": "torecolo",
@@ -135,14 +167,6 @@
             "name": "マスタード れんげき",
             "date": "2022-12-01",
             "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18267",
-            "price": 880,
-            "name": "マスタードれんげきの",
-            "date": "2022-12-01",
-            "stock": 18
         },
         {
             "market": "cardrush",
@@ -151,6 +175,14 @@
             "name": "マスタードれんげきの",
             "date": "2022-12-01",
             "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18267",
+            "price": 880,
+            "name": "マスタードれんげきの",
+            "date": "2022-12-01",
+            "stock": 18
         },
         {
             "market": "torecolo",
@@ -210,14 +242,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18267",
-            "price": 880,
-            "name": "マスタードれんげきの",
-            "date": "2022-11-29",
-            "stock": 29
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31214",
             "price": 730,
             "name": "マスタードれんげきの",
@@ -225,35 +249,11 @@
             "stock": 2
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g080-070-S5R-B/",
-            "price": 770,
-            "name": "【ポケカ】ＳＲ◇マス",
-            "date": "2022-11-29",
-            "stock": 2
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19093",
-            "price": 1200,
-            "name": "マスタード れんげき",
-            "date": "2022-11-28",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31214",
-            "price": 730,
-            "name": "マスタードれんげきの",
-            "date": "2022-11-28",
-            "stock": 2
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/18267",
             "price": 880,
             "name": "マスタードれんげきの",
-            "date": "2022-11-28",
+            "date": "2022-11-29",
             "stock": 29
         },
         {
@@ -261,7 +261,7 @@
             "link": "/shop/g/g080-070-S5R-B/",
             "price": 770,
             "name": "【ポケカ】ＳＲ◇マス",
-            "date": "2022-11-28",
+            "date": "2022-11-29",
             "stock": 2
         }
     ]

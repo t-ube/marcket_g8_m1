@@ -1,6 +1,30 @@
 ﻿{
     "items": [
         {
+            "market": "magi",
+            "link": "/items/1165753649",
+            "price": 53,
+            "name": "【特価】あなぬけのヒ",
+            "date": "2022-12-06",
+            "stock": 3
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19697",
+            "price": 100,
+            "name": "あなぬけのヒモ(U)",
+            "date": "2022-12-06",
+            "stock": 16
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21269",
+            "price": 120,
+            "name": "あなぬけのヒモ056",
+            "date": "2022-12-06",
+            "stock": 75
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19697",
             "price": 100,
@@ -142,22 +166,6 @@
             "price": 120,
             "name": "あなぬけのヒモ056",
             "date": "2022-11-29",
-            "stock": 92
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19697",
-            "price": 100,
-            "name": "あなぬけのヒモ(U)",
-            "date": "2022-11-28",
-            "stock": 35
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21269",
-            "price": 120,
-            "name": "あなぬけのヒモ056",
-            "date": "2022-11-28",
             "stock": 92
         }
     ]

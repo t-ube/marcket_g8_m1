@@ -5,6 +5,38 @@
             "link": "https://www.hareruya2.com/product/18900",
             "price": 100,
             "name": "マリィ(D){サポー",
+            "date": "2022-12-06",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18921",
+            "price": 100,
+            "name": "マリィ:SC2(D)",
+            "date": "2022-12-06",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17807",
+            "price": 80,
+            "name": "マリィ020/021",
+            "date": "2022-12-06",
+            "stock": 37
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17829",
+            "price": 80,
+            "name": "マリィ020/021",
+            "date": "2022-12-06",
+            "stock": 5
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18900",
+            "price": 100,
+            "name": "マリィ(D){サポー",
             "date": "2022-12-05",
             "stock": 4
         },
@@ -146,14 +178,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17807",
-            "price": 80,
-            "name": "マリィ020/021",
-            "date": "2022-12-01",
-            "stock": 37
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17829",
             "price": 80,
             "name": "マリィ020/021",
@@ -161,6 +185,14 @@
             "stock": 5
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17807",
+            "price": 80,
+            "name": "マリィ020/021",
+            "date": "2022-12-01",
+            "stock": 37
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18900",
             "price": 100,
@@ -178,14 +210,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17807",
-            "price": 80,
-            "name": "マリィ020/021",
-            "date": "2022-11-30",
-            "stock": 37
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17829",
             "price": 80,
             "name": "マリィ020/021",
@@ -193,12 +217,12 @@
             "stock": 5
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18900",
-            "price": 100,
-            "name": "マリィ(D){サポー",
-            "date": "2022-11-29",
-            "stock": 5
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17807",
+            "price": 80,
+            "name": "マリィ020/021",
+            "date": "2022-11-30",
+            "stock": 37
         },
         {
             "market": "hareruya2",
@@ -209,52 +233,28 @@
             "stock": 2
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17807",
-            "price": 80,
-            "name": "マリィ020/021",
-            "date": "2022-11-29",
-            "stock": 37
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17829",
-            "price": 80,
-            "name": "マリィ020/021",
-            "date": "2022-11-29",
-            "stock": 5
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18900",
             "price": 100,
             "name": "マリィ(D){サポー",
-            "date": "2022-11-28",
+            "date": "2022-11-29",
             "stock": 5
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18921",
-            "price": 100,
-            "name": "マリィ:SC2(D)",
-            "date": "2022-11-28",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17807",
-            "price": 80,
-            "name": "マリィ020/021",
-            "date": "2022-11-28",
-            "stock": 37
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17829",
             "price": 80,
             "name": "マリィ020/021",
-            "date": "2022-11-28",
+            "date": "2022-11-29",
             "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17807",
+            "price": 80,
+            "name": "マリィ020/021",
+            "date": "2022-11-29",
+            "stock": 37
         }
     ]
 }

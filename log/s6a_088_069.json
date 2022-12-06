@@ -2,6 +2,38 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1073991227",
+            "price": 1499,
+            "name": "グレイシアVMAX ",
+            "date": "2022-12-06",
+            "stock": 2
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19564",
+            "price": 2400,
+            "name": "リーフィアVMAX(",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32062",
+            "price": 2080,
+            "name": "リーフィアVMAX0",
+            "date": "2022-12-06",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20754",
+            "price": 2380,
+            "name": "リーフィアVMAX0",
+            "date": "2022-12-06",
+            "stock": 23
+        },
+        {
+            "market": "magi",
             "link": "/items/1832674822",
             "price": 1777,
             "name": "リーフィアVMAX ",
@@ -42,19 +74,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/1832674822",
-            "price": 1777,
-            "name": "リーフィアVMAX ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1073991227",
             "price": 1499,
             "name": "グレイシアVMAX ",
             "date": "2022-12-04",
             "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1832674822",
+            "price": 1777,
+            "name": "リーフィアVMAX ",
+            "date": "2022-12-04",
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -63,14 +95,6 @@
             "name": "リーフィアVMAX(",
             "date": "2022-12-04",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32062",
-            "price": 2080,
-            "name": "リーフィアVMAX0",
-            "date": "2022-12-04",
-            "stock": 4
         },
         {
             "market": "cardrush",
@@ -81,12 +105,12 @@
             "stock": 23
         },
         {
-            "market": "magi",
-            "link": "/items/1073991227",
-            "price": 1499,
-            "name": "グレイシアVMAX ",
-            "date": "2022-12-03",
-            "stock": 2
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32062",
+            "price": 2080,
+            "name": "リーフィアVMAX0",
+            "date": "2022-12-04",
+            "stock": 4
         },
         {
             "market": "magi",
@@ -97,20 +121,20 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/1073991227",
+            "price": 1499,
+            "name": "グレイシアVMAX ",
+            "date": "2022-12-03",
+            "stock": 2
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19564",
             "price": 2400,
             "name": "リーフィアVMAX(",
             "date": "2022-12-03",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20754",
-            "price": 2380,
-            "name": "リーフィアVMAX0",
-            "date": "2022-12-03",
-            "stock": 23
         },
         {
             "market": "cardrush",
@@ -121,6 +145,14 @@
             "stock": 4
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20754",
+            "price": 2380,
+            "name": "リーフィアVMAX0",
+            "date": "2022-12-03",
+            "stock": 23
+        },
+        {
             "market": "magi",
             "link": "/items/1832674822",
             "price": 1777,
@@ -141,6 +173,14 @@
             "link": "https://www.hareruya2.com/product/19564",
             "price": 2400,
             "name": "リーフィアVMAX(",
+            "date": "2022-12-02",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32062",
+            "price": 2080,
+            "name": "リーフィアVMAX0",
             "date": "2022-12-02",
             "stock": 1
         },
@@ -153,11 +193,11 @@
             "stock": 20
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32062",
-            "price": 2080,
-            "name": "リーフィアVMAX0",
-            "date": "2022-12-02",
+            "market": "magi",
+            "link": "/items/1832674822",
+            "price": 1777,
+            "name": "リーフィアVMAX ",
+            "date": "2022-12-01",
             "stock": 1
         },
         {
@@ -169,26 +209,10 @@
             "stock": 2
         },
         {
-            "market": "magi",
-            "link": "/items/1832674822",
-            "price": 1777,
-            "name": "リーフィアVMAX ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19564",
             "price": 2400,
             "name": "リーフィアVMAX(",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32062",
-            "price": 2080,
-            "name": "リーフィアVMAX0",
             "date": "2022-12-01",
             "stock": 1
         },
@@ -201,6 +225,14 @@
             "stock": 20
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32062",
+            "price": 2080,
+            "name": "リーフィアVMAX0",
+            "date": "2022-12-01",
+            "stock": 1
+        },
+        {
             "market": "magi",
             "link": "/items/1832674822",
             "price": 1777,
@@ -221,6 +253,14 @@
             "link": "https://www.hareruya2.com/product/19564",
             "price": 2400,
             "name": "リーフィアVMAX(",
+            "date": "2022-11-30",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32062",
+            "price": 2080,
+            "name": "リーフィアVMAX0",
             "date": "2022-11-30",
             "stock": 1
         },
@@ -233,11 +273,11 @@
             "stock": 20
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32062",
-            "price": 2080,
-            "name": "リーフィアVMAX0",
-            "date": "2022-11-30",
+            "market": "magi",
+            "link": "/items/1832674822",
+            "price": 1777,
+            "name": "リーフィアVMAX ",
+            "date": "2022-11-29",
             "stock": 1
         },
         {
@@ -249,26 +289,10 @@
             "stock": 2
         },
         {
-            "market": "magi",
-            "link": "/items/1832674822",
-            "price": 1777,
-            "name": "リーフィアVMAX ",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19564",
             "price": 2400,
             "name": "リーフィアVMAX(",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32062",
-            "price": 2080,
-            "name": "リーフィアVMAX0",
             "date": "2022-11-29",
             "stock": 1
         },
@@ -281,43 +305,11 @@
             "stock": 13
         },
         {
-            "market": "magi",
-            "link": "/items/1832674822",
-            "price": 1777,
-            "name": "リーフィアVMAX ",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1073991227",
-            "price": 1722,
-            "name": "グレイシアVMAX ",
-            "date": "2022-11-28",
-            "stock": 2
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19564",
-            "price": 2400,
-            "name": "リーフィアVMAX(",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20754",
-            "price": 2380,
-            "name": "リーフィアVMAX0",
-            "date": "2022-11-28",
-            "stock": 13
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32062",
             "price": 2080,
             "name": "リーフィアVMAX0",
-            "date": "2022-11-28",
+            "date": "2022-11-29",
             "stock": 1
         }
     ]
