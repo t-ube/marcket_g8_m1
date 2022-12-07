@@ -2,10 +2,58 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/558041186",
-            "price": 6279,
-            "name": "〔状態C〕リーフィア",
-            "date": "2022-12-06",
+            "link": "/items/1607510928",
+            "price": 16280,
+            "name": "リーフィアV 071",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/836777197",
+            "price": 14000,
+            "name": "リーフィアV SR ",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/300796613",
+            "price": 14000,
+            "name": "リーフィアV SR ",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1959304529",
+            "price": 15540,
+            "name": "リーフィアV(SA)",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/412981781",
+            "price": 13000,
+            "name": "（微キズ）リーフィア",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1367137472",
+            "price": 15999,
+            "name": "リーフィアV SR ",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1337786942",
+            "price": 13000,
+            "name": "リーフィアV SR ",
+            "date": "2022-12-07",
             "stock": 1
         },
         {
@@ -13,7 +61,23 @@
             "link": "/items/1994410523",
             "price": 16800,
             "name": "リーフィアV SR ",
-            "date": "2022-12-06",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1349973374",
+            "price": 13020,
+            "name": "〔状態A-〕リーフィ",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1150823400",
+            "price": 21000,
+            "name": "リーフィアV SR ",
+            "date": "2022-12-07",
             "stock": 1
         },
         {
@@ -21,13 +85,45 @@
             "link": "/items/481442746",
             "price": 16000,
             "name": "（美品）リーフィアV",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19547",
+            "price": 17000,
+            "name": "リーフィアV:SA(",
+            "date": "2022-12-07",
+            "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32045",
+            "price": 12400,
+            "name": "リーフィアV071/",
+            "date": "2022-12-07",
+            "stock": 24
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20737",
+            "price": 14800,
+            "name": "リーフィアV071/",
+            "date": "2022-12-07",
+            "stock": 42
+        },
+        {
+            "market": "magi",
+            "link": "/items/836777197",
+            "price": 14000,
+            "name": "リーフィアV SR ",
             "date": "2022-12-06",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1150823400",
-            "price": 21000,
+            "link": "/items/1367137472",
+            "price": 15999,
             "name": "リーフィアV SR ",
             "date": "2022-12-06",
             "stock": 1
@@ -50,25 +146,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1607510928",
-            "price": 16280,
-            "name": "リーフィアV 071",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/836777197",
-            "price": 14000,
+            "link": "/items/1994410523",
+            "price": 16800,
             "name": "リーフィアV SR ",
             "date": "2022-12-06",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1367137472",
-            "price": 15999,
-            "name": "リーフィアV SR ",
+            "link": "/items/558041186",
+            "price": 6279,
+            "name": "〔状態C〕リーフィア",
             "date": "2022-12-06",
             "stock": 1
         },
@@ -77,6 +165,30 @@
             "link": "/items/412981781",
             "price": 13000,
             "name": "（微キズ）リーフィア",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/481442746",
+            "price": 16000,
+            "name": "（美品）リーフィアV",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1150823400",
+            "price": 21000,
+            "name": "リーフィアV SR ",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1607510928",
+            "price": 16280,
+            "name": "リーフィアV 071",
             "date": "2022-12-06",
             "stock": 1
         },
@@ -98,11 +210,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20737",
-            "price": 15800,
+            "link": "https://www.cardrush-pokemon.jp/product/32045",
+            "price": 13400,
             "name": "リーフィアV071/",
             "date": "2022-12-06",
-            "stock": 42
+            "stock": 24
         },
         {
             "market": "cardrush",
@@ -114,65 +226,17 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32045",
-            "price": 13400,
+            "link": "https://www.cardrush-pokemon.jp/product/20737",
+            "price": 15800,
             "name": "リーフィアV071/",
             "date": "2022-12-06",
-            "stock": 24
-        },
-        {
-            "market": "magi",
-            "link": "/items/1150823400",
-            "price": 21000,
-            "name": "リーフィアV SR ",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/300796613",
-            "price": 14000,
-            "name": "リーフィアV SR ",
-            "date": "2022-12-05",
-            "stock": 1
+            "stock": 42
         },
         {
             "market": "magi",
             "link": "/items/481442746",
             "price": 16000,
             "name": "（美品）リーフィアV",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1607510928",
-            "price": 16280,
-            "name": "リーフィアV 071",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/836777197",
-            "price": 14000,
-            "name": "リーフィアV SR ",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1959304529",
-            "price": 16590,
-            "name": "リーフィアV(SA)",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1994410523",
-            "price": 16800,
-            "name": "リーフィアV SR ",
             "date": "2022-12-05",
             "stock": 1
         },
@@ -186,6 +250,30 @@
         },
         {
             "market": "magi",
+            "link": "/items/1959304529",
+            "price": 16590,
+            "name": "リーフィアV(SA)",
+            "date": "2022-12-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/836777197",
+            "price": 14000,
+            "name": "リーフィアV SR ",
+            "date": "2022-12-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1607510928",
+            "price": 16280,
+            "name": "リーフィアV 071",
+            "date": "2022-12-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1349973374",
             "price": 14070,
             "name": "〔状態A-〕リーフィ",
@@ -194,8 +282,32 @@
         },
         {
             "market": "magi",
+            "link": "/items/300796613",
+            "price": 14000,
+            "name": "リーフィアV SR ",
+            "date": "2022-12-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1150823400",
+            "price": 21000,
+            "name": "リーフィアV SR ",
+            "date": "2022-12-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1367137472",
             "price": 15999,
+            "name": "リーフィアV SR ",
+            "date": "2022-12-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1994410523",
+            "price": 16800,
             "name": "リーフィアV SR ",
             "date": "2022-12-05",
             "stock": 1
@@ -210,14 +322,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32045",
-            "price": 13400,
-            "name": "リーフィアV071/",
-            "date": "2022-12-05",
-            "stock": 24
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20737",
             "price": 15800,
             "name": "リーフィアV071/",
@@ -225,26 +329,42 @@
             "stock": 45
         },
         {
-            "market": "magi",
-            "link": "/items/1994410523",
-            "price": 16800,
-            "name": "リーフィアV SR ",
-            "date": "2022-12-04",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32045",
+            "price": 13400,
+            "name": "リーフィアV071/",
+            "date": "2022-12-05",
+            "stock": 24
         },
         {
             "market": "magi",
-            "link": "/items/412981781",
-            "price": 13000,
-            "name": "（微キズ）リーフィア",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/836777197",
+            "link": "/items/300796613",
             "price": 14000,
             "name": "リーフィアV SR ",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1150823400",
+            "price": 21000,
+            "name": "リーフィアV SR ",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1367137472",
+            "price": 15999,
+            "name": "リーフィアV SR ",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/481442746",
+            "price": 16000,
+            "name": "（美品）リーフィアV",
             "date": "2022-12-04",
             "stock": 1
         },
@@ -258,8 +378,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/300796613",
-            "price": 14000,
+            "link": "/items/1959304529",
+            "price": 16590,
+            "name": "リーフィアV(SA)",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1994410523",
+            "price": 16800,
             "name": "リーフィアV SR ",
             "date": "2022-12-04",
             "stock": 1
@@ -274,33 +402,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1150823400",
-            "price": 21000,
+            "link": "/items/836777197",
+            "price": 14000,
             "name": "リーフィアV SR ",
             "date": "2022-12-04",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1959304529",
-            "price": 16590,
-            "name": "リーフィアV(SA)",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/481442746",
-            "price": 16000,
-            "name": "（美品）リーフィアV",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1367137472",
-            "price": 15999,
-            "name": "リーフィアV SR ",
+            "link": "/items/412981781",
+            "price": 13000,
+            "name": "（微キズ）リーフィア",
             "date": "2022-12-04",
             "stock": 1
         },
@@ -330,6 +442,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1607510928",
+            "price": 16280,
+            "name": "リーフィアV 071",
+            "date": "2022-12-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/481442746",
             "price": 16000,
             "name": "（美品）リーフィアV",
@@ -346,8 +466,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1994410523",
-            "price": 16800,
+            "link": "/items/1150823400",
+            "price": 21000,
             "name": "リーフィアV SR ",
             "date": "2022-12-03",
             "stock": 1
@@ -365,22 +485,6 @@
             "link": "/items/300796613",
             "price": 14000,
             "name": "リーフィアV SR ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1150823400",
-            "price": 21000,
-            "name": "リーフィアV SR ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1607510928",
-            "price": 16280,
-            "name": "リーフィアV 071",
             "date": "2022-12-03",
             "stock": 1
         },
@@ -409,12 +513,28 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/1994410523",
+            "price": 16800,
+            "name": "リーフィアV SR ",
+            "date": "2022-12-03",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19547",
             "price": 17000,
             "name": "リーフィアV:SA(",
             "date": "2022-12-03",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32045",
+            "price": 13400,
+            "name": "リーフィアV071/",
+            "date": "2022-12-03",
+            "stock": 24
         },
         {
             "market": "cardrush",
@@ -425,17 +545,57 @@
             "stock": 44
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32045",
-            "price": 13400,
-            "name": "リーフィアV071/",
-            "date": "2022-12-03",
-            "stock": 24
+            "market": "magi",
+            "link": "/items/836777197",
+            "price": 14000,
+            "name": "リーフィアV SR ",
+            "date": "2022-12-02",
+            "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1150823400",
-            "price": 21000,
+            "link": "/items/1349973374",
+            "price": 14070,
+            "name": "〔状態A-〕リーフィ",
+            "date": "2022-12-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/412981781",
+            "price": 13000,
+            "name": "（微キズ）リーフィア",
+            "date": "2022-12-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1367137472",
+            "price": 15999,
+            "name": "リーフィアV SR ",
+            "date": "2022-12-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/300796613",
+            "price": 14000,
+            "name": "リーフィアV SR ",
+            "date": "2022-12-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1959304529",
+            "price": 16590,
+            "name": "リーフィアV(SA)",
+            "date": "2022-12-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1994410523",
+            "price": 16800,
             "name": "リーフィアV SR ",
             "date": "2022-12-02",
             "stock": 1
@@ -450,8 +610,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1994410523",
-            "price": 16800,
+            "link": "/items/1150823400",
+            "price": 21000,
             "name": "リーフィアV SR ",
             "date": "2022-12-02",
             "stock": 1
@@ -461,54 +621,6 @@
             "link": "/items/481442746",
             "price": 16000,
             "name": "（美品）リーフィアV",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/300796613",
-            "price": 14000,
-            "name": "リーフィアV SR ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1367137472",
-            "price": 15999,
-            "name": "リーフィアV SR ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/412981781",
-            "price": 13000,
-            "name": "（微キズ）リーフィア",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1349973374",
-            "price": 14070,
-            "name": "〔状態A-〕リーフィ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/836777197",
-            "price": 14000,
-            "name": "リーフィアV SR ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1959304529",
-            "price": 16590,
-            "name": "リーフィアV(SA)",
             "date": "2022-12-02",
             "stock": 1
         },
@@ -538,6 +650,22 @@
         },
         {
             "market": "magi",
+            "link": "/items/1150823400",
+            "price": 21000,
+            "name": "リーフィアV SR ",
+            "date": "2022-12-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/300796613",
+            "price": 14000,
+            "name": "リーフィアV SR ",
+            "date": "2022-12-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1607510928",
             "price": 16280,
             "name": "リーフィアV 071",
@@ -556,14 +684,6 @@
             "market": "magi",
             "link": "/items/836777197",
             "price": 14000,
-            "name": "リーフィアV SR ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1150823400",
-            "price": 21000,
             "name": "リーフィアV SR ",
             "date": "2022-12-01",
             "stock": 1
@@ -602,14 +722,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/300796613",
-            "price": 14000,
-            "name": "リーフィアV SR ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1959304529",
             "price": 16590,
             "name": "リーフィアV(SA)",
@@ -623,6 +735,14 @@
             "name": "リーフィアV:SA(",
             "date": "2022-12-01",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32045",
+            "price": 13400,
+            "name": "リーフィアV071/",
+            "date": "2022-12-01",
+            "stock": 25
         },
         {
             "market": "cardrush",
@@ -633,18 +753,10 @@
             "stock": 42
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32045",
-            "price": 13400,
-            "name": "リーフィアV071/",
-            "date": "2022-12-01",
-            "stock": 25
-        },
-        {
             "market": "magi",
-            "link": "/items/300796613",
-            "price": 14000,
-            "name": "リーフィアV SR ",
+            "link": "/items/1349973374",
+            "price": 14070,
+            "name": "〔状態A-〕リーフィ",
             "date": "2022-11-30",
             "stock": 1
         },
@@ -690,9 +802,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1349973374",
-            "price": 14070,
-            "name": "〔状態A-〕リーフィ",
+            "link": "/items/300796613",
+            "price": 14000,
+            "name": "リーフィアV SR ",
             "date": "2022-11-30",
             "stock": 1
         },
@@ -743,110 +855,6 @@
             "name": "リーフィアV071/",
             "date": "2022-11-30",
             "stock": 50
-        },
-        {
-            "market": "magi",
-            "link": "/items/1607510928",
-            "price": 16280,
-            "name": "リーフィアV 071",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1150823400",
-            "price": 21400,
-            "name": "リーフィアV SR ",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1994410523",
-            "price": 16800,
-            "name": "リーフィアV SR ",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1349973374",
-            "price": 14070,
-            "name": "〔状態A-〕リーフィ",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1959304529",
-            "price": 16590,
-            "name": "リーフィアV(SA)",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/481442746",
-            "price": 16000,
-            "name": "（美品）リーフィアV",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/836777197",
-            "price": 14000,
-            "name": "リーフィアV SR ",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/412981781",
-            "price": 13000,
-            "name": "（微キズ）リーフィア",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1367137472",
-            "price": 15999,
-            "name": "リーフィアV SR ",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/300796613",
-            "price": 14000,
-            "name": "リーフィアV SR ",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19547",
-            "price": 17000,
-            "name": "リーフィアV:SA(",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32045",
-            "price": 13400,
-            "name": "リーフィアV071/",
-            "date": "2022-11-29",
-            "stock": 24
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20737",
-            "price": 15800,
-            "name": "リーフィアV071/",
-            "date": "2022-11-29",
-            "stock": 48
         }
     ]
 }

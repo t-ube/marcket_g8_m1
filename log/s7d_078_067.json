@@ -5,6 +5,38 @@
             "link": "/items/2101008761",
             "price": 2000,
             "name": "スクールガール SR",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19887",
+            "price": 2500,
+            "name": "スクールガール(SR",
+            "date": "2022-12-07",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21455",
+            "price": 2380,
+            "name": "スクールガール078",
+            "date": "2022-12-07",
+            "stock": 22
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32375",
+            "price": 2080,
+            "name": "スクールガール078",
+            "date": "2022-12-07",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2101008761",
+            "price": 2000,
+            "name": "スクールガール SR",
             "date": "2022-12-06",
             "stock": 1
         },
@@ -170,19 +202,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32375",
-            "price": 2080,
-            "name": "スクールガール078",
-            "date": "2022-12-01",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21455",
             "price": 2380,
             "name": "スクールガール078",
             "date": "2022-12-01",
             "stock": 21
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32375",
+            "price": 2080,
+            "name": "スクールガール078",
+            "date": "2022-12-01",
+            "stock": 4
         },
         {
             "market": "magi",
@@ -194,14 +226,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32375",
-            "price": 2080,
-            "name": "スクールガール078",
-            "date": "2022-11-30",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21455",
             "price": 2380,
             "name": "スクールガール078",
@@ -213,16 +237,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/32375",
             "price": 2080,
             "name": "スクールガール078",
-            "date": "2022-11-29",
+            "date": "2022-11-30",
             "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21455",
-            "price": 2380,
-            "name": "スクールガール078",
-            "date": "2022-11-29",
-            "stock": 15
         }
     ]
 }

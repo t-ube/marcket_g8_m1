@@ -5,6 +5,38 @@
             "link": "/items/1407550768",
             "price": 999,
             "name": "クロバットV CSR",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21387",
+            "price": 1100,
+            "name": "クロバットV(CSR",
+            "date": "2022-12-07",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23112",
+            "price": 990,
+            "name": "クロバットV243/",
+            "date": "2022-12-07",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23019",
+            "price": 1180,
+            "name": "クロバットV243/",
+            "date": "2022-12-07",
+            "stock": 48
+        },
+        {
+            "market": "magi",
+            "link": "/items/1407550768",
+            "price": 999,
+            "name": "クロバットV CSR",
             "date": "2022-12-06",
             "stock": 1
         },
@@ -50,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23112",
-            "price": 990,
-            "name": "クロバットV243/",
-            "date": "2022-12-05",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23019",
             "price": 1180,
             "name": "クロバットV243/",
             "date": "2022-12-05",
             "stock": 55
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23112",
+            "price": 990,
+            "name": "クロバットV243/",
+            "date": "2022-12-05",
+            "stock": 4
         },
         {
             "market": "magi",
@@ -114,14 +146,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23112",
-            "price": 990,
-            "name": "クロバットV243/",
-            "date": "2022-12-03",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23019",
             "price": 1180,
             "name": "クロバットV243/",
@@ -129,6 +153,14 @@
             "stock": 55
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23112",
+            "price": 990,
+            "name": "クロバットV243/",
+            "date": "2022-12-03",
+            "stock": 4
+        },
+        {
             "market": "magi",
             "link": "/items/1407550768",
             "price": 999,
@@ -143,6 +175,14 @@
             "name": "クロバットV(CSR",
             "date": "2022-12-02",
             "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23019",
+            "price": 1180,
+            "name": "クロバットV243/",
+            "date": "2022-12-02",
+            "stock": 39
         },
         {
             "market": "cardrush",
@@ -153,14 +193,6 @@
             "stock": 4
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23019",
-            "price": 1180,
-            "name": "クロバットV243/",
-            "date": "2022-12-02",
-            "stock": 39
-        },
-        {
             "market": "magi",
             "link": "/items/1407550768",
             "price": 999,
@@ -175,14 +207,6 @@
             "name": "クロバットV(CSR",
             "date": "2022-12-01",
             "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23019",
-            "price": 1180,
-            "name": "クロバットV243/",
-            "date": "2022-12-01",
-            "stock": 39
         },
         {
             "market": "cardrush",
@@ -193,6 +217,14 @@
             "stock": 6
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23019",
+            "price": 1180,
+            "name": "クロバットV243/",
+            "date": "2022-12-01",
+            "stock": 39
+        },
+        {
             "market": "magi",
             "link": "/items/1407550768",
             "price": 999,
@@ -223,38 +255,6 @@
             "name": "クロバットV243/",
             "date": "2022-11-30",
             "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/1407550768",
-            "price": 999,
-            "name": "クロバットV CSR",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21387",
-            "price": 1100,
-            "name": "クロバットV(CSR",
-            "date": "2022-11-29",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23019",
-            "price": 1180,
-            "name": "クロバットV243/",
-            "date": "2022-11-29",
-            "stock": 33
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23112",
-            "price": 990,
-            "name": "クロバットV243/",
-            "date": "2022-11-29",
-            "stock": 1
         }
     ]
 }

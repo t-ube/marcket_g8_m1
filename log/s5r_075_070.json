@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/19088",
             "price": 800,
             "name": "ネクロズマV(SR)",
+            "date": "2022-12-07",
+            "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31204",
+            "price": 580,
+            "name": "ネクロズマV075/",
+            "date": "2022-12-07",
+            "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18257",
+            "price": 680,
+            "name": "ネクロズマV075/",
+            "date": "2022-12-07",
+            "stock": 19
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19088",
+            "price": 800,
+            "name": "ネクロズマV(SR)",
             "date": "2022-12-06",
             "stock": 6
         },
@@ -58,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31204",
-            "price": 580,
-            "name": "ネクロズマV075/",
-            "date": "2022-12-04",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/18257",
             "price": 680,
             "name": "ネクロズマV075/",
             "date": "2022-12-04",
             "stock": 19
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31204",
+            "price": 580,
+            "name": "ネクロズマV075/",
+            "date": "2022-12-04",
+            "stock": 8
         },
         {
             "market": "hareruya2",
@@ -82,19 +106,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18257",
-            "price": 680,
-            "name": "ネクロズマV075/",
-            "date": "2022-12-03",
-            "stock": 19
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31204",
             "price": 580,
             "name": "ネクロズマV075/",
             "date": "2022-12-03",
             "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18257",
+            "price": 680,
+            "name": "ネクロズマV075/",
+            "date": "2022-12-03",
+            "stock": 19
         },
         {
             "market": "hareruya2",
@@ -103,6 +127,14 @@
             "name": "ネクロズマV(SR)",
             "date": "2022-12-02",
             "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18257",
+            "price": 680,
+            "name": "ネクロズマV075/",
+            "date": "2022-12-02",
+            "stock": 19
         },
         {
             "market": "cardrush",
@@ -113,28 +145,12 @@
             "stock": 7
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18257",
-            "price": 680,
-            "name": "ネクロズマV075/",
-            "date": "2022-12-02",
-            "stock": 19
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19088",
             "price": 800,
             "name": "ネクロズマV(SR)",
             "date": "2022-12-01",
             "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18257",
-            "price": 680,
-            "name": "ネクロズマV075/",
-            "date": "2022-12-01",
-            "stock": 19
         },
         {
             "market": "cardrush",
@@ -145,18 +161,18 @@
             "stock": 7
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18257",
+            "price": 680,
+            "name": "ネクロズマV075/",
+            "date": "2022-12-01",
+            "stock": 19
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19088",
             "price": 800,
             "name": "ネクロズマV(SR)",
-            "date": "2022-11-30",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31204",
-            "price": 580,
-            "name": "ネクロズマV075/",
             "date": "2022-11-30",
             "stock": 6
         },
@@ -169,27 +185,11 @@
             "stock": 19
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19088",
-            "price": 800,
-            "name": "ネクロズマV(SR)",
-            "date": "2022-11-29",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18257",
-            "price": 680,
-            "name": "ネクロズマV075/",
-            "date": "2022-11-29",
-            "stock": 29
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31204",
             "price": 580,
             "name": "ネクロズマV075/",
-            "date": "2022-11-29",
+            "date": "2022-11-30",
             "stock": 6
         }
     ]

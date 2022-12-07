@@ -2,11 +2,59 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/974897474",
-            "price": 100,
+            "link": "/items/1419499049",
+            "price": 150,
             "name": "ザシアンV RR 1",
-            "date": "2022-12-06",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1293490411",
+            "price": 150,
+            "name": "ザシアンV RR 1",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1052137459",
+            "price": 250,
+            "name": "【Ｄ特価】ザシアンV",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1568645866",
+            "price": 133,
+            "name": "[３枚セット]ザシア",
+            "date": "2022-12-07",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/591661773",
+            "price": 140,
+            "name": "｢2枚セット｣ザシア",
+            "date": "2022-12-07",
             "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1051314017",
+            "price": 380,
+            "name": "ザシアンV RR 1",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21085",
+            "price": 150,
+            "name": "ザシアンV(RR){",
+            "date": "2022-12-07",
+            "stock": 62
         },
         {
             "market": "magi",
@@ -26,11 +74,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/1293490411",
-            "price": 150,
+            "link": "/items/974897474",
+            "price": 100,
             "name": "ザシアンV RR 1",
             "date": "2022-12-06",
-            "stock": 1
+            "stock": 2
         },
         {
             "market": "magi",
@@ -39,14 +87,6 @@
             "name": "【Ｄ特価】ザシアンV",
             "date": "2022-12-06",
             "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1568645866",
-            "price": 133,
-            "name": "[３枚セット]ザシア",
-            "date": "2022-12-06",
-            "stock": 3
         },
         {
             "market": "magi",
@@ -63,6 +103,22 @@
             "name": "ザシアンV RR 1",
             "date": "2022-12-06",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1293490411",
+            "price": 150,
+            "name": "ザシアンV RR 1",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1568645866",
+            "price": 133,
+            "name": "[３枚セット]ザシア",
+            "date": "2022-12-06",
+            "stock": 3
         },
         {
             "market": "hareruya2",
@@ -82,43 +138,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/1052137459",
-            "price": 250,
-            "name": "【Ｄ特価】ザシアンV",
+            "link": "/items/1568645866",
+            "price": 133,
+            "name": "[３枚セット]ザシア",
             "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1051314017",
-            "price": 380,
-            "name": "ザシアンV RR 1",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/591661773",
-            "price": 140,
-            "name": "｢2枚セット｣ザシア",
-            "date": "2022-12-05",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/974897474",
-            "price": 100,
-            "name": "ザシアンV RR 1",
-            "date": "2022-12-05",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1293490411",
-            "price": 150,
-            "name": "ザシアンV RR 1",
-            "date": "2022-12-05",
-            "stock": 1
+            "stock": 3
         },
         {
             "market": "magi",
@@ -130,11 +154,43 @@
         },
         {
             "market": "magi",
-            "link": "/items/1568645866",
-            "price": 133,
-            "name": "[３枚セット]ザシア",
+            "link": "/items/1293490411",
+            "price": 150,
+            "name": "ザシアンV RR 1",
             "date": "2022-12-05",
-            "stock": 3
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/974897474",
+            "price": 100,
+            "name": "ザシアンV RR 1",
+            "date": "2022-12-05",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/591661773",
+            "price": 140,
+            "name": "｢2枚セット｣ザシア",
+            "date": "2022-12-05",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1051314017",
+            "price": 380,
+            "name": "ザシアンV RR 1",
+            "date": "2022-12-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1052137459",
+            "price": 250,
+            "name": "【Ｄ特価】ザシアンV",
+            "date": "2022-12-05",
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -143,62 +199,6 @@
             "name": "ザシアンV(RR){",
             "date": "2022-12-05",
             "stock": 62
-        },
-        {
-            "market": "magi",
-            "link": "/items/1419499049",
-            "price": 150,
-            "name": "ザシアンV RR 1",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1293490411",
-            "price": 150,
-            "name": "ザシアンV RR 1",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1568645866",
-            "price": 133,
-            "name": "[３枚セット]ザシア",
-            "date": "2022-12-04",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/591661773",
-            "price": 140,
-            "name": "｢2枚セット｣ザシア",
-            "date": "2022-12-04",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1051314017",
-            "price": 380,
-            "name": "ザシアンV RR 1",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/974897474",
-            "price": 100,
-            "name": "ザシアンV RR 1",
-            "date": "2022-12-04",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1052137459",
-            "price": 250,
-            "name": "【Ｄ特価】ザシアンV",
-            "date": "2022-12-04",
-            "stock": 1
         },
         {
             "market": "magi",
@@ -209,6 +209,62 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/974897474",
+            "price": 100,
+            "name": "ザシアンV RR 1",
+            "date": "2022-12-04",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1051314017",
+            "price": 380,
+            "name": "ザシアンV RR 1",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/591661773",
+            "price": 140,
+            "name": "｢2枚セット｣ザシア",
+            "date": "2022-12-04",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1568645866",
+            "price": 133,
+            "name": "[３枚セット]ザシア",
+            "date": "2022-12-04",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/1293490411",
+            "price": 150,
+            "name": "ザシアンV RR 1",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1419499049",
+            "price": 150,
+            "name": "ザシアンV RR 1",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1052137459",
+            "price": 250,
+            "name": "【Ｄ特価】ザシアンV",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21085",
             "price": 150,
@@ -218,17 +274,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/591661773",
-            "price": 140,
-            "name": "｢2枚セット｣ザシア",
-            "date": "2022-12-03",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1419499049",
-            "price": 150,
-            "name": "ザシアンV RR 1",
+            "link": "/items/1052137459",
+            "price": 250,
+            "name": "【Ｄ特価】ザシアンV",
             "date": "2022-12-03",
             "stock": 1
         },
@@ -258,6 +306,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1419499049",
+            "price": 150,
+            "name": "ザシアンV RR 1",
+            "date": "2022-12-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1293490411",
             "price": 150,
             "name": "ザシアンV RR 1",
@@ -274,11 +330,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/1052137459",
-            "price": 250,
-            "name": "【Ｄ特価】ザシアンV",
+            "link": "/items/591661773",
+            "price": 140,
+            "name": "｢2枚セット｣ザシア",
             "date": "2022-12-03",
-            "stock": 1
+            "stock": 2
         },
         {
             "market": "hareruya2",
@@ -287,6 +343,14 @@
             "name": "ザシアンV(RR){",
             "date": "2022-12-03",
             "stock": 62
+        },
+        {
+            "market": "magi",
+            "link": "/items/1052137459",
+            "price": 250,
+            "name": "【Ｄ特価】ザシアンV",
+            "date": "2022-12-02",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -335,14 +399,6 @@
             "name": "｢2枚セット｣ザシア",
             "date": "2022-12-02",
             "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1052137459",
-            "price": 250,
-            "name": "【Ｄ特価】ザシアンV",
-            "date": "2022-12-02",
-            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -418,11 +474,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/1051314017",
-            "price": 380,
-            "name": "ザシアンV RR 1",
+            "link": "/items/591661773",
+            "price": 140,
+            "name": "｢2枚セット｣ザシア",
             "date": "2022-11-30",
-            "stock": 1
+            "stock": 2
         },
         {
             "market": "magi",
@@ -434,19 +490,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/591661773",
-            "price": 140,
-            "name": "｢2枚セット｣ザシア",
+            "link": "/items/1051314017",
+            "price": 380,
+            "name": "ザシアンV RR 1",
             "date": "2022-11-30",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1568645866",
-            "price": 133,
-            "name": "[３枚セット]ザシア",
-            "date": "2022-11-30",
-            "stock": 3
+            "stock": 1
         },
         {
             "market": "magi",
@@ -455,6 +503,14 @@
             "name": "ザシアンV RR 1",
             "date": "2022-11-30",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1568645866",
+            "price": 133,
+            "name": "[３枚セット]ザシア",
+            "date": "2022-11-30",
+            "stock": 3
         },
         {
             "market": "magi",
@@ -478,70 +534,6 @@
             "price": 150,
             "name": "ザシアンV(RR){",
             "date": "2022-11-30",
-            "stock": 59
-        },
-        {
-            "market": "magi",
-            "link": "/items/1293490411",
-            "price": 150,
-            "name": "ザシアンV RR 1",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1324506490",
-            "price": 150,
-            "name": "ザシアンV RR 1",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1419499049",
-            "price": 150,
-            "name": "ザシアンV RR 1",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1052137459",
-            "price": 250,
-            "name": "【Ｄ特価】ザシアンV",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1051314017",
-            "price": 380,
-            "name": "ザシアンV RR 1",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1568645866",
-            "price": 133,
-            "name": "[３枚セット]ザシア",
-            "date": "2022-11-29",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/591661773",
-            "price": 140,
-            "name": "｢2枚セット｣ザシア",
-            "date": "2022-11-29",
-            "stock": 2
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21085",
-            "price": 150,
-            "name": "ザシアンV(RR){",
-            "date": "2022-11-29",
             "stock": 59
         }
     ]
