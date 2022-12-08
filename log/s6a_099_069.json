@@ -2,26 +2,26 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/587031081",
+            "price": 649,
+            "name": "ぐんぐんシェイク U",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/545937795",
             "price": 800,
             "name": "ぐんぐんシェイク U",
-            "date": "2022-12-07",
+            "date": "2022-12-08",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1647028336",
-            "price": 808,
+            "link": "/items/624193728",
+            "price": 1800,
             "name": "ぐんぐんシェイク U",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/386266474",
-            "price": 1500,
-            "name": "ポケモンカード ぐん",
-            "date": "2022-12-07",
+            "date": "2022-12-08",
             "stock": 1
         },
         {
@@ -29,13 +29,61 @@
             "link": "/items/1544063493",
             "price": 1000,
             "name": "ぐんぐんシェイク U",
-            "date": "2022-12-07",
+            "date": "2022-12-08",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/624193728",
-            "price": 1800,
+            "link": "/items/386266474",
+            "price": 1500,
+            "name": "ポケモンカード ぐん",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1647028336",
+            "price": 808,
+            "name": "ぐんぐんシェイク U",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19575",
+            "price": 1000,
+            "name": "ぐんぐんシェイク(U",
+            "date": "2022-12-08",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20765",
+            "price": 880,
+            "name": "ぐんぐんシェイク09",
+            "date": "2022-12-08",
+            "stock": 33
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32070",
+            "price": 730,
+            "name": "ぐんぐんシェイク09",
+            "date": "2022-12-08",
+            "stock": 5
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g099-069-S6A-B/",
+            "price": 880,
+            "name": "【ポケカ】ＵＲ◇ぐん",
+            "date": "2022-12-08",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1647028336",
+            "price": 808,
             "name": "ぐんぐんシェイク U",
             "date": "2022-12-07",
             "stock": 1
@@ -49,20 +97,44 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/545937795",
+            "price": 800,
+            "name": "ぐんぐんシェイク U",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/624193728",
+            "price": 1800,
+            "name": "ぐんぐんシェイク U",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/386266474",
+            "price": 1500,
+            "name": "ポケモンカード ぐん",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1544063493",
+            "price": 1000,
+            "name": "ぐんぐんシェイク U",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19575",
             "price": 1000,
             "name": "ぐんぐんシェイク(U",
             "date": "2022-12-07",
             "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32070",
-            "price": 730,
-            "name": "ぐんぐんシェイク09",
-            "date": "2022-12-07",
-            "stock": 6
         },
         {
             "market": "cardrush",
@@ -73,20 +145,20 @@
             "stock": 40
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32070",
+            "price": 730,
+            "name": "ぐんぐんシェイク09",
+            "date": "2022-12-07",
+            "stock": 6
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g099-069-S6A-B/",
             "price": 880,
             "name": "【ポケカ】ＵＲ◇ぐん",
             "date": "2022-12-07",
             "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1544063493",
-            "price": 1000,
-            "name": "ぐんぐんシェイク U",
-            "date": "2022-12-06",
-            "stock": 1
         },
         {
             "market": "magi",
@@ -129,6 +201,14 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/1544063493",
+            "price": 1000,
+            "name": "ぐんぐんシェイク U",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19575",
             "price": 1000,
@@ -138,19 +218,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32070",
-            "price": 730,
-            "name": "ぐんぐんシェイク09",
-            "date": "2022-12-06",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20765",
             "price": 880,
             "name": "ぐんぐんシェイク09",
             "date": "2022-12-06",
             "stock": 40
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32070",
+            "price": 730,
+            "name": "ぐんぐんシェイク09",
+            "date": "2022-12-06",
+            "stock": 6
         },
         {
             "market": "torecolo",
@@ -162,9 +242,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1544063493",
-            "price": 1000,
-            "name": "ぐんぐんシェイク U",
+            "link": "/items/386266474",
+            "price": 1500,
+            "name": "ポケモンカード ぐん",
             "date": "2022-12-05",
             "stock": 1
         },
@@ -173,14 +253,6 @@
             "link": "/items/545937795",
             "price": 800,
             "name": "ぐんぐんシェイク U",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/386266474",
-            "price": 1500,
-            "name": "ポケモンカード ぐん",
             "date": "2022-12-05",
             "stock": 1
         },
@@ -201,6 +273,14 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/1544063493",
+            "price": 1000,
+            "name": "ぐんぐんシェイク U",
+            "date": "2022-12-05",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19575",
             "price": 1000,
@@ -250,8 +330,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/624193728",
-            "price": 1800,
+            "link": "/items/1647028336",
+            "price": 826,
             "name": "ぐんぐんシェイク U",
             "date": "2022-12-04",
             "stock": 1
@@ -266,8 +346,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1647028336",
-            "price": 826,
+            "link": "/items/624193728",
+            "price": 1800,
             "name": "ぐんぐんシェイク U",
             "date": "2022-12-04",
             "stock": 1
@@ -282,19 +362,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32070",
-            "price": 730,
-            "name": "ぐんぐんシェイク09",
-            "date": "2022-12-04",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20765",
             "price": 880,
             "name": "ぐんぐんシェイク09",
             "date": "2022-12-04",
             "stock": 40
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32070",
+            "price": 730,
+            "name": "ぐんぐんシェイク09",
+            "date": "2022-12-04",
+            "stock": 6
         },
         {
             "market": "torecolo",
@@ -306,24 +386,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/545937795",
-            "price": 800,
-            "name": "ぐんぐんシェイク U",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/386266474",
-            "price": 1500,
-            "name": "ポケモンカード ぐん",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/624193728",
-            "price": 1800,
+            "link": "/items/1647028336",
+            "price": 826,
             "name": "ぐんぐんシェイク U",
             "date": "2022-12-03",
             "stock": 1
@@ -338,9 +402,25 @@
         },
         {
             "market": "magi",
-            "link": "/items/1647028336",
-            "price": 826,
+            "link": "/items/624193728",
+            "price": 1800,
             "name": "ぐんぐんシェイク U",
+            "date": "2022-12-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/545937795",
+            "price": 800,
+            "name": "ぐんぐんシェイク U",
+            "date": "2022-12-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/386266474",
+            "price": 1500,
+            "name": "ポケモンカード ぐん",
             "date": "2022-12-03",
             "stock": 1
         },
@@ -378,16 +458,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/545937795",
-            "price": 800,
+            "link": "/items/1544063493",
+            "price": 1000,
             "name": "ぐんぐんシェイク U",
             "date": "2022-12-02",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1544063493",
-            "price": 1000,
+            "link": "/items/545937795",
+            "price": 800,
             "name": "ぐんぐんシェイク U",
             "date": "2022-12-02",
             "stock": 1
@@ -450,16 +530,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/624193728",
-            "price": 1800,
-            "name": "ぐんぐんシェイク U",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1544063493",
-            "price": 1000,
+            "link": "/items/545937795",
+            "price": 800,
             "name": "ぐんぐんシェイク U",
             "date": "2022-12-01",
             "stock": 1
@@ -474,8 +546,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/545937795",
-            "price": 800,
+            "link": "/items/624193728",
+            "price": 1800,
             "name": "ぐんぐんシェイク U",
             "date": "2022-12-01",
             "stock": 1
@@ -489,12 +561,28 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/1544063493",
+            "price": 1000,
+            "name": "ぐんぐんシェイク U",
+            "date": "2022-12-01",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19575",
             "price": 1000,
             "name": "ぐんぐんシェイク(U",
             "date": "2022-12-01",
             "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20765",
+            "price": 880,
+            "name": "ぐんぐんシェイク09",
+            "date": "2022-12-01",
+            "stock": 40
         },
         {
             "market": "cardrush",
@@ -505,91 +593,11 @@
             "stock": 7
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20765",
-            "price": 880,
-            "name": "ぐんぐんシェイク09",
-            "date": "2022-12-01",
-            "stock": 40
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g099-069-S6A-B/",
             "price": 880,
             "name": "【ポケカ】ＵＲ◇ぐん",
             "date": "2022-12-01",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/386266474",
-            "price": 1500,
-            "name": "ポケモンカード ぐん",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1544063493",
-            "price": 1000,
-            "name": "ぐんぐんシェイク U",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/545937795",
-            "price": 800,
-            "name": "ぐんぐんシェイク U",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1647028336",
-            "price": 853,
-            "name": "ぐんぐんシェイク U",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/624193728",
-            "price": 1800,
-            "name": "ぐんぐんシェイク U",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19575",
-            "price": 1000,
-            "name": "ぐんぐんシェイク(U",
-            "date": "2022-11-30",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32070",
-            "price": 730,
-            "name": "ぐんぐんシェイク09",
-            "date": "2022-11-30",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20765",
-            "price": 880,
-            "name": "ぐんぐんシェイク09",
-            "date": "2022-11-30",
-            "stock": 40
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g099-069-S6A-B/",
-            "price": 880,
-            "name": "【ポケカ】ＵＲ◇ぐん",
-            "date": "2022-11-30",
             "stock": 3
         }
     ]

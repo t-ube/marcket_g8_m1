@@ -2,11 +2,59 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1570866447",
+            "price": 199,
+            "name": "【特価】シャクヤ U",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/732568321",
             "price": 100,
             "name": "シャクヤ U 066",
-            "date": "2022-12-07",
+            "date": "2022-12-08",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/229718058",
+            "price": 100,
+            "name": "シャクヤ U 066",
+            "date": "2022-12-08",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/819744870",
+            "price": 600,
+            "name": "シャクヤ U 066",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19394",
+            "price": 100,
+            "name": "シャクヤ(U){サポ",
+            "date": "2022-12-08",
+            "stock": 166
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20145",
+            "price": 120,
+            "name": "シャクヤ066/07",
+            "date": "2022-12-08",
+            "stock": 698
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g066-070-S6K-B/",
+            "price": 132,
+            "name": "【ポケカ】Ｕ◇シャク",
+            "date": "2022-12-08",
+            "stock": 66
         },
         {
             "market": "magi",
@@ -15,6 +63,14 @@
             "name": "シャクヤ U 066",
             "date": "2022-12-07",
             "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/732568321",
+            "price": 100,
+            "name": "シャクヤ U 066",
+            "date": "2022-12-07",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -66,8 +122,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/732568321",
-            "price": 100,
+            "link": "/items/819744870",
+            "price": 600,
             "name": "シャクヤ U 066",
             "date": "2022-12-06",
             "stock": 1
@@ -82,8 +138,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/819744870",
-            "price": 600,
+            "link": "/items/732568321",
+            "price": 100,
             "name": "シャクヤ U 066",
             "date": "2022-12-06",
             "stock": 1
@@ -95,6 +151,14 @@
             "name": "シャクヤ(U){サポ",
             "date": "2022-12-06",
             "stock": 167
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31886",
+            "price": 110,
+            "name": "シャクヤ066/07",
+            "date": "2022-12-06",
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -105,14 +169,6 @@
             "stock": 702
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31886",
-            "price": 110,
-            "name": "シャクヤ066/07",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g066-070-S6K-B/",
             "price": 132,
@@ -122,11 +178,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/229718058",
+            "link": "/items/732568321",
             "price": 100,
             "name": "シャクヤ U 066",
             "date": "2022-12-05",
-            "stock": 2
+            "stock": 1
         },
         {
             "market": "magi",
@@ -138,11 +194,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/732568321",
+            "link": "/items/229718058",
             "price": 100,
             "name": "シャクヤ U 066",
             "date": "2022-12-05",
-            "stock": 1
+            "stock": 2
         },
         {
             "market": "magi",
@@ -159,14 +215,6 @@
             "name": "シャクヤ(U){サポ",
             "date": "2022-12-05",
             "stock": 167
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31886",
-            "price": 110,
-            "name": "シャクヤ066/07",
-            "date": "2022-12-05",
-            "stock": 2
         },
         {
             "market": "cardrush",
@@ -177,6 +225,14 @@
             "stock": 703
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31886",
+            "price": 110,
+            "name": "シャクヤ066/07",
+            "date": "2022-12-05",
+            "stock": 2
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g066-070-S6K-B/",
             "price": 132,
@@ -226,19 +282,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20145",
-            "price": 120,
-            "name": "シャクヤ066/07",
-            "date": "2022-12-04",
-            "stock": 704
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31886",
             "price": 110,
             "name": "シャクヤ066/07",
             "date": "2022-12-04",
             "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20145",
+            "price": 120,
+            "name": "シャクヤ066/07",
+            "date": "2022-12-04",
+            "stock": 704
         },
         {
             "market": "torecolo",
@@ -290,19 +346,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31886",
-            "price": 110,
-            "name": "シャクヤ066/07",
-            "date": "2022-12-03",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20145",
             "price": 120,
             "name": "シャクヤ066/07",
             "date": "2022-12-03",
             "stock": 707
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31886",
+            "price": 110,
+            "name": "シャクヤ066/07",
+            "date": "2022-12-03",
+            "stock": 5
         },
         {
             "market": "torecolo",
@@ -370,19 +426,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/1766529081",
-            "price": 198,
-            "name": "【特価】シャクヤ U",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/229718058",
             "price": 100,
             "name": "シャクヤ U 066",
             "date": "2022-12-01",
             "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1766529081",
+            "price": 198,
+            "name": "【特価】シャクヤ U",
+            "date": "2022-12-01",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -422,62 +478,6 @@
             "price": 132,
             "name": "【ポケカ】Ｕ◇シャク",
             "date": "2022-12-01",
-            "stock": 66
-        },
-        {
-            "market": "magi",
-            "link": "/items/732568321",
-            "price": 100,
-            "name": "シャクヤ U 066",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/819744870",
-            "price": 600,
-            "name": "シャクヤ U 066",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/229718058",
-            "price": 100,
-            "name": "シャクヤ U 066",
-            "date": "2022-11-30",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1766529081",
-            "price": 198,
-            "name": "【特価】シャクヤ U",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19394",
-            "price": 150,
-            "name": "シャクヤ(U){サポ",
-            "date": "2022-11-30",
-            "stock": 161
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20145",
-            "price": 120,
-            "name": "シャクヤ066/07",
-            "date": "2022-11-30",
-            "stock": 711
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g066-070-S6K-B/",
-            "price": 132,
-            "name": "【ポケカ】Ｕ◇シャク",
-            "date": "2022-11-30",
             "stock": 66
         }
     ]

@@ -5,7 +5,23 @@
             "link": "/items/1150544170",
             "price": 604,
             "name": "マスタード れんげき",
-            "date": "2022-12-07",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1284224900",
+            "price": 450,
+            "name": "マスタード れんげき",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/478328494",
+            "price": 500,
+            "name": "マスタード れんげき",
+            "date": "2022-12-08",
             "stock": 1
         },
         {
@@ -13,13 +29,69 @@
             "link": "/items/2071878770",
             "price": 650,
             "name": "マスタード れんげき",
-            "date": "2022-12-07",
+            "date": "2022-12-08",
             "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21417",
+            "price": 1000,
+            "name": "マスタード れんげき",
+            "date": "2022-12-08",
+            "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23049",
+            "price": 780,
+            "name": "マスタードれんげきの",
+            "date": "2022-12-08",
+            "stock": 111
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34187",
+            "price": 480,
+            "name": "マスタードれんげきの",
+            "date": "2022-12-08",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23140",
+            "price": 680,
+            "name": "マスタードれんげきの",
+            "date": "2022-12-08",
+            "stock": 10
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g273-184-S8B-B/",
+            "price": 770,
+            "name": "【ポケカ】ＳＲ◇マス",
+            "date": "2022-12-08",
+            "stock": 9
         },
         {
             "market": "magi",
             "link": "/items/1284224900",
             "price": 450,
+            "name": "マスタード れんげき",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1150544170",
+            "price": 604,
+            "name": "マスタード れんげき",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2071878770",
+            "price": 650,
             "name": "マスタード れんげき",
             "date": "2022-12-07",
             "stock": 1
@@ -50,19 +122,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23049",
-            "price": 780,
-            "name": "マスタードれんげきの",
-            "date": "2022-12-07",
-            "stock": 109
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23140",
             "price": 680,
             "name": "マスタードれんげきの",
             "date": "2022-12-07",
             "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23049",
+            "price": 780,
+            "name": "マスタードれんげきの",
+            "date": "2022-12-07",
+            "stock": 109
         },
         {
             "market": "torecolo",
@@ -218,8 +290,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1284224900",
-            "price": 450,
+            "link": "/items/478328494",
+            "price": 500,
             "name": "マスタード れんげき",
             "date": "2022-12-04",
             "stock": 1
@@ -234,16 +306,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/478328494",
-            "price": 500,
+            "link": "/items/2071878770",
+            "price": 650,
             "name": "マスタード れんげき",
             "date": "2022-12-04",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/2071878770",
-            "price": 650,
+            "link": "/items/1284224900",
+            "price": 450,
             "name": "マスタード れんげき",
             "date": "2022-12-04",
             "stock": 1
@@ -255,6 +327,22 @@
             "name": "マスタード れんげき",
             "date": "2022-12-04",
             "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23140",
+            "price": 680,
+            "name": "マスタードれんげきの",
+            "date": "2022-12-04",
+            "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34187",
+            "price": 480,
+            "name": "マスタードれんげきの",
+            "date": "2022-12-04",
+            "stock": 2
         },
         {
             "market": "cardrush",
@@ -265,22 +353,6 @@
             "stock": 88
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34187",
-            "price": 480,
-            "name": "マスタードれんげきの",
-            "date": "2022-12-04",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23140",
-            "price": 680,
-            "name": "マスタードれんげきの",
-            "date": "2022-12-04",
-            "stock": 9
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g273-184-S8B-B/",
             "price": 770,
@@ -290,16 +362,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1284224900",
-            "price": 450,
-            "name": "マスタード れんげき",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1150544170",
-            "price": 606,
+            "link": "/items/2071878770",
+            "price": 650,
             "name": "マスタード れんげき",
             "date": "2022-12-03",
             "stock": 1
@@ -314,8 +378,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/2071878770",
-            "price": 650,
+            "link": "/items/1150544170",
+            "price": 606,
+            "name": "マスタード れんげき",
+            "date": "2022-12-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1284224900",
+            "price": 450,
             "name": "マスタード れんげき",
             "date": "2022-12-03",
             "stock": 1
@@ -330,11 +402,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23049",
-            "price": 780,
+            "link": "https://www.cardrush-pokemon.jp/product/23140",
+            "price": 680,
             "name": "マスタードれんげきの",
             "date": "2022-12-03",
-            "stock": 93
+            "stock": 9
         },
         {
             "market": "cardrush",
@@ -346,11 +418,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23140",
-            "price": 680,
+            "link": "https://www.cardrush-pokemon.jp/product/23049",
+            "price": 780,
             "name": "マスタードれんげきの",
             "date": "2022-12-03",
-            "stock": 9
+            "stock": 93
         },
         {
             "market": "torecolo",
@@ -362,16 +434,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1150544170",
-            "price": 606,
+            "link": "/items/1284224900",
+            "price": 450,
             "name": "マスタード れんげき",
             "date": "2022-12-02",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1284224900",
-            "price": 450,
+            "link": "/items/1150544170",
+            "price": 606,
             "name": "マスタード れんげき",
             "date": "2022-12-02",
             "stock": 1
@@ -434,6 +506,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/478328494",
+            "price": 500,
+            "name": "マスタード れんげき",
+            "date": "2022-12-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1284224900",
             "price": 450,
             "name": "マスタード れんげき",
@@ -457,28 +537,12 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/478328494",
-            "price": 500,
-            "name": "マスタード れんげき",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21417",
             "price": 1000,
             "name": "マスタード れんげき",
             "date": "2022-12-01",
             "stock": 9
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34187",
-            "price": 580,
-            "name": "マスタードれんげきの",
-            "date": "2022-12-01",
-            "stock": 2
         },
         {
             "market": "cardrush",
@@ -490,98 +554,26 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23049",
-            "price": 880,
-            "name": "マスタードれんげきの",
-            "date": "2022-12-01",
-            "stock": 102
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g273-184-S8B-B/",
-            "price": 770,
-            "name": "【ポケカ】ＳＲ◇マス",
-            "date": "2022-12-01",
-            "stock": 8
-        },
-        {
-            "market": "magi",
-            "link": "/items/1495638558",
-            "price": 200,
-            "name": "マスタード れんげき",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2071878770",
-            "price": 650,
-            "name": "マスタード れんげき",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1284224900",
-            "price": 450,
-            "name": "マスタード れんげき",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1150544170",
-            "price": 606,
-            "name": "マスタード れんげき",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/478328494",
-            "price": 500,
-            "name": "マスタード れんげき",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21417",
-            "price": 1000,
-            "name": "マスタード れんげき",
-            "date": "2022-11-30",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23140",
-            "price": 730,
-            "name": "マスタードれんげきの",
-            "date": "2022-11-30",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23049",
-            "price": 880,
-            "name": "マスタードれんげきの",
-            "date": "2022-11-30",
-            "stock": 102
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34187",
             "price": 580,
             "name": "マスタードれんげきの",
-            "date": "2022-11-30",
+            "date": "2022-12-01",
             "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23049",
+            "price": 880,
+            "name": "マスタードれんげきの",
+            "date": "2022-12-01",
+            "stock": 102
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g273-184-S8B-B/",
             "price": 770,
             "name": "【ポケカ】ＳＲ◇マス",
-            "date": "2022-11-30",
+            "date": "2022-12-01",
             "stock": 8
         }
     ]
