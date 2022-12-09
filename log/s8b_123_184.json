@@ -2,6 +2,62 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1799223926",
+            "price": 250,
+            "name": "【絵違い】ジュラルド",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1030038144",
+            "price": 222,
+            "name": "ジュラルドンVMAX",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1819991165",
+            "price": 220,
+            "name": "【特価】ジュラルドン",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1923643501",
+            "price": 100,
+            "name": "ジュラルドンVMAX",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1496376418",
+            "price": 150,
+            "name": "ジュラルドンVMAX",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21091",
+            "price": 100,
+            "name": "ジュラルドンVMAX",
+            "date": "2022-12-09",
+            "stock": 82
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22761",
+            "price": 120,
+            "name": "ジュラルドンVMAX",
+            "date": "2022-12-09",
+            "stock": 107
+        },
+        {
+            "market": "magi",
             "link": "/items/1496376418",
             "price": 150,
             "name": "ジュラルドンVMAX",
@@ -114,9 +170,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1903182040",
-            "price": 350,
-            "name": "【ノーマル特価】ジュ",
+            "link": "/items/353355147",
+            "price": 200,
+            "name": "ジュラルドンVMAX",
             "date": "2022-12-04",
             "stock": 1
         },
@@ -130,9 +186,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/353355147",
-            "price": 200,
-            "name": "ジュラルドンVMAX",
+            "link": "/items/1903182040",
+            "price": 350,
+            "name": "【ノーマル特価】ジュ",
             "date": "2022-12-04",
             "stock": 1
         },
@@ -178,9 +234,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/353355147",
-            "price": 200,
-            "name": "ジュラルドンVMAX",
+            "link": "/items/1903182040",
+            "price": 350,
+            "name": "【ノーマル特価】ジュ",
             "date": "2022-12-02",
             "stock": 1
         },
@@ -194,9 +250,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1903182040",
-            "price": 350,
-            "name": "【ノーマル特価】ジュ",
+            "link": "/items/353355147",
+            "price": 200,
+            "name": "ジュラルドンVMAX",
             "date": "2022-12-02",
             "stock": 1
         },
@@ -207,46 +263,6 @@
             "name": "ジュラルドンVMAX",
             "date": "2022-12-02",
             "stock": 86
-        },
-        {
-            "market": "magi",
-            "link": "/items/353355147",
-            "price": 200,
-            "name": "ジュラルドンVMAX",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1496376418",
-            "price": 150,
-            "name": "ジュラルドンVMAX",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1903182040",
-            "price": 222,
-            "name": "【ノーマル特価】ジュ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21091",
-            "price": 100,
-            "name": "ジュラルドンVMAX",
-            "date": "2022-12-01",
-            "stock": 71
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22761",
-            "price": 120,
-            "name": "ジュラルドンVMAX",
-            "date": "2022-12-01",
-            "stock": 5
         }
     ]
 }

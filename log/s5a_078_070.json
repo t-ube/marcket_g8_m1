@@ -2,11 +2,59 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1733420433",
+            "price": 33390,
+            "name": "ガラルファイヤーV(",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/395912395",
             "price": 26040,
             "name": "〔状態A-〕ガラルフ",
-            "date": "2022-12-08",
+            "date": "2022-12-09",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/196403722",
+            "price": 34800,
+            "name": "ポケカ【極美品】ガラ",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1949715582",
+            "price": 32780,
+            "name": "ガラルファイヤーV ",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19215",
+            "price": 33000,
+            "name": "ガラルファイヤーV:",
+            "date": "2022-12-09",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18995",
+            "price": 31800,
+            "name": "ガラルファイヤーV0",
+            "date": "2022-12-09",
+            "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31594",
+            "price": 24800,
+            "name": "ガラルファイヤーV0",
+            "date": "2022-12-09",
+            "stock": 8
         },
         {
             "market": "magi",
@@ -18,17 +66,25 @@
         },
         {
             "market": "magi",
-            "link": "/items/196403722",
-            "price": 34800,
-            "name": "ポケカ【極美品】ガラ",
+            "link": "/items/1733420433",
+            "price": 35490,
+            "name": "ガラルファイヤーV(",
             "date": "2022-12-08",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1733420433",
-            "price": 35490,
-            "name": "ガラルファイヤーV(",
+            "link": "/items/395912395",
+            "price": 26040,
+            "name": "〔状態A-〕ガラルフ",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/196403722",
+            "price": 34800,
+            "name": "ポケカ【極美品】ガラ",
             "date": "2022-12-08",
             "stock": 1
         },
@@ -42,14 +98,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18995",
-            "price": 33800,
-            "name": "ガラルファイヤーV0",
-            "date": "2022-12-08",
-            "stock": 14
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31594",
             "price": 24800,
             "name": "ガラルファイヤーV0",
@@ -57,18 +105,18 @@
             "stock": 8
         },
         {
-            "market": "magi",
-            "link": "/items/1733420433",
-            "price": 35490,
-            "name": "ガラルファイヤーV(",
-            "date": "2022-12-07",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18995",
+            "price": 33800,
+            "name": "ガラルファイヤーV0",
+            "date": "2022-12-08",
+            "stock": 14
         },
         {
             "market": "magi",
-            "link": "/items/196403722",
-            "price": 34800,
-            "name": "ポケカ【極美品】ガラ",
+            "link": "/items/395912395",
+            "price": 26040,
+            "name": "〔状態A-〕ガラルフ",
             "date": "2022-12-07",
             "stock": 1
         },
@@ -82,9 +130,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/395912395",
-            "price": 26040,
-            "name": "〔状態A-〕ガラルフ",
+            "link": "/items/196403722",
+            "price": 34800,
+            "name": "ポケカ【極美品】ガラ",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1733420433",
+            "price": 35490,
+            "name": "ガラルファイヤーV(",
             "date": "2022-12-07",
             "stock": 1
         },
@@ -178,6 +234,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1949715582",
+            "price": 32780,
+            "name": "ガラルファイヤーV ",
+            "date": "2022-12-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/395912395",
             "price": 26040,
             "name": "〔状態A-〕ガラルフ",
@@ -189,14 +253,6 @@
             "link": "/items/196403722",
             "price": 34800,
             "name": "ポケカ【極美品】ガラ",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1949715582",
-            "price": 32780,
-            "name": "ガラルファイヤーV ",
             "date": "2022-12-05",
             "stock": 1
         },
@@ -226,25 +282,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/395912395",
-            "price": 26040,
-            "name": "〔状態A-〕ガラルフ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1733420433",
-            "price": 35490,
-            "name": "ガラルファイヤーV(",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1949715582",
-            "price": 32780,
-            "name": "ガラルファイヤーV ",
+            "link": "/items/196403722",
+            "price": 34800,
+            "name": "ポケカ【極美品】ガラ",
             "date": "2022-12-04",
             "stock": 1
         },
@@ -258,9 +298,25 @@
         },
         {
             "market": "magi",
-            "link": "/items/196403722",
-            "price": 34800,
-            "name": "ポケカ【極美品】ガラ",
+            "link": "/items/1949715582",
+            "price": 32780,
+            "name": "ガラルファイヤーV ",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1733420433",
+            "price": 35490,
+            "name": "ガラルファイヤーV(",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/395912395",
+            "price": 26040,
+            "name": "〔状態A-〕ガラルフ",
             "date": "2022-12-04",
             "stock": 1
         },
@@ -271,14 +327,6 @@
             "name": "ガラルファイヤーV:",
             "date": "2022-12-04",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31594",
-            "price": 24800,
-            "name": "ガラルファイヤーV0",
-            "date": "2022-12-04",
-            "stock": 10
         },
         {
             "market": "cardrush",
@@ -289,6 +337,22 @@
             "stock": 13
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31594",
+            "price": 24800,
+            "name": "ガラルファイヤーV0",
+            "date": "2022-12-04",
+            "stock": 10
+        },
+        {
+            "market": "magi",
+            "link": "/items/196403722",
+            "price": 34800,
+            "name": "ポケカ【極美品】ガラ",
+            "date": "2022-12-03",
+            "stock": 1
+        },
+        {
             "market": "magi",
             "link": "/items/1733420433",
             "price": 35490,
@@ -321,28 +385,12 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/196403722",
-            "price": 34800,
-            "name": "ポケカ【極美品】ガラ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19215",
             "price": 33000,
             "name": "ガラルファイヤーV:",
             "date": "2022-12-03",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31594",
-            "price": 24800,
-            "name": "ガラルファイヤーV0",
-            "date": "2022-12-03",
-            "stock": 10
         },
         {
             "market": "cardrush",
@@ -353,28 +401,12 @@
             "stock": 13
         },
         {
-            "market": "magi",
-            "link": "/items/196403722",
-            "price": 34800,
-            "name": "ポケカ【極美品】ガラ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1949715582",
-            "price": 32780,
-            "name": "ガラルファイヤーV ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/395912395",
-            "price": 26040,
-            "name": "〔状態A-〕ガラルフ",
-            "date": "2022-12-02",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31594",
+            "price": 24800,
+            "name": "ガラルファイヤーV0",
+            "date": "2022-12-03",
+            "stock": 10
         },
         {
             "market": "magi",
@@ -393,51 +425,19 @@
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19215",
-            "price": 33000,
-            "name": "ガラルファイヤーV:",
+            "market": "magi",
+            "link": "/items/395912395",
+            "price": 26040,
+            "name": "〔状態A-〕ガラルフ",
             "date": "2022-12-02",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18995",
-            "price": 33800,
-            "name": "ガラルファイヤーV0",
-            "date": "2022-12-02",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31594",
-            "price": 24800,
-            "name": "ガラルファイヤーV0",
-            "date": "2022-12-02",
-            "stock": 10
         },
         {
             "market": "magi",
             "link": "/items/1949715582",
             "price": 32780,
             "name": "ガラルファイヤーV ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/395912395",
-            "price": 26040,
-            "name": "〔状態A-〕ガラルフ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1333322127",
-            "price": 25800,
-            "name": "ガラルファイヤーV ",
-            "date": "2022-12-01",
+            "date": "2022-12-02",
             "stock": 1
         },
         {
@@ -445,15 +445,7 @@
             "link": "/items/196403722",
             "price": 34800,
             "name": "ポケカ【極美品】ガラ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1733420433",
-            "price": 35490,
-            "name": "ガラルファイヤーV(",
-            "date": "2022-12-01",
+            "date": "2022-12-02",
             "stock": 1
         },
         {
@@ -461,7 +453,7 @@
             "link": "https://www.hareruya2.com/product/19215",
             "price": 33000,
             "name": "ガラルファイヤーV:",
-            "date": "2022-12-01",
+            "date": "2022-12-02",
             "stock": 1
         },
         {
@@ -469,7 +461,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/31594",
             "price": 24800,
             "name": "ガラルファイヤーV0",
-            "date": "2022-12-01",
+            "date": "2022-12-02",
             "stock": 10
         },
         {
@@ -477,7 +469,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/18995",
             "price": 33800,
             "name": "ガラルファイヤーV0",
-            "date": "2022-12-01",
+            "date": "2022-12-02",
             "stock": 12
         }
     ]

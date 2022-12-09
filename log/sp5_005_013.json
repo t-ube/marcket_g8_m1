@@ -2,6 +2,14 @@
     "items": [
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21860",
+            "price": 2480,
+            "name": "ミュウツーV-UNI",
+            "date": "2022-12-09",
+            "stock": 207
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32430",
             "price": 2080,
             "name": "ミュウツーV-UNI",
@@ -18,14 +26,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32430",
-            "price": 2080,
-            "name": "ミュウツーV-UNI",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21860",
             "price": 2480,
             "name": "ミュウツーV-UNI",
@@ -34,11 +34,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21860",
-            "price": 2480,
+            "link": "https://www.cardrush-pokemon.jp/product/32430",
+            "price": 2080,
             "name": "ミュウツーV-UNI",
-            "date": "2022-12-06",
-            "stock": 208
+            "date": "2022-12-07",
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -47,6 +47,22 @@
             "name": "ミュウツーV-UNI",
             "date": "2022-12-06",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21860",
+            "price": 2480,
+            "name": "ミュウツーV-UNI",
+            "date": "2022-12-06",
+            "stock": 208
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21860",
+            "price": 2480,
+            "name": "ミュウツーV-UNI",
+            "date": "2022-12-05",
+            "stock": 208
         },
         {
             "market": "cardrush",
@@ -58,27 +74,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21860",
-            "price": 2480,
-            "name": "ミュウツーV-UNI",
-            "date": "2022-12-05",
-            "stock": 208
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21860",
-            "price": 2480,
-            "name": "ミュウツーV-UNI",
-            "date": "2022-12-04",
-            "stock": 208
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32430",
             "price": 2080,
             "name": "ミュウツーV-UNI",
             "date": "2022-12-04",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21860",
+            "price": 2480,
+            "name": "ミュウツーV-UNI",
+            "date": "2022-12-04",
+            "stock": 208
         },
         {
             "market": "cardrush",
@@ -102,14 +110,6 @@
             "price": 2480,
             "name": "ミュウツーV-UNI",
             "date": "2022-12-02",
-            "stock": 208
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21860",
-            "price": 2480,
-            "name": "ミュウツーV-UNI",
-            "date": "2022-12-01",
             "stock": 208
         }
     ]

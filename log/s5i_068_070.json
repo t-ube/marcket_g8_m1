@@ -1,6 +1,30 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18990",
+            "price": 250,
+            "name": "マスタード いちげき",
+            "date": "2022-12-09",
+            "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18120",
+            "price": 80,
+            "name": "マスタードいちげきの",
+            "date": "2022-12-09",
+            "stock": 24
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g068-070-S5I-B/",
+            "price": 66,
+            "name": "【ポケカ】Ｕ◇マスタ",
+            "date": "2022-12-09",
+            "stock": 27
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/18120",
             "price": 80,
@@ -126,30 +150,6 @@
             "price": 66,
             "name": "【ポケカ】Ｕ◇マスタ",
             "date": "2022-12-02",
-            "stock": 27
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18990",
-            "price": 250,
-            "name": "マスタード いちげき",
-            "date": "2022-12-01",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18120",
-            "price": 80,
-            "name": "マスタードいちげきの",
-            "date": "2022-12-01",
-            "stock": 51
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g068-070-S5I-B/",
-            "price": 66,
-            "name": "【ポケカ】Ｕ◇マスタ",
-            "date": "2022-12-01",
             "stock": 27
         }
     ]

@@ -2,11 +2,115 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1835709686",
+            "price": 100,
+            "name": "【100円セール】ラ",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1765271101",
+            "price": 120,
+            "name": "【特価】ラティアス ",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1142041311",
+            "price": 158,
+            "name": "【特価】ラティアス ",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/998017165",
+            "price": 100,
+            "name": "ラティアス U 07",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1084721262",
+            "price": 100,
+            "name": "ラティアス U 07",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1082923727",
+            "price": 100,
+            "name": "ラティアス U 07",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/19270966",
+            "price": 100,
+            "name": "ラティアス U 07",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/747714205",
+            "price": 100,
+            "name": "ラティアス U 07",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1757543119",
+            "price": 32,
+            "name": "f69 ラティアス ",
+            "date": "2022-12-09",
+            "stock": 4
+        },
+        {
+            "market": "magi",
             "link": "/items/1467934087",
             "price": 32,
             "name": "f68 ラティアス ",
-            "date": "2022-12-08",
+            "date": "2022-12-09",
             "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/144191750",
+            "price": 150,
+            "name": "ラティアス U 07",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20441",
+            "price": 50,
+            "name": "ラティアス(U){ド",
+            "date": "2022-12-09",
+            "stock": 106
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22149",
+            "price": 80,
+            "name": "ラティアス074/1",
+            "date": "2022-12-09",
+            "stock": 598
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g074-100-S8-B/",
+            "price": 77,
+            "name": "【ポケカ】Ｕ◇ラティ",
+            "date": "2022-12-09",
+            "stock": 31
         },
         {
             "market": "magi",
@@ -18,23 +122,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1765271101",
-            "price": 120,
-            "name": "【特価】ラティアス ",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1084721262",
-            "price": 100,
-            "name": "ラティアス U 07",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/998017165",
+            "link": "/items/747714205",
             "price": 100,
             "name": "ラティアス U 07",
             "date": "2022-12-08",
@@ -50,9 +138,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1082923727",
+            "link": "/items/1835709686",
             "price": 100,
-            "name": "ラティアス U 07",
+            "name": "【100円セール】ラ",
             "date": "2022-12-08",
             "stock": 1
         },
@@ -66,14 +154,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1835709686",
-            "price": 100,
-            "name": "【100円セール】ラ",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1757543119",
             "price": 32,
             "name": "f69 ラティアス ",
@@ -82,7 +162,39 @@
         },
         {
             "market": "magi",
-            "link": "/items/747714205",
+            "link": "/items/1467934087",
+            "price": 32,
+            "name": "f68 ラティアス ",
+            "date": "2022-12-08",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/998017165",
+            "price": 100,
+            "name": "ラティアス U 07",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1084721262",
+            "price": 100,
+            "name": "ラティアス U 07",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1765271101",
+            "price": 120,
+            "name": "【特価】ラティアス ",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1082923727",
             "price": 100,
             "name": "ラティアス U 07",
             "date": "2022-12-08",
@@ -338,11 +450,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/1084721262",
-            "price": 100,
-            "name": "ラティアス U 07",
+            "link": "/items/1467934087",
+            "price": 32,
+            "name": "f68 ラティアス ",
             "date": "2022-12-05",
-            "stock": 1
+            "stock": 4
         },
         {
             "market": "magi",
@@ -354,11 +466,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/1467934087",
-            "price": 32,
-            "name": "f68 ラティアス ",
+            "link": "/items/1084721262",
+            "price": 100,
+            "name": "ラティアス U 07",
             "date": "2022-12-05",
-            "stock": 4
+            "stock": 1
         },
         {
             "market": "magi",
@@ -562,7 +674,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/19270966",
+            "link": "/items/747714205",
             "price": 100,
             "name": "ラティアス U 07",
             "date": "2022-12-03",
@@ -570,7 +682,15 @@
         },
         {
             "market": "magi",
-            "link": "/items/747714205",
+            "link": "/items/1082923727",
+            "price": 100,
+            "name": "ラティアス U 07",
+            "date": "2022-12-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/19270966",
             "price": 100,
             "name": "ラティアス U 07",
             "date": "2022-12-03",
@@ -627,14 +747,6 @@
         {
             "market": "magi",
             "link": "/items/1084721262",
-            "price": 100,
-            "name": "ラティアス U 07",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1082923727",
             "price": 100,
             "name": "ラティアス U 07",
             "date": "2022-12-03",
@@ -674,17 +786,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1467934087",
-            "price": 32,
-            "name": "f68 ラティアス ",
-            "date": "2022-12-02",
-            "stock": 4
-        },
-        {
-            "market": "magi",
             "link": "/items/1084721262",
             "price": 100,
             "name": "ラティアス U 07",
+            "date": "2022-12-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1765271101",
+            "price": 120,
+            "name": "【特価】ラティアス ",
             "date": "2022-12-02",
             "stock": 1
         },
@@ -698,19 +810,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/1765271101",
-            "price": 120,
+            "link": "/items/1142041311",
+            "price": 158,
             "name": "【特価】ラティアス ",
             "date": "2022-12-02",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/747714205",
-            "price": 100,
-            "name": "ラティアス U 07",
+            "link": "/items/1467934087",
+            "price": 32,
+            "name": "f68 ラティアス ",
             "date": "2022-12-02",
-            "stock": 1
+            "stock": 4
         },
         {
             "market": "magi",
@@ -722,15 +834,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1142041311",
-            "price": 158,
-            "name": "【特価】ラティアス ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/998017165",
+            "link": "/items/747714205",
             "price": 100,
             "name": "ラティアス U 07",
             "date": "2022-12-02",
@@ -757,6 +861,14 @@
             "link": "/items/1835709686",
             "price": 100,
             "name": "【100円セール】ラ",
+            "date": "2022-12-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/998017165",
+            "price": 100,
+            "name": "ラティアス U 07",
             "date": "2022-12-02",
             "stock": 1
         },
@@ -782,118 +894,6 @@
             "price": 77,
             "name": "【ポケカ】Ｕ◇ラティ",
             "date": "2022-12-02",
-            "stock": 31
-        },
-        {
-            "market": "magi",
-            "link": "/items/1757543119",
-            "price": 32,
-            "name": "f69 ラティアス ",
-            "date": "2022-12-01",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/998017165",
-            "price": 100,
-            "name": "ラティアス U 07",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1142041311",
-            "price": 158,
-            "name": "【特価】ラティアス ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/747714205",
-            "price": 100,
-            "name": "ラティアス U 07",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/144191750",
-            "price": 150,
-            "name": "ラティアス U 07",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/19270966",
-            "price": 100,
-            "name": "ラティアス U 07",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1467934087",
-            "price": 32,
-            "name": "f68 ラティアス ",
-            "date": "2022-12-01",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1765271101",
-            "price": 120,
-            "name": "【特価】ラティアス ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1084721262",
-            "price": 100,
-            "name": "ラティアス U 07",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1835709686",
-            "price": 100,
-            "name": "【100円セール】ラ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1082923727",
-            "price": 100,
-            "name": "ラティアス U 07",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20441",
-            "price": 50,
-            "name": "ラティアス(U){ド",
-            "date": "2022-12-01",
-            "stock": 107
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22149",
-            "price": 80,
-            "name": "ラティアス074/1",
-            "date": "2022-12-01",
-            "stock": 599
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g074-100-S8-B/",
-            "price": 77,
-            "name": "【ポケカ】Ｕ◇ラティ",
-            "date": "2022-12-01",
             "stock": 31
         }
     ]

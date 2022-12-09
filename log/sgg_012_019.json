@@ -2,11 +2,51 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1050149602",
+            "price": 180,
+            "name": "ポケモンいれかえ(R",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/743621487",
             "price": 200,
             "name": "ポケモンいれかえ(R",
-            "date": "2022-12-08",
+            "date": "2022-12-09",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/4312",
+            "price": 1180,
+            "name": "ポケモンいれかえ01",
+            "date": "2022-12-09",
+            "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20619",
+            "price": 80,
+            "name": "ポケモンいれかえ01",
+            "date": "2022-12-09",
+            "stock": 54
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/28384",
+            "price": 1080,
+            "name": "ポケモンいれかえ01",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g012-019-SGG-G/",
+            "price": 88,
+            "name": "【ポケカ】ＳＳ）Ｒ仕",
+            "date": "2022-12-09",
+            "stock": 2
         },
         {
             "market": "magi",
@@ -17,12 +57,20 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/743621487",
+            "price": 200,
+            "name": "ポケモンいれかえ(R",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20619",
-            "price": 80,
+            "link": "https://www.cardrush-pokemon.jp/product/28384",
+            "price": 1080,
             "name": "ポケモンいれかえ01",
             "date": "2022-12-08",
-            "stock": 54
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -34,11 +82,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/28384",
-            "price": 1080,
+            "link": "https://www.cardrush-pokemon.jp/product/20619",
+            "price": 80,
             "name": "ポケモンいれかえ01",
             "date": "2022-12-08",
-            "stock": 1
+            "stock": 54
         },
         {
             "market": "torecolo",
@@ -114,6 +162,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/28384",
+            "price": 1080,
+            "name": "ポケモンいれかえ01",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/4312",
             "price": 1180,
             "name": "ポケモンいれかえ01",
@@ -127,14 +183,6 @@
             "name": "ポケモンいれかえ01",
             "date": "2022-12-06",
             "stock": 54
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/28384",
-            "price": 1080,
-            "name": "ポケモンいれかえ01",
-            "date": "2022-12-06",
-            "stock": 1
         },
         {
             "market": "torecolo",
@@ -162,11 +210,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20619",
-            "price": 80,
+            "link": "https://www.cardrush-pokemon.jp/product/4312",
+            "price": 1180,
             "name": "ポケモンいれかえ01",
             "date": "2022-12-05",
-            "stock": 54
+            "stock": 10
         },
         {
             "market": "cardrush",
@@ -178,11 +226,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/4312",
-            "price": 1180,
+            "link": "https://www.cardrush-pokemon.jp/product/20619",
+            "price": 80,
             "name": "ポケモンいれかえ01",
             "date": "2022-12-05",
-            "stock": 10
+            "stock": 54
         },
         {
             "market": "torecolo",
@@ -191,6 +239,14 @@
             "name": "【ポケカ】ＳＳ）Ｒ仕",
             "date": "2022-12-05",
             "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1050149602",
+            "price": 180,
+            "name": "ポケモンいれかえ(R",
+            "date": "2022-12-04",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -201,20 +257,12 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/1050149602",
-            "price": 180,
-            "name": "ポケモンいれかえ(R",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/28384",
-            "price": 1080,
+            "link": "https://www.cardrush-pokemon.jp/product/20619",
+            "price": 80,
             "name": "ポケモンいれかえ01",
             "date": "2022-12-04",
-            "stock": 1
+            "stock": 54
         },
         {
             "market": "cardrush",
@@ -226,11 +274,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20619",
-            "price": 80,
+            "link": "https://www.cardrush-pokemon.jp/product/28384",
+            "price": 1080,
             "name": "ポケモンいれかえ01",
             "date": "2022-12-04",
-            "stock": 54
+            "stock": 1
         },
         {
             "market": "torecolo",
@@ -242,16 +290,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1050149602",
-            "price": 180,
+            "link": "/items/743621487",
+            "price": 200,
             "name": "ポケモンいれかえ(R",
             "date": "2022-12-03",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/743621487",
-            "price": 200,
+            "link": "/items/1050149602",
+            "price": 180,
             "name": "ポケモンいれかえ(R",
             "date": "2022-12-03",
             "stock": 1
@@ -298,16 +346,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/743621487",
-            "price": 200,
+            "link": "/items/1050149602",
+            "price": 180,
             "name": "ポケモンいれかえ(R",
             "date": "2022-12-02",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1050149602",
-            "price": 180,
+            "link": "/items/743621487",
+            "price": 200,
             "name": "ポケモンいれかえ(R",
             "date": "2022-12-02",
             "stock": 1
@@ -322,11 +370,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/28384",
-            "price": 1080,
+            "link": "https://www.cardrush-pokemon.jp/product/20619",
+            "price": 80,
             "name": "ポケモンいれかえ01",
             "date": "2022-12-02",
-            "stock": 1
+            "stock": 56
         },
         {
             "market": "cardrush",
@@ -338,58 +386,10 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20619",
-            "price": 80,
-            "name": "ポケモンいれかえ01",
-            "date": "2022-12-02",
-            "stock": 56
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g012-019-SGG-G/",
-            "price": 88,
-            "name": "【ポケカ】ＳＳ）Ｒ仕",
-            "date": "2022-12-02",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1050149602",
-            "price": 180,
-            "name": "ポケモンいれかえ(R",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/743621487",
-            "price": 200,
-            "name": "ポケモンいれかえ(R",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/4312",
-            "price": 1180,
-            "name": "ポケモンいれかえ01",
-            "date": "2022-12-01",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20619",
-            "price": 80,
-            "name": "ポケモンいれかえ01",
-            "date": "2022-12-01",
-            "stock": 56
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/28384",
             "price": 1080,
             "name": "ポケモンいれかえ01",
-            "date": "2022-12-01",
+            "date": "2022-12-02",
             "stock": 1
         },
         {
@@ -397,7 +397,7 @@
             "link": "/shop/g/g012-019-SGG-G/",
             "price": 88,
             "name": "【ポケカ】ＳＳ）Ｒ仕",
-            "date": "2022-12-01",
+            "date": "2022-12-02",
             "stock": 2
         }
     ]

@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/19182",
             "price": 250,
             "name": "ガラルファイヤーV(",
+            "date": "2022-12-09",
+            "stock": 56
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/19039",
+            "price": 50,
+            "name": "ガラルファイヤーV0",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19182",
+            "price": 250,
+            "name": "ガラルファイヤーV(",
             "date": "2022-12-08",
             "stock": 56
         },
@@ -71,22 +87,6 @@
             "name": "ガラルファイヤーV(",
             "date": "2022-12-02",
             "stock": 56
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19182",
-            "price": 250,
-            "name": "ガラルファイヤーV(",
-            "date": "2022-12-01",
-            "stock": 56
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/19039",
-            "price": 50,
-            "name": "ガラルファイヤーV0",
-            "date": "2022-12-01",
-            "stock": 1
         }
     ]
 }
