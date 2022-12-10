@@ -2,6 +2,22 @@
     "items": [
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31172",
+            "price": 70,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18225",
+            "price": 80,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-10",
+            "stock": 21
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/18225",
             "price": 80,
             "name": "パワフル無色エネルギ",
@@ -42,19 +58,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18225",
-            "price": 80,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-05",
-            "stock": 21
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31172",
             "price": 70,
             "name": "パワフル無色エネルギ",
             "date": "2022-12-05",
             "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18225",
+            "price": 80,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-05",
+            "stock": 21
         },
         {
             "market": "hareruya2",
@@ -66,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18225",
-            "price": 80,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-04",
-            "stock": 21
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31172",
             "price": 70,
             "name": "パワフル無色エネルギ",
             "date": "2022-12-04",
             "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18225",
+            "price": 80,
+            "name": "パワフル無色エネルギ",
+            "date": "2022-12-04",
+            "stock": 21
         },
         {
             "market": "hareruya2",
@@ -94,22 +110,6 @@
             "price": 80,
             "name": "パワフル無色エネルギ",
             "date": "2022-12-03",
-            "stock": 21
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19133",
-            "price": 150,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18225",
-            "price": 80,
-            "name": "パワフル無色エネルギ",
-            "date": "2022-12-02",
             "stock": 21
         }
     ]

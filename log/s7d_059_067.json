@@ -2,11 +2,83 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/621604898",
+            "price": 500,
+            "name": "レスキューキャリー ",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/658161581",
+            "price": 800,
+            "name": "レスキューキャリー ",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1773764231",
+            "price": 1500,
+            "name": "レスキューキャリー ",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1239098093",
+            "price": 2000,
+            "name": "レスキューキャリー ",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/440056756",
+            "price": 1000,
+            "name": "レスキューキャリー ",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/451212719",
+            "price": 455,
+            "name": "レスキューキャリー ",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1727282122",
             "price": 1200,
             "name": "レスキューキャリー ",
-            "date": "2022-12-09",
+            "date": "2022-12-10",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21272",
+            "price": 80,
+            "name": "レスキューキャリー0",
+            "date": "2022-12-10",
+            "stock": 143
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32251",
+            "price": 70,
+            "name": "レスキューキャリー0",
+            "date": "2022-12-10",
+            "stock": 6
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g059-067-S7D-B/",
+            "price": 110,
+            "name": "【ポケカ】Ｕ◇レスキ",
+            "date": "2022-12-10",
+            "stock": 15
         },
         {
             "market": "magi",
@@ -18,16 +90,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/621604898",
-            "price": 500,
-            "name": "レスキューキャリー ",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1773764231",
-            "price": 1500,
+            "link": "/items/440056756",
+            "price": 1000,
             "name": "レスキューキャリー ",
             "date": "2022-12-09",
             "stock": 1
@@ -42,8 +106,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/440056756",
-            "price": 1000,
+            "link": "/items/1773764231",
+            "price": 1500,
+            "name": "レスキューキャリー ",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1727282122",
+            "price": 1200,
             "name": "レスキューキャリー ",
             "date": "2022-12-09",
             "stock": 1
@@ -57,12 +129,12 @@
             "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21272",
-            "price": 80,
-            "name": "レスキューキャリー0",
+            "market": "magi",
+            "link": "/items/621604898",
+            "price": 500,
+            "name": "レスキューキャリー ",
             "date": "2022-12-09",
-            "stock": 148
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -71,6 +143,14 @@
             "name": "レスキューキャリー0",
             "date": "2022-12-09",
             "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21272",
+            "price": 80,
+            "name": "レスキューキャリー0",
+            "date": "2022-12-09",
+            "stock": 148
         },
         {
             "market": "torecolo",
@@ -82,32 +162,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1773764231",
-            "price": 1500,
-            "name": "レスキューキャリー ",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/621604898",
-            "price": 500,
-            "name": "レスキューキャリー ",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/658161581",
-            "price": 800,
-            "name": "レスキューキャリー ",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/451212719",
             "price": 460,
+            "name": "レスキューキャリー ",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1239098093",
+            "price": 2000,
             "name": "レスキューキャリー ",
             "date": "2022-12-08",
             "stock": 1
@@ -122,16 +186,32 @@
         },
         {
             "market": "magi",
-            "link": "/items/1727282122",
-            "price": 1200,
+            "link": "/items/658161581",
+            "price": 800,
             "name": "レスキューキャリー ",
             "date": "2022-12-08",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1239098093",
-            "price": 2000,
+            "link": "/items/621604898",
+            "price": 500,
+            "name": "レスキューキャリー ",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1773764231",
+            "price": 1500,
+            "name": "レスキューキャリー ",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1727282122",
+            "price": 1200,
             "name": "レスキューキャリー ",
             "date": "2022-12-08",
             "stock": 1
@@ -154,32 +234,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1773764231",
-            "price": 1500,
-            "name": "レスキューキャリー ",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1239098093",
-            "price": 2000,
-            "name": "レスキューキャリー ",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/621604898",
-            "price": 500,
-            "name": "レスキューキャリー ",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1727282122",
-            "price": 1200,
+            "link": "/items/451212719",
+            "price": 460,
             "name": "レスキューキャリー ",
             "date": "2022-12-07",
             "stock": 1
@@ -194,8 +250,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/451212719",
-            "price": 460,
+            "link": "/items/1727282122",
+            "price": 1200,
             "name": "レスキューキャリー ",
             "date": "2022-12-07",
             "stock": 1
@@ -204,6 +260,30 @@
             "market": "magi",
             "link": "/items/440056756",
             "price": 1000,
+            "name": "レスキューキャリー ",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1239098093",
+            "price": 2000,
+            "name": "レスキューキャリー ",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1773764231",
+            "price": 1500,
+            "name": "レスキューキャリー ",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/621604898",
+            "price": 500,
             "name": "レスキューキャリー ",
             "date": "2022-12-07",
             "stock": 1
@@ -226,6 +306,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/440056756",
+            "price": 1000,
+            "name": "レスキューキャリー ",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/451212719",
             "price": 460,
             "name": "レスキューキャリー ",
@@ -242,8 +330,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1239098093",
-            "price": 2000,
+            "link": "/items/1773764231",
+            "price": 1500,
             "name": "レスキューキャリー ",
             "date": "2022-12-06",
             "stock": 1
@@ -266,16 +354,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1773764231",
-            "price": 1500,
-            "name": "レスキューキャリー ",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/440056756",
-            "price": 1000,
+            "link": "/items/1239098093",
+            "price": 2000,
             "name": "レスキューキャリー ",
             "date": "2022-12-06",
             "stock": 1
@@ -298,48 +378,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/658161581",
-            "price": 800,
-            "name": "レスキューキャリー ",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/588066974",
-            "price": 400,
-            "name": "レスキューキャリー ",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1727282122",
-            "price": 1200,
-            "name": "レスキューキャリー ",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/621604898",
-            "price": 500,
-            "name": "レスキューキャリー ",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/440056756",
-            "price": 1000,
-            "name": "レスキューキャリー ",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/451212719",
-            "price": 460,
+            "link": "/items/1239098093",
+            "price": 2000,
             "name": "レスキューキャリー ",
             "date": "2022-12-05",
             "stock": 1
@@ -354,8 +394,48 @@
         },
         {
             "market": "magi",
-            "link": "/items/1239098093",
-            "price": 2000,
+            "link": "/items/451212719",
+            "price": 460,
+            "name": "レスキューキャリー ",
+            "date": "2022-12-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/440056756",
+            "price": 1000,
+            "name": "レスキューキャリー ",
+            "date": "2022-12-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/621604898",
+            "price": 500,
+            "name": "レスキューキャリー ",
+            "date": "2022-12-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1727282122",
+            "price": 1200,
+            "name": "レスキューキャリー ",
+            "date": "2022-12-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/588066974",
+            "price": 400,
+            "name": "レスキューキャリー ",
+            "date": "2022-12-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/658161581",
+            "price": 800,
             "name": "レスキューキャリー ",
             "date": "2022-12-05",
             "stock": 1
@@ -375,6 +455,14 @@
             "name": "【ポケカ】Ｕ◇レスキ",
             "date": "2022-12-05",
             "stock": 15
+        },
+        {
+            "market": "magi",
+            "link": "/items/1773764231",
+            "price": 1500,
+            "name": "レスキューキャリー ",
+            "date": "2022-12-04",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -404,14 +492,6 @@
             "market": "magi",
             "link": "/items/440056756",
             "price": 1000,
-            "name": "レスキューキャリー ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1773764231",
-            "price": 1500,
             "name": "レスキューキャリー ",
             "date": "2022-12-04",
             "stock": 1
@@ -458,16 +538,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/588066974",
-            "price": 400,
-            "name": "レスキューキャリー ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1727282122",
-            "price": 1200,
+            "link": "/items/1239098093",
+            "price": 2000,
             "name": "レスキューキャリー ",
             "date": "2022-12-03",
             "stock": 1
@@ -490,14 +562,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/621604898",
-            "price": 500,
-            "name": "レスキューキャリー ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/658161581",
             "price": 800,
             "name": "レスキューキャリー ",
@@ -506,8 +570,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1239098093",
-            "price": 2000,
+            "link": "/items/621604898",
+            "price": 500,
             "name": "レスキューキャリー ",
             "date": "2022-12-03",
             "stock": 1
@@ -516,6 +580,22 @@
             "market": "magi",
             "link": "/items/451212719",
             "price": 470,
+            "name": "レスキューキャリー ",
+            "date": "2022-12-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/588066974",
+            "price": 400,
+            "name": "レスキューキャリー ",
+            "date": "2022-12-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1727282122",
+            "price": 1200,
             "name": "レスキューキャリー ",
             "date": "2022-12-03",
             "stock": 1
@@ -534,94 +614,6 @@
             "price": 275,
             "name": "【ポケカ】Ｕ◇レスキ",
             "date": "2022-12-03",
-            "stock": 15
-        },
-        {
-            "market": "magi",
-            "link": "/items/1239098093",
-            "price": 2000,
-            "name": "レスキューキャリー ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/451212719",
-            "price": 475,
-            "name": "レスキューキャリー ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/621604898",
-            "price": 500,
-            "name": "レスキューキャリー ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/440056756",
-            "price": 1000,
-            "name": "レスキューキャリー ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/658161581",
-            "price": 800,
-            "name": "レスキューキャリー ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1727282122",
-            "price": 1200,
-            "name": "レスキューキャリー ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/588066974",
-            "price": 400,
-            "name": "レスキューキャリー ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1773764231",
-            "price": 1500,
-            "name": "レスキューキャリー ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21272",
-            "price": 120,
-            "name": "レスキューキャリー0",
-            "date": "2022-12-02",
-            "stock": 196
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37970",
-            "price": 80,
-            "name": "レスキューキャリー0",
-            "date": "2022-12-02",
-            "stock": 11
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g059-067-S7D-B/",
-            "price": 275,
-            "name": "【ポケカ】Ｕ◇レスキ",
-            "date": "2022-12-02",
             "stock": 15
         }
     ]

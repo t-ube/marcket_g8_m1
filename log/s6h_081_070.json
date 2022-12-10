@@ -2,10 +2,66 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/986107371",
+            "price": 800,
+            "name": "ドクター SR 08",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1391328738",
             "price": 1000,
             "name": "ドクター SR 08",
-            "date": "2022-12-09",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2047354789",
+            "price": 699,
+            "name": "ドクター SR 08",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/637309684",
+            "price": 1600,
+            "name": "ポケカ　ドクター(0",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19314",
+            "price": 1300,
+            "name": "ドクター(SR){サ",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20201",
+            "price": 1280,
+            "name": "ドクター081/07",
+            "date": "2022-12-10",
+            "stock": 13
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31934",
+            "price": 1090,
+            "name": "ドクター081/07",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g081-070-S6H-B/",
+            "price": 1210,
+            "name": "【ポケカ】ＳＲ◇ドク",
+            "date": "2022-12-10",
             "stock": 1
         },
         {
@@ -18,9 +74,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/637309684",
-            "price": 1600,
-            "name": "ポケカ　ドクター(0",
+            "link": "/items/1391328738",
+            "price": 1000,
+            "name": "ドクター SR 08",
             "date": "2022-12-09",
             "stock": 1
         },
@@ -29,6 +85,14 @@
             "link": "/items/986107371",
             "price": 800,
             "name": "ドクター SR 08",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/637309684",
+            "price": 1600,
+            "name": "ポケカ　ドクター(0",
             "date": "2022-12-09",
             "stock": 1
         },
@@ -98,16 +162,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/2047354789",
-            "price": 699,
+            "link": "/items/986107371",
+            "price": 809,
             "name": "ドクター SR 08",
             "date": "2022-12-07",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/986107371",
-            "price": 809,
+            "link": "/items/2047354789",
+            "price": 699,
             "name": "ドクター SR 08",
             "date": "2022-12-07",
             "stock": 1
@@ -146,6 +210,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/986107371",
+            "price": 809,
+            "name": "ドクター SR 08",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/637309684",
             "price": 1600,
             "name": "ポケカ　ドクター(0",
@@ -156,14 +228,6 @@
             "market": "magi",
             "link": "/items/2047354789",
             "price": 699,
-            "name": "ドクター SR 08",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/986107371",
-            "price": 809,
             "name": "ドクター SR 08",
             "date": "2022-12-06",
             "stock": 1
@@ -202,14 +266,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/986107371",
-            "price": 809,
-            "name": "ドクター SR 08",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/637309684",
             "price": 1700,
             "name": "ポケカ　ドクター(0",
@@ -217,6 +273,14 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/986107371",
+            "price": 809,
+            "name": "ドクター SR 08",
+            "date": "2022-12-05",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19314",
             "price": 1300,
@@ -266,19 +330,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20201",
-            "price": 1280,
-            "name": "ドクター081/07",
-            "date": "2022-12-04",
-            "stock": 13
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31934",
             "price": 1090,
             "name": "ドクター081/07",
             "date": "2022-12-04",
             "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20201",
+            "price": 1280,
+            "name": "ドクター081/07",
+            "date": "2022-12-04",
+            "stock": 13
         },
         {
             "market": "torecolo",
@@ -326,46 +390,6 @@
             "price": 1100,
             "name": "【ポケカ】ＳＲ◇ドク",
             "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/986107371",
-            "price": 836,
-            "name": "ドクター SR 08",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19314",
-            "price": 1300,
-            "name": "ドクター(SR){サ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20201",
-            "price": 1280,
-            "name": "ドクター081/07",
-            "date": "2022-12-02",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31934",
-            "price": 1090,
-            "name": "ドクター081/07",
-            "date": "2022-12-02",
-            "stock": 3
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g081-070-S6H-B/",
-            "price": 1100,
-            "name": "【ポケカ】ＳＲ◇ドク",
-            "date": "2022-12-02",
             "stock": 1
         }
     ]

@@ -1,6 +1,22 @@
 ﻿{
     "items": [
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18055",
+            "price": 80,
+            "name": "アイアント003/0",
+            "date": "2022-12-10",
+            "stock": 3
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g003-070-S5I-B/",
+            "price": 77,
+            "name": "【ポケカ】Ｃ◇アイア",
+            "date": "2022-12-10",
+            "stock": 2
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18925",
             "price": 150,
@@ -166,30 +182,6 @@
             "price": 77,
             "name": "【ポケカ】Ｃ◇アイア",
             "date": "2022-12-03",
-            "stock": 6
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18925",
-            "price": 150,
-            "name": "アイアント(C){草",
-            "date": "2022-12-02",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18055",
-            "price": 80,
-            "name": "アイアント003/0",
-            "date": "2022-12-02",
-            "stock": 24
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g003-070-S5I-B/",
-            "price": 77,
-            "name": "【ポケカ】Ｃ◇アイア",
-            "date": "2022-12-02",
             "stock": 6
         }
     ]

@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/19723",
             "price": 300,
             "name": "ウルガモスV(RR)",
+            "date": "2022-12-10",
+            "stock": 25
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21295",
+            "price": 280,
+            "name": "ウルガモスV015/",
+            "date": "2022-12-10",
+            "stock": 35
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32267",
+            "price": 250,
+            "name": "ウルガモスV015/",
+            "date": "2022-12-10",
+            "stock": 2
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19723",
+            "price": 300,
+            "name": "ウルガモスV(RR)",
             "date": "2022-12-09",
             "stock": 25
         },
@@ -58,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21295",
-            "price": 280,
-            "name": "ウルガモスV015/",
-            "date": "2022-12-07",
-            "stock": 39
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32267",
             "price": 250,
             "name": "ウルガモスV015/",
             "date": "2022-12-07",
             "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21295",
+            "price": 280,
+            "name": "ウルガモスV015/",
+            "date": "2022-12-07",
+            "stock": 39
         },
         {
             "market": "magi",
@@ -167,30 +191,6 @@
             "name": "ウルガモスV015/",
             "date": "2022-12-03",
             "stock": 35
-        },
-        {
-            "market": "magi",
-            "link": "/items/797528593",
-            "price": 280,
-            "name": "ウルガモスV RR ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19723",
-            "price": 300,
-            "name": "ウルガモスV(RR)",
-            "date": "2022-12-02",
-            "stock": 25
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21295",
-            "price": 280,
-            "name": "ウルガモスV015/",
-            "date": "2022-12-02",
-            "stock": 31
         }
     ]
 }

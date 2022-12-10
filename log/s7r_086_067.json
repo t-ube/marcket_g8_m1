@@ -2,6 +2,22 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/139217339",
+            "price": 1480,
+            "name": "ヒガナの決意 086",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21486",
+            "price": 1780,
+            "name": "ヒガナの決意086/",
+            "date": "2022-12-10",
+            "stock": 6
+        },
+        {
+            "market": "magi",
             "link": "/items/942635098",
             "price": 1300,
             "name": "ヒガナの決意 HR ",
@@ -26,17 +42,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/139217339",
-            "price": 1480,
-            "name": "ヒガナの決意 086",
+            "link": "/items/942635098",
+            "price": 1300,
+            "name": "ヒガナの決意 HR ",
             "date": "2022-12-08",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/942635098",
-            "price": 1300,
-            "name": "ヒガナの決意 HR ",
+            "link": "/items/139217339",
+            "price": 1480,
+            "name": "ヒガナの決意 086",
             "date": "2022-12-08",
             "stock": 1
         },
@@ -127,30 +143,6 @@
             "name": "ヒガナの決意086/",
             "date": "2022-12-03",
             "stock": 10
-        },
-        {
-            "market": "magi",
-            "link": "/items/139217339",
-            "price": 1480,
-            "name": "ヒガナの決意 086",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19872",
-            "price": 2200,
-            "name": "ヒガナの決意(HR)",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21486",
-            "price": 1780,
-            "name": "ヒガナの決意086/",
-            "date": "2022-12-02",
-            "stock": 11
         }
     ]
 }

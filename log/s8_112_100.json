@@ -2,6 +2,86 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/528064997",
+            "price": 1100,
+            "name": "カゲツ SR 112",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1065641085",
+            "price": 1900,
+            "name": "カゲツ SR 112",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/166750031",
+            "price": 500,
+            "name": "カゲツ SR 112",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/536716958",
+            "price": 560,
+            "name": "カゲツ SR　112",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20485",
+            "price": 800,
+            "name": "カゲツ(SR){サポ",
+            "date": "2022-12-10",
+            "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22197",
+            "price": 780,
+            "name": "カゲツ112/100",
+            "date": "2022-12-10",
+            "stock": 104
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32581",
+            "price": 680,
+            "name": "カゲツ112/100",
+            "date": "2022-12-10",
+            "stock": 21
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24067",
+            "price": 480,
+            "name": "カゲツ112/100",
+            "date": "2022-12-10",
+            "stock": 2
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g112-100-S8-B/",
+            "price": 770,
+            "name": "【ポケカ】ＳＲ◇カゲ",
+            "date": "2022-12-10",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/1065641085",
+            "price": 1900,
+            "name": "カゲツ SR 112",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/536716958",
             "price": 560,
             "name": "カゲツ SR　112",
@@ -12,14 +92,6 @@
             "market": "magi",
             "link": "/items/166750031",
             "price": 500,
-            "name": "カゲツ SR 112",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1065641085",
-            "price": 1900,
             "name": "カゲツ SR 112",
             "date": "2022-12-09",
             "stock": 1
@@ -47,6 +119,14 @@
             "name": "カゲツ112/100",
             "date": "2022-12-09",
             "stock": 21
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24067",
+            "price": 480,
+            "name": "カゲツ112/100",
+            "date": "2022-12-09",
+            "stock": 2
         },
         {
             "market": "cardrush",
@@ -57,14 +137,6 @@
             "stock": 91
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24067",
-            "price": 480,
-            "name": "カゲツ112/100",
-            "date": "2022-12-09",
-            "stock": 2
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g112-100-S8-B/",
             "price": 770,
@@ -82,14 +154,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1065641085",
-            "price": 1900,
-            "name": "カゲツ SR 112",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/166750031",
             "price": 500,
             "name": "カゲツ SR 112",
@@ -105,28 +169,20 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/1065641085",
+            "price": 1900,
+            "name": "カゲツ SR 112",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/20485",
             "price": 800,
             "name": "カゲツ(SR){サポ",
             "date": "2022-12-08",
             "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22197",
-            "price": 780,
-            "name": "カゲツ112/100",
-            "date": "2022-12-08",
-            "stock": 88
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32581",
-            "price": 680,
-            "name": "カゲツ112/100",
-            "date": "2022-12-08",
-            "stock": 21
         },
         {
             "market": "cardrush",
@@ -137,6 +193,22 @@
             "stock": 2
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32581",
+            "price": 680,
+            "name": "カゲツ112/100",
+            "date": "2022-12-08",
+            "stock": 21
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22197",
+            "price": 780,
+            "name": "カゲツ112/100",
+            "date": "2022-12-08",
+            "stock": 88
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g112-100-S8-B/",
             "price": 770,
@@ -146,8 +218,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/528064997",
-            "price": 1100,
+            "link": "/items/166750031",
+            "price": 500,
+            "name": "カゲツ SR 112",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1065641085",
+            "price": 1900,
             "name": "カゲツ SR 112",
             "date": "2022-12-07",
             "stock": 1
@@ -162,16 +242,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1065641085",
-            "price": 1900,
-            "name": "カゲツ SR 112",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/166750031",
-            "price": 500,
+            "link": "/items/528064997",
+            "price": 1100,
             "name": "カゲツ SR 112",
             "date": "2022-12-07",
             "stock": 1
@@ -226,9 +298,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1065641085",
-            "price": 1900,
-            "name": "カゲツ SR 112",
+            "link": "/items/536716958",
+            "price": 560,
+            "name": "カゲツ SR　112",
             "date": "2022-12-06",
             "stock": 1
         },
@@ -242,9 +314,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/536716958",
-            "price": 560,
-            "name": "カゲツ SR　112",
+            "link": "/items/1065641085",
+            "price": 1900,
+            "name": "カゲツ SR 112",
             "date": "2022-12-06",
             "stock": 1
         },
@@ -258,11 +330,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32581",
-            "price": 680,
+            "link": "https://www.cardrush-pokemon.jp/product/22197",
+            "price": 780,
             "name": "カゲツ112/100",
             "date": "2022-12-06",
-            "stock": 21
+            "stock": 88
         },
         {
             "market": "cardrush",
@@ -274,11 +346,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22197",
-            "price": 780,
+            "link": "https://www.cardrush-pokemon.jp/product/32581",
+            "price": 680,
             "name": "カゲツ112/100",
             "date": "2022-12-06",
-            "stock": 88
+            "stock": 21
         },
         {
             "market": "torecolo",
@@ -287,6 +359,22 @@
             "name": "【ポケカ】ＳＲ◇カゲ",
             "date": "2022-12-06",
             "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/536716958",
+            "price": 560,
+            "name": "カゲツ SR　112",
+            "date": "2022-12-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1065641085",
+            "price": 1900,
+            "name": "カゲツ SR 112",
+            "date": "2022-12-05",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -301,22 +389,6 @@
             "link": "/items/166750031",
             "price": 500,
             "name": "カゲツ SR 112",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1065641085",
-            "price": 1900,
-            "name": "カゲツ SR 112",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/536716958",
-            "price": 560,
-            "name": "カゲツ SR　112",
             "date": "2022-12-05",
             "stock": 1
         },
@@ -362,6 +434,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/528064997",
+            "price": 1100,
+            "name": "カゲツ SR 112",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/536716958",
             "price": 560,
             "name": "カゲツ SR　112",
@@ -372,14 +452,6 @@
             "market": "magi",
             "link": "/items/166750031",
             "price": 500,
-            "name": "カゲツ SR 112",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/528064997",
-            "price": 1100,
             "name": "カゲツ SR 112",
             "date": "2022-12-04",
             "stock": 1
@@ -431,6 +503,22 @@
             "name": "【ポケカ】ＳＲ◇カゲ",
             "date": "2022-12-04",
             "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/166750031",
+            "price": 500,
+            "name": "カゲツ SR 112",
+            "date": "2022-12-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1065641085",
+            "price": 1900,
+            "name": "カゲツ SR 112",
+            "date": "2022-12-03",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -457,28 +545,20 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/1065641085",
-            "price": 1900,
-            "name": "カゲツ SR 112",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/166750031",
-            "price": 500,
-            "name": "カゲツ SR 112",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/20485",
             "price": 800,
             "name": "カゲツ(SR){サポ",
             "date": "2022-12-03",
             "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24067",
+            "price": 480,
+            "name": "カゲツ112/100",
+            "date": "2022-12-03",
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -490,14 +570,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24067",
-            "price": 480,
-            "name": "カゲツ112/100",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32581",
             "price": 680,
             "name": "カゲツ112/100",
@@ -510,86 +582,6 @@
             "price": 770,
             "name": "【ポケカ】ＳＲ◇カゲ",
             "date": "2022-12-03",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/166750031",
-            "price": 500,
-            "name": "カゲツ SR 112",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/528064997",
-            "price": 1100,
-            "name": "カゲツ SR 112",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/528034829",
-            "price": 450,
-            "name": "カゲツ SR 112",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/536716958",
-            "price": 560,
-            "name": "カゲツ SR　112",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1065641085",
-            "price": 1900,
-            "name": "カゲツ SR 112",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20485",
-            "price": 800,
-            "name": "カゲツ(SR){サポ",
-            "date": "2022-12-02",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32581",
-            "price": 680,
-            "name": "カゲツ112/100",
-            "date": "2022-12-02",
-            "stock": 20
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22197",
-            "price": 780,
-            "name": "カゲツ112/100",
-            "date": "2022-12-02",
-            "stock": 103
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24067",
-            "price": 480,
-            "name": "カゲツ112/100",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g112-100-S8-B/",
-            "price": 770,
-            "name": "【ポケカ】ＳＲ◇カゲ",
-            "date": "2022-12-02",
             "stock": 2
         }
     ]

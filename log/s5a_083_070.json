@@ -2,6 +2,62 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1778974460",
+            "price": 2500,
+            "name": "セイボリー SR 0",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1823116538",
+            "price": 3200,
+            "name": "セイボリー SR 双",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1455744477",
+            "price": 3759,
+            "name": "〔状態A-〕セイボリ",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/419216250",
+            "price": 4494,
+            "name": "セイボリー【SR】{",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/19000",
+            "price": 4280,
+            "name": "セイボリー083/0",
+            "date": "2022-12-10",
+            "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31599",
+            "price": 3580,
+            "name": "セイボリー083/0",
+            "date": "2022-12-10",
+            "stock": 7
+        },
+        {
+            "market": "magi",
+            "link": "/items/419216250",
+            "price": 4494,
+            "name": "セイボリー【SR】{",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1823116538",
             "price": 3200,
             "name": "セイボリー SR 双",
@@ -13,14 +69,6 @@
             "link": "/items/1455744477",
             "price": 3759,
             "name": "〔状態A-〕セイボリ",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/419216250",
-            "price": 4494,
-            "name": "セイボリー【SR】{",
             "date": "2022-12-09",
             "stock": 1
         },
@@ -90,9 +138,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1823116538",
-            "price": 3200,
-            "name": "セイボリー SR 双",
+            "link": "/items/1455744477",
+            "price": 3759,
+            "name": "〔状態A-〕セイボリ",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/419216250",
+            "price": 4494,
+            "name": "セイボリー【SR】{",
             "date": "2022-12-07",
             "stock": 1
         },
@@ -106,27 +162,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/419216250",
-            "price": 4494,
-            "name": "セイボリー【SR】{",
+            "link": "/items/1823116538",
+            "price": 3200,
+            "name": "セイボリー SR 双",
             "date": "2022-12-07",
             "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1455744477",
-            "price": 3759,
-            "name": "〔状態A-〕セイボリ",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31599",
-            "price": 3580,
-            "name": "セイボリー083/0",
-            "date": "2022-12-07",
-            "stock": 8
         },
         {
             "market": "cardrush",
@@ -137,10 +177,26 @@
             "stock": 8
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31599",
+            "price": 3580,
+            "name": "セイボリー083/0",
+            "date": "2022-12-07",
+            "stock": 8
+        },
+        {
             "market": "magi",
-            "link": "/items/1823116538",
-            "price": 3200,
-            "name": "セイボリー SR 双",
+            "link": "/items/419216250",
+            "price": 4494,
+            "name": "セイボリー【SR】{",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1455744477",
+            "price": 3759,
+            "name": "〔状態A-〕セイボリ",
             "date": "2022-12-06",
             "stock": 1
         },
@@ -154,32 +210,24 @@
         },
         {
             "market": "magi",
-            "link": "/items/419216250",
-            "price": 4494,
-            "name": "セイボリー【SR】{",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1455744477",
-            "price": 3759,
-            "name": "〔状態A-〕セイボリ",
+            "link": "/items/1823116538",
+            "price": 3200,
+            "name": "セイボリー SR 双",
             "date": "2022-12-06",
             "stock": 1
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31599",
-            "price": 3580,
+            "link": "https://www.cardrush-pokemon.jp/product/19000",
+            "price": 4280,
             "name": "セイボリー083/0",
             "date": "2022-12-06",
             "stock": 8
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/19000",
-            "price": 4280,
+            "link": "https://www.cardrush-pokemon.jp/product/31599",
+            "price": 3580,
             "name": "セイボリー083/0",
             "date": "2022-12-06",
             "stock": 8
@@ -194,14 +242,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1823116538",
-            "price": 3200,
-            "name": "セイボリー SR 双",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1455744477",
             "price": 3759,
             "name": "〔状態A-〕セイボリ",
@@ -217,12 +257,12 @@
             "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31599",
-            "price": 3580,
-            "name": "セイボリー083/0",
+            "market": "magi",
+            "link": "/items/1823116538",
+            "price": 3200,
+            "name": "セイボリー SR 双",
             "date": "2022-12-05",
-            "stock": 8
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -233,18 +273,18 @@
             "stock": 8
         },
         {
-            "market": "magi",
-            "link": "/items/419216250",
-            "price": 4494,
-            "name": "セイボリー【SR】{",
-            "date": "2022-12-04",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31599",
+            "price": 3580,
+            "name": "セイボリー083/0",
+            "date": "2022-12-05",
+            "stock": 8
         },
         {
             "market": "magi",
-            "link": "/items/1455744477",
-            "price": 3759,
-            "name": "〔状態A-〕セイボリ",
+            "link": "/items/1778974460",
+            "price": 3000,
+            "name": "セイボリー SR 0",
             "date": "2022-12-04",
             "stock": 1
         },
@@ -258,9 +298,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1778974460",
-            "price": 3000,
-            "name": "セイボリー SR 0",
+            "link": "/items/1455744477",
+            "price": 3759,
+            "name": "〔状態A-〕セイボリ",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/419216250",
+            "price": 4494,
+            "name": "セイボリー【SR】{",
             "date": "2022-12-04",
             "stock": 1
         },
@@ -282,6 +330,30 @@
         },
         {
             "market": "magi",
+            "link": "/items/1455744477",
+            "price": 3759,
+            "name": "〔状態A-〕セイボリ",
+            "date": "2022-12-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/419216250",
+            "price": 4494,
+            "name": "セイボリー【SR】{",
+            "date": "2022-12-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1823116538",
+            "price": 3200,
+            "name": "セイボリー SR 双",
+            "date": "2022-12-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1778974460",
             "price": 3000,
             "name": "セイボリー SR 0",
@@ -289,38 +361,6 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/1823116538",
-            "price": 3200,
-            "name": "セイボリー SR 双",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/419216250",
-            "price": 4494,
-            "name": "セイボリー【SR】{",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1455744477",
-            "price": 3759,
-            "name": "〔状態A-〕セイボリ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/19000",
-            "price": 4280,
-            "name": "セイボリー083/0",
-            "date": "2022-12-03",
-            "stock": 9
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31599",
             "price": 3580,
@@ -329,52 +369,12 @@
             "stock": 8
         },
         {
-            "market": "magi",
-            "link": "/items/1455744477",
-            "price": 3759,
-            "name": "〔状態A-〕セイボリ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1823116538",
-            "price": 3200,
-            "name": "セイボリー SR 双",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/419216250",
-            "price": 4494,
-            "name": "セイボリー【SR】{",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19220",
-            "price": 4000,
-            "name": "セイボリー(SR){",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/19000",
             "price": 4280,
             "name": "セイボリー083/0",
-            "date": "2022-12-02",
+            "date": "2022-12-03",
             "stock": 9
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31599",
-            "price": 3580,
-            "name": "セイボリー083/0",
-            "date": "2022-12-02",
-            "stock": 8
         }
     ]
 }

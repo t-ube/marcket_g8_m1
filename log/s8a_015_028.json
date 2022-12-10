@@ -1,11 +1,35 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20586",
+            "price": 50,
+            "name": "コスモウム(-){超",
+            "date": "2022-12-10",
+            "stock": 275
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20709",
+            "price": 250,
+            "name": "コスモウム:ミラー(",
+            "date": "2022-12-10",
+            "stock": 25
+        },
+        {
+            "market": "magi",
+            "link": "/items/641628258",
+            "price": 350,
+            "name": "コスモウム(ミラー)",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
             "market": "magi",
             "link": "/items/921079664",
             "price": 150,
             "name": "【特価】コスモッグ(",
-            "date": "2022-12-09",
+            "date": "2022-12-10",
             "stock": 1
         },
         {
@@ -13,6 +37,38 @@
             "link": "/items/1588358905",
             "price": 300,
             "name": "コスモウム(ミラー)",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22360",
+            "price": 80,
+            "name": "コスモウム015/0",
+            "date": "2022-12-10",
+            "stock": 470
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g015-028-S8A-B/",
+            "price": 2,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1588358905",
+            "price": 300,
+            "name": "コスモウム(ミラー)",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/921079664",
+            "price": 150,
+            "name": "【特価】コスモッグ(",
             "date": "2022-12-09",
             "stock": 1
         },
@@ -58,9 +114,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/921079664",
-            "price": 150,
-            "name": "【特価】コスモッグ(",
+            "link": "/items/641628258",
+            "price": 350,
+            "name": "コスモウム(ミラー)",
             "date": "2022-12-08",
             "stock": 1
         },
@@ -74,9 +130,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/641628258",
-            "price": 350,
-            "name": "コスモウム(ミラー)",
+            "link": "/items/921079664",
+            "price": 150,
+            "name": "【特価】コスモッグ(",
             "date": "2022-12-08",
             "stock": 1
         },
@@ -114,16 +170,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/641628258",
-            "price": 350,
+            "link": "/items/1588358905",
+            "price": 300,
             "name": "コスモウム(ミラー)",
             "date": "2022-12-07",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1588358905",
-            "price": 300,
+            "link": "/items/641628258",
+            "price": 350,
             "name": "コスモウム(ミラー)",
             "date": "2022-12-07",
             "stock": 1
@@ -138,19 +194,19 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20586",
-            "price": 50,
-            "name": "コスモウム(-){超",
-            "date": "2022-12-07",
-            "stock": 275
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/20709",
             "price": 250,
             "name": "コスモウム:ミラー(",
             "date": "2022-12-07",
             "stock": 25
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20586",
+            "price": 50,
+            "name": "コスモウム(-){超",
+            "date": "2022-12-07",
+            "stock": 275
         },
         {
             "market": "cardrush",
@@ -226,9 +282,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/641628258",
-            "price": 350,
-            "name": "コスモウム(ミラー)",
+            "link": "/items/921079664",
+            "price": 150,
+            "name": "【特価】コスモッグ(",
             "date": "2022-12-05",
             "stock": 1
         },
@@ -242,19 +298,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/921079664",
-            "price": 150,
-            "name": "【特価】コスモッグ(",
+            "link": "/items/641628258",
+            "price": 350,
+            "name": "コスモウム(ミラー)",
             "date": "2022-12-05",
             "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20586",
-            "price": 50,
-            "name": "コスモウム(-){超",
-            "date": "2022-12-05",
-            "stock": 275
         },
         {
             "market": "hareruya2",
@@ -263,6 +311,14 @@
             "name": "コスモウム:ミラー(",
             "date": "2022-12-05",
             "stock": 25
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20586",
+            "price": 50,
+            "name": "コスモウム(-){超",
+            "date": "2022-12-05",
+            "stock": 275
         },
         {
             "market": "cardrush",
@@ -282,9 +338,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/921079664",
-            "price": 150,
-            "name": "【特価】コスモッグ(",
+            "link": "/items/641628258",
+            "price": 350,
+            "name": "コスモウム(ミラー)",
             "date": "2022-12-04",
             "stock": 1
         },
@@ -298,19 +354,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/641628258",
-            "price": 350,
-            "name": "コスモウム(ミラー)",
+            "link": "/items/921079664",
+            "price": 150,
+            "name": "【特価】コスモッグ(",
             "date": "2022-12-04",
             "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20709",
-            "price": 250,
-            "name": "コスモウム:ミラー(",
-            "date": "2022-12-04",
-            "stock": 25
         },
         {
             "market": "hareruya2",
@@ -319,6 +367,14 @@
             "name": "コスモウム(-){超",
             "date": "2022-12-04",
             "stock": 275
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20709",
+            "price": 250,
+            "name": "コスモウム:ミラー(",
+            "date": "2022-12-04",
+            "stock": 25
         },
         {
             "market": "cardrush",
@@ -398,70 +454,6 @@
             "price": 2,
             "name": "【ポケカ】Ｃ）通常仕",
             "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/641628258",
-            "price": 350,
-            "name": "コスモウム(ミラー)",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/921079664",
-            "price": 150,
-            "name": "【特価】コスモッグ(",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1588358905",
-            "price": 300,
-            "name": "コスモウム(ミラー)",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20709",
-            "price": 250,
-            "name": "コスモウム:ミラー(",
-            "date": "2022-12-02",
-            "stock": 25
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20586",
-            "price": 50,
-            "name": "コスモウム(-){超",
-            "date": "2022-12-02",
-            "stock": 277
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22360",
-            "price": 80,
-            "name": "コスモウム015/0",
-            "date": "2022-12-02",
-            "stock": 473
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22420",
-            "price": 180,
-            "name": "コスモウム015/0",
-            "date": "2022-12-02",
-            "stock": 3
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g015-028-S8A-B/",
-            "price": 2,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-02",
             "stock": 1
         }
     ]
