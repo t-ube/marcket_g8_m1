@@ -5,6 +5,22 @@
             "link": "/items/104005216",
             "price": 300,
             "name": "マリィ TD 019",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17786",
+            "price": 80,
+            "name": "マリィ019/020",
+            "date": "2022-12-11",
+            "stock": 49
+        },
+        {
+            "market": "magi",
+            "link": "/items/104005216",
+            "price": 300,
+            "name": "マリィ TD 019",
             "date": "2022-12-10",
             "stock": 1
         },
@@ -110,22 +126,6 @@
             "price": 80,
             "name": "マリィ019/020",
             "date": "2022-12-04",
-            "stock": 52
-        },
-        {
-            "market": "magi",
-            "link": "/items/104005216",
-            "price": 300,
-            "name": "マリィ TD 019",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17786",
-            "price": 80,
-            "name": "マリィ019/020",
-            "date": "2022-12-03",
             "stock": 52
         }
     ]

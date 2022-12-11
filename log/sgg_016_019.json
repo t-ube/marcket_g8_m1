@@ -5,6 +5,22 @@
             "link": "/items/1317548340",
             "price": 350,
             "name": "ボスの指令[フラダリ",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20623",
+            "price": 120,
+            "name": "ボスの指令フラダリ0",
+            "date": "2022-12-11",
+            "stock": 91
+        },
+        {
+            "market": "magi",
+            "link": "/items/1317548340",
+            "price": 350,
+            "name": "ボスの指令[フラダリ",
             "date": "2022-12-10",
             "stock": 1
         },
@@ -111,22 +127,6 @@
             "name": "ボスの指令フラダリ0",
             "date": "2022-12-04",
             "stock": 89
-        },
-        {
-            "market": "magi",
-            "link": "/items/1317548340",
-            "price": 350,
-            "name": "ボスの指令[フラダリ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20623",
-            "price": 120,
-            "name": "ボスの指令フラダリ0",
-            "date": "2022-12-03",
-            "stock": 90
         }
     ]
 }

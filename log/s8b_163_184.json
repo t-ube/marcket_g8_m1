@@ -2,16 +2,80 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/738202146",
-            "price": 150,
+            "link": "/items/530946188",
+            "price": 100,
             "name": "ユウリ 163/18",
-            "date": "2022-12-10",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/590906989",
+            "price": 100,
+            "name": "ユウリ  163/1",
+            "date": "2022-12-11",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/444419515",
             "price": 180,
+            "name": "ユウリ 163/18",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/738202146",
+            "price": 150,
+            "name": "ユウリ 163/18",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21131",
+            "price": 100,
+            "name": "ユウリ(CP){サポ",
+            "date": "2022-12-11",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22942",
+            "price": 180,
+            "name": "ユウリ163/184",
+            "date": "2022-12-11",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22801",
+            "price": 80,
+            "name": "ユウリ163/184",
+            "date": "2022-12-11",
+            "stock": 180
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g163-184-S8B-B/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-11",
+            "stock": 50
+        },
+        {
+            "market": "magi",
+            "link": "/items/444419515",
+            "price": 180,
+            "name": "ユウリ 163/18",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/530946188",
+            "price": 100,
             "name": "ユウリ 163/18",
             "date": "2022-12-10",
             "stock": 1
@@ -26,8 +90,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/530946188",
-            "price": 100,
+            "link": "/items/738202146",
+            "price": 150,
             "name": "ユウリ 163/18",
             "date": "2022-12-10",
             "stock": 1
@@ -39,14 +103,6 @@
             "name": "ユウリ(CP){サポ",
             "date": "2022-12-10",
             "stock": 9
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22942",
-            "price": 180,
-            "name": "ユウリ163/184",
-            "date": "2022-12-10",
-            "stock": 2
         },
         {
             "market": "cardrush",
@@ -57,12 +113,12 @@
             "stock": 204
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g163-184-S8B-B/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）通常仕",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22942",
+            "price": 180,
+            "name": "ユウリ163/184",
             "date": "2022-12-10",
-            "stock": 51
+            "stock": 2
         },
         {
             "market": "torecolo",
@@ -73,12 +129,12 @@
             "stock": 2
         },
         {
-            "market": "magi",
-            "link": "/items/590906989",
-            "price": 100,
-            "name": "ユウリ  163/1",
-            "date": "2022-12-09",
-            "stock": 1
+            "market": "torecolo",
+            "link": "/shop/g/g163-184-S8B-B/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-10",
+            "stock": 51
         },
         {
             "market": "magi",
@@ -109,6 +165,14 @@
             "link": "/items/444419515",
             "price": 180,
             "name": "ユウリ 163/18",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/590906989",
+            "price": 100,
+            "name": "ユウリ  163/1",
             "date": "2022-12-09",
             "stock": 1
         },
@@ -122,14 +186,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22942",
-            "price": 180,
-            "name": "ユウリ163/184",
-            "date": "2022-12-09",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22801",
             "price": 80,
             "name": "ユウリ163/184",
@@ -137,12 +193,12 @@
             "stock": 211
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g163-184-S8B-B/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）通常仕",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22942",
+            "price": 180,
+            "name": "ユウリ163/184",
             "date": "2022-12-09",
-            "stock": 51
+            "stock": 3
         },
         {
             "market": "torecolo",
@@ -153,17 +209,17 @@
             "stock": 2
         },
         {
-            "market": "magi",
-            "link": "/items/590906989",
-            "price": 100,
-            "name": "ユウリ  163/1",
-            "date": "2022-12-08",
-            "stock": 1
+            "market": "torecolo",
+            "link": "/shop/g/g163-184-S8B-B/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-09",
+            "stock": 51
         },
         {
             "market": "magi",
-            "link": "/items/530946188",
-            "price": 100,
+            "link": "/items/444419515",
+            "price": 180,
             "name": "ユウリ 163/18",
             "date": "2022-12-08",
             "stock": 1
@@ -178,8 +234,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/444419515",
-            "price": 180,
+            "link": "/items/530946188",
+            "price": 100,
             "name": "ユウリ 163/18",
             "date": "2022-12-08",
             "stock": 1
@@ -189,6 +245,14 @@
             "link": "/items/738202146",
             "price": 150,
             "name": "ユウリ 163/18",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/590906989",
+            "price": 100,
+            "name": "ユウリ  163/1",
             "date": "2022-12-08",
             "stock": 1
         },
@@ -250,8 +314,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/444419515",
-            "price": 180,
+            "link": "/items/2008029801",
+            "price": 150,
             "name": "ユウリ 163/18",
             "date": "2022-12-07",
             "stock": 1
@@ -266,8 +330,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/2008029801",
-            "price": 150,
+            "link": "/items/444419515",
+            "price": 180,
             "name": "ユウリ 163/18",
             "date": "2022-12-07",
             "stock": 1
@@ -282,14 +346,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22942",
-            "price": 180,
-            "name": "ユウリ163/184",
-            "date": "2022-12-07",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22801",
             "price": 80,
             "name": "ユウリ163/184",
@@ -297,12 +353,12 @@
             "stock": 229
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g163-184-S8B-B/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）通常仕",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22942",
+            "price": 180,
+            "name": "ユウリ163/184",
             "date": "2022-12-07",
-            "stock": 51
+            "stock": 3
         },
         {
             "market": "torecolo",
@@ -313,25 +369,17 @@
             "stock": 2
         },
         {
-            "market": "magi",
-            "link": "/items/2008029801",
-            "price": 150,
-            "name": "ユウリ 163/18",
-            "date": "2022-12-06",
-            "stock": 1
+            "market": "torecolo",
+            "link": "/shop/g/g163-184-S8B-B/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-07",
+            "stock": 51
         },
         {
             "market": "magi",
-            "link": "/items/590906989",
-            "price": 100,
-            "name": "ユウリ  163/1",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/738202146",
-            "price": 150,
+            "link": "/items/444419515",
+            "price": 180,
             "name": "ユウリ 163/18",
             "date": "2022-12-06",
             "stock": 1
@@ -346,9 +394,25 @@
         },
         {
             "market": "magi",
-            "link": "/items/444419515",
-            "price": 180,
+            "link": "/items/738202146",
+            "price": 150,
             "name": "ユウリ 163/18",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2008029801",
+            "price": 150,
+            "name": "ユウリ 163/18",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/590906989",
+            "price": 100,
+            "name": "ユウリ  163/1",
             "date": "2022-12-06",
             "stock": 1
         },
@@ -394,6 +458,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/530946188",
+            "price": 100,
+            "name": "ユウリ 163/18",
+            "date": "2022-12-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/444419515",
             "price": 180,
             "name": "ユウリ 163/18",
@@ -429,14 +501,6 @@
             "link": "/items/590906989",
             "price": 100,
             "name": "ユウリ  163/1",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/530946188",
-            "price": 100,
-            "name": "ユウリ 163/18",
             "date": "2022-12-05",
             "stock": 1
         },
@@ -490,14 +554,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1757705452",
-            "price": 100,
-            "name": "ユウリ 163/18",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/530946188",
             "price": 100,
             "name": "ユウリ 163/18",
@@ -508,6 +564,30 @@
             "market": "magi",
             "link": "/items/738202146",
             "price": 150,
+            "name": "ユウリ 163/18",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1480122700",
+            "price": 100,
+            "name": "ユウリ 163/18",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/590906989",
+            "price": 100,
+            "name": "ユウリ  163/1",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1757705452",
+            "price": 100,
             "name": "ユウリ 163/18",
             "date": "2022-12-04",
             "stock": 1
@@ -529,26 +609,18 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/590906989",
-            "price": 100,
-            "name": "ユウリ  163/1",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1480122700",
-            "price": 100,
-            "name": "ユウリ 163/18",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21131",
             "price": 100,
             "name": "ユウリ(CP){サポ",
+            "date": "2022-12-04",
+            "stock": 16
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22942",
+            "price": 180,
+            "name": "ユウリ163/184",
             "date": "2022-12-04",
             "stock": 16
         },
@@ -561,14 +633,6 @@
             "stock": 366
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22942",
-            "price": 180,
-            "name": "ユウリ163/184",
-            "date": "2022-12-04",
-            "stock": 16
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g163-184-S8B-BM/",
             "price": 165,
@@ -583,102 +647,6 @@
             "name": "【ポケカ】Ｃ）通常仕",
             "date": "2022-12-04",
             "stock": 52
-        },
-        {
-            "market": "magi",
-            "link": "/items/1480122700",
-            "price": 100,
-            "name": "ユウリ 163/18",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/444419515",
-            "price": 180,
-            "name": "ユウリ 163/18",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1757705452",
-            "price": 100,
-            "name": "ユウリ 163/18",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/590906989",
-            "price": 100,
-            "name": "ユウリ  163/1",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2008029801",
-            "price": 150,
-            "name": "ユウリ 163/18",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/738202146",
-            "price": 150,
-            "name": "ユウリ 163/18",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/530946188",
-            "price": 100,
-            "name": "ユウリ 163/18",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21131",
-            "price": 100,
-            "name": "ユウリ(CP){サポ",
-            "date": "2022-12-03",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22801",
-            "price": 80,
-            "name": "ユウリ163/184",
-            "date": "2022-12-03",
-            "stock": 368
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22942",
-            "price": 180,
-            "name": "ユウリ163/184",
-            "date": "2022-12-03",
-            "stock": 16
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g163-184-S8B-B/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-03",
-            "stock": 52
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g163-184-S8B-BM/",
-            "price": 165,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-03",
-            "stock": 2
         }
     ]
 }

@@ -5,6 +5,38 @@
             "link": "/items/765693252",
             "price": 2200,
             "name": "メロン SR 274",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21418",
+            "price": 2500,
+            "name": "メロン(SR){サポ",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23050",
+            "price": 2180,
+            "name": "メロン274/184",
+            "date": "2022-12-11",
+            "stock": 88
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g274-184-S8B-B/",
+            "price": 1980,
+            "name": "【ポケカ】ＳＲ◇メロ",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/765693252",
+            "price": 2200,
+            "name": "メロン SR 274",
             "date": "2022-12-10",
             "stock": 1
         },
@@ -178,19 +210,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23141",
-            "price": 1880,
-            "name": "メロン274/184",
-            "date": "2022-12-05",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23050",
             "price": 2180,
             "name": "メロン274/184",
             "date": "2022-12-05",
             "stock": 64
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23141",
+            "price": 1880,
+            "name": "メロン274/184",
+            "date": "2022-12-05",
+            "stock": 2
         },
         {
             "market": "torecolo",
@@ -215,6 +247,14 @@
             "name": "メロン(SR){サポ",
             "date": "2022-12-04",
             "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23141",
+            "price": 1880,
+            "name": "メロン274/184",
+            "date": "2022-12-04",
+            "stock": 2
         },
         {
             "market": "cardrush",
@@ -225,59 +265,11 @@
             "stock": 62
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23141",
-            "price": 1880,
-            "name": "メロン274/184",
-            "date": "2022-12-04",
-            "stock": 2
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g274-184-S8B-B/",
             "price": 1980,
             "name": "【ポケカ】ＳＲ◇メロ",
             "date": "2022-12-04",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/765693252",
-            "price": 2200,
-            "name": "メロン SR 274",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21418",
-            "price": 2500,
-            "name": "メロン(SR){サポ",
-            "date": "2022-12-03",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23050",
-            "price": 2180,
-            "name": "メロン274/184",
-            "date": "2022-12-03",
-            "stock": 65
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23141",
-            "price": 1880,
-            "name": "メロン274/184",
-            "date": "2022-12-03",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g274-184-S8B-B/",
-            "price": 1980,
-            "name": "【ポケカ】ＳＲ◇メロ",
-            "date": "2022-12-03",
             "stock": 2
         }
     ]

@@ -2,11 +2,67 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1793030068",
+            "price": 350,
+            "name": "シャワーズ CHR ",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/998654029",
             "price": 1900,
             "name": "シャワーズ CHR ",
-            "date": "2022-12-10",
+            "date": "2022-12-11",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/662816383",
+            "price": 500,
+            "name": "イーブイ CHR 2",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1023395426",
+            "price": 430,
+            "name": "シャワーズ CHR ",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21336",
+            "price": 400,
+            "name": "シャワーズ(CHR)",
+            "date": "2022-12-11",
+            "stock": 277
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22968",
+            "price": 380,
+            "name": "シャワーズ189/1",
+            "date": "2022-12-11",
+            "stock": 23
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33006",
+            "price": 330,
+            "name": "シャワーズ189/1",
+            "date": "2022-12-11",
+            "stock": 2
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g189-184-S8B-B/",
+            "price": 330,
+            "name": "【ポケカ】ＣＨＲ◇シ",
+            "date": "2022-12-11",
+            "stock": 11
         },
         {
             "market": "magi",
@@ -18,17 +74,25 @@
         },
         {
             "market": "magi",
-            "link": "/items/1023395426",
-            "price": 430,
+            "link": "/items/662816383",
+            "price": 500,
+            "name": "イーブイ CHR 2",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/998654029",
+            "price": 1900,
             "name": "シャワーズ CHR ",
             "date": "2022-12-10",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/662816383",
-            "price": 500,
-            "name": "イーブイ CHR 2",
+            "link": "/items/1023395426",
+            "price": 430,
+            "name": "シャワーズ CHR ",
             "date": "2022-12-10",
             "stock": 1
         },
@@ -74,8 +138,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1793030068",
-            "price": 350,
+            "link": "/items/998654029",
+            "price": 1900,
             "name": "シャワーズ CHR ",
             "date": "2022-12-09",
             "stock": 1
@@ -90,8 +154,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/998654029",
-            "price": 1900,
+            "link": "/items/1793030068",
+            "price": 350,
             "name": "シャワーズ CHR ",
             "date": "2022-12-09",
             "stock": 1
@@ -103,14 +167,6 @@
             "name": "シャワーズ(CHR)",
             "date": "2022-12-09",
             "stock": 277
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33006",
-            "price": 330,
-            "name": "シャワーズ189/1",
-            "date": "2022-12-09",
-            "stock": 3
         },
         {
             "market": "cardrush",
@@ -121,6 +177,14 @@
             "stock": 35
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33006",
+            "price": 330,
+            "name": "シャワーズ189/1",
+            "date": "2022-12-09",
+            "stock": 3
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g189-184-S8B-B/",
             "price": 330,
@@ -130,16 +194,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/662816383",
-            "price": 500,
-            "name": "イーブイ CHR 2",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1023395426",
-            "price": 430,
+            "link": "/items/998654029",
+            "price": 1900,
             "name": "シャワーズ CHR ",
             "date": "2022-12-08",
             "stock": 1
@@ -154,9 +210,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/998654029",
-            "price": 1900,
+            "link": "/items/1023395426",
+            "price": 430,
             "name": "シャワーズ CHR ",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/662816383",
+            "price": 500,
+            "name": "イーブイ CHR 2",
             "date": "2022-12-08",
             "stock": 1
         },
@@ -202,8 +266,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1793030068",
-            "price": 350,
+            "link": "/items/1023395426",
+            "price": 430,
             "name": "シャワーズ CHR ",
             "date": "2022-12-07",
             "stock": 1
@@ -218,8 +282,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1023395426",
-            "price": 430,
+            "link": "/items/1793030068",
+            "price": 350,
             "name": "シャワーズ CHR ",
             "date": "2022-12-07",
             "stock": 1
@@ -234,19 +298,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22968",
-            "price": 380,
-            "name": "シャワーズ189/1",
-            "date": "2022-12-07",
-            "stock": 41
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33006",
             "price": 330,
             "name": "シャワーズ189/1",
             "date": "2022-12-07",
             "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22968",
+            "price": 380,
+            "name": "シャワーズ189/1",
+            "date": "2022-12-07",
+            "stock": 41
         },
         {
             "market": "torecolo",
@@ -258,16 +322,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/998654029",
-            "price": 1900,
-            "name": "シャワーズ CHR ",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1023395426",
-            "price": 430,
+            "link": "/items/1793030068",
+            "price": 350,
             "name": "シャワーズ CHR ",
             "date": "2022-12-06",
             "stock": 1
@@ -282,8 +338,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1793030068",
-            "price": 350,
+            "link": "/items/998654029",
+            "price": 1900,
+            "name": "シャワーズ CHR ",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1023395426",
+            "price": 430,
             "name": "シャワーズ CHR ",
             "date": "2022-12-06",
             "stock": 1
@@ -322,6 +386,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1766858312",
+            "price": 280,
+            "name": "シャワーズ CHR ",
+            "date": "2022-12-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/662816383",
             "price": 500,
             "name": "イーブイ CHR 2",
@@ -332,14 +404,6 @@
             "market": "magi",
             "link": "/items/998654029",
             "price": 1900,
-            "name": "シャワーズ CHR ",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1766858312",
-            "price": 280,
             "name": "シャワーズ CHR ",
             "date": "2022-12-05",
             "stock": 1
@@ -394,17 +458,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/998654029",
-            "price": 1900,
+            "link": "/items/1766858312",
+            "price": 280,
             "name": "シャワーズ CHR ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/662816383",
-            "price": 500,
-            "name": "イーブイ CHR 2",
             "date": "2022-12-04",
             "stock": 1
         },
@@ -418,8 +474,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1766858312",
-            "price": 280,
+            "link": "/items/998654029",
+            "price": 1900,
             "name": "シャワーズ CHR ",
             "date": "2022-12-04",
             "stock": 1
@@ -429,6 +485,14 @@
             "link": "/items/1023395426",
             "price": 430,
             "name": "シャワーズ CHR ",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/662816383",
+            "price": 500,
+            "name": "イーブイ CHR 2",
             "date": "2022-12-04",
             "stock": 1
         },
@@ -463,78 +527,6 @@
             "name": "【ポケカ】ＣＨＲ◇シ",
             "date": "2022-12-04",
             "stock": 9
-        },
-        {
-            "market": "magi",
-            "link": "/items/1793030068",
-            "price": 350,
-            "name": "シャワーズ CHR ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1023395426",
-            "price": 430,
-            "name": "シャワーズ CHR ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/662816383",
-            "price": 500,
-            "name": "イーブイ CHR 2",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/998654029",
-            "price": 1900,
-            "name": "シャワーズ CHR ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1766858312",
-            "price": 280,
-            "name": "シャワーズ CHR ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21336",
-            "price": 400,
-            "name": "シャワーズ(CHR)",
-            "date": "2022-12-03",
-            "stock": 277
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33006",
-            "price": 330,
-            "name": "シャワーズ189/1",
-            "date": "2022-12-03",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22968",
-            "price": 380,
-            "name": "シャワーズ189/1",
-            "date": "2022-12-03",
-            "stock": 44
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g189-184-S8B-B/",
-            "price": 330,
-            "name": "【ポケカ】ＣＨＲ◇シ",
-            "date": "2022-12-03",
-            "stock": 8
         }
     ]
 }

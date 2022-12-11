@@ -5,6 +5,30 @@
             "link": "/items/1950357838",
             "price": 550,
             "name": "エネルギーリサイクル",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31134",
+            "price": 350,
+            "name": "エネルギーリサイクル",
+            "date": "2022-12-11",
+            "stock": 106
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g062-070-S5R-B/",
+            "price": 385,
+            "name": "【ポケカ】Ｕ◇エネル",
+            "date": "2022-12-11",
+            "stock": 6
+        },
+        {
+            "market": "magi",
+            "link": "/items/1950357838",
+            "price": 550,
+            "name": "エネルギーリサイクル",
             "date": "2022-12-10",
             "stock": 1
         },
@@ -146,19 +170,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31134",
-            "price": 350,
-            "name": "エネルギーリサイクル",
-            "date": "2022-12-05",
-            "stock": 130
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/18184",
             "price": 380,
             "name": "エネルギーリサイクル",
             "date": "2022-12-05",
             "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31134",
+            "price": 350,
+            "name": "エネルギーリサイクル",
+            "date": "2022-12-05",
+            "stock": 130
         },
         {
             "market": "torecolo",
@@ -178,19 +202,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18184",
-            "price": 380,
-            "name": "エネルギーリサイクル",
-            "date": "2022-12-04",
-            "stock": 17
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31134",
             "price": 350,
             "name": "エネルギーリサイクル",
             "date": "2022-12-04",
             "stock": 136
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18184",
+            "price": 380,
+            "name": "エネルギーリサイクル",
+            "date": "2022-12-04",
+            "stock": 17
         },
         {
             "market": "torecolo",
@@ -199,38 +223,6 @@
             "name": "【ポケカ】Ｕ◇エネル",
             "date": "2022-12-04",
             "stock": 9
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19075",
-            "price": 400,
-            "name": "エネルギーリサイクル",
-            "date": "2022-12-03",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18184",
-            "price": 380,
-            "name": "エネルギーリサイクル",
-            "date": "2022-12-03",
-            "stock": 25
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31134",
-            "price": 350,
-            "name": "エネルギーリサイクル",
-            "date": "2022-12-03",
-            "stock": 137
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g062-070-S5R-B/",
-            "price": 385,
-            "name": "【ポケカ】Ｕ◇エネル",
-            "date": "2022-12-03",
-            "stock": 7
         }
     ]
 }

@@ -2,11 +2,59 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/35895150",
+            "price": 370,
+            "name": "リザードン CHR ",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/428288008",
             "price": 2987,
             "name": "リザードン CHR ",
-            "date": "2022-12-10",
+            "date": "2022-12-11",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1060856544",
+            "price": 1000,
+            "name": "リザードン CHR ",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21334",
+            "price": 800,
+            "name": "リザードン(CHR)",
+            "date": "2022-12-11",
+            "stock": 20
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22966",
+            "price": 680,
+            "name": "リザードン187/1",
+            "date": "2022-12-11",
+            "stock": 29
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23820",
+            "price": 380,
+            "name": "リザードン187/1",
+            "date": "2022-12-11",
+            "stock": 5
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g187-184-S8B-B/",
+            "price": 770,
+            "name": "【ポケカ】ＣＨＲ◇リ",
+            "date": "2022-12-11",
+            "stock": 21
         },
         {
             "market": "magi",
@@ -25,20 +73,20 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/428288008",
+            "price": 2987,
+            "name": "リザードン CHR ",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21334",
             "price": 800,
             "name": "リザードン(CHR)",
             "date": "2022-12-10",
             "stock": 20
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23820",
-            "price": 380,
-            "name": "リザードン187/1",
-            "date": "2022-12-10",
-            "stock": 5
         },
         {
             "market": "cardrush",
@@ -49,12 +97,28 @@
             "stock": 29
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23820",
+            "price": 380,
+            "name": "リザードン187/1",
+            "date": "2022-12-10",
+            "stock": 5
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g187-184-S8B-B/",
             "price": 770,
             "name": "【ポケカ】ＣＨＲ◇リ",
             "date": "2022-12-10",
             "stock": 20
+        },
+        {
+            "market": "magi",
+            "link": "/items/1060856544",
+            "price": 1000,
+            "name": "リザードン CHR ",
+            "date": "2022-12-09",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -73,28 +137,12 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/1060856544",
-            "price": 1000,
-            "name": "リザードン CHR ",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21334",
             "price": 800,
             "name": "リザードン(CHR)",
             "date": "2022-12-09",
             "stock": 20
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23820",
-            "price": 380,
-            "name": "リザードン187/1",
-            "date": "2022-12-09",
-            "stock": 5
         },
         {
             "market": "cardrush",
@@ -105,12 +153,36 @@
             "stock": 33
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23820",
+            "price": 380,
+            "name": "リザードン187/1",
+            "date": "2022-12-09",
+            "stock": 5
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g187-184-S8B-B/",
             "price": 770,
             "name": "【ポケカ】ＣＨＲ◇リ",
             "date": "2022-12-09",
             "stock": 20
+        },
+        {
+            "market": "magi",
+            "link": "/items/1060856544",
+            "price": 1000,
+            "name": "リザードン CHR ",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/428288008",
+            "price": 2987,
+            "name": "リザードン CHR ",
+            "date": "2022-12-08",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -121,22 +193,6 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/428288008",
-            "price": 2987,
-            "name": "リザードン CHR ",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1060856544",
-            "price": 1000,
-            "name": "リザードン CHR ",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21334",
             "price": 800,
@@ -146,19 +202,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23820",
-            "price": 380,
-            "name": "リザードン187/1",
-            "date": "2022-12-08",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22966",
             "price": 680,
             "name": "リザードン187/1",
             "date": "2022-12-08",
             "stock": 34
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23820",
+            "price": 380,
+            "name": "リザードン187/1",
+            "date": "2022-12-08",
+            "stock": 5
         },
         {
             "market": "torecolo",
@@ -194,19 +250,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22966",
-            "price": 680,
-            "name": "リザードン187/1",
-            "date": "2022-12-07",
-            "stock": 34
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23820",
             "price": 380,
             "name": "リザードン187/1",
             "date": "2022-12-07",
             "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22966",
+            "price": 680,
+            "name": "リザードン187/1",
+            "date": "2022-12-07",
+            "stock": 34
         },
         {
             "market": "torecolo",
@@ -218,8 +274,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/428288008",
-            "price": 2988,
+            "link": "/items/1060856544",
+            "price": 1000,
             "name": "リザードン CHR ",
             "date": "2022-12-06",
             "stock": 1
@@ -234,8 +290,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1060856544",
-            "price": 1000,
+            "link": "/items/428288008",
+            "price": 2988,
             "name": "リザードン CHR ",
             "date": "2022-12-06",
             "stock": 1
@@ -247,14 +303,6 @@
             "name": "リザードン(CHR)",
             "date": "2022-12-06",
             "stock": 20
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23820",
-            "price": 380,
-            "name": "リザードン187/1",
-            "date": "2022-12-06",
-            "stock": 7
         },
         {
             "market": "cardrush",
@@ -265,6 +313,14 @@
             "stock": 41
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23820",
+            "price": 380,
+            "name": "リザードン187/1",
+            "date": "2022-12-06",
+            "stock": 7
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g187-184-S8B-B/",
             "price": 770,
@@ -274,16 +330,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1060856544",
-            "price": 1000,
+            "link": "/items/428288008",
+            "price": 2988,
             "name": "リザードン CHR ",
             "date": "2022-12-05",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/428288008",
-            "price": 2988,
+            "link": "/items/1060856544",
+            "price": 1000,
             "name": "リザードン CHR ",
             "date": "2022-12-05",
             "stock": 1
@@ -322,16 +378,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1060856544",
-            "price": 1000,
+            "link": "/items/428288008",
+            "price": 2988,
             "name": "リザードン CHR ",
             "date": "2022-12-04",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/428288008",
-            "price": 2988,
+            "link": "/items/1060856544",
+            "price": 1000,
             "name": "リザードン CHR ",
             "date": "2022-12-04",
             "stock": 1
@@ -343,14 +399,6 @@
             "name": "リザードン(CHR)",
             "date": "2022-12-04",
             "stock": 20
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23820",
-            "price": 380,
-            "name": "リザードン187/1",
-            "date": "2022-12-04",
-            "stock": 8
         },
         {
             "market": "cardrush",
@@ -361,60 +409,20 @@
             "stock": 43
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23820",
+            "price": 380,
+            "name": "リザードン187/1",
+            "date": "2022-12-04",
+            "stock": 8
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g187-184-S8B-B/",
             "price": 770,
             "name": "【ポケカ】ＣＨＲ◇リ",
             "date": "2022-12-04",
             "stock": 20
-        },
-        {
-            "market": "magi",
-            "link": "/items/428288008",
-            "price": 2989,
-            "name": "リザードン CHR ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1060856544",
-            "price": 1000,
-            "name": "リザードン CHR ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21334",
-            "price": 800,
-            "name": "リザードン(CHR)",
-            "date": "2022-12-03",
-            "stock": 20
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23820",
-            "price": 380,
-            "name": "リザードン187/1",
-            "date": "2022-12-03",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22966",
-            "price": 680,
-            "name": "リザードン187/1",
-            "date": "2022-12-03",
-            "stock": 44
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g187-184-S8B-B/",
-            "price": 770,
-            "name": "【ポケカ】ＣＨＲ◇リ",
-            "date": "2022-12-03",
-            "stock": 16
         }
     ]
 }

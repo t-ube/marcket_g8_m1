@@ -1,16 +1,96 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21296",
+            "price": 200,
+            "name": "ガラルの仲間たち:ミ",
+            "date": "2022-12-11",
+            "stock": 9
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21117",
+            "price": 50,
+            "name": "ガラルの仲間たち(C",
+            "date": "2022-12-11",
+            "stock": 30
+        },
+        {
+            "market": "magi",
+            "link": "/items/139134678",
+            "price": 300,
+            "name": "ガラルの仲間たち 1",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1242123675",
+            "price": 100,
+            "name": "ガラルの仲間たち 1",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
             "market": "magi",
             "link": "/items/850102200",
             "price": 100,
+            "name": "ガラルの仲間たち 1",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/825510713",
+            "price": 300,
+            "name": "ガラルの仲間たち 1",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32968",
+            "price": 110,
+            "name": "ガラルの仲間たち14",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22928",
+            "price": 120,
+            "name": "ガラルの仲間たち14",
+            "date": "2022-12-11",
+            "stock": 65
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22787",
+            "price": 80,
+            "name": "ガラルの仲間たち14",
+            "date": "2022-12-11",
+            "stock": 40
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g149-184-S8B-B/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-11",
+            "stock": 5
+        },
+        {
+            "market": "magi",
+            "link": "/items/825510713",
+            "price": 300,
             "name": "ガラルの仲間たち 1",
             "date": "2022-12-10",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/825510713",
+            "link": "/items/139134678",
             "price": 300,
             "name": "ガラルの仲間たち 1",
             "date": "2022-12-10",
@@ -26,8 +106,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/139134678",
-            "price": 300,
+            "link": "/items/850102200",
+            "price": 100,
             "name": "ガラルの仲間たち 1",
             "date": "2022-12-10",
             "stock": 1
@@ -138,6 +218,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32968",
+            "price": 110,
+            "name": "ガラルの仲間たち14",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22787",
             "price": 80,
             "name": "ガラルの仲間たち14",
@@ -151,14 +239,6 @@
             "name": "ガラルの仲間たち14",
             "date": "2022-12-09",
             "stock": 65
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32968",
-            "price": 110,
-            "name": "ガラルの仲間たち14",
-            "date": "2022-12-09",
-            "stock": 1
         },
         {
             "market": "torecolo",
@@ -226,14 +306,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32968",
-            "price": 110,
-            "name": "ガラルの仲間たち14",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22928",
             "price": 120,
             "name": "ガラルの仲間たち14",
@@ -247,6 +319,14 @@
             "name": "ガラルの仲間たち14",
             "date": "2022-12-08",
             "stock": 40
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32968",
+            "price": 110,
+            "name": "ガラルの仲間たち14",
+            "date": "2022-12-08",
+            "stock": 1
         },
         {
             "market": "torecolo",
@@ -266,7 +346,23 @@
         },
         {
             "market": "magi",
+            "link": "/items/139134678",
+            "price": 300,
+            "name": "ガラルの仲間たち 1",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/850102200",
+            "price": 100,
+            "name": "ガラルの仲間たち 1",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1242123675",
             "price": 100,
             "name": "ガラルの仲間たち 1",
             "date": "2022-12-07",
@@ -276,22 +372,6 @@
             "market": "magi",
             "link": "/items/825510713",
             "price": 300,
-            "name": "ガラルの仲間たち 1",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/139134678",
-            "price": 300,
-            "name": "ガラルの仲間たち 1",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1242123675",
-            "price": 100,
             "name": "ガラルの仲間たち 1",
             "date": "2022-12-07",
             "stock": 1
@@ -346,14 +426,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1340731342",
-            "price": 100,
-            "name": "ガラルの仲間たち 1",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/850102200",
             "price": 100,
             "name": "ガラルの仲間たち 1",
@@ -385,6 +457,14 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/1340731342",
+            "price": 100,
+            "name": "ガラルの仲間たち 1",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21117",
             "price": 50,
@@ -402,11 +482,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32968",
-            "price": 110,
+            "link": "https://www.cardrush-pokemon.jp/product/22787",
+            "price": 80,
             "name": "ガラルの仲間たち14",
             "date": "2022-12-06",
-            "stock": 1
+            "stock": 40
         },
         {
             "market": "cardrush",
@@ -418,11 +498,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22787",
-            "price": 80,
+            "link": "https://www.cardrush-pokemon.jp/product/32968",
+            "price": 110,
             "name": "ガラルの仲間たち14",
             "date": "2022-12-06",
-            "stock": 40
+            "stock": 1
         },
         {
             "market": "torecolo",
@@ -431,6 +511,14 @@
             "name": "【ポケカ】Ｃ）通常仕",
             "date": "2022-12-06",
             "stock": 5
+        },
+        {
+            "market": "magi",
+            "link": "/items/825510713",
+            "price": 300,
+            "name": "ガラルの仲間たち 1",
+            "date": "2022-12-05",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -444,14 +532,6 @@
             "market": "magi",
             "link": "/items/1340731342",
             "price": 100,
-            "name": "ガラルの仲間たち 1",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/825510713",
-            "price": 300,
             "name": "ガラルの仲間たち 1",
             "date": "2022-12-05",
             "stock": 1
@@ -482,19 +562,19 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21117",
-            "price": 50,
-            "name": "ガラルの仲間たち(C",
-            "date": "2022-12-05",
-            "stock": 30
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21296",
             "price": 200,
             "name": "ガラルの仲間たち:ミ",
             "date": "2022-12-05",
             "stock": 8
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21117",
+            "price": 50,
+            "name": "ガラルの仲間たち(C",
+            "date": "2022-12-05",
+            "stock": 30
         },
         {
             "market": "cardrush",
@@ -530,14 +610,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1340731342",
-            "price": 100,
-            "name": "ガラルの仲間たち 1",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/139134678",
             "price": 300,
             "name": "ガラルの仲間たち 1",
@@ -554,7 +626,15 @@
         },
         {
             "market": "magi",
-            "link": "/items/158301793",
+            "link": "/items/1242123675",
+            "price": 100,
+            "name": "ガラルの仲間たち 1",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1340731342",
             "price": 100,
             "name": "ガラルの仲間たち 1",
             "date": "2022-12-04",
@@ -570,7 +650,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1242123675",
+            "link": "/items/158301793",
             "price": 100,
             "name": "ガラルの仲間たち 1",
             "date": "2022-12-04",
@@ -622,102 +702,6 @@
             "price": 110,
             "name": "【ポケカ】Ｃ）通常仕",
             "date": "2022-12-04",
-            "stock": 6
-        },
-        {
-            "market": "magi",
-            "link": "/items/1242123675",
-            "price": 100,
-            "name": "ガラルの仲間たち 1",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/139134678",
-            "price": 300,
-            "name": "ガラルの仲間たち 1",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1340731342",
-            "price": 100,
-            "name": "ガラルの仲間たち 1",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/158301793",
-            "price": 100,
-            "name": "ガラルの仲間たち 1",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/850102200",
-            "price": 100,
-            "name": "ガラルの仲間たち 1",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/825510713",
-            "price": 300,
-            "name": "ガラルの仲間たち 1",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21117",
-            "price": 50,
-            "name": "ガラルの仲間たち(C",
-            "date": "2022-12-03",
-            "stock": 30
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21296",
-            "price": 200,
-            "name": "ガラルの仲間たち:ミ",
-            "date": "2022-12-03",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22928",
-            "price": 120,
-            "name": "ガラルの仲間たち14",
-            "date": "2022-12-03",
-            "stock": 66
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32968",
-            "price": 110,
-            "name": "ガラルの仲間たち14",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22787",
-            "price": 80,
-            "name": "ガラルの仲間たち14",
-            "date": "2022-12-03",
-            "stock": 42
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g149-184-S8B-B/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-03",
             "stock": 6
         }
     ]
