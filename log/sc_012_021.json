@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18913",
             "price": 100,
             "name": "ふしぎなアメ:SC2",
+            "date": "2022-12-12",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7811",
+            "price": 80,
+            "name": "ふしぎなアメ012/",
+            "date": "2022-12-12",
+            "stock": 10
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g012-021-SC2-R/",
+            "price": 110,
+            "name": "【ポケカ】ＳＳ◇ふし",
+            "date": "2022-12-12",
+            "stock": 3
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18913",
+            "price": 100,
+            "name": "ふしぎなアメ:SC2",
             "date": "2022-12-11",
             "stock": 2
         },
@@ -106,14 +130,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17821",
-            "price": 80,
-            "name": "ふしぎなアメ012/",
-            "date": "2022-12-08",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7811",
             "price": 80,
             "name": "ふしぎなアメ012/",
@@ -121,6 +137,14 @@
             "stock": 10
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17821",
+            "price": 80,
+            "name": "ふしぎなアメ012/",
+            "date": "2022-12-08",
+            "stock": 2
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g012-021-SC2-R/",
             "price": 110,
@@ -138,19 +162,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7811",
-            "price": 80,
-            "name": "ふしぎなアメ012/",
-            "date": "2022-12-07",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17821",
             "price": 80,
             "name": "ふしぎなアメ012/",
             "date": "2022-12-07",
             "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7811",
+            "price": 80,
+            "name": "ふしぎなアメ012/",
+            "date": "2022-12-07",
+            "stock": 10
         },
         {
             "market": "torecolo",
@@ -170,19 +194,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17821",
-            "price": 80,
-            "name": "ふしぎなアメ012/",
-            "date": "2022-12-06",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7811",
             "price": 80,
             "name": "ふしぎなアメ012/",
             "date": "2022-12-06",
             "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17821",
+            "price": 80,
+            "name": "ふしぎなアメ012/",
+            "date": "2022-12-06",
+            "stock": 2
         },
         {
             "market": "torecolo",
@@ -202,14 +226,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7811",
-            "price": 80,
-            "name": "ふしぎなアメ012/",
-            "date": "2022-12-05",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17821",
             "price": 80,
             "name": "ふしぎなアメ012/",
@@ -217,35 +233,11 @@
             "stock": 2
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g012-021-SC2-R/",
-            "price": 110,
-            "name": "【ポケカ】ＳＳ◇ふし",
-            "date": "2022-12-05",
-            "stock": 3
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18913",
-            "price": 100,
-            "name": "ふしぎなアメ:SC2",
-            "date": "2022-12-04",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17821",
-            "price": 80,
-            "name": "ふしぎなアメ012/",
-            "date": "2022-12-04",
-            "stock": 2
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7811",
             "price": 80,
             "name": "ふしぎなアメ012/",
-            "date": "2022-12-04",
+            "date": "2022-12-05",
             "stock": 10
         },
         {
@@ -253,7 +245,7 @@
             "link": "/shop/g/g012-021-SC2-R/",
             "price": 110,
             "name": "【ポケカ】ＳＳ◇ふし",
-            "date": "2022-12-04",
+            "date": "2022-12-05",
             "stock": 3
         }
     ]

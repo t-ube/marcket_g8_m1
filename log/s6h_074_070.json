@@ -1,6 +1,54 @@
 ﻿{
     "items": [
         {
+            "market": "magi",
+            "link": "/items/160554919",
+            "price": 1100,
+            "name": "ガラルギャロップV ",
+            "date": "2022-12-12",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/204928405",
+            "price": 5299,
+            "name": "ガラルギャロップV ",
+            "date": "2022-12-12",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19307",
+            "price": 1200,
+            "name": "ガラルギャロップV(",
+            "date": "2022-12-12",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21072",
+            "price": 680,
+            "name": "ガラルギャロップV0",
+            "date": "2022-12-12",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31927",
+            "price": 830,
+            "name": "ガラルギャロップV0",
+            "date": "2022-12-12",
+            "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20194",
+            "price": 980,
+            "name": "ガラルギャロップV0",
+            "date": "2022-12-12",
+            "stock": 57
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19307",
             "price": 1200,
@@ -42,22 +90,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21072",
-            "price": 680,
-            "name": "ガラルギャロップV0",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31927",
-            "price": 830,
-            "name": "ガラルギャロップV0",
-            "date": "2022-12-10",
-            "stock": 14
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20194",
             "price": 980,
             "name": "ガラルギャロップV0",
@@ -65,6 +97,22 @@
             "stock": 56
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31927",
+            "price": 830,
+            "name": "ガラルギャロップV0",
+            "date": "2022-12-10",
+            "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21072",
+            "price": 680,
+            "name": "ガラルギャロップV0",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19307",
             "price": 1200,
@@ -74,11 +122,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20194",
-            "price": 980,
+            "link": "https://www.cardrush-pokemon.jp/product/21072",
+            "price": 680,
             "name": "ガラルギャロップV0",
             "date": "2022-12-09",
-            "stock": 55
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -90,11 +138,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21072",
-            "price": 680,
+            "link": "https://www.cardrush-pokemon.jp/product/20194",
+            "price": 980,
             "name": "ガラルギャロップV0",
             "date": "2022-12-09",
-            "stock": 1
+            "stock": 55
         },
         {
             "market": "hareruya2",
@@ -114,19 +162,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20194",
-            "price": 980,
-            "name": "ガラルギャロップV0",
-            "date": "2022-12-08",
-            "stock": 55
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31927",
             "price": 830,
             "name": "ガラルギャロップV0",
             "date": "2022-12-08",
             "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20194",
+            "price": 980,
+            "name": "ガラルギャロップV0",
+            "date": "2022-12-08",
+            "stock": 55
         },
         {
             "market": "hareruya2",
@@ -138,11 +186,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31927",
-            "price": 830,
+            "link": "https://www.cardrush-pokemon.jp/product/21072",
+            "price": 680,
             "name": "ガラルギャロップV0",
             "date": "2022-12-07",
-            "stock": 14
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -154,11 +202,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21072",
-            "price": 680,
+            "link": "https://www.cardrush-pokemon.jp/product/31927",
+            "price": 830,
             "name": "ガラルギャロップV0",
             "date": "2022-12-07",
-            "stock": 1
+            "stock": 14
         },
         {
             "market": "hareruya2",
@@ -178,19 +226,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31927",
-            "price": 830,
-            "name": "ガラルギャロップV0",
-            "date": "2022-12-06",
-            "stock": 14
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21072",
             "price": 680,
             "name": "ガラルギャロップV0",
             "date": "2022-12-06",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31927",
+            "price": 830,
+            "name": "ガラルギャロップV0",
+            "date": "2022-12-06",
+            "stock": 14
         },
         {
             "market": "hareruya2",
@@ -202,14 +250,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21072",
-            "price": 680,
-            "name": "ガラルギャロップV0",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31927",
             "price": 830,
             "name": "ガラルギャロップV0",
@@ -218,43 +258,19 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21072",
+            "price": 680,
+            "name": "ガラルギャロップV0",
+            "date": "2022-12-05",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20194",
             "price": 980,
             "name": "ガラルギャロップV0",
             "date": "2022-12-05",
             "stock": 45
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19307",
-            "price": 1200,
-            "name": "ガラルギャロップV(",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20194",
-            "price": 980,
-            "name": "ガラルギャロップV0",
-            "date": "2022-12-04",
-            "stock": 45
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31927",
-            "price": 830,
-            "name": "ガラルギャロップV0",
-            "date": "2022-12-04",
-            "stock": 14
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21072",
-            "price": 680,
-            "name": "ガラルギャロップV0",
-            "date": "2022-12-04",
-            "stock": 1
         }
     ]
 }

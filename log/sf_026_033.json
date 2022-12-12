@@ -3,6 +3,22 @@
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31169",
+            "price": 200,
+            "name": "トレーニングコート0",
+            "date": "2022-12-12",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18222",
+            "price": 220,
+            "name": "トレーニングコート0",
+            "date": "2022-12-12",
+            "stock": 37
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31169",
             "price": 300,
             "name": "トレーニングコート0",
             "date": "2022-12-11",
@@ -18,27 +34,19 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18222",
+            "price": 320,
+            "name": "トレーニングコート0",
+            "date": "2022-12-10",
+            "stock": 37
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31169",
             "price": 300,
             "name": "トレーニングコート0",
             "date": "2022-12-10",
             "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18222",
-            "price": 320,
-            "name": "トレーニングコート0",
-            "date": "2022-12-10",
-            "stock": 37
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18222",
-            "price": 320,
-            "name": "トレーニングコート0",
-            "date": "2022-12-09",
-            "stock": 37
         },
         {
             "market": "cardrush",
@@ -53,7 +61,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/18222",
             "price": 320,
             "name": "トレーニングコート0",
-            "date": "2022-12-08",
+            "date": "2022-12-09",
             "stock": 37
         },
         {
@@ -69,8 +77,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/18222",
             "price": 320,
             "name": "トレーニングコート0",
-            "date": "2022-12-07",
-            "stock": 45
+            "date": "2022-12-08",
+            "stock": 37
         },
         {
             "market": "cardrush",
@@ -85,7 +93,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/18222",
             "price": 320,
             "name": "トレーニングコート0",
-            "date": "2022-12-06",
+            "date": "2022-12-07",
             "stock": 45
         },
         {
@@ -95,6 +103,14 @@
             "name": "トレーニングコート0",
             "date": "2022-12-06",
             "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18222",
+            "price": 320,
+            "name": "トレーニングコート0",
+            "date": "2022-12-06",
+            "stock": 45
         },
         {
             "market": "cardrush",
@@ -111,30 +127,6 @@
             "name": "トレーニングコート0",
             "date": "2022-12-05",
             "stock": 45
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19130",
-            "price": 300,
-            "name": "トレーニングコート(",
-            "date": "2022-12-04",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18222",
-            "price": 320,
-            "name": "トレーニングコート0",
-            "date": "2022-12-04",
-            "stock": 45
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31169",
-            "price": 300,
-            "name": "トレーニングコート0",
-            "date": "2022-12-04",
-            "stock": 7
         }
     ]
 }

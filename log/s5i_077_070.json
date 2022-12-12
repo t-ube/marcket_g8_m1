@@ -2,6 +2,86 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1819764260",
+            "price": 24999,
+            "name": "バンギラスV SR ",
+            "date": "2022-12-12",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/280870893",
+            "price": 19740,
+            "name": "バンギラスV(SA)",
+            "date": "2022-12-12",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1780665871",
+            "price": 15540,
+            "name": "〔状態A-〕バンギラ",
+            "date": "2022-12-12",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1932828993",
+            "price": 18800,
+            "name": "バンギラスV SR ",
+            "date": "2022-12-12",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2134280915",
+            "price": 10479,
+            "name": "〔状態B〕バンギラス",
+            "date": "2022-12-12",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18999",
+            "price": 21000,
+            "name": "バンギラスV:SA(",
+            "date": "2022-12-12",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18241",
+            "price": 18800,
+            "name": "バンギラスV077/",
+            "date": "2022-12-12",
+            "stock": 26
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31188",
+            "price": 14800,
+            "name": "バンギラスV077/",
+            "date": "2022-12-12",
+            "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18346",
+            "price": 9980,
+            "name": "バンギラスV077/",
+            "date": "2022-12-12",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/2134280915",
+            "price": 10479,
+            "name": "〔状態B〕バンギラス",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/280870893",
             "price": 19740,
             "name": "バンギラスV(SA)",
@@ -18,9 +98,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/2134280915",
-            "price": 10479,
-            "name": "〔状態B〕バンギラス",
+            "link": "/items/1780665871",
+            "price": 15540,
+            "name": "〔状態A-〕バンギラ",
             "date": "2022-12-11",
             "stock": 1
         },
@@ -33,28 +113,12 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/1780665871",
-            "price": 15540,
-            "name": "〔状態A-〕バンギラ",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18999",
             "price": 21000,
             "name": "バンギラスV:SA(",
             "date": "2022-12-11",
             "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18241",
-            "price": 18800,
-            "name": "バンギラスV077/",
-            "date": "2022-12-11",
-            "stock": 26
         },
         {
             "market": "cardrush",
@@ -71,6 +135,14 @@
             "name": "バンギラスV077/",
             "date": "2022-12-11",
             "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18241",
+            "price": 18800,
+            "name": "バンギラスV077/",
+            "date": "2022-12-11",
+            "stock": 26
         },
         {
             "market": "magi",
@@ -202,14 +274,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31188",
-            "price": 14800,
-            "name": "バンギラスV077/",
-            "date": "2022-12-09",
-            "stock": 11
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/18346",
             "price": 9980,
             "name": "バンギラスV077/",
@@ -217,12 +281,12 @@
             "stock": 2
         },
         {
-            "market": "magi",
-            "link": "/items/1780665871",
-            "price": 17640,
-            "name": "〔状態A-〕バンギラ",
-            "date": "2022-12-08",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31188",
+            "price": 14800,
+            "name": "バンギラスV077/",
+            "date": "2022-12-09",
+            "stock": 11
         },
         {
             "market": "magi",
@@ -257,6 +321,14 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/1780665871",
+            "price": 17640,
+            "name": "〔状態A-〕バンギラ",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18999",
             "price": 21000,
@@ -266,19 +338,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18241",
-            "price": 19800,
-            "name": "バンギラスV077/",
-            "date": "2022-12-08",
-            "stock": 22
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31188",
             "price": 16800,
             "name": "バンギラスV077/",
             "date": "2022-12-08",
             "stock": 11
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18241",
+            "price": 19800,
+            "name": "バンギラスV077/",
+            "date": "2022-12-08",
+            "stock": 22
         },
         {
             "market": "cardrush",
@@ -338,19 +410,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18346",
-            "price": 10800,
-            "name": "バンギラスV077/",
-            "date": "2022-12-07",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31188",
             "price": 16800,
             "name": "バンギラスV077/",
             "date": "2022-12-07",
             "stock": 11
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18346",
+            "price": 10800,
+            "name": "バンギラスV077/",
+            "date": "2022-12-07",
+            "stock": 2
         },
         {
             "market": "cardrush",
@@ -434,17 +506,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1819764260",
-            "price": 24999,
+            "link": "/items/1932828993",
+            "price": 18800,
             "name": "バンギラスV SR ",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/280870893",
-            "price": 20790,
-            "name": "バンギラスV(SA)",
             "date": "2022-12-05",
             "stock": 1
         },
@@ -458,9 +522,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1932828993",
-            "price": 18800,
+            "link": "/items/1819764260",
+            "price": 24999,
             "name": "バンギラスV SR ",
+            "date": "2022-12-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/280870893",
+            "price": 20790,
+            "name": "バンギラスV(SA)",
             "date": "2022-12-05",
             "stock": 1
         },
@@ -503,70 +575,6 @@
             "name": "バンギラスV077/",
             "date": "2022-12-05",
             "stock": 21
-        },
-        {
-            "market": "magi",
-            "link": "/items/1932828993",
-            "price": 18800,
-            "name": "バンギラスV SR ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1780665871",
-            "price": 17640,
-            "name": "〔状態A-〕バンギラ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/280870893",
-            "price": 20790,
-            "name": "バンギラスV(SA)",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2134280915",
-            "price": 11340,
-            "name": "〔状態B〕バンギラス",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18999",
-            "price": 21000,
-            "name": "バンギラスV:SA(",
-            "date": "2022-12-04",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18346",
-            "price": 10800,
-            "name": "バンギラスV077/",
-            "date": "2022-12-04",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18241",
-            "price": 19800,
-            "name": "バンギラスV077/",
-            "date": "2022-12-04",
-            "stock": 20
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31188",
-            "price": 16800,
-            "name": "バンギラスV077/",
-            "date": "2022-12-04",
-            "stock": 9
         }
     ]
 }

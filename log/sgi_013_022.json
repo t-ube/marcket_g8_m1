@@ -5,6 +5,38 @@
             "link": "/items/1917038227",
             "price": 771,
             "name": "しんかのおこう(R仕",
+            "date": "2022-12-12",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31983",
+            "price": 260,
+            "name": "しんかのおこう013",
+            "date": "2022-12-12",
+            "stock": 44
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36146",
+            "price": 180,
+            "name": "しんかのおこう013",
+            "date": "2022-12-12",
+            "stock": 15
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20639",
+            "price": 280,
+            "name": "しんかのおこう013",
+            "date": "2022-12-12",
+            "stock": 80
+        },
+        {
+            "market": "magi",
+            "link": "/items/1917038227",
+            "price": 771,
+            "name": "しんかのおこう(R仕",
             "date": "2022-12-11",
             "stock": 1
         },
@@ -98,19 +130,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20639",
-            "price": 280,
-            "name": "しんかのおこう013",
-            "date": "2022-12-08",
-            "stock": 145
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31983",
             "price": 260,
             "name": "しんかのおこう013",
             "date": "2022-12-08",
             "stock": 47
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20639",
+            "price": 280,
+            "name": "しんかのおこう013",
+            "date": "2022-12-08",
+            "stock": 145
         },
         {
             "market": "magi",
@@ -130,19 +162,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31983",
-            "price": 260,
-            "name": "しんかのおこう013",
-            "date": "2022-12-07",
-            "stock": 48
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20639",
             "price": 280,
             "name": "しんかのおこう013",
             "date": "2022-12-07",
             "stock": 150
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31983",
+            "price": 260,
+            "name": "しんかのおこう013",
+            "date": "2022-12-07",
+            "stock": 48
         },
         {
             "market": "magi",
@@ -159,6 +191,14 @@
             "name": "しんかのおこう(-)",
             "date": "2022-12-06",
             "stock": 15
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31983",
+            "price": 260,
+            "name": "しんかのおこう013",
+            "date": "2022-12-06",
+            "stock": 48
         },
         {
             "market": "cardrush",
@@ -169,14 +209,6 @@
             "stock": 153
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31983",
-            "price": 260,
-            "name": "しんかのおこう013",
-            "date": "2022-12-06",
-            "stock": 48
-        },
-        {
             "market": "magi",
             "link": "/items/1917038227",
             "price": 779,
@@ -194,42 +226,10 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20639",
-            "price": 280,
-            "name": "しんかのおこう013",
-            "date": "2022-12-05",
-            "stock": 154
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31983",
             "price": 260,
             "name": "しんかのおこう013",
             "date": "2022-12-05",
-            "stock": 48
-        },
-        {
-            "market": "magi",
-            "link": "/items/1917038227",
-            "price": 795,
-            "name": "しんかのおこう(R仕",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19465",
-            "price": 150,
-            "name": "しんかのおこう(-)",
-            "date": "2022-12-04",
-            "stock": 15
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31983",
-            "price": 260,
-            "name": "しんかのおこう013",
-            "date": "2022-12-04",
             "stock": 48
         },
         {
@@ -237,8 +237,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/20639",
             "price": 280,
             "name": "しんかのおこう013",
-            "date": "2022-12-04",
-            "stock": 163
+            "date": "2022-12-05",
+            "stock": 154
         }
     ]
 }

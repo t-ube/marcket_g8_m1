@@ -2,17 +2,65 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/143039890",
+            "price": 15540,
+            "name": "シャワーズV(SA)",
+            "date": "2022-12-12",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/809654749",
+            "price": 13020,
+            "name": "〔状態A-〕シャワー",
+            "date": "2022-12-12",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1667922721",
             "price": 17500,
             "name": "シャワーズV SR ",
-            "date": "2022-12-11",
+            "date": "2022-12-12",
             "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19551",
+            "price": 16000,
+            "name": "シャワーズV:SA(",
+            "date": "2022-12-12",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20741",
+            "price": 14800,
+            "name": "シャワーズV075/",
+            "date": "2022-12-12",
+            "stock": 41
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32049",
+            "price": 12400,
+            "name": "シャワーズV075/",
+            "date": "2022-12-12",
+            "stock": 27
         },
         {
             "market": "magi",
             "link": "/items/143039890",
             "price": 15540,
             "name": "シャワーズV(SA)",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1667922721",
+            "price": 17500,
+            "name": "シャワーズV SR ",
             "date": "2022-12-11",
             "stock": 1
         },
@@ -34,14 +82,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20741",
-            "price": 14800,
-            "name": "シャワーズV075/",
-            "date": "2022-12-11",
-            "stock": 39
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32049",
             "price": 12400,
             "name": "シャワーズV075/",
@@ -49,10 +89,18 @@
             "stock": 27
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20741",
+            "price": 14800,
+            "name": "シャワーズV075/",
+            "date": "2022-12-11",
+            "stock": 39
+        },
+        {
             "market": "magi",
-            "link": "/items/143039890",
-            "price": 15540,
-            "name": "シャワーズV(SA)",
+            "link": "/items/1667922721",
+            "price": 17500,
+            "name": "シャワーズV SR ",
             "date": "2022-12-10",
             "stock": 1
         },
@@ -66,9 +114,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1667922721",
-            "price": 17500,
-            "name": "シャワーズV SR ",
+            "link": "/items/143039890",
+            "price": 15540,
+            "name": "シャワーズV(SA)",
             "date": "2022-12-10",
             "stock": 1
         },
@@ -98,6 +146,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/809654749",
+            "price": 13020,
+            "name": "〔状態A-〕シャワー",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/143039890",
             "price": 15540,
             "name": "シャワーズV(SA)",
@@ -109,14 +165,6 @@
             "link": "/items/1667922721",
             "price": 17500,
             "name": "シャワーズV SR ",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/809654749",
-            "price": 13020,
-            "name": "〔状態A-〕シャワー",
             "date": "2022-12-09",
             "stock": 1
         },
@@ -146,17 +194,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1667922721",
-            "price": 17500,
-            "name": "シャワーズV SR ",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2072919039",
-            "price": 12500,
-            "name": " シャワーズV SR",
+            "link": "/items/809654749",
+            "price": 13020,
+            "name": "〔状態A-〕シャワー",
             "date": "2022-12-08",
             "stock": 1
         },
@@ -170,9 +210,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/809654749",
-            "price": 13020,
-            "name": "〔状態A-〕シャワー",
+            "link": "/items/2072919039",
+            "price": 12500,
+            "name": " シャワーズV SR",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1667922721",
+            "price": 17500,
+            "name": "シャワーズV SR ",
             "date": "2022-12-08",
             "stock": 1
         },
@@ -210,17 +258,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1667922721",
-            "price": 17500,
-            "name": "シャワーズV SR ",
+            "link": "/items/143039890",
+            "price": 15540,
+            "name": "シャワーズV(SA)",
             "date": "2022-12-07",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/143039890",
-            "price": 15540,
-            "name": "シャワーズV(SA)",
+            "link": "/items/1667922721",
+            "price": 17500,
+            "name": "シャワーズV SR ",
             "date": "2022-12-07",
             "stock": 1
         },
@@ -231,14 +279,6 @@
             "name": "シャワーズV:SA(",
             "date": "2022-12-07",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20741",
-            "price": 14800,
-            "name": "シャワーズV075/",
-            "date": "2022-12-07",
-            "stock": 34
         },
         {
             "market": "cardrush",
@@ -249,10 +289,18 @@
             "stock": 28
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20741",
+            "price": 14800,
+            "name": "シャワーズV075/",
+            "date": "2022-12-07",
+            "stock": 34
+        },
+        {
             "market": "magi",
-            "link": "/items/809654749",
-            "price": 14070,
-            "name": "〔状態A-〕シャワー",
+            "link": "/items/1667922721",
+            "price": 17500,
+            "name": "シャワーズV SR ",
             "date": "2022-12-06",
             "stock": 1
         },
@@ -266,9 +314,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1667922721",
-            "price": 17500,
-            "name": "シャワーズV SR ",
+            "link": "/items/809654749",
+            "price": 14070,
+            "name": "〔状態A-〕シャワー",
             "date": "2022-12-06",
             "stock": 1
         },
@@ -282,14 +330,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32049",
-            "price": 13400,
-            "name": "シャワーズV075/",
-            "date": "2022-12-06",
-            "stock": 28
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20741",
             "price": 15800,
             "name": "シャワーズV075/",
@@ -297,18 +337,18 @@
             "stock": 33
         },
         {
-            "market": "magi",
-            "link": "/items/1667922721",
-            "price": 17500,
-            "name": "シャワーズV SR ",
-            "date": "2022-12-05",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32049",
+            "price": 13400,
+            "name": "シャワーズV075/",
+            "date": "2022-12-06",
+            "stock": 28
         },
         {
             "market": "magi",
-            "link": "/items/2072919039",
-            "price": 14000,
-            "name": " シャワーズV SR",
+            "link": "/items/143039890",
+            "price": 16590,
+            "name": "シャワーズV(SA)",
             "date": "2022-12-05",
             "stock": 1
         },
@@ -322,19 +362,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/143039890",
-            "price": 16590,
-            "name": "シャワーズV(SA)",
+            "link": "/items/2072919039",
+            "price": 14000,
+            "name": " シャワーズV SR",
             "date": "2022-12-05",
             "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32049",
-            "price": 13400,
-            "name": "シャワーズV075/",
+            "market": "magi",
+            "link": "/items/1667922721",
+            "price": 17500,
+            "name": "シャワーズV SR ",
             "date": "2022-12-05",
-            "stock": 28
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -345,52 +385,12 @@
             "stock": 35
         },
         {
-            "market": "magi",
-            "link": "/items/809654749",
-            "price": 14070,
-            "name": "〔状態A-〕シャワー",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/143039890",
-            "price": 16590,
-            "name": "シャワーズV(SA)",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1667922721",
-            "price": 17500,
-            "name": "シャワーズV SR ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2072919039",
-            "price": 14000,
-            "name": " シャワーズV SR",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32049",
             "price": 13400,
             "name": "シャワーズV075/",
-            "date": "2022-12-04",
+            "date": "2022-12-05",
             "stock": 28
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20741",
-            "price": 15800,
-            "name": "シャワーズV075/",
-            "date": "2022-12-04",
-            "stock": 32
         }
     ]
 }

@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/19228",
             "price": 2400,
             "name": "セイボリー(HR){",
+            "date": "2022-12-12",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/19008",
+            "price": 2480,
+            "name": "セイボリー091/0",
+            "date": "2022-12-12",
+            "stock": 9
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19228",
+            "price": 2400,
+            "name": "セイボリー(HR){",
             "date": "2022-12-11",
             "stock": 2
         },
@@ -86,14 +102,6 @@
             "price": 2480,
             "name": "セイボリー091/0",
             "date": "2022-12-05",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/19008",
-            "price": 2480,
-            "name": "セイボリー091/0",
-            "date": "2022-12-04",
             "stock": 8
         }
     ]
