@@ -5,6 +5,30 @@
             "link": "/items/611655476",
             "price": 5229,
             "name": "ガラルヤドキングV(",
+            "date": "2022-12-13",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19217",
+            "price": 5000,
+            "name": "ガラルヤドキングV:",
+            "date": "2022-12-13",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18997",
+            "price": 4980,
+            "name": "ガラルヤドキングV0",
+            "date": "2022-12-13",
+            "stock": 20
+        },
+        {
+            "market": "magi",
+            "link": "/items/611655476",
+            "price": 5229,
+            "name": "ガラルヤドキングV(",
             "date": "2022-12-12",
             "stock": 1
         },
@@ -71,14 +95,6 @@
             "name": "ガラルヤドキングV0",
             "date": "2022-12-10",
             "stock": 15
-        },
-        {
-            "market": "magi",
-            "link": "/items/611655476",
-            "price": 5229,
-            "name": "ガラルヤドキングV(",
-            "date": "2022-12-09",
-            "stock": 1
         },
         {
             "market": "magi",
@@ -89,20 +105,20 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/611655476",
+            "price": 5229,
+            "name": "ガラルヤドキングV(",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19217",
             "price": 5000,
             "name": "ガラルヤドキングV:",
             "date": "2022-12-09",
             "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18997",
-            "price": 4980,
-            "name": "ガラルヤドキングV0",
-            "date": "2022-12-09",
-            "stock": 15
         },
         {
             "market": "cardrush",
@@ -113,6 +129,14 @@
             "stock": 1
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18997",
+            "price": 4980,
+            "name": "ガラルヤドキングV0",
+            "date": "2022-12-09",
+            "stock": 15
+        },
+        {
             "market": "magi",
             "link": "/items/611655476",
             "price": 5229,
@@ -178,14 +202,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18997",
-            "price": 4980,
-            "name": "ガラルヤドキングV0",
-            "date": "2022-12-06",
-            "stock": 14
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/19081",
             "price": 1980,
             "name": "ガラルヤドキングV0",
@@ -193,36 +209,12 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/611655476",
-            "price": 5229,
-            "name": "ガラルヤドキングV(",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19217",
-            "price": 5000,
-            "name": "ガラルヤドキングV:",
-            "date": "2022-12-05",
-            "stock": 2
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/18997",
             "price": 4980,
             "name": "ガラルヤドキングV0",
-            "date": "2022-12-05",
+            "date": "2022-12-06",
             "stock": 14
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/19081",
-            "price": 1980,
-            "name": "ガラルヤドキングV0",
-            "date": "2022-12-05",
-            "stock": 1
         }
     ]
 }

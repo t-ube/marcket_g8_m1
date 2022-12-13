@@ -2,11 +2,51 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1903038598",
+            "price": 3980,
+            "name": "ブラッキーVMAX ",
+            "date": "2022-12-13",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/323239769",
+            "price": 3949,
+            "name": "ブラッキーVMAX ",
+            "date": "2022-12-13",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/112176908",
             "price": 5229,
             "name": "ブラッキーVMAX【",
-            "date": "2022-12-12",
+            "date": "2022-12-13",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/343840933",
+            "price": 4299,
+            "name": "ブラッキーVMAX ",
+            "date": "2022-12-13",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21389",
+            "price": 5000,
+            "name": "ブラッキーVMAX(",
+            "date": "2022-12-13",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23021",
+            "price": 4980,
+            "name": "ブラッキーVMAX2",
+            "date": "2022-12-13",
+            "stock": 65
         },
         {
             "market": "magi",
@@ -18,16 +58,24 @@
         },
         {
             "market": "magi",
-            "link": "/items/1903038598",
-            "price": 4300,
+            "link": "/items/323239769",
+            "price": 3949,
             "name": "ブラッキーVMAX ",
             "date": "2022-12-12",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/323239769",
-            "price": 3949,
+            "link": "/items/112176908",
+            "price": 5229,
+            "name": "ブラッキーVMAX【",
+            "date": "2022-12-12",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1903038598",
+            "price": 4300,
             "name": "ブラッキーVMAX ",
             "date": "2022-12-12",
             "stock": 1
@@ -90,9 +138,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/112176908",
-            "price": 5229,
-            "name": "ブラッキーVMAX【",
+            "link": "/items/323239769",
+            "price": 3949,
+            "name": "ブラッキーVMAX ",
             "date": "2022-12-10",
             "stock": 1
         },
@@ -106,9 +154,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/323239769",
-            "price": 3949,
-            "name": "ブラッキーVMAX ",
+            "link": "/items/112176908",
+            "price": 5229,
+            "name": "ブラッキーVMAX【",
             "date": "2022-12-10",
             "stock": 1
         },
@@ -162,9 +210,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/913643911",
-            "price": 4389,
-            "name": "〔状態A-〕ブラッキ",
+            "link": "/items/112176908",
+            "price": 5229,
+            "name": "ブラッキーVMAX【",
             "date": "2022-12-08",
             "stock": 1
         },
@@ -178,9 +226,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/112176908",
-            "price": 5229,
-            "name": "ブラッキーVMAX【",
+            "link": "/items/913643911",
+            "price": 4389,
+            "name": "〔状態A-〕ブラッキ",
             "date": "2022-12-08",
             "stock": 1
         },
@@ -210,9 +258,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/112176908",
-            "price": 5229,
-            "name": "ブラッキーVMAX【",
+            "link": "/items/323239769",
+            "price": 3990,
+            "name": "ブラッキーVMAX ",
             "date": "2022-12-07",
             "stock": 1
         },
@@ -226,9 +274,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/323239769",
-            "price": 3990,
-            "name": "ブラッキーVMAX ",
+            "link": "/items/112176908",
+            "price": 5229,
+            "name": "ブラッキーVMAX【",
             "date": "2022-12-07",
             "stock": 1
         },
@@ -239,14 +287,6 @@
             "name": "ブラッキーVMAX(",
             "date": "2022-12-07",
             "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23114",
-            "price": 4180,
-            "name": "ブラッキーVMAX2",
-            "date": "2022-12-07",
-            "stock": 1
         },
         {
             "market": "cardrush",
@@ -257,10 +297,18 @@
             "stock": 70
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23114",
+            "price": 4180,
+            "name": "ブラッキーVMAX2",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
             "market": "magi",
-            "link": "/items/323239769",
-            "price": 4000,
-            "name": "ブラッキーVMAX ",
+            "link": "/items/112176908",
+            "price": 5229,
+            "name": "ブラッキーVMAX【",
             "date": "2022-12-06",
             "stock": 1
         },
@@ -274,9 +322,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/112176908",
-            "price": 5229,
-            "name": "ブラッキーVMAX【",
+            "link": "/items/323239769",
+            "price": 4000,
+            "name": "ブラッキーVMAX ",
             "date": "2022-12-06",
             "stock": 1
         },
@@ -290,14 +338,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23114",
-            "price": 4180,
-            "name": "ブラッキーVMAX2",
-            "date": "2022-12-06",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23021",
             "price": 4980,
             "name": "ブラッキーVMAX2",
@@ -305,52 +345,12 @@
             "stock": 69
         },
         {
-            "market": "magi",
-            "link": "/items/112176908",
-            "price": 5229,
-            "name": "ブラッキーVMAX【",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/913643911",
-            "price": 4389,
-            "name": "〔状態A-〕ブラッキ",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/323239769",
-            "price": 4000,
-            "name": "ブラッキーVMAX ",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21389",
-            "price": 5000,
-            "name": "ブラッキーVMAX(",
-            "date": "2022-12-05",
-            "stock": 6
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23114",
             "price": 4180,
             "name": "ブラッキーVMAX2",
-            "date": "2022-12-05",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23021",
-            "price": 4980,
-            "name": "ブラッキーVMAX2",
-            "date": "2022-12-05",
-            "stock": 79
+            "date": "2022-12-06",
+            "stock": 2
         }
     ]
 }
