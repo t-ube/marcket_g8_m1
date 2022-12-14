@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18993",
             "price": 700,
             "name": "アップリューV(SR",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31177",
+            "price": 680,
+            "name": "アップリューV071",
+            "date": "2022-12-14",
+            "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18230",
+            "price": 780,
+            "name": "アップリューV071",
+            "date": "2022-12-14",
+            "stock": 39
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18993",
+            "price": 700,
+            "name": "アップリューV(SR",
             "date": "2022-12-13",
             "stock": 1
         },
@@ -55,14 +79,6 @@
             "name": "アップリューV(SR",
             "date": "2022-12-11",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31177",
-            "price": 680,
-            "name": "アップリューV071",
-            "date": "2022-12-11",
-            "stock": 9
         },
         {
             "market": "cardrush",
@@ -73,6 +89,14 @@
             "stock": 38
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31177",
+            "price": 680,
+            "name": "アップリューV071",
+            "date": "2022-12-11",
+            "stock": 9
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18993",
             "price": 700,
@@ -154,14 +178,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18230",
-            "price": 780,
-            "name": "アップリューV071",
-            "date": "2022-12-07",
-            "stock": 29
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31177",
             "price": 680,
             "name": "アップリューV071",
@@ -169,27 +185,11 @@
             "stock": 8
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18993",
-            "price": 700,
-            "name": "アップリューV(SR",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31177",
-            "price": 680,
-            "name": "アップリューV071",
-            "date": "2022-12-06",
-            "stock": 8
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/18230",
             "price": 780,
             "name": "アップリューV071",
-            "date": "2022-12-06",
+            "date": "2022-12-07",
             "stock": 29
         }
     ]

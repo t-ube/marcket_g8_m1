@@ -1,6 +1,14 @@
 ﻿{
     "items": [
         {
+            "market": "torecolo",
+            "link": "/shop/g/g019-028-SJ-B/",
+            "price": 220,
+            "name": "【ポケカ】ＳＳ◇しん",
+            "date": "2022-12-14",
+            "stock": 3
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/20786",
             "price": 150,
@@ -30,14 +38,6 @@
             "price": 150,
             "name": "しんかのおこう(-)",
             "date": "2022-12-07",
-            "stock": 2
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20786",
-            "price": 150,
-            "name": "しんかのおこう(-)",
-            "date": "2022-12-06",
             "stock": 2
         }
     ]

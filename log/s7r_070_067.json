@@ -1,6 +1,30 @@
 ﻿{
     "items": [
         {
+            "market": "magi",
+            "link": "/items/1156745578",
+            "price": 550,
+            "name": "ギャラドスV SR ",
+            "date": "2022-12-14",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32390",
+            "price": 730,
+            "name": "ギャラドスV070/",
+            "date": "2022-12-14",
+            "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21470",
+            "price": 880,
+            "name": "ギャラドスV070/",
+            "date": "2022-12-14",
+            "stock": 50
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32390",
             "price": 730,
@@ -18,6 +42,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21470",
+            "price": 880,
+            "name": "ギャラドスV070/",
+            "date": "2022-12-12",
+            "stock": 47
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32390",
             "price": 730,
             "name": "ギャラドスV070/",
@@ -26,11 +58,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21470",
-            "price": 880,
+            "link": "https://www.cardrush-pokemon.jp/product/32390",
+            "price": 730,
             "name": "ギャラドスV070/",
-            "date": "2022-12-12",
-            "stock": 47
+            "date": "2022-12-11",
+            "stock": 6
         },
         {
             "market": "cardrush",
@@ -42,11 +74,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32390",
-            "price": 730,
+            "link": "https://www.cardrush-pokemon.jp/product/21470",
+            "price": 880,
             "name": "ギャラドスV070/",
-            "date": "2022-12-11",
-            "stock": 6
+            "date": "2022-12-10",
+            "stock": 43
         },
         {
             "market": "cardrush",
@@ -58,22 +90,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21470",
-            "price": 880,
-            "name": "ギャラドスV070/",
-            "date": "2022-12-10",
-            "stock": 43
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21470",
-            "price": 880,
-            "name": "ギャラドスV070/",
-            "date": "2022-12-09",
-            "stock": 43
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32390",
             "price": 730,
             "name": "ギャラドスV070/",
@@ -82,11 +98,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32390",
-            "price": 730,
+            "link": "https://www.cardrush-pokemon.jp/product/21470",
+            "price": 880,
             "name": "ギャラドスV070/",
-            "date": "2022-12-08",
-            "stock": 6
+            "date": "2022-12-09",
+            "stock": 43
         },
         {
             "market": "cardrush",
@@ -101,7 +117,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/32390",
             "price": 730,
             "name": "ギャラドスV070/",
-            "date": "2022-12-07",
+            "date": "2022-12-08",
             "stock": 6
         },
         {
@@ -114,18 +130,10 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21470",
-            "price": 880,
-            "name": "ギャラドスV070/",
-            "date": "2022-12-06",
-            "stock": 43
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32390",
             "price": 730,
             "name": "ギャラドスV070/",
-            "date": "2022-12-06",
+            "date": "2022-12-07",
             "stock": 6
         }
     ]

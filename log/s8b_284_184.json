@@ -2,11 +2,91 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1028847672",
+            "price": 3300,
+            "name": "レックウザVMAX ",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2039875104",
+            "price": 2500,
+            "name": "レックウザVMAX ",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1665130720",
+            "price": 2400,
+            "name": "レックウザVMAX ",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2015592816",
+            "price": 2450,
+            "name": "レックウザVMAX ",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/392907619",
+            "price": 2800,
+            "name": "レックウザVMAX ",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/2023983454",
             "price": 4000,
             "name": "レックウザVMAX ",
-            "date": "2022-12-13",
+            "date": "2022-12-14",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/738679351",
+            "price": 3000,
+            "name": "レックウザVMAX ",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/163675206",
+            "price": 3444,
+            "name": "レックウザVMAX【",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21428",
+            "price": 3300,
+            "name": "レックウザVMAX(",
+            "date": "2022-12-14",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23150",
+            "price": 2780,
+            "name": "レックウザVMAX2",
+            "date": "2022-12-14",
+            "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23060",
+            "price": 3280,
+            "name": "レックウザVMAX2",
+            "date": "2022-12-14",
+            "stock": 8
         },
         {
             "market": "magi",
@@ -18,16 +98,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1665130720",
-            "price": 2400,
+            "link": "/items/2023983454",
+            "price": 4000,
             "name": "レックウザVMAX ",
             "date": "2022-12-13",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/2015592816",
-            "price": 2450,
+            "link": "/items/738679351",
+            "price": 3000,
             "name": "レックウザVMAX ",
             "date": "2022-12-13",
             "stock": 1
@@ -42,17 +122,25 @@
         },
         {
             "market": "magi",
-            "link": "/items/163675206",
-            "price": 3444,
-            "name": "レックウザVMAX【",
+            "link": "/items/2015592816",
+            "price": 2450,
+            "name": "レックウザVMAX ",
             "date": "2022-12-13",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/738679351",
-            "price": 3000,
+            "link": "/items/1665130720",
+            "price": 2400,
             "name": "レックウザVMAX ",
+            "date": "2022-12-13",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/163675206",
+            "price": 3444,
+            "name": "レックウザVMAX【",
             "date": "2022-12-13",
             "stock": 1
         },
@@ -66,14 +154,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23150",
-            "price": 2780,
-            "name": "レックウザVMAX2",
-            "date": "2022-12-13",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23060",
             "price": 3280,
             "name": "レックウザVMAX2",
@@ -81,9 +161,17 @@
             "stock": 10
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23150",
+            "price": 2780,
+            "name": "レックウザVMAX2",
+            "date": "2022-12-13",
+            "stock": 7
+        },
+        {
             "market": "magi",
-            "link": "/items/1665130720",
-            "price": 2400,
+            "link": "/items/2015592816",
+            "price": 2450,
             "name": "レックウザVMAX ",
             "date": "2022-12-12",
             "stock": 1
@@ -130,8 +218,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/2015592816",
-            "price": 2450,
+            "link": "/items/1665130720",
+            "price": 2400,
             "name": "レックウザVMAX ",
             "date": "2022-12-12",
             "stock": 1
@@ -226,14 +314,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23150",
-            "price": 2780,
-            "name": "レックウザVMAX2",
-            "date": "2022-12-11",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23060",
             "price": 3280,
             "name": "レックウザVMAX2",
@@ -241,18 +321,18 @@
             "stock": 10
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23150",
+            "price": 2780,
+            "name": "レックウザVMAX2",
+            "date": "2022-12-11",
+            "stock": 7
+        },
+        {
             "market": "magi",
             "link": "/items/163675206",
             "price": 3444,
             "name": "レックウザVMAX【",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/738679351",
-            "price": 3000,
-            "name": "レックウザVMAX ",
             "date": "2022-12-10",
             "stock": 1
         },
@@ -292,6 +372,14 @@
             "market": "magi",
             "link": "/items/2015592816",
             "price": 2450,
+            "name": "レックウザVMAX ",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/738679351",
+            "price": 3000,
             "name": "レックウザVMAX ",
             "date": "2022-12-10",
             "stock": 1
@@ -303,6 +391,14 @@
             "name": "レックウザVMAX(",
             "date": "2022-12-10",
             "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23150",
+            "price": 2780,
+            "name": "レックウザVMAX2",
+            "date": "2022-12-10",
+            "stock": 7
         },
         {
             "market": "cardrush",
@@ -313,26 +409,10 @@
             "stock": 11
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23150",
-            "price": 2780,
-            "name": "レックウザVMAX2",
-            "date": "2022-12-10",
-            "stock": 7
-        },
-        {
             "market": "magi",
-            "link": "/items/1665130720",
-            "price": 2400,
-            "name": "レックウザVMAX ",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2039875104",
-            "price": 2500,
-            "name": "レックウザVMAX ",
+            "link": "/items/163675206",
+            "price": 3444,
+            "name": "レックウザVMAX【",
             "date": "2022-12-09",
             "stock": 1
         },
@@ -346,9 +426,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/163675206",
-            "price": 3444,
-            "name": "レックウザVMAX【",
+            "link": "/items/2039875104",
+            "price": 2500,
+            "name": "レックウザVMAX ",
             "date": "2022-12-09",
             "stock": 1
         },
@@ -377,12 +457,28 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/1665130720",
+            "price": 2400,
+            "name": "レックウザVMAX ",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21428",
             "price": 3300,
             "name": "レックウザVMAX(",
             "date": "2022-12-09",
             "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23150",
+            "price": 2780,
+            "name": "レックウザVMAX2",
+            "date": "2022-12-09",
+            "stock": 7
         },
         {
             "market": "cardrush",
@@ -393,26 +489,18 @@
             "stock": 11
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23150",
-            "price": 2780,
-            "name": "レックウザVMAX2",
-            "date": "2022-12-09",
-            "stock": 7
+            "market": "magi",
+            "link": "/items/2039875104",
+            "price": 2500,
+            "name": "レックウザVMAX ",
+            "date": "2022-12-08",
+            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/163675206",
             "price": 3444,
             "name": "レックウザVMAX【",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2039875104",
-            "price": 2500,
-            "name": "レックウザVMAX ",
             "date": "2022-12-08",
             "stock": 1
         },
@@ -482,16 +570,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/2015592816",
-            "price": 2450,
-            "name": "レックウザVMAX ",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1028847672",
-            "price": 3300,
+            "link": "/items/738679351",
+            "price": 3000,
             "name": "レックウザVMAX ",
             "date": "2022-12-07",
             "stock": 1
@@ -506,16 +586,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/2039875104",
-            "price": 2500,
+            "link": "/items/2015592816",
+            "price": 2450,
             "name": "レックウザVMAX ",
             "date": "2022-12-07",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/738679351",
-            "price": 3000,
+            "link": "/items/2023983454",
+            "price": 4000,
             "name": "レックウザVMAX ",
             "date": "2022-12-07",
             "stock": 1
@@ -530,8 +610,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/2023983454",
-            "price": 4000,
+            "link": "/items/1028847672",
+            "price": 3300,
+            "name": "レックウザVMAX ",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2039875104",
+            "price": 2500,
             "name": "レックウザVMAX ",
             "date": "2022-12-07",
             "stock": 1
@@ -559,86 +647,6 @@
             "name": "レックウザVMAX2",
             "date": "2022-12-07",
             "stock": 8
-        },
-        {
-            "market": "magi",
-            "link": "/items/2023983454",
-            "price": 2400,
-            "name": "レックウザVMAX ",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1028847672",
-            "price": 3300,
-            "name": "レックウザVMAX ",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1665130720",
-            "price": 2400,
-            "name": "レックウザVMAX ",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/738679351",
-            "price": 3000,
-            "name": "レックウザVMAX ",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2015592816",
-            "price": 2450,
-            "name": "レックウザVMAX ",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2039875104",
-            "price": 2500,
-            "name": "レックウザVMAX ",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/163675206",
-            "price": 3444,
-            "name": "レックウザVMAX【",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21428",
-            "price": 3300,
-            "name": "レックウザVMAX(",
-            "date": "2022-12-06",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23150",
-            "price": 2780,
-            "name": "レックウザVMAX2",
-            "date": "2022-12-06",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23060",
-            "price": 3280,
-            "name": "レックウザVMAX2",
-            "date": "2022-12-06",
-            "stock": 9
         }
     ]
 }

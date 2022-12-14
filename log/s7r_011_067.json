@@ -1,6 +1,30 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19719",
+            "price": 50,
+            "name": "キュウコン(C){炎",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21291",
+            "price": 80,
+            "name": "キュウコン011/0",
+            "date": "2022-12-14",
+            "stock": 253
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g011-067-S7R-B/",
+            "price": 7,
+            "name": "【ポケカ】Ｃ◇キュウ",
+            "date": "2022-12-14",
+            "stock": 10
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21291",
             "price": 80,
@@ -110,22 +134,6 @@
             "price": 7,
             "name": "【ポケカ】Ｃ◇キュウ",
             "date": "2022-12-07",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21291",
-            "price": 80,
-            "name": "キュウコン011/0",
-            "date": "2022-12-06",
-            "stock": 256
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g011-067-S7R-B/",
-            "price": 7,
-            "name": "【ポケカ】Ｃ◇キュウ",
-            "date": "2022-12-06",
             "stock": 10
         }
     ]
