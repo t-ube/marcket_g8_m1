@@ -5,8 +5,104 @@
             "link": "/items/1165831262",
             "price": 100,
             "name": "マスター 159/1",
-            "date": "2022-12-14",
+            "date": "2022-12-15",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2829970",
+            "price": 100,
+            "name": "マスター 159/1",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/638265432",
+            "price": 100,
+            "name": "マスター 159/1",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/353338566",
+            "price": 100,
+            "name": "マスター 159/1",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1399009063",
+            "price": 100,
+            "name": "マスター 159/1",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1843037427",
+            "price": 100,
+            "name": "マスター 159/1",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/785838177",
+            "price": 100,
+            "name": "マスター 159/1",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21306",
+            "price": 100,
+            "name": "マスター:ミラー(C",
+            "date": "2022-12-15",
+            "stock": 21
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21127",
+            "price": 50,
+            "name": "マスター(CP){サ",
+            "date": "2022-12-15",
+            "stock": 31
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22938",
+            "price": 120,
+            "name": "マスター159/18",
+            "date": "2022-12-15",
+            "stock": 103
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22797",
+            "price": 80,
+            "name": "マスター159/18",
+            "date": "2022-12-15",
+            "stock": 339
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g159-184-S8B-BM/",
+            "price": 66,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-15",
+            "stock": 7
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g159-184-S8B-B/",
+            "price": 77,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-15",
+            "stock": 2
         },
         {
             "market": "magi",
@@ -18,7 +114,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/638265432",
+            "link": "/items/1165831262",
             "price": 100,
             "name": "マスター 159/1",
             "date": "2022-12-14",
@@ -42,7 +138,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1843037427",
+            "link": "/items/785838177",
             "price": 100,
             "name": "マスター 159/1",
             "date": "2022-12-14",
@@ -50,11 +146,27 @@
         },
         {
             "market": "magi",
-            "link": "/items/785838177",
+            "link": "/items/638265432",
             "price": 100,
             "name": "マスター 159/1",
             "date": "2022-12-14",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1843037427",
+            "price": 100,
+            "name": "マスター 159/1",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21306",
+            "price": 100,
+            "name": "マスター:ミラー(C",
+            "date": "2022-12-14",
+            "stock": 21
         },
         {
             "market": "hareruya2",
@@ -65,12 +177,12 @@
             "stock": 31
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21306",
-            "price": 100,
-            "name": "マスター:ミラー(C",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22797",
+            "price": 80,
+            "name": "マスター159/18",
             "date": "2022-12-14",
-            "stock": 21
+            "stock": 339
         },
         {
             "market": "cardrush",
@@ -81,22 +193,6 @@
             "stock": 103
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22797",
-            "price": 80,
-            "name": "マスター159/18",
-            "date": "2022-12-14",
-            "stock": 339
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g159-184-S8B-B/",
-            "price": 77,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-14",
-            "stock": 2
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g159-184-S8B-BM/",
             "price": 66,
@@ -105,12 +201,12 @@
             "stock": 7
         },
         {
-            "market": "magi",
-            "link": "/items/785838177",
-            "price": 100,
-            "name": "マスター 159/1",
-            "date": "2022-12-13",
-            "stock": 1
+            "market": "torecolo",
+            "link": "/shop/g/g159-184-S8B-B/",
+            "price": 77,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-14",
+            "stock": 2
         },
         {
             "market": "magi",
@@ -161,12 +257,12 @@
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21127",
-            "price": 50,
-            "name": "マスター(CP){サ",
+            "market": "magi",
+            "link": "/items/785838177",
+            "price": 100,
+            "name": "マスター 159/1",
             "date": "2022-12-13",
-            "stock": 11
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -177,12 +273,12 @@
             "stock": 21
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22938",
-            "price": 120,
-            "name": "マスター159/18",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21127",
+            "price": 50,
+            "name": "マスター(CP){サ",
             "date": "2022-12-13",
-            "stock": 103
+            "stock": 11
         },
         {
             "market": "cardrush",
@@ -193,12 +289,12 @@
             "stock": 339
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g159-184-S8B-B/",
-            "price": 77,
-            "name": "【ポケカ】Ｃ）通常仕",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22938",
+            "price": 120,
+            "name": "マスター159/18",
             "date": "2022-12-13",
-            "stock": 2
+            "stock": 103
         },
         {
             "market": "torecolo",
@@ -207,6 +303,14 @@
             "name": "【ポケカ】Ｃ）ミラー",
             "date": "2022-12-13",
             "stock": 7
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g159-184-S8B-B/",
+            "price": 77,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-13",
+            "stock": 2
         },
         {
             "market": "magi",
@@ -490,14 +594,6 @@
         },
         {
             "market": "torecolo",
-            "link": "/shop/g/g159-184-S8B-BM/",
-            "price": 66,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-10",
-            "stock": 7
-        },
-        {
-            "market": "torecolo",
             "link": "/shop/g/g159-184-S8B-B/",
             "price": 77,
             "name": "【ポケカ】Ｃ）通常仕",
@@ -505,8 +601,16 @@
             "stock": 2
         },
         {
+            "market": "torecolo",
+            "link": "/shop/g/g159-184-S8B-BM/",
+            "price": 66,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-10",
+            "stock": 7
+        },
+        {
             "market": "magi",
-            "link": "/items/1843037427",
+            "link": "/items/638265432",
             "price": 100,
             "name": "マスター 159/1",
             "date": "2022-12-09",
@@ -514,7 +618,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/638265432",
+            "link": "/items/1843037427",
             "price": 100,
             "name": "マスター 159/1",
             "date": "2022-12-09",
@@ -562,19 +666,19 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21306",
-            "price": 100,
-            "name": "マスター:ミラー(C",
-            "date": "2022-12-09",
-            "stock": 20
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21127",
             "price": 50,
             "name": "マスター(CP){サ",
             "date": "2022-12-09",
             "stock": 11
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21306",
+            "price": 100,
+            "name": "マスター:ミラー(C",
+            "date": "2022-12-09",
+            "stock": 20
         },
         {
             "market": "cardrush",
@@ -607,14 +711,6 @@
             "name": "【ポケカ】Ｃ）ミラー",
             "date": "2022-12-09",
             "stock": 7
-        },
-        {
-            "market": "magi",
-            "link": "/items/2829970",
-            "price": 100,
-            "name": "マスター 159/1",
-            "date": "2022-12-08",
-            "stock": 1
         },
         {
             "market": "magi",
@@ -634,114 +730,10 @@
         },
         {
             "market": "magi",
-            "link": "/items/1843037427",
-            "price": 100,
-            "name": "マスター 159/1",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/785838177",
-            "price": 100,
-            "name": "マスター 159/1",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/638265432",
             "price": 100,
             "name": "マスター 159/1",
             "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/713700589",
-            "price": 100,
-            "name": "マスター 159/1",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21127",
-            "price": 50,
-            "name": "マスター(CP){サ",
-            "date": "2022-12-08",
-            "stock": 11
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21306",
-            "price": 100,
-            "name": "マスター:ミラー(C",
-            "date": "2022-12-08",
-            "stock": 20
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22938",
-            "price": 120,
-            "name": "マスター159/18",
-            "date": "2022-12-08",
-            "stock": 103
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22797",
-            "price": 80,
-            "name": "マスター159/18",
-            "date": "2022-12-08",
-            "stock": 339
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g159-184-S8B-B/",
-            "price": 77,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-08",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g159-184-S8B-BM/",
-            "price": 66,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-08",
-            "stock": 7
-        },
-        {
-            "market": "magi",
-            "link": "/items/638265432",
-            "price": 100,
-            "name": "マスター 159/1",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1399009063",
-            "price": 100,
-            "name": "マスター 159/1",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/713700589",
-            "price": 100,
-            "name": "マスター 159/1",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1843037427",
-            "price": 100,
-            "name": "マスター 159/1",
-            "date": "2022-12-07",
             "stock": 1
         },
         {
@@ -749,15 +741,7 @@
             "link": "/items/2829970",
             "price": 100,
             "name": "マスター 159/1",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/353338566",
-            "price": 100,
-            "name": "マスター 159/1",
-            "date": "2022-12-07",
+            "date": "2022-12-08",
             "stock": 1
         },
         {
@@ -765,7 +749,23 @@
             "link": "/items/785838177",
             "price": 100,
             "name": "マスター 159/1",
-            "date": "2022-12-07",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1843037427",
+            "price": 100,
+            "name": "マスター 159/1",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/713700589",
+            "price": 100,
+            "name": "マスター 159/1",
+            "date": "2022-12-08",
             "stock": 1
         },
         {
@@ -773,7 +773,7 @@
             "link": "https://www.hareruya2.com/product/21306",
             "price": 100,
             "name": "マスター:ミラー(C",
-            "date": "2022-12-07",
+            "date": "2022-12-08",
             "stock": 20
         },
         {
@@ -781,40 +781,40 @@
             "link": "https://www.hareruya2.com/product/21127",
             "price": 50,
             "name": "マスター(CP){サ",
-            "date": "2022-12-07",
+            "date": "2022-12-08",
             "stock": 11
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22797",
-            "price": 80,
-            "name": "マスター159/18",
-            "date": "2022-12-07",
-            "stock": 339
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22938",
             "price": 120,
             "name": "マスター159/18",
-            "date": "2022-12-07",
+            "date": "2022-12-08",
             "stock": 103
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g159-184-S8B-BM/",
-            "price": 66,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-07",
-            "stock": 7
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22797",
+            "price": 80,
+            "name": "マスター159/18",
+            "date": "2022-12-08",
+            "stock": 339
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g159-184-S8B-B/",
             "price": 77,
             "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-07",
+            "date": "2022-12-08",
             "stock": 2
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g159-184-S8B-BM/",
+            "price": 66,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-08",
+            "stock": 7
         }
     ]
 }

@@ -1,6 +1,22 @@
 ﻿{
     "items": [
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31595",
+            "price": 680,
+            "name": "ガラルヤドキングV0",
+            "date": "2022-12-15",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18996",
+            "price": 780,
+            "name": "ガラルヤドキングV0",
+            "date": "2022-12-15",
+            "stock": 14
+        },
+        {
             "market": "magi",
             "link": "/items/1688745742",
             "price": 500,
@@ -58,19 +74,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18996",
-            "price": 780,
-            "name": "ガラルヤドキングV0",
-            "date": "2022-12-12",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31595",
             "price": 680,
             "name": "ガラルヤドキングV0",
             "date": "2022-12-12",
             "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18996",
+            "price": 780,
+            "name": "ガラルヤドキングV0",
+            "date": "2022-12-12",
+            "stock": 12
         },
         {
             "market": "cardrush",
@@ -90,19 +106,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18996",
-            "price": 780,
-            "name": "ガラルヤドキングV0",
-            "date": "2022-12-10",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31595",
             "price": 680,
             "name": "ガラルヤドキングV0",
             "date": "2022-12-10",
             "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18996",
+            "price": 780,
+            "name": "ガラルヤドキングV0",
+            "date": "2022-12-10",
+            "stock": 12
         },
         {
             "market": "cardrush",
@@ -119,6 +135,14 @@
             "name": "ガラルヤドキングV0",
             "date": "2022-12-09",
             "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31595",
+            "price": 680,
+            "name": "ガラルヤドキングV0",
+            "date": "2022-12-08",
+            "stock": 4
         },
         {
             "market": "cardrush",
@@ -127,30 +151,6 @@
             "name": "ガラルヤドキングV0",
             "date": "2022-12-08",
             "stock": 9
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31595",
-            "price": 680,
-            "name": "ガラルヤドキングV0",
-            "date": "2022-12-08",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18996",
-            "price": 780,
-            "name": "ガラルヤドキングV0",
-            "date": "2022-12-07",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31595",
-            "price": 680,
-            "name": "ガラルヤドキングV0",
-            "date": "2022-12-07",
-            "stock": 4
         }
     ]
 }

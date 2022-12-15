@@ -2,18 +2,34 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/1500255580",
-            "price": 133,
+            "link": "/items/826650265",
+            "price": 100,
             "name": "パワータブレット U",
-            "date": "2022-12-14",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/2092436693",
-            "price": 250,
+            "link": "/items/831459189",
+            "price": 200,
             "name": "パワータブレット U",
-            "date": "2022-12-14",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/379113",
+            "price": 100,
+            "name": "パワータブレット U",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1500255580",
+            "price": 133,
+            "name": "パワータブレット U",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -21,7 +37,15 @@
             "link": "/items/1233223388",
             "price": 138,
             "name": "パワータブレット U",
-            "date": "2022-12-14",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/612692306",
+            "price": 100,
+            "name": "パワータブレット(U",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -29,6 +53,54 @@
             "link": "/items/707994593",
             "price": 123,
             "name": "【特価】パワータブレ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1138922871",
+            "price": 130,
+            "name": "パワータブレット U",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2092436693",
+            "price": 250,
+            "name": "パワータブレット U",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20459",
+            "price": 50,
+            "name": "パワータブレット(U",
+            "date": "2022-12-15",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22167",
+            "price": 50,
+            "name": "パワータブレット09",
+            "date": "2022-12-15",
+            "stock": 43
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g092-100-S8-B/",
+            "price": 77,
+            "name": "【ポケカ】Ｕ◇パワー",
+            "date": "2022-12-15",
+            "stock": 67
+        },
+        {
+            "market": "magi",
+            "link": "/items/2092436693",
+            "price": 250,
+            "name": "パワータブレット U",
             "date": "2022-12-14",
             "stock": 1
         },
@@ -50,7 +122,23 @@
         },
         {
             "market": "magi",
-            "link": "/items/826650265",
+            "link": "/items/1233223388",
+            "price": 138,
+            "name": "パワータブレット U",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1500255580",
+            "price": 133,
+            "name": "パワータブレット U",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/379113",
             "price": 100,
             "name": "パワータブレット U",
             "date": "2022-12-14",
@@ -66,7 +154,15 @@
         },
         {
             "market": "magi",
-            "link": "/items/379113",
+            "link": "/items/707994593",
+            "price": 123,
+            "name": "【特価】パワータブレ",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/826650265",
             "price": 100,
             "name": "パワータブレット U",
             "date": "2022-12-14",
@@ -98,40 +194,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/707994593",
-            "price": 123,
-            "name": "【特価】パワータブレ",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2092436693",
-            "price": 250,
-            "name": "パワータブレット U",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1138922871",
-            "price": 130,
-            "name": "パワータブレット U",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/612692306",
-            "price": 100,
-            "name": "パワータブレット(U",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/831459189",
             "price": 200,
+            "name": "パワータブレット U",
+            "date": "2022-12-13",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/379113",
+            "price": 100,
             "name": "パワータブレット U",
             "date": "2022-12-13",
             "stock": 1
@@ -146,16 +218,40 @@
         },
         {
             "market": "magi",
-            "link": "/items/1500255580",
-            "price": 133,
+            "link": "/items/612692306",
+            "price": 100,
+            "name": "パワータブレット(U",
+            "date": "2022-12-13",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1138922871",
+            "price": 130,
             "name": "パワータブレット U",
             "date": "2022-12-13",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/379113",
-            "price": 100,
+            "link": "/items/2092436693",
+            "price": 250,
+            "name": "パワータブレット U",
+            "date": "2022-12-13",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/707994593",
+            "price": 123,
+            "name": "【特価】パワータブレ",
+            "date": "2022-12-13",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1500255580",
+            "price": 133,
             "name": "パワータブレット U",
             "date": "2022-12-13",
             "stock": 1
@@ -178,40 +274,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/707994593",
-            "price": 123,
-            "name": "【特価】パワータブレ",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1138922871",
-            "price": 130,
-            "name": "パワータブレット U",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1500255580",
-            "price": 133,
-            "name": "パワータブレット U",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2092436693",
-            "price": 250,
-            "name": "パワータブレット U",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/379113",
-            "price": 100,
+            "link": "/items/831459189",
+            "price": 200,
             "name": "パワータブレット U",
             "date": "2022-12-12",
             "stock": 1
@@ -226,8 +290,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/831459189",
-            "price": 200,
+            "link": "/items/379113",
+            "price": 100,
             "name": "パワータブレット U",
             "date": "2022-12-12",
             "stock": 1
@@ -236,6 +300,38 @@
             "market": "magi",
             "link": "/items/1233223388",
             "price": 138,
+            "name": "パワータブレット U",
+            "date": "2022-12-12",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1500255580",
+            "price": 133,
+            "name": "パワータブレット U",
+            "date": "2022-12-12",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1138922871",
+            "price": 130,
+            "name": "パワータブレット U",
+            "date": "2022-12-12",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/707994593",
+            "price": 123,
+            "name": "【特価】パワータブレ",
+            "date": "2022-12-12",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2092436693",
+            "price": 250,
             "name": "パワータブレット U",
             "date": "2022-12-12",
             "stock": 1
@@ -290,8 +386,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1500255580",
-            "price": 133,
+            "link": "/items/2092436693",
+            "price": 250,
             "name": "パワータブレット U",
             "date": "2022-12-11",
             "stock": 1
@@ -314,8 +410,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/2092436693",
-            "price": 250,
+            "link": "/items/1500255580",
+            "price": 133,
             "name": "パワータブレット U",
             "date": "2022-12-11",
             "stock": 1
@@ -346,16 +442,32 @@
         },
         {
             "market": "magi",
-            "link": "/items/2092436693",
-            "price": 250,
+            "link": "/items/831459189",
+            "price": 200,
             "name": "パワータブレット U",
             "date": "2022-12-10",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1233223388",
-            "price": 138,
+            "link": "/items/612692306",
+            "price": 200,
+            "name": "パワータブレット(U",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1138922871",
+            "price": 130,
+            "name": "パワータブレット U",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1500255580",
+            "price": 133,
             "name": "パワータブレット U",
             "date": "2022-12-10",
             "stock": 1
@@ -370,8 +482,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1500255580",
-            "price": 133,
+            "link": "/items/1233223388",
+            "price": 138,
+            "name": "パワータブレット U",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2092436693",
+            "price": 250,
             "name": "パワータブレット U",
             "date": "2022-12-10",
             "stock": 1
@@ -385,44 +505,12 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/1138922871",
-            "price": 130,
-            "name": "パワータブレット U",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/612692306",
-            "price": 200,
-            "name": "パワータブレット(U",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/831459189",
-            "price": 200,
-            "name": "パワータブレット U",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/20459",
             "price": 50,
             "name": "パワータブレット(U",
             "date": "2022-12-10",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22167",
-            "price": 50,
-            "name": "パワータブレット09",
-            "date": "2022-12-10",
-            "stock": 81
         },
         {
             "market": "cardrush",
@@ -433,12 +521,28 @@
             "stock": 6
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22167",
+            "price": 50,
+            "name": "パワータブレット09",
+            "date": "2022-12-10",
+            "stock": 81
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g092-100-S8-B/",
             "price": 77,
             "name": "【ポケカ】Ｕ◇パワー",
             "date": "2022-12-10",
             "stock": 65
+        },
+        {
+            "market": "magi",
+            "link": "/items/1500255580",
+            "price": 133,
+            "name": "パワータブレット U",
+            "date": "2022-12-09",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -469,14 +573,6 @@
             "link": "/items/612692306",
             "price": 200,
             "name": "パワータブレット(U",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1500255580",
-            "price": 133,
-            "name": "パワータブレット U",
             "date": "2022-12-09",
             "stock": 1
         },
@@ -538,8 +634,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1233223388",
-            "price": 138,
+            "link": "/items/1500255580",
+            "price": 133,
             "name": "パワータブレット U",
             "date": "2022-12-08",
             "stock": 1
@@ -578,8 +674,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1500255580",
-            "price": 133,
+            "link": "/items/1233223388",
+            "price": 138,
             "name": "パワータブレット U",
             "date": "2022-12-08",
             "stock": 1
@@ -630,102 +726,6 @@
             "price": 77,
             "name": "【ポケカ】Ｕ◇パワー",
             "date": "2022-12-08",
-            "stock": 65
-        },
-        {
-            "market": "magi",
-            "link": "/items/1138922871",
-            "price": 130,
-            "name": "パワータブレット U",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/831459189",
-            "price": 200,
-            "name": "パワータブレット U",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/379113",
-            "price": 100,
-            "name": "パワータブレット U",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/612692306",
-            "price": 200,
-            "name": "パワータブレット(U",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1500255580",
-            "price": 133,
-            "name": "パワータブレット U",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/707994593",
-            "price": 124,
-            "name": "【特価】パワータブレ",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1233223388",
-            "price": 138,
-            "name": "パワータブレット U",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/521790189",
-            "price": 100,
-            "name": "パワータブレット U",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2092436693",
-            "price": 250,
-            "name": "パワータブレット U",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20459",
-            "price": 50,
-            "name": "パワータブレット(U",
-            "date": "2022-12-07",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22167",
-            "price": 50,
-            "name": "パワータブレット09",
-            "date": "2022-12-07",
-            "stock": 123
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g092-100-S8-B/",
-            "price": 77,
-            "name": "【ポケカ】Ｕ◇パワー",
-            "date": "2022-12-07",
             "stock": 65
         }
     ]

@@ -5,6 +5,38 @@
             "link": "/items/963421597",
             "price": 500,
             "name": "ピカチュウV 005",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22892",
+            "price": 250,
+            "name": "ピカチュウV(D){",
+            "date": "2022-12-15",
+            "stock": 38
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33380",
+            "price": 250,
+            "name": "ピカチュウV005/",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23856",
+            "price": 280,
+            "name": "ピカチュウV005/",
+            "date": "2022-12-15",
+            "stock": 40
+        },
+        {
+            "market": "magi",
+            "link": "/items/963421597",
+            "price": 500,
+            "name": "ピカチュウV 005",
             "date": "2022-12-14",
             "stock": 1
         },
@@ -18,19 +50,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33380",
-            "price": 250,
-            "name": "ピカチュウV005/",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23856",
             "price": 280,
             "name": "ピカチュウV005/",
             "date": "2022-12-14",
             "stock": 40
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33380",
+            "price": 250,
+            "name": "ピカチュウV005/",
+            "date": "2022-12-14",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -190,30 +222,6 @@
             "price": 280,
             "name": "ピカチュウV005/",
             "date": "2022-12-08",
-            "stock": 40
-        },
-        {
-            "market": "magi",
-            "link": "/items/963421597",
-            "price": 500,
-            "name": "ピカチュウV 005",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22892",
-            "price": 250,
-            "name": "ピカチュウV(D){",
-            "date": "2022-12-07",
-            "stock": 36
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23856",
-            "price": 280,
-            "name": "ピカチュウV005/",
-            "date": "2022-12-07",
             "stock": 40
         }
     ]

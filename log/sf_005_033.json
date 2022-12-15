@@ -74,14 +74,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31148",
-            "price": 250,
-            "name": "デデンネGX005/",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/18201",
             "price": 280,
             "name": "デデンネGX005/",
@@ -89,6 +81,14 @@
             "stock": 3
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31148",
+            "price": 250,
+            "name": "デデンネGX005/",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19109",
             "price": 500,
@@ -122,43 +122,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18201",
-            "price": 280,
-            "name": "デデンネGX005/",
-            "date": "2022-12-08",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31148",
             "price": 250,
             "name": "デデンネGX005/",
             "date": "2022-12-08",
             "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19109",
-            "price": 500,
-            "name": "デデンネGX(D){",
-            "date": "2022-12-07",
-            "stock": 2
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/18201",
             "price": 280,
             "name": "デデンネGX005/",
-            "date": "2022-12-07",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31148",
-            "price": 250,
-            "name": "デデンネGX005/",
-            "date": "2022-12-07",
-            "stock": 1
+            "date": "2022-12-08",
+            "stock": 3
         }
     ]
 }

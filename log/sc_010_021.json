@@ -1,6 +1,14 @@
 ﻿{
     "items": [
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7809",
+            "price": 220,
+            "name": "しんかのおこう010",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
             "market": "magi",
             "link": "/items/1194508700",
             "price": 699,
@@ -127,30 +135,6 @@
             "name": "しんかのおこう010",
             "date": "2022-12-08",
             "stock": 23
-        },
-        {
-            "market": "magi",
-            "link": "/items/1194508700",
-            "price": 699,
-            "name": "しんかのおこう TD",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17828",
-            "price": 150,
-            "name": "しんかのおこう(D)",
-            "date": "2022-12-07",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7809",
-            "price": 220,
-            "name": "しんかのおこう010",
-            "date": "2022-12-07",
-            "stock": 27
         }
     ]
 }

@@ -5,6 +5,46 @@
             "link": "/items/2089457055",
             "price": 598,
             "name": "ポプラ(SR){サポ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21413",
+            "price": 1000,
+            "name": "ポプラ(SR){サポ",
+            "date": "2022-12-15",
+            "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23136",
+            "price": 680,
+            "name": "ポプラ269/184",
+            "date": "2022-12-15",
+            "stock": 47
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23045",
+            "price": 780,
+            "name": "ポプラ269/184",
+            "date": "2022-12-15",
+            "stock": 79
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g269-184-S8B-B/",
+            "price": 770,
+            "name": "【ポケカ】ＳＲ◇ポプ",
+            "date": "2022-12-15",
+            "stock": 13
+        },
+        {
+            "market": "magi",
+            "link": "/items/2089457055",
+            "price": 598,
+            "name": "ポプラ(SR){サポ",
             "date": "2022-12-14",
             "stock": 1
         },
@@ -58,19 +98,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23136",
-            "price": 680,
-            "name": "ポプラ269/184",
-            "date": "2022-12-13",
-            "stock": 45
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23045",
             "price": 780,
             "name": "ポプラ269/184",
             "date": "2022-12-13",
             "stock": 140
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23136",
+            "price": 680,
+            "name": "ポプラ269/184",
+            "date": "2022-12-13",
+            "stock": 45
         },
         {
             "market": "torecolo",
@@ -178,19 +218,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23045",
-            "price": 880,
-            "name": "ポプラ269/184",
-            "date": "2022-12-10",
-            "stock": 115
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23136",
             "price": 730,
             "name": "ポプラ269/184",
             "date": "2022-12-10",
             "stock": 38
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23045",
+            "price": 880,
+            "name": "ポプラ269/184",
+            "date": "2022-12-10",
+            "stock": 115
         },
         {
             "market": "torecolo",
@@ -215,14 +255,6 @@
             "name": "ポプラ(SR){サポ",
             "date": "2022-12-09",
             "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23136",
-            "price": 730,
-            "name": "ポプラ269/184",
-            "date": "2022-12-09",
-            "stock": 38
         },
         {
             "market": "cardrush",
@@ -233,6 +265,14 @@
             "stock": 107
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23136",
+            "price": 730,
+            "name": "ポプラ269/184",
+            "date": "2022-12-09",
+            "stock": 38
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g269-184-S8B-B/",
             "price": 770,
@@ -258,14 +298,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23045",
-            "price": 880,
-            "name": "ポプラ269/184",
-            "date": "2022-12-08",
-            "stock": 99
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23136",
             "price": 730,
             "name": "ポプラ269/184",
@@ -273,43 +305,11 @@
             "stock": 30
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g269-184-S8B-B/",
-            "price": 770,
-            "name": "【ポケカ】ＳＲ◇ポプ",
-            "date": "2022-12-08",
-            "stock": 13
-        },
-        {
-            "market": "magi",
-            "link": "/items/2089457055",
-            "price": 598,
-            "name": "ポプラ(SR){サポ",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21413",
-            "price": 1000,
-            "name": "ポプラ(SR){サポ",
-            "date": "2022-12-07",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23136",
-            "price": 730,
-            "name": "ポプラ269/184",
-            "date": "2022-12-07",
-            "stock": 30
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23045",
             "price": 880,
             "name": "ポプラ269/184",
-            "date": "2022-12-07",
+            "date": "2022-12-08",
             "stock": 99
         },
         {
@@ -317,7 +317,7 @@
             "link": "/shop/g/g269-184-S8B-B/",
             "price": 770,
             "name": "【ポケカ】ＳＲ◇ポプ",
-            "date": "2022-12-07",
+            "date": "2022-12-08",
             "stock": 13
         }
     ]
