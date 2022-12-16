@@ -2,16 +2,104 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/793746508",
+            "price": 2399,
+            "name": "ピカチュウV CSR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1004311312",
-            "price": 2355,
+            "price": 2344,
+            "name": "ピカチュウV CSR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/113555940",
+            "price": 6000,
+            "name": "ピカチュウV CSR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1958676119",
+            "price": 3990,
+            "name": "ピカチュウV CSR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1048436931",
+            "price": 6402,
+            "name": "ピカチュウV CSR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/420796184",
+            "price": 2400,
+            "name": "ピカチュウV CSR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21369",
+            "price": 3000,
+            "name": "ピカチュウV(CSR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23001",
+            "price": 2780,
+            "name": "ピカチュウV222/",
+            "date": "2022-12-16",
+            "stock": 190
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23094",
+            "price": 2380,
+            "name": "ピカチュウV222/",
+            "date": "2022-12-16",
+            "stock": 7
+        },
+        {
+            "market": "magi",
+            "link": "/items/793746508",
+            "price": 2399,
             "name": "ピカチュウV CSR",
             "date": "2022-12-15",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/793746508",
-            "price": 2399,
+            "link": "/items/420796184",
+            "price": 2400,
+            "name": "ピカチュウV CSR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1048436931",
+            "price": 6406,
+            "name": "ピカチュウV CSR",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1004311312",
+            "price": 2355,
             "name": "ピカチュウV CSR",
             "date": "2022-12-15",
             "stock": 1
@@ -33,36 +121,12 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/1048436931",
-            "price": 6406,
-            "name": "ピカチュウV CSR",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/420796184",
-            "price": 2400,
-            "name": "ピカチュウV CSR",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21369",
             "price": 3000,
             "name": "ピカチュウV(CSR",
             "date": "2022-12-15",
             "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23094",
-            "price": 2380,
-            "name": "ピカチュウV222/",
-            "date": "2022-12-15",
-            "stock": 4
         },
         {
             "market": "cardrush",
@@ -73,17 +137,25 @@
             "stock": 189
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23094",
+            "price": 2380,
+            "name": "ピカチュウV222/",
+            "date": "2022-12-15",
+            "stock": 4
+        },
+        {
             "market": "magi",
-            "link": "/items/1004311312",
-            "price": 2355,
+            "link": "/items/793746508",
+            "price": 2399,
             "name": "ピカチュウV CSR",
             "date": "2022-12-14",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/793746508",
-            "price": 2399,
+            "link": "/items/113555940",
+            "price": 6000,
             "name": "ピカチュウV CSR",
             "date": "2022-12-14",
             "stock": 1
@@ -98,16 +170,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1958676119",
-            "price": 3991,
-            "name": "ピカチュウV CSR",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/113555940",
-            "price": 6000,
+            "link": "/items/1004311312",
+            "price": 2355,
             "name": "ピカチュウV CSR",
             "date": "2022-12-14",
             "stock": 1
@@ -116,6 +180,14 @@
             "market": "magi",
             "link": "/items/420796184",
             "price": 2400,
+            "name": "ピカチュウV CSR",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1958676119",
+            "price": 3991,
             "name": "ピカチュウV CSR",
             "date": "2022-12-14",
             "stock": 1
@@ -130,14 +202,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23001",
-            "price": 2780,
-            "name": "ピカチュウV222/",
-            "date": "2022-12-14",
-            "stock": 193
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23094",
             "price": 2380,
             "name": "ピカチュウV222/",
@@ -145,12 +209,12 @@
             "stock": 4
         },
         {
-            "market": "magi",
-            "link": "/items/113555940",
-            "price": 6000,
-            "name": "ピカチュウV CSR",
-            "date": "2022-12-13",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23001",
+            "price": 2780,
+            "name": "ピカチュウV222/",
+            "date": "2022-12-14",
+            "stock": 193
         },
         {
             "market": "magi",
@@ -193,20 +257,20 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/113555940",
+            "price": 6000,
+            "name": "ピカチュウV CSR",
+            "date": "2022-12-13",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21369",
             "price": 3000,
             "name": "ピカチュウV(CSR",
             "date": "2022-12-13",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23001",
-            "price": 2780,
-            "name": "ピカチュウV222/",
-            "date": "2022-12-13",
-            "stock": 193
         },
         {
             "market": "cardrush",
@@ -217,9 +281,25 @@
             "stock": 5
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23001",
+            "price": 2780,
+            "name": "ピカチュウV222/",
+            "date": "2022-12-13",
+            "stock": 193
+        },
+        {
             "market": "magi",
-            "link": "/items/1958676119",
-            "price": 3991,
+            "link": "/items/420796184",
+            "price": 2400,
+            "name": "ピカチュウV CSR",
+            "date": "2022-12-12",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/113555940",
+            "price": 6000,
             "name": "ピカチュウV CSR",
             "date": "2022-12-12",
             "stock": 1
@@ -234,16 +314,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/113555940",
-            "price": 6000,
-            "name": "ピカチュウV CSR",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/420796184",
-            "price": 2400,
+            "link": "/items/793746508",
+            "price": 2399,
             "name": "ピカチュウV CSR",
             "date": "2022-12-12",
             "stock": 1
@@ -258,8 +330,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/793746508",
-            "price": 2399,
+            "link": "/items/1958676119",
+            "price": 3991,
             "name": "ピカチュウV CSR",
             "date": "2022-12-12",
             "stock": 1
@@ -274,14 +346,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23001",
-            "price": 2780,
-            "name": "ピカチュウV222/",
-            "date": "2022-12-12",
-            "stock": 171
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23094",
             "price": 2380,
             "name": "ピカチュウV222/",
@@ -289,17 +353,17 @@
             "stock": 5
         },
         {
-            "market": "magi",
-            "link": "/items/113555940",
-            "price": 6000,
-            "name": "ピカチュウV CSR",
-            "date": "2022-12-11",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23001",
+            "price": 2780,
+            "name": "ピカチュウV222/",
+            "date": "2022-12-12",
+            "stock": 171
         },
         {
             "market": "magi",
-            "link": "/items/1048436931",
-            "price": 6419,
+            "link": "/items/1958676119",
+            "price": 3992,
             "name": "ピカチュウV CSR",
             "date": "2022-12-11",
             "stock": 1
@@ -314,8 +378,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1958676119",
-            "price": 3992,
+            "link": "/items/1048436931",
+            "price": 6419,
+            "name": "ピカチュウV CSR",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/113555940",
+            "price": 6000,
             "name": "ピカチュウV CSR",
             "date": "2022-12-11",
             "stock": 1
@@ -330,19 +402,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23094",
-            "price": 2480,
-            "name": "ピカチュウV222/",
-            "date": "2022-12-11",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23001",
             "price": 2980,
             "name": "ピカチュウV222/",
             "date": "2022-12-11",
             "stock": 173
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23094",
+            "price": 2480,
+            "name": "ピカチュウV222/",
+            "date": "2022-12-11",
+            "stock": 5
         },
         {
             "market": "magi",
@@ -386,14 +458,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23001",
-            "price": 2980,
-            "name": "ピカチュウV222/",
-            "date": "2022-12-10",
-            "stock": 168
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23094",
             "price": 2480,
             "name": "ピカチュウV222/",
@@ -401,20 +465,12 @@
             "stock": 5
         },
         {
-            "market": "magi",
-            "link": "/items/420796184",
-            "price": 2400,
-            "name": "ピカチュウV CSR",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1958676119",
-            "price": 3992,
-            "name": "ピカチュウV CSR",
-            "date": "2022-12-09",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23001",
+            "price": 2980,
+            "name": "ピカチュウV222/",
+            "date": "2022-12-10",
+            "stock": 168
         },
         {
             "market": "magi",
@@ -433,20 +489,28 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/1958676119",
+            "price": 3992,
+            "name": "ピカチュウV CSR",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/420796184",
+            "price": 2400,
+            "name": "ピカチュウV CSR",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21369",
             "price": 3000,
             "name": "ピカチュウV(CSR",
             "date": "2022-12-09",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23094",
-            "price": 2480,
-            "name": "ピカチュウV222/",
-            "date": "2022-12-09",
-            "stock": 5
         },
         {
             "market": "cardrush",
@@ -457,60 +521,12 @@
             "stock": 168
         },
         {
-            "market": "magi",
-            "link": "/items/113555940",
-            "price": 6000,
-            "name": "ピカチュウV CSR",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1048436931",
-            "price": 6431,
-            "name": "ピカチュウV CSR",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/420796184",
-            "price": 2500,
-            "name": "ピカチュウV CSR",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1958676119",
-            "price": 3992,
-            "name": "ピカチュウV CSR",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21369",
-            "price": 3000,
-            "name": "ピカチュウV(CSR",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23001",
-            "price": 2980,
-            "name": "ピカチュウV222/",
-            "date": "2022-12-08",
-            "stock": 171
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23094",
             "price": 2480,
             "name": "ピカチュウV222/",
-            "date": "2022-12-08",
-            "stock": 6
+            "date": "2022-12-09",
+            "stock": 5
         }
     ]
 }

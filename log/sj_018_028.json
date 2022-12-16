@@ -1,6 +1,14 @@
 ﻿{
     "items": [
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32702",
+            "price": 300,
+            "name": "クイックボール018",
+            "date": "2022-12-16",
+            "stock": 3
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g018-028-SJ-B/",
             "price": 330,
@@ -55,22 +63,6 @@
             "name": "クイックボール018",
             "date": "2022-12-09",
             "stock": 5
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20785",
-            "price": 400,
-            "name": "クイックボール(-)",
-            "date": "2022-12-08",
-            "stock": 11
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22488",
-            "price": 420,
-            "name": "クイックボール018",
-            "date": "2022-12-08",
-            "stock": 8
         }
     ]
 }

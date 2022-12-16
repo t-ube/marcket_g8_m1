@@ -1,6 +1,30 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19884",
+            "price": 1000,
+            "name": "ジュラルドンV(SR",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32372",
+            "price": 730,
+            "name": "ジュラルドンV075",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21452",
+            "price": 880,
+            "name": "ジュラルドンV075",
+            "date": "2022-12-16",
+            "stock": 19
+        },
+        {
             "market": "magi",
             "link": "/items/1426554665",
             "price": 1250,
@@ -82,19 +106,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32372",
-            "price": 730,
-            "name": "ジュラルドンV075",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21452",
             "price": 880,
             "name": "ジュラルドンV075",
             "date": "2022-12-13",
             "stock": 19
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32372",
+            "price": 730,
+            "name": "ジュラルドンV075",
+            "date": "2022-12-13",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -122,27 +146,19 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32372",
+            "price": 730,
+            "name": "ジュラルドンV075",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21452",
             "price": 880,
             "name": "ジュラルドンV075",
             "date": "2022-12-11",
             "stock": 19
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32372",
-            "price": 730,
-            "name": "ジュラルドンV075",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32372",
-            "price": 730,
-            "name": "ジュラルドンV075",
-            "date": "2022-12-10",
-            "stock": 1
         },
         {
             "market": "cardrush",
@@ -154,11 +170,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21452",
-            "price": 880,
+            "link": "https://www.cardrush-pokemon.jp/product/32372",
+            "price": 730,
             "name": "ジュラルドンV075",
-            "date": "2022-12-09",
-            "stock": 19
+            "date": "2022-12-10",
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -173,16 +189,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/21452",
             "price": 880,
             "name": "ジュラルドンV075",
-            "date": "2022-12-08",
+            "date": "2022-12-09",
             "stock": 19
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32372",
-            "price": 730,
-            "name": "ジュラルドンV075",
-            "date": "2022-12-08",
-            "stock": 1
         }
     ]
 }

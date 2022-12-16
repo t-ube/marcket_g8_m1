@@ -2,18 +2,26 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/1640518891",
-            "price": 500,
+            "link": "/items/903562563",
+            "price": 180,
             "name": "ガラルファイヤー R",
-            "date": "2022-12-15",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/455403237",
-            "price": 333,
+            "link": "/items/676808352",
+            "price": 300,
             "name": "ガラルファイヤー R",
-            "date": "2022-12-15",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1640518891",
+            "price": 500,
+            "name": "ガラルファイヤー R",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
@@ -21,6 +29,62 @@
             "link": "/items/1049123853",
             "price": 428,
             "name": "【特価】ガラルファイ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/455403237",
+            "price": 333,
+            "name": "ガラルファイヤー R",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/800596108",
+            "price": 333,
+            "name": "ガラルファイヤー R",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/815449357",
+            "price": 150,
+            "name": "ガラルファイヤー R",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19667",
+            "price": 50,
+            "name": "ガラルファイヤー(R",
+            "date": "2022-12-16",
+            "stock": 163
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21239",
+            "price": 80,
+            "name": "ガラルファイヤー02",
+            "date": "2022-12-16",
+            "stock": 96
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g026-067-S7D-B/",
+            "price": 110,
+            "name": "【ポケカ】Ｒ◇ガラル",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/455403237",
+            "price": 333,
+            "name": "ガラルファイヤー R",
             "date": "2022-12-15",
             "stock": 1
         },
@@ -42,8 +106,24 @@
         },
         {
             "market": "magi",
-            "link": "/items/676808352",
-            "price": 300,
+            "link": "/items/1640518891",
+            "price": 500,
+            "name": "ガラルファイヤー R",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1049123853",
+            "price": 428,
+            "name": "【特価】ガラルファイ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/800596108",
+            "price": 333,
             "name": "ガラルファイヤー R",
             "date": "2022-12-15",
             "stock": 1
@@ -58,8 +138,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/800596108",
-            "price": 333,
+            "link": "/items/676808352",
+            "price": 300,
             "name": "ガラルファイヤー R",
             "date": "2022-12-15",
             "stock": 1
@@ -90,30 +170,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/455403237",
-            "price": 333,
-            "name": "ガラルファイヤー R",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/800596108",
-            "price": 333,
-            "name": "ガラルファイヤー R",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1640518891",
-            "price": 500,
-            "name": "ガラルファイヤー R",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1049123853",
             "price": 428,
             "name": "【特価】ガラルファイ",
@@ -130,8 +186,32 @@
         },
         {
             "market": "magi",
+            "link": "/items/1640518891",
+            "price": 500,
+            "name": "ガラルファイヤー R",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/929896727",
             "price": 150,
+            "name": "ガラルファイヤー R",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/800596108",
+            "price": 333,
+            "name": "ガラルファイヤー R",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/455403237",
+            "price": 333,
             "name": "ガラルファイヤー R",
             "date": "2022-12-14",
             "stock": 1
@@ -263,6 +343,14 @@
             "name": "【ポケカ】Ｒ◇ガラル",
             "date": "2022-12-13",
             "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/903562563",
+            "price": 180,
+            "name": "ガラルファイヤー R",
+            "date": "2022-12-12",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -274,16 +362,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1049123853",
-            "price": 428,
-            "name": "【特価】ガラルファイ",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/929896727",
-            "price": 150,
+            "link": "/items/815449357",
+            "price": 300,
             "name": "ガラルファイヤー R",
             "date": "2022-12-12",
             "stock": 1
@@ -298,16 +378,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/815449357",
-            "price": 300,
+            "link": "/items/929896727",
+            "price": 150,
             "name": "ガラルファイヤー R",
             "date": "2022-12-12",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/903562563",
-            "price": 180,
+            "link": "/items/800596108",
+            "price": 333,
             "name": "ガラルファイヤー R",
             "date": "2022-12-12",
             "stock": 1
@@ -330,9 +410,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/800596108",
-            "price": 333,
-            "name": "ガラルファイヤー R",
+            "link": "/items/1049123853",
+            "price": 428,
+            "name": "【特価】ガラルファイ",
             "date": "2022-12-12",
             "stock": 1
         },
@@ -362,15 +442,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1640518891",
-            "price": 500,
-            "name": "ガラルファイヤー R",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/676808352",
+            "link": "/items/815449357",
             "price": 300,
             "name": "ガラルファイヤー R",
             "date": "2022-12-11",
@@ -378,15 +450,15 @@
         },
         {
             "market": "magi",
-            "link": "/items/1049123853",
-            "price": 428,
-            "name": "【特価】ガラルファイ",
+            "link": "/items/929896727",
+            "price": 160,
+            "name": "ガラルファイヤー R",
             "date": "2022-12-11",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/455403237",
+            "link": "/items/800596108",
             "price": 333,
             "name": "ガラルファイヤー R",
             "date": "2022-12-11",
@@ -402,7 +474,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/800596108",
+            "link": "/items/455403237",
             "price": 333,
             "name": "ガラルファイヤー R",
             "date": "2022-12-11",
@@ -410,16 +482,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/929896727",
-            "price": 160,
+            "link": "/items/676808352",
+            "price": 300,
             "name": "ガラルファイヤー R",
             "date": "2022-12-11",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/815449357",
-            "price": 300,
+            "link": "/items/1640518891",
+            "price": 500,
             "name": "ガラルファイヤー R",
             "date": "2022-12-11",
             "stock": 1
@@ -429,6 +501,14 @@
             "link": "/items/353798856",
             "price": 100,
             "name": "ガラルファイヤー R",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1049123853",
+            "price": 428,
+            "name": "【特価】ガラルファイ",
             "date": "2022-12-11",
             "stock": 1
         },
@@ -458,6 +538,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1640518891",
+            "price": 500,
+            "name": "ガラルファイヤー R",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/455403237",
             "price": 333,
             "name": "ガラルファイヤー R",
@@ -476,14 +564,6 @@
             "market": "magi",
             "link": "/items/929896727",
             "price": 150,
-            "name": "ガラルファイヤー R",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1640518891",
-            "price": 500,
             "name": "ガラルファイヤー R",
             "date": "2022-12-10",
             "stock": 1
@@ -554,8 +634,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1640518891",
-            "price": 500,
+            "link": "/items/1049123853",
+            "price": 428,
+            "name": "【特価】ガラルファイ",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/353798856",
+            "price": 100,
             "name": "ガラルファイヤー R",
             "date": "2022-12-09",
             "stock": 1
@@ -564,6 +652,38 @@
             "market": "magi",
             "link": "/items/903562563",
             "price": 200,
+            "name": "ガラルファイヤー R",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/676808352",
+            "price": 300,
+            "name": "ガラルファイヤー R",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/800596108",
+            "price": 333,
+            "name": "ガラルファイヤー R",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/421369395",
+            "price": 300,
+            "name": "ガラルファイヤー R",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1640518891",
+            "price": 500,
             "name": "ガラルファイヤー R",
             "date": "2022-12-09",
             "stock": 1
@@ -580,46 +700,6 @@
             "market": "magi",
             "link": "/items/815449357",
             "price": 400,
-            "name": "ガラルファイヤー R",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/353798856",
-            "price": 100,
-            "name": "ガラルファイヤー R",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/800596108",
-            "price": 333,
-            "name": "ガラルファイヤー R",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/676808352",
-            "price": 300,
-            "name": "ガラルファイヤー R",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1049123853",
-            "price": 428,
-            "name": "【特価】ガラルファイ",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/421369395",
-            "price": 300,
             "name": "ガラルファイヤー R",
             "date": "2022-12-09",
             "stock": 1
@@ -646,102 +726,6 @@
             "price": 110,
             "name": "【ポケカ】Ｒ◇ガラル",
             "date": "2022-12-09",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/800596108",
-            "price": 333,
-            "name": "ガラルファイヤー R",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/353798856",
-            "price": 100,
-            "name": "ガラルファイヤー R",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/903562563",
-            "price": 200,
-            "name": "ガラルファイヤー R",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/676808352",
-            "price": 300,
-            "name": "ガラルファイヤー R",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/455403237",
-            "price": 333,
-            "name": "ガラルファイヤー R",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/421369395",
-            "price": 300,
-            "name": "ガラルファイヤー R",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1640518891",
-            "price": 500,
-            "name": "ガラルファイヤー R",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/815449357",
-            "price": 400,
-            "name": "ガラルファイヤー R",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1049123853",
-            "price": 428,
-            "name": "【特価】ガラルファイ",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19667",
-            "price": 50,
-            "name": "ガラルファイヤー(R",
-            "date": "2022-12-08",
-            "stock": 163
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21239",
-            "price": 80,
-            "name": "ガラルファイヤー02",
-            "date": "2022-12-08",
-            "stock": 97
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g026-067-S7D-B/",
-            "price": 110,
-            "name": "【ポケカ】Ｒ◇ガラル",
-            "date": "2022-12-08",
             "stock": 4
         }
     ]

@@ -5,6 +5,22 @@
             "link": "/items/1980906351",
             "price": 200,
             "name": "博士の研究[アララギ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20621",
+            "price": 80,
+            "name": "博士の研究アララギ博",
+            "date": "2022-12-16",
+            "stock": 248
+        },
+        {
+            "market": "magi",
+            "link": "/items/1980906351",
+            "price": 200,
+            "name": "博士の研究[アララギ",
             "date": "2022-12-15",
             "stock": 1
         },
@@ -111,22 +127,6 @@
             "name": "博士の研究アララギ博",
             "date": "2022-12-09",
             "stock": 272
-        },
-        {
-            "market": "magi",
-            "link": "/items/1980906351",
-            "price": 200,
-            "name": "博士の研究[アララギ",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20621",
-            "price": 80,
-            "name": "博士の研究アララギ博",
-            "date": "2022-12-08",
-            "stock": 280
         }
     ]
 }

@@ -2,6 +2,110 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/544220867",
+            "price": 250,
+            "name": "ゾロア C 049/",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/91808612",
+            "price": 100,
+            "name": "ゾロア C 049/",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/282602105",
+            "price": 247,
+            "name": "ゾロア(C){悪}〈",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1816368968",
+            "price": 150,
+            "name": "ゾロア C 049/",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/695900516",
+            "price": 100,
+            "name": "ゾロア C 049/",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/97677404",
+            "price": 163,
+            "name": "ゾロア(C){悪}〈",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1534668706",
+            "price": 198,
+            "name": "ゾロア(C){悪}〈",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1959327353",
+            "price": 250,
+            "name": "ゾロア C 049/",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/269382448",
+            "price": 198,
+            "name": "ゾロア(C){悪}〈",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19525",
+            "price": 100,
+            "name": "ゾロア(C){悪}〈",
+            "date": "2022-12-16",
+            "stock": 262
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20699",
+            "price": 30,
+            "name": "ゾロア049/069",
+            "date": "2022-12-16",
+            "stock": 107
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g049-069-S6A-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ◇ゾロア",
+            "date": "2022-12-16",
+            "stock": 112
+        },
+        {
+            "market": "magi",
+            "link": "/items/269382448",
+            "price": 198,
+            "name": "ゾロア(C){悪}〈",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/91808612",
             "price": 100,
             "name": "ゾロア C 049/",
@@ -10,8 +114,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/544220867",
-            "price": 250,
+            "link": "/items/695900516",
+            "price": 100,
             "name": "ゾロア C 049/",
             "date": "2022-12-15",
             "stock": 1
@@ -34,16 +138,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/269382448",
-            "price": 198,
-            "name": "ゾロア(C){悪}〈",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/695900516",
-            "price": 100,
+            "link": "/items/544220867",
+            "price": 250,
             "name": "ゾロア C 049/",
             "date": "2022-12-15",
             "stock": 1
@@ -106,14 +202,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1816368968",
-            "price": 150,
-            "name": "ゾロア C 049/",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1534668706",
             "price": 198,
             "name": "ゾロア(C){悪}〈",
@@ -177,12 +265,12 @@
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19525",
-            "price": 100,
-            "name": "ゾロア(C){悪}〈",
+            "market": "magi",
+            "link": "/items/1816368968",
+            "price": 150,
+            "name": "ゾロア C 049/",
             "date": "2022-12-14",
-            "stock": 262
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -193,6 +281,14 @@
             "stock": 3
         },
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19525",
+            "price": 100,
+            "name": "ゾロア(C){悪}〈",
+            "date": "2022-12-14",
+            "stock": 262
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20699",
             "price": 30,
@@ -207,22 +303,6 @@
             "name": "【ポケカ】Ｃ◇ゾロア",
             "date": "2022-12-14",
             "stock": 112
-        },
-        {
-            "market": "magi",
-            "link": "/items/91808612",
-            "price": 100,
-            "name": "ゾロア C 049/",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1816368968",
-            "price": 150,
-            "name": "ゾロア C 049/",
-            "date": "2022-12-13",
-            "stock": 1
         },
         {
             "market": "magi",
@@ -234,6 +314,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1816368968",
+            "price": 150,
+            "name": "ゾロア C 049/",
+            "date": "2022-12-13",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/269382448",
             "price": 243,
             "name": "ゾロア(C){悪}〈",
@@ -281,6 +369,14 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/91808612",
+            "price": 100,
+            "name": "ゾロア C 049/",
+            "date": "2022-12-13",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19525",
             "price": 100,
@@ -322,22 +418,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1534668706",
-            "price": 243,
-            "name": "ゾロア(C){悪}〈",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/269382448",
-            "price": 243,
-            "name": "ゾロア(C){悪}〈",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/91808612",
             "price": 100,
             "name": "ゾロア C 049/",
@@ -377,6 +457,22 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/269382448",
+            "price": 243,
+            "name": "ゾロア(C){悪}〈",
+            "date": "2022-12-12",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1534668706",
+            "price": 243,
+            "name": "ゾロア(C){悪}〈",
+            "date": "2022-12-12",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19525",
             "price": 100,
@@ -402,25 +498,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1816368968",
-            "price": 150,
+            "link": "/items/695900516",
+            "price": 100,
             "name": "ゾロア C 049/",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1959327353",
-            "price": 250,
-            "name": "ゾロア C 049/",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/269382448",
-            "price": 243,
-            "name": "ゾロア(C){悪}〈",
             "date": "2022-12-11",
             "stock": 1
         },
@@ -434,9 +514,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/695900516",
-            "price": 100,
-            "name": "ゾロア C 049/",
+            "link": "/items/269382448",
+            "price": 243,
+            "name": "ゾロア(C){悪}〈",
             "date": "2022-12-11",
             "stock": 1
         },
@@ -445,6 +525,14 @@
             "link": "/items/97677404",
             "price": 163,
             "name": "ゾロア(C){悪}〈",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1816368968",
+            "price": 150,
+            "name": "ゾロア C 049/",
             "date": "2022-12-11",
             "stock": 1
         },
@@ -473,6 +561,14 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/1959327353",
+            "price": 250,
+            "name": "ゾロア C 049/",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19525",
             "price": 100,
@@ -498,16 +594,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/695900516",
-            "price": 100,
+            "link": "/items/1959327353",
+            "price": 250,
             "name": "ゾロア C 049/",
             "date": "2022-12-10",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1959327353",
-            "price": 250,
+            "link": "/items/695900516",
+            "price": 100,
             "name": "ゾロア C 049/",
             "date": "2022-12-10",
             "stock": 1
@@ -594,8 +690,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1816368968",
-            "price": 150,
+            "link": "/items/269382448",
+            "price": 243,
+            "name": "ゾロア(C){悪}〈",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1959327353",
+            "price": 250,
             "name": "ゾロア C 049/",
             "date": "2022-12-09",
             "stock": 1
@@ -610,24 +714,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/282602105",
-            "price": 292,
-            "name": "ゾロア(C){悪}〈",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1534668706",
-            "price": 243,
-            "name": "ゾロア(C){悪}〈",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1959327353",
-            "price": 250,
+            "link": "/items/91808612",
+            "price": 100,
             "name": "ゾロア C 049/",
             "date": "2022-12-09",
             "stock": 1
@@ -642,82 +730,10 @@
         },
         {
             "market": "magi",
-            "link": "/items/91808612",
-            "price": 100,
-            "name": "ゾロア C 049/",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/269382448",
-            "price": 243,
-            "name": "ゾロア(C){悪}〈",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/544220867",
             "price": 250,
             "name": "ゾロア C 049/",
             "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19525",
-            "price": 100,
-            "name": "ゾロア(C){悪}〈",
-            "date": "2022-12-09",
-            "stock": 253
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20699",
-            "price": 30,
-            "name": "ゾロア049/069",
-            "date": "2022-12-09",
-            "stock": 108
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g049-069-S6A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ◇ゾロア",
-            "date": "2022-12-09",
-            "stock": 112
-        },
-        {
-            "market": "magi",
-            "link": "/items/282602105",
-            "price": 292,
-            "name": "ゾロア(C){悪}〈",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1959327353",
-            "price": 250,
-            "name": "ゾロア C 049/",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/544220867",
-            "price": 250,
-            "name": "ゾロア C 049/",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1534668706",
-            "price": 243,
-            "name": "ゾロア(C){悪}〈",
-            "date": "2022-12-08",
             "stock": 1
         },
         {
@@ -725,39 +741,23 @@
             "link": "/items/1816368968",
             "price": 150,
             "name": "ゾロア C 049/",
-            "date": "2022-12-08",
+            "date": "2022-12-09",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/269382448",
+            "link": "/items/282602105",
+            "price": 292,
+            "name": "ゾロア(C){悪}〈",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1534668706",
             "price": 243,
             "name": "ゾロア(C){悪}〈",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/695900516",
-            "price": 100,
-            "name": "ゾロア C 049/",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/91808612",
-            "price": 100,
-            "name": "ゾロア C 049/",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/97677404",
-            "price": 200,
-            "name": "ゾロア(C){悪}〈",
-            "date": "2022-12-08",
+            "date": "2022-12-09",
             "stock": 1
         },
         {
@@ -765,7 +765,7 @@
             "link": "https://www.hareruya2.com/product/19525",
             "price": 100,
             "name": "ゾロア(C){悪}〈",
-            "date": "2022-12-08",
+            "date": "2022-12-09",
             "stock": 253
         },
         {
@@ -773,7 +773,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/20699",
             "price": 30,
             "name": "ゾロア049/069",
-            "date": "2022-12-08",
+            "date": "2022-12-09",
             "stock": 108
         },
         {
@@ -781,7 +781,7 @@
             "link": "/shop/g/g049-069-S6A-B/",
             "price": 33,
             "name": "【ポケカ】Ｃ◇ゾロア",
-            "date": "2022-12-08",
+            "date": "2022-12-09",
             "stock": 112
         }
     ]
