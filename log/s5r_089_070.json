@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/19102",
             "price": 3000,
             "name": "オクタン(UR){水",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31201",
+            "price": 1880,
+            "name": "オクタン089/07",
+            "date": "2022-12-17",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18254",
+            "price": 2180,
+            "name": "オクタン089/07",
+            "date": "2022-12-17",
+            "stock": 24
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19102",
+            "price": 3000,
+            "name": "オクタン(UR){水",
             "date": "2022-12-16",
             "stock": 1
         },
@@ -42,14 +66,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31201",
-            "price": 1880,
-            "name": "オクタン089/07",
-            "date": "2022-12-15",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/18254",
             "price": 2180,
             "name": "オクタン089/07",
@@ -57,6 +73,14 @@
             "stock": 23
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31201",
+            "price": 1880,
+            "name": "オクタン089/07",
+            "date": "2022-12-15",
+            "stock": 3
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g089-070-S5R-B/",
             "price": 2200,
@@ -106,14 +130,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18254",
-            "price": 2180,
-            "name": "オクタン089/07",
-            "date": "2022-12-13",
-            "stock": 22
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31201",
             "price": 1880,
             "name": "オクタン089/07",
@@ -121,6 +137,14 @@
             "stock": 3
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18254",
+            "price": 2180,
+            "name": "オクタン089/07",
+            "date": "2022-12-13",
+            "stock": 22
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g089-070-S5R-B/",
             "price": 2200,
@@ -138,19 +162,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31201",
-            "price": 1880,
-            "name": "オクタン089/07",
-            "date": "2022-12-12",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/18254",
             "price": 2180,
             "name": "オクタン089/07",
             "date": "2022-12-12",
             "stock": 22
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31201",
+            "price": 1880,
+            "name": "オクタン089/07",
+            "date": "2022-12-12",
+            "stock": 3
         },
         {
             "market": "torecolo",
@@ -202,14 +226,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18254",
-            "price": 2180,
-            "name": "オクタン089/07",
-            "date": "2022-12-10",
-            "stock": 22
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31201",
             "price": 1880,
             "name": "オクタン089/07",
@@ -217,35 +233,11 @@
             "stock": 3
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g089-070-S5R-B/",
-            "price": 2200,
-            "name": "【ポケカ】ＵＲ◇オク",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19102",
-            "price": 3000,
-            "name": "オクタン(UR){水",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31201",
-            "price": 1880,
-            "name": "オクタン089/07",
-            "date": "2022-12-09",
-            "stock": 3
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/18254",
             "price": 2180,
             "name": "オクタン089/07",
-            "date": "2022-12-09",
+            "date": "2022-12-10",
             "stock": 22
         },
         {
@@ -253,7 +245,7 @@
             "link": "/shop/g/g089-070-S5R-B/",
             "price": 2200,
             "name": "【ポケカ】ＵＲ◇オク",
-            "date": "2022-12-09",
+            "date": "2022-12-10",
             "stock": 1
         }
     ]

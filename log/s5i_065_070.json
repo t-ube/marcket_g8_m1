@@ -1,6 +1,38 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18987",
+            "price": 500,
+            "name": "学習装置(U){グッ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31092",
+            "price": 350,
+            "name": "学習装置065/07",
+            "date": "2022-12-17",
+            "stock": 140
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18117",
+            "price": 380,
+            "name": "学習装置065/07",
+            "date": "2022-12-17",
+            "stock": 112
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g065-070-S5I-B/",
+            "price": 220,
+            "name": "【ポケカ】Ｕ◇学習装",
+            "date": "2022-12-17",
+            "stock": 2
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31092",
             "price": 350,
@@ -26,14 +58,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31092",
-            "price": 350,
-            "name": "学習装置065/07",
-            "date": "2022-12-15",
-            "stock": 76
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/18117",
             "price": 380,
             "name": "学習装置065/07",
@@ -41,12 +65,28 @@
             "stock": 115
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31092",
+            "price": 350,
+            "name": "学習装置065/07",
+            "date": "2022-12-15",
+            "stock": 76
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g065-070-S5I-B/",
             "price": 220,
             "name": "【ポケカ】Ｕ◇学習装",
             "date": "2022-12-15",
             "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31092",
+            "price": 450,
+            "name": "学習装置065/07",
+            "date": "2022-12-14",
+            "stock": 76
         },
         {
             "market": "cardrush",
@@ -57,14 +97,6 @@
             "stock": 115
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31092",
-            "price": 450,
-            "name": "学習装置065/07",
-            "date": "2022-12-14",
-            "stock": 76
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g065-070-S5I-B/",
             "price": 220,
@@ -74,19 +106,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31092",
-            "price": 450,
-            "name": "学習装置065/07",
-            "date": "2022-12-13",
-            "stock": 76
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/18117",
             "price": 480,
             "name": "学習装置065/07",
             "date": "2022-12-13",
             "stock": 117
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31092",
+            "price": 450,
+            "name": "学習装置065/07",
+            "date": "2022-12-13",
+            "stock": 76
         },
         {
             "market": "torecolo",
@@ -98,19 +130,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31092",
-            "price": 450,
-            "name": "学習装置065/07",
-            "date": "2022-12-12",
-            "stock": 76
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/18117",
             "price": 480,
             "name": "学習装置065/07",
             "date": "2022-12-12",
             "stock": 117
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31092",
+            "price": 450,
+            "name": "学習装置065/07",
+            "date": "2022-12-12",
+            "stock": 76
         },
         {
             "market": "torecolo",
@@ -130,19 +162,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31092",
-            "price": 450,
-            "name": "学習装置065/07",
-            "date": "2022-12-11",
-            "stock": 67
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/18117",
             "price": 480,
             "name": "学習装置065/07",
             "date": "2022-12-11",
             "stock": 117
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31092",
+            "price": 450,
+            "name": "学習装置065/07",
+            "date": "2022-12-11",
+            "stock": 67
         },
         {
             "market": "torecolo",
@@ -162,6 +194,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18117",
+            "price": 480,
+            "name": "学習装置065/07",
+            "date": "2022-12-10",
+            "stock": 117
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31092",
             "price": 450,
             "name": "学習装置065/07",
@@ -169,51 +209,11 @@
             "stock": 67
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18117",
-            "price": 480,
-            "name": "学習装置065/07",
-            "date": "2022-12-10",
-            "stock": 117
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g065-070-S5I-B/",
             "price": 220,
             "name": "【ポケカ】Ｕ◇学習装",
             "date": "2022-12-10",
-            "stock": 2
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18987",
-            "price": 500,
-            "name": "学習装置(U){グッ",
-            "date": "2022-12-09",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18117",
-            "price": 480,
-            "name": "学習装置065/07",
-            "date": "2022-12-09",
-            "stock": 117
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31092",
-            "price": 450,
-            "name": "学習装置065/07",
-            "date": "2022-12-09",
-            "stock": 65
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g065-070-S5I-B/",
-            "price": 220,
-            "name": "【ポケカ】Ｕ◇学習装",
-            "date": "2022-12-09",
             "stock": 2
         }
     ]

@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/19201",
             "price": 50,
             "name": "やまびこホーン(U)",
+            "date": "2022-12-17",
+            "stock": 19
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18740",
+            "price": 80,
+            "name": "やまびこホーン064",
+            "date": "2022-12-17",
+            "stock": 44
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19201",
+            "price": 50,
+            "name": "やまびこホーン(U)",
             "date": "2022-12-16",
             "stock": 19
         },
@@ -111,22 +127,6 @@
             "name": "やまびこホーン064",
             "date": "2022-12-10",
             "stock": 49
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19201",
-            "price": 50,
-            "name": "やまびこホーン(U)",
-            "date": "2022-12-09",
-            "stock": 25
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18740",
-            "price": 80,
-            "name": "やまびこホーン064",
-            "date": "2022-12-09",
-            "stock": 50
         }
     ]
 }

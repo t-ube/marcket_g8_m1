@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/21377",
             "price": 2500,
             "name": "ミミッキュV(CSR",
+            "date": "2022-12-17",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23102",
+            "price": 1780,
+            "name": "ミミッキュV233/",
+            "date": "2022-12-17",
+            "stock": 21
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23009",
+            "price": 2080,
+            "name": "ミミッキュV233/",
+            "date": "2022-12-17",
+            "stock": 233
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21377",
+            "price": 2500,
+            "name": "ミミッキュV(CSR",
             "date": "2022-12-16",
             "stock": 3
         },
@@ -106,19 +130,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23009",
-            "price": 2080,
-            "name": "ミミッキュV233/",
-            "date": "2022-12-12",
-            "stock": 215
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23102",
             "price": 1780,
             "name": "ミミッキュV233/",
             "date": "2022-12-12",
             "stock": 18
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23009",
+            "price": 2080,
+            "name": "ミミッキュV233/",
+            "date": "2022-12-12",
+            "stock": 215
         },
         {
             "market": "magi",
@@ -138,19 +162,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23009",
-            "price": 2080,
-            "name": "ミミッキュV233/",
-            "date": "2022-12-11",
-            "stock": 217
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23102",
             "price": 1780,
             "name": "ミミッキュV233/",
             "date": "2022-12-11",
             "stock": 17
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23009",
+            "price": 2080,
+            "name": "ミミッキュV233/",
+            "date": "2022-12-11",
+            "stock": 217
         },
         {
             "market": "magi",
@@ -170,14 +194,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23102",
-            "price": 1780,
-            "name": "ミミッキュV233/",
-            "date": "2022-12-10",
-            "stock": 17
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23009",
             "price": 2080,
             "name": "ミミッキュV233/",
@@ -185,36 +201,12 @@
             "stock": 207
         },
         {
-            "market": "magi",
-            "link": "/items/1210877427",
-            "price": 1632,
-            "name": "ミミッキュV CSR",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21377",
-            "price": 2500,
-            "name": "ミミッキュV(CSR",
-            "date": "2022-12-09",
-            "stock": 2
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23102",
             "price": 1780,
             "name": "ミミッキュV233/",
-            "date": "2022-12-09",
+            "date": "2022-12-10",
             "stock": 17
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23009",
-            "price": 2080,
-            "name": "ミミッキュV233/",
-            "date": "2022-12-09",
-            "stock": 207
         }
     ]
 }

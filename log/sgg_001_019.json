@@ -2,6 +2,78 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1023009301",
+            "price": 416,
+            "name": "【特価】ゲンガーV(",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1441349784",
+            "price": 595,
+            "name": "ゲンガーV(RR仕様",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1094275243",
+            "price": 420,
+            "name": "【2枚】ガラルヤドキ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/292461113",
+            "price": 380,
+            "name": "ゲンガーV(RR仕様",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1062330555",
+            "price": 199,
+            "name": "ゲンガーV(RR仕様",
+            "date": "2022-12-17",
+            "stock": 2
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19432",
+            "price": 100,
+            "name": "ゲンガーV(-){悪",
+            "date": "2022-12-17",
+            "stock": 68
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20608",
+            "price": 180,
+            "name": "ゲンガーV001/0",
+            "date": "2022-12-17",
+            "stock": 134
+        },
+        {
+            "market": "magi",
+            "link": "/items/292461113",
+            "price": 380,
+            "name": "ゲンガーV(RR仕様",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1094275243",
+            "price": 420,
+            "name": "【2枚】ガラルヤドキ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1441349784",
             "price": 595,
             "name": "ゲンガーV(RR仕様",
@@ -23,22 +95,6 @@
             "name": "ゲンガーV(RR仕様",
             "date": "2022-12-16",
             "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/292461113",
-            "price": 380,
-            "name": "ゲンガーV(RR仕様",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1094275243",
-            "price": 420,
-            "name": "【2枚】ガラルヤドキ",
-            "date": "2022-12-16",
-            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -58,17 +114,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/292461113",
-            "price": 380,
+            "link": "/items/1062330555",
+            "price": 199,
             "name": "ゲンガーV(RR仕様",
             "date": "2022-12-15",
-            "stock": 1
+            "stock": 2
         },
         {
             "market": "magi",
-            "link": "/items/1094275243",
-            "price": 420,
-            "name": "【2枚】ガラルヤドキ",
+            "link": "/items/1441349784",
+            "price": 595,
+            "name": "ゲンガーV(RR仕様",
             "date": "2022-12-15",
             "stock": 1
         },
@@ -82,16 +138,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1062330555",
-            "price": 199,
-            "name": "ゲンガーV(RR仕様",
+            "link": "/items/1094275243",
+            "price": 420,
+            "name": "【2枚】ガラルヤドキ",
             "date": "2022-12-15",
-            "stock": 2
+            "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1441349784",
-            "price": 595,
+            "link": "/items/292461113",
+            "price": 380,
             "name": "ゲンガーV(RR仕様",
             "date": "2022-12-15",
             "stock": 1
@@ -114,30 +170,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1441349784",
-            "price": 595,
-            "name": "ゲンガーV(RR仕様",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1023009301",
-            "price": 416,
-            "name": "【特価】ゲンガーV(",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1094275243",
-            "price": 420,
-            "name": "【2枚】ガラルヤドキ",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/292461113",
             "price": 380,
             "name": "ゲンガーV(RR仕様",
@@ -151,6 +183,30 @@
             "name": "ゲンガーV(RR仕様",
             "date": "2022-12-14",
             "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1023009301",
+            "price": 416,
+            "name": "【特価】ゲンガーV(",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1441349784",
+            "price": 595,
+            "name": "ゲンガーV(RR仕様",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1094275243",
+            "price": 420,
+            "name": "【2枚】ガラルヤドキ",
+            "date": "2022-12-14",
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -226,17 +282,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1441349784",
-            "price": 595,
-            "name": "ゲンガーV(RR仕様",
+            "link": "/items/1094275243",
+            "price": 420,
+            "name": "【2枚】ガラルヤドキ",
             "date": "2022-12-12",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1023009301",
-            "price": 416,
-            "name": "【特価】ゲンガーV(",
+            "link": "/items/292461113",
+            "price": 380,
+            "name": "ゲンガーV(RR仕様",
             "date": "2022-12-12",
             "stock": 1
         },
@@ -250,17 +306,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/292461113",
-            "price": 380,
-            "name": "ゲンガーV(RR仕様",
+            "link": "/items/1023009301",
+            "price": 416,
+            "name": "【特価】ゲンガーV(",
             "date": "2022-12-12",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1094275243",
-            "price": 420,
-            "name": "【2枚】ガラルヤドキ",
+            "link": "/items/1441349784",
+            "price": 595,
+            "name": "ゲンガーV(RR仕様",
             "date": "2022-12-12",
             "stock": 1
         },
@@ -282,6 +338,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/292461113",
+            "price": 380,
+            "name": "ゲンガーV(RR仕様",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1023009301",
             "price": 416,
             "name": "【特価】ゲンガーV(",
@@ -300,14 +364,6 @@
             "market": "magi",
             "link": "/items/1441349784",
             "price": 595,
-            "name": "ゲンガーV(RR仕様",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/292461113",
-            "price": 380,
             "name": "ゲンガーV(RR仕様",
             "date": "2022-12-11",
             "stock": 1
@@ -338,24 +394,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1062330555",
-            "price": 199,
+            "link": "/items/1441349784",
+            "price": 595,
             "name": "ゲンガーV(RR仕様",
-            "date": "2022-12-10",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1094275243",
-            "price": 420,
-            "name": "【2枚】ガラルヤドキ",
             "date": "2022-12-10",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1441349784",
-            "price": 595,
+            "link": "/items/292461113",
+            "price": 380,
             "name": "ゲンガーV(RR仕様",
             "date": "2022-12-10",
             "stock": 1
@@ -370,11 +418,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/292461113",
-            "price": 380,
-            "name": "ゲンガーV(RR仕様",
+            "link": "/items/1094275243",
+            "price": 420,
+            "name": "【2枚】ガラルヤドキ",
             "date": "2022-12-10",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1062330555",
+            "price": 199,
+            "name": "ゲンガーV(RR仕様",
+            "date": "2022-12-10",
+            "stock": 2
         },
         {
             "market": "hareruya2",
@@ -391,62 +447,6 @@
             "name": "ゲンガーV001/0",
             "date": "2022-12-10",
             "stock": 150
-        },
-        {
-            "market": "magi",
-            "link": "/items/292461113",
-            "price": 380,
-            "name": "ゲンガーV(RR仕様",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1094275243",
-            "price": 420,
-            "name": "【2枚】ガラルヤドキ",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1023009301",
-            "price": 416,
-            "name": "【特価】ゲンガーV(",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1441349784",
-            "price": 595,
-            "name": "ゲンガーV(RR仕様",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1062330555",
-            "price": 199,
-            "name": "ゲンガーV(RR仕様",
-            "date": "2022-12-09",
-            "stock": 2
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19432",
-            "price": 100,
-            "name": "ゲンガーV(-){悪",
-            "date": "2022-12-09",
-            "stock": 67
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20608",
-            "price": 180,
-            "name": "ゲンガーV001/0",
-            "date": "2022-12-09",
-            "stock": 153
         }
     ]
 }
