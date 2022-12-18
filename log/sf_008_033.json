@@ -5,6 +5,14 @@
             "link": "/items/1126598779",
             "price": 200,
             "name": "クイックボール　u ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1126598779",
+            "price": 200,
+            "name": "クイックボール　u ",
             "date": "2022-12-17",
             "stock": 1
         },
@@ -103,22 +111,6 @@
             "name": "クイックボール008",
             "date": "2022-12-11",
             "stock": 28
-        },
-        {
-            "market": "magi",
-            "link": "/items/1126598779",
-            "price": 300,
-            "name": "クイックボール　u ",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18204",
-            "price": 420,
-            "name": "クイックボール008",
-            "date": "2022-12-10",
-            "stock": 32
         }
     ]
 }

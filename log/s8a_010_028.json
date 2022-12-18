@@ -2,11 +2,91 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/719003416",
+            "price": 100,
+            "name": "レシラム(キラ) 0",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/638705186",
+            "price": 350,
+            "name": "レシラム(ミラー) ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/10541314",
             "price": 210,
             "name": "【特価】レシラム(ミ",
-            "date": "2022-12-17",
+            "date": "2022-12-18",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1353097901",
+            "price": 100,
+            "name": "25th レシラム(",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/510938439",
+            "price": 100,
+            "name": "レシラム(キラ) 0",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20704",
+            "price": 100,
+            "name": "レシラム:ミラー(-",
+            "date": "2022-12-18",
+            "stock": 47
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20581",
+            "price": 50,
+            "name": "レシラム(-){炎}",
+            "date": "2022-12-18",
+            "stock": 101
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22415",
+            "price": 120,
+            "name": "レシラム010/02",
+            "date": "2022-12-18",
+            "stock": 35
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22355",
+            "price": 80,
+            "name": "レシラム010/02",
+            "date": "2022-12-18",
+            "stock": 725
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g010-028-S8A-BM/",
+            "price": 66,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-18",
+            "stock": 8
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g010-028-S8A-B/",
+            "price": 9,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-18",
+            "stock": 16
         },
         {
             "market": "magi",
@@ -18,7 +98,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/510938439",
+            "link": "/items/719003416",
             "price": 100,
             "name": "レシラム(キラ) 0",
             "date": "2022-12-17",
@@ -34,19 +114,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/719003416",
+            "link": "/items/510938439",
             "price": 100,
             "name": "レシラム(キラ) 0",
             "date": "2022-12-17",
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20704",
-            "price": 100,
-            "name": "レシラム:ミラー(-",
+            "market": "magi",
+            "link": "/items/10541314",
+            "price": 210,
+            "name": "【特価】レシラム(ミ",
             "date": "2022-12-17",
-            "stock": 47
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -57,12 +137,12 @@
             "stock": 101
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22355",
-            "price": 80,
-            "name": "レシラム010/02",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20704",
+            "price": 100,
+            "name": "レシラム:ミラー(-",
             "date": "2022-12-17",
-            "stock": 725
+            "stock": 47
         },
         {
             "market": "cardrush",
@@ -73,12 +153,12 @@
             "stock": 35
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g010-028-S8A-B/",
-            "price": 9,
-            "name": "【ポケカ】Ｃ）通常仕",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22355",
+            "price": 80,
+            "name": "レシラム010/02",
             "date": "2022-12-17",
-            "stock": 16
+            "stock": 725
         },
         {
             "market": "torecolo",
@@ -87,6 +167,14 @@
             "name": "【ポケカ】Ｃ）ミラー",
             "date": "2022-12-17",
             "stock": 8
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g010-028-S8A-B/",
+            "price": 9,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-17",
+            "stock": 16
         },
         {
             "market": "magi",
@@ -138,19 +226,19 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20581",
-            "price": 50,
-            "name": "レシラム(-){炎}",
-            "date": "2022-12-16",
-            "stock": 101
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/20704",
             "price": 100,
             "name": "レシラム:ミラー(-",
             "date": "2022-12-16",
             "stock": 47
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20581",
+            "price": 50,
+            "name": "レシラム(-){炎}",
+            "date": "2022-12-16",
+            "stock": 101
         },
         {
             "market": "cardrush",
@@ -250,19 +338,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22415",
-            "price": 120,
-            "name": "レシラム010/02",
-            "date": "2022-12-15",
-            "stock": 35
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22355",
             "price": 80,
             "name": "レシラム010/02",
             "date": "2022-12-15",
             "stock": 725
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22415",
+            "price": 120,
+            "name": "レシラム010/02",
+            "date": "2022-12-15",
+            "stock": 35
         },
         {
             "market": "torecolo",
@@ -279,14 +367,6 @@
             "name": "【ポケカ】Ｃ）ミラー",
             "date": "2022-12-15",
             "stock": 8
-        },
-        {
-            "market": "magi",
-            "link": "/items/10541314",
-            "price": 210,
-            "name": "【特価】レシラム(ミ",
-            "date": "2022-12-14",
-            "stock": 1
         },
         {
             "market": "magi",
@@ -329,6 +409,14 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/10541314",
+            "price": 210,
+            "name": "【特価】レシラム(ミ",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/20704",
             "price": 100,
@@ -343,6 +431,14 @@
             "name": "レシラム(-){炎}",
             "date": "2022-12-14",
             "stock": 101
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22355",
+            "price": 80,
+            "name": "レシラム010/02",
+            "date": "2022-12-14",
+            "stock": 726
         },
         {
             "market": "cardrush",
@@ -353,22 +449,6 @@
             "stock": 36
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22355",
-            "price": 80,
-            "name": "レシラム010/02",
-            "date": "2022-12-14",
-            "stock": 726
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g010-028-S8A-BM/",
-            "price": 66,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-14",
-            "stock": 8
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g010-028-S8A-B/",
             "price": 9,
@@ -377,6 +457,14 @@
             "stock": 16
         },
         {
+            "market": "torecolo",
+            "link": "/shop/g/g010-028-S8A-BM/",
+            "price": 66,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-14",
+            "stock": 8
+        },
+        {
             "market": "magi",
             "link": "/items/638705186",
             "price": 350,
@@ -426,14 +514,6 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20581",
-            "price": 50,
-            "name": "レシラム(-){炎}",
-            "date": "2022-12-13",
-            "stock": 101
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/20704",
             "price": 100,
             "name": "レシラム:ミラー(-",
@@ -441,12 +521,12 @@
             "stock": 47
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22415",
-            "price": 120,
-            "name": "レシラム010/02",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20581",
+            "price": 50,
+            "name": "レシラム(-){炎}",
             "date": "2022-12-13",
-            "stock": 37
+            "stock": 101
         },
         {
             "market": "cardrush",
@@ -457,12 +537,12 @@
             "stock": 726
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g010-028-S8A-B/",
-            "price": 9,
-            "name": "【ポケカ】Ｃ）通常仕",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22415",
+            "price": 120,
+            "name": "レシラム010/02",
             "date": "2022-12-13",
-            "stock": 13
+            "stock": 37
         },
         {
             "market": "torecolo",
@@ -471,6 +551,14 @@
             "name": "【ポケカ】Ｃ）ミラー",
             "date": "2022-12-13",
             "stock": 8
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g010-028-S8A-B/",
+            "price": 9,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-13",
+            "stock": 13
         },
         {
             "market": "magi",
@@ -585,6 +673,22 @@
             "stock": 1
         },
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20581",
+            "price": 50,
+            "name": "レシラム(-){炎}",
+            "date": "2022-12-11",
+            "stock": 101
+        },
+        {
+            "market": "magi",
+            "link": "/items/638705186",
+            "price": 350,
+            "name": "レシラム(ミラー) ",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
             "market": "magi",
             "link": "/items/1353097901",
             "price": 100,
@@ -599,22 +703,6 @@
             "name": "レシラム(キラ) 0",
             "date": "2022-12-11",
             "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/638705186",
-            "price": 350,
-            "name": "レシラム(ミラー) ",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20581",
-            "price": 50,
-            "name": "レシラム(-){炎}",
-            "date": "2022-12-11",
-            "stock": 101
         },
         {
             "market": "hareruya2",
@@ -634,14 +722,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22355",
-            "price": 80,
-            "name": "レシラム010/02",
-            "date": "2022-12-11",
-            "stock": 726
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22415",
             "price": 120,
             "name": "レシラム010/02",
@@ -649,12 +729,12 @@
             "stock": 37
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g010-028-S8A-BM/",
-            "price": 66,
-            "name": "【ポケカ】Ｃ）ミラー",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22355",
+            "price": 80,
+            "name": "レシラム010/02",
             "date": "2022-12-11",
-            "stock": 8
+            "stock": 726
         },
         {
             "market": "torecolo",
@@ -665,99 +745,11 @@
             "stock": 13
         },
         {
-            "market": "magi",
-            "link": "/items/10541314",
-            "price": 210,
-            "name": "【特価】レシラム(ミ",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1346783264",
-            "price": 300,
-            "name": "レシラム(キラ) 0",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/510938439",
-            "price": 100,
-            "name": "レシラム(キラ) 0",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/719003416",
-            "price": 100,
-            "name": "レシラム(キラ) 0",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1353097901",
-            "price": 100,
-            "name": "25th レシラム(",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/638705186",
-            "price": 350,
-            "name": "レシラム(ミラー) ",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20704",
-            "price": 100,
-            "name": "レシラム:ミラー(-",
-            "date": "2022-12-10",
-            "stock": 48
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20581",
-            "price": 50,
-            "name": "レシラム(-){炎}",
-            "date": "2022-12-10",
-            "stock": 101
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22355",
-            "price": 80,
-            "name": "レシラム010/02",
-            "date": "2022-12-10",
-            "stock": 726
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22415",
-            "price": 120,
-            "name": "レシラム010/02",
-            "date": "2022-12-10",
-            "stock": 37
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g010-028-S8A-B/",
-            "price": 9,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-10",
-            "stock": 13
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g010-028-S8A-BM/",
             "price": 66,
             "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-10",
+            "date": "2022-12-11",
             "stock": 8
         }
     ]

@@ -1,6 +1,14 @@
 ﻿{
     "items": [
         {
+            "market": "torecolo",
+            "link": "/shop/g/g019-028-SJ-B/",
+            "price": 220,
+            "name": "【ポケカ】ＳＳ◇しん",
+            "date": "2022-12-18",
+            "stock": 3
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32703",
             "price": 200,
@@ -47,14 +55,6 @@
             "name": "【ポケカ】ＳＳ◇しん",
             "date": "2022-12-14",
             "stock": 3
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20786",
-            "price": 150,
-            "name": "しんかのおこう(-)",
-            "date": "2022-12-10",
-            "stock": 2
         }
     ]
 }

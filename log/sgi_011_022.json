@@ -1,6 +1,30 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19463",
+            "price": 600,
+            "name": "エネルギー回収(-)",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20637",
+            "price": 680,
+            "name": "エネルギー回収011",
+            "date": "2022-12-18",
+            "stock": 39
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g011-022-SGI-B/",
+            "price": 550,
+            "name": "【ポケカ】ＳＳ）Ｒ仕",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20637",
             "price": 680,
@@ -110,22 +134,6 @@
             "price": 550,
             "name": "【ポケカ】ＳＳ）Ｒ仕",
             "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20637",
-            "price": 580,
-            "name": "エネルギー回収011",
-            "date": "2022-12-10",
-            "stock": 55
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g011-022-SGI-B/",
-            "price": 550,
-            "name": "【ポケカ】ＳＳ）Ｒ仕",
-            "date": "2022-12-10",
             "stock": 1
         }
     ]

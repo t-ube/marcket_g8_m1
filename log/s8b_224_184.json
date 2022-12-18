@@ -1,6 +1,22 @@
 ﻿{
     "items": [
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23003",
+            "price": 1780,
+            "name": "ゼラオラV224/1",
+            "date": "2022-12-18",
+            "stock": 83
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23096",
+            "price": 1530,
+            "name": "ゼラオラV224/1",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
             "market": "magi",
             "link": "/items/2048541748",
             "price": 1099,
@@ -71,22 +87,6 @@
             "name": "ゼラオラV224/1",
             "date": "2022-12-11",
             "stock": 81
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23003",
-            "price": 1780,
-            "name": "ゼラオラV224/1",
-            "date": "2022-12-10",
-            "stock": 71
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23096",
-            "price": 1530,
-            "name": "ゼラオラV224/1",
-            "date": "2022-12-10",
-            "stock": 1
         }
     ]
 }
