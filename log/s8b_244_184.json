@@ -5,6 +5,38 @@
             "link": "/items/1589508557",
             "price": 4000,
             "name": "ポケカ ポケモンカー",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21388",
+            "price": 2600,
+            "name": "ブラッキーV(CSR",
+            "date": "2022-12-19",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23113",
+            "price": 2180,
+            "name": "ブラッキーV244/",
+            "date": "2022-12-19",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23020",
+            "price": 2580,
+            "name": "ブラッキーV244/",
+            "date": "2022-12-19",
+            "stock": 46
+        },
+        {
+            "market": "magi",
+            "link": "/items/1589508557",
+            "price": 4000,
+            "name": "ポケカ ポケモンカー",
             "date": "2022-12-18",
             "stock": 1
         },
@@ -50,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23113",
-            "price": 2180,
-            "name": "ブラッキーV244/",
-            "date": "2022-12-17",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23020",
             "price": 2580,
             "name": "ブラッキーV244/",
             "date": "2022-12-17",
             "stock": 47
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23113",
+            "price": 2180,
+            "name": "ブラッキーV244/",
+            "date": "2022-12-17",
+            "stock": 5
         },
         {
             "market": "magi",
@@ -111,6 +143,14 @@
             "name": "ブラッキーV(CSR",
             "date": "2022-12-15",
             "stock": 11
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23113",
+            "price": 2180,
+            "name": "ブラッキーV244/",
+            "date": "2022-12-15",
+            "stock": 5
         },
         {
             "market": "cardrush",
@@ -121,14 +161,6 @@
             "stock": 46
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23113",
-            "price": 2180,
-            "name": "ブラッキーV244/",
-            "date": "2022-12-15",
-            "stock": 5
-        },
-        {
             "market": "magi",
             "link": "/items/1589508557",
             "price": 4000,
@@ -143,14 +175,6 @@
             "name": "ブラッキーV(CSR",
             "date": "2022-12-14",
             "stock": 11
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23113",
-            "price": 2180,
-            "name": "ブラッキーV244/",
-            "date": "2022-12-14",
-            "stock": 5
         },
         {
             "market": "cardrush",
@@ -159,6 +183,14 @@
             "name": "ブラッキーV244/",
             "date": "2022-12-14",
             "stock": 45
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23113",
+            "price": 2180,
+            "name": "ブラッキーV244/",
+            "date": "2022-12-14",
+            "stock": 5
         },
         {
             "market": "magi",
@@ -210,14 +242,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23020",
-            "price": 2580,
-            "name": "ブラッキーV244/",
-            "date": "2022-12-12",
-            "stock": 37
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23113",
             "price": 2180,
             "name": "ブラッキーV244/",
@@ -225,36 +249,12 @@
             "stock": 6
         },
         {
-            "market": "magi",
-            "link": "/items/1589508557",
-            "price": 4000,
-            "name": "ポケカ ポケモンカー",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21388",
-            "price": 2600,
-            "name": "ブラッキーV(CSR",
-            "date": "2022-12-11",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23113",
-            "price": 2180,
-            "name": "ブラッキーV244/",
-            "date": "2022-12-11",
-            "stock": 4
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23020",
             "price": 2580,
             "name": "ブラッキーV244/",
-            "date": "2022-12-11",
-            "stock": 39
+            "date": "2022-12-12",
+            "stock": 37
         }
     ]
 }

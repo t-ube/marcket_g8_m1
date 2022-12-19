@@ -2,10 +2,26 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/239039685",
+            "link": "/items/515736189",
             "price": 100,
             "name": "ワニノコ C 020",
-            "date": "2022-12-18",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1021199057",
+            "price": 25,
+            "name": "ワニノコ C 020",
+            "date": "2022-12-19",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1420126058",
+            "price": 100,
+            "name": "ワニノコ C 020",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -13,7 +29,23 @@
             "link": "/items/1882994962",
             "price": 100,
             "name": "ワニノコ C 020",
-            "date": "2022-12-18",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/239039685",
+            "price": 100,
+            "name": "ワニノコ C 020",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/579116753",
+            "price": 100,
+            "name": "ワニノコ C 020",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -21,12 +53,36 @@
             "link": "/items/694209113",
             "price": 100,
             "name": "ワニノコ C 020",
-            "date": "2022-12-18",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20387",
+            "price": 100,
+            "name": "ワニノコ(C){水}",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22095",
+            "price": 30,
+            "name": "ワニノコ020/10",
+            "date": "2022-12-19",
+            "stock": 9
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g020-100-S8-B/",
+            "price": 8,
+            "name": "【ポケカ】Ｃ◇ワニノ",
+            "date": "2022-12-19",
+            "stock": 21
+        },
+        {
             "market": "magi",
-            "link": "/items/579116753",
+            "link": "/items/1882994962",
             "price": 100,
             "name": "ワニノコ C 020",
             "date": "2022-12-18",
@@ -51,6 +107,30 @@
         {
             "market": "magi",
             "link": "/items/1420126058",
+            "price": 100,
+            "name": "ワニノコ C 020",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/239039685",
+            "price": 100,
+            "name": "ワニノコ C 020",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/579116753",
+            "price": 100,
+            "name": "ワニノコ C 020",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/694209113",
             "price": 100,
             "name": "ワニノコ C 020",
             "date": "2022-12-18",
@@ -242,14 +322,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/694209113",
-            "price": 100,
-            "name": "ワニノコ C 020",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/515736189",
             "price": 100,
             "name": "ワニノコ C 020",
@@ -275,6 +347,14 @@
         {
             "market": "magi",
             "link": "/items/579116753",
+            "price": 100,
+            "name": "ワニノコ C 020",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/694209113",
             "price": 100,
             "name": "ワニノコ C 020",
             "date": "2022-12-15",
@@ -474,15 +554,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1021199057",
-            "price": 25,
-            "name": "ワニノコ C 020",
-            "date": "2022-12-12",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/579116753",
+            "link": "/items/515736189",
             "price": 100,
             "name": "ワニノコ C 020",
             "date": "2022-12-12",
@@ -498,7 +570,15 @@
         },
         {
             "market": "magi",
-            "link": "/items/515736189",
+            "link": "/items/1021199057",
+            "price": 25,
+            "name": "ワニノコ C 020",
+            "date": "2022-12-12",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/579116753",
             "price": 100,
             "name": "ワニノコ C 020",
             "date": "2022-12-12",
@@ -542,86 +622,6 @@
             "price": 8,
             "name": "【ポケカ】Ｃ◇ワニノ",
             "date": "2022-12-12",
-            "stock": 21
-        },
-        {
-            "market": "magi",
-            "link": "/items/1021199057",
-            "price": 25,
-            "name": "ワニノコ C 020",
-            "date": "2022-12-11",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/239039685",
-            "price": 100,
-            "name": "ワニノコ C 020",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/579116753",
-            "price": 100,
-            "name": "ワニノコ C 020",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1420126058",
-            "price": 100,
-            "name": "ワニノコ C 020",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1882994962",
-            "price": 100,
-            "name": "ワニノコ C 020",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/515736189",
-            "price": 100,
-            "name": "ワニノコ C 020",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/694209113",
-            "price": 100,
-            "name": "ワニノコ C 020",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20387",
-            "price": 50,
-            "name": "ワニノコ(C){水}",
-            "date": "2022-12-11",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22095",
-            "price": 30,
-            "name": "ワニノコ020/10",
-            "date": "2022-12-11",
-            "stock": 9
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g020-100-S8-B/",
-            "price": 8,
-            "name": "【ポケカ】Ｃ◇ワニノ",
-            "date": "2022-12-11",
             "stock": 21
         }
     ]

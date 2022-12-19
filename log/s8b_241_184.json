@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/21385",
             "price": 1500,
             "name": "れんげきウーラオスV",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23110",
+            "price": 1190,
+            "name": "れんげきウーラオスV",
+            "date": "2022-12-19",
+            "stock": 8
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21385",
+            "price": 1500,
+            "name": "れんげきウーラオスV",
             "date": "2022-12-18",
             "stock": 1
         },
@@ -66,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23110",
-            "price": 1190,
-            "name": "れんげきウーラオスV",
-            "date": "2022-12-15",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23017",
             "price": 1380,
             "name": "れんげきウーラオスV",
             "date": "2022-12-15",
             "stock": 86
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23110",
+            "price": 1190,
+            "name": "れんげきウーラオスV",
+            "date": "2022-12-15",
+            "stock": 4
         },
         {
             "market": "hareruya2",
@@ -90,19 +106,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23017",
-            "price": 1380,
-            "name": "れんげきウーラオスV",
-            "date": "2022-12-14",
-            "stock": 86
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23110",
             "price": 1190,
             "name": "れんげきウーラオスV",
             "date": "2022-12-14",
             "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23017",
+            "price": 1380,
+            "name": "れんげきウーラオスV",
+            "date": "2022-12-14",
+            "stock": 86
         },
         {
             "market": "hareruya2",
@@ -130,26 +146,10 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23017",
-            "price": 1380,
-            "name": "れんげきウーラオスV",
-            "date": "2022-12-12",
-            "stock": 83
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23110",
             "price": 1190,
             "name": "れんげきウーラオスV",
             "date": "2022-12-12",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23110",
-            "price": 1190,
-            "name": "れんげきウーラオスV",
-            "date": "2022-12-11",
             "stock": 4
         },
         {
@@ -157,8 +157,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/23017",
             "price": 1380,
             "name": "れんげきウーラオスV",
-            "date": "2022-12-11",
-            "stock": 84
+            "date": "2022-12-12",
+            "stock": 83
         }
     ]
 }

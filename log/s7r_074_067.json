@@ -2,11 +2,59 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1823290025",
+            "price": 14490,
+            "name": "カイリューV(SA)",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/908836294",
             "price": 12800,
             "name": "カイリューV SR ",
-            "date": "2022-12-18",
+            "date": "2022-12-19",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2061772520",
+            "price": 11970,
+            "name": "〔状態A-〕カイリュ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1125103780",
+            "price": 12000,
+            "name": "カイリューV SR ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19860",
+            "price": 14000,
+            "name": "カイリューV:SA(",
+            "date": "2022-12-19",
+            "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32394",
+            "price": 11400,
+            "name": "カイリューV074/",
+            "date": "2022-12-19",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21474",
+            "price": 13800,
+            "name": "カイリューV074/",
+            "date": "2022-12-19",
+            "stock": 18
         },
         {
             "market": "magi",
@@ -18,8 +66,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1125103780",
-            "price": 12000,
+            "link": "/items/908836294",
+            "price": 12800,
             "name": "カイリューV SR ",
             "date": "2022-12-18",
             "stock": 1
@@ -29,6 +77,14 @@
             "link": "/items/2061772520",
             "price": 11970,
             "name": "〔状態A-〕カイリュ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1125103780",
+            "price": 12000,
+            "name": "カイリューV SR ",
             "date": "2022-12-18",
             "stock": 1
         },
@@ -74,17 +130,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/2061772520",
-            "price": 11970,
-            "name": "〔状態A-〕カイリュ",
+            "link": "/items/1125103780",
+            "price": 12000,
+            "name": "カイリューV SR ",
             "date": "2022-12-17",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1125103780",
-            "price": 12000,
-            "name": "カイリューV SR ",
+            "link": "/items/2061772520",
+            "price": 11970,
+            "name": "〔状態A-〕カイリュ",
             "date": "2022-12-17",
             "stock": 1
         },
@@ -95,6 +151,14 @@
             "name": "カイリューV:SA(",
             "date": "2022-12-17",
             "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32394",
+            "price": 11400,
+            "name": "カイリューV074/",
+            "date": "2022-12-17",
+            "stock": 4
         },
         {
             "market": "cardrush",
@@ -105,25 +169,9 @@
             "stock": 18
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32394",
-            "price": 11400,
-            "name": "カイリューV074/",
-            "date": "2022-12-17",
-            "stock": 4
-        },
-        {
             "market": "magi",
-            "link": "/items/2061772520",
-            "price": 11970,
-            "name": "〔状態A-〕カイリュ",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1125103780",
-            "price": 12000,
+            "link": "/items/908836294",
+            "price": 12800,
             "name": "カイリューV SR ",
             "date": "2022-12-16",
             "stock": 1
@@ -138,9 +186,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/908836294",
-            "price": 12800,
+            "link": "/items/1125103780",
+            "price": 12000,
             "name": "カイリューV SR ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2061772520",
+            "price": 11970,
+            "name": "〔状態A-〕カイリュ",
             "date": "2022-12-16",
             "stock": 1
         },
@@ -186,17 +242,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/2061772520",
-            "price": 11970,
-            "name": "〔状態A-〕カイリュ",
+            "link": "/items/1823290025",
+            "price": 14490,
+            "name": "カイリューV(SA)",
             "date": "2022-12-15",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1823290025",
-            "price": 14490,
-            "name": "カイリューV(SA)",
+            "link": "/items/2061772520",
+            "price": 11970,
+            "name": "〔状態A-〕カイリュ",
             "date": "2022-12-15",
             "stock": 1
         },
@@ -207,14 +263,6 @@
             "name": "カイリューV:SA(",
             "date": "2022-12-15",
             "stock": 7
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32394",
-            "price": 11400,
-            "name": "カイリューV074/",
-            "date": "2022-12-15",
-            "stock": 4
         },
         {
             "market": "cardrush",
@@ -225,18 +273,18 @@
             "stock": 19
         },
         {
-            "market": "magi",
-            "link": "/items/1125103780",
-            "price": 12000,
-            "name": "カイリューV SR ",
-            "date": "2022-12-14",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32394",
+            "price": 11400,
+            "name": "カイリューV074/",
+            "date": "2022-12-15",
+            "stock": 4
         },
         {
             "market": "magi",
-            "link": "/items/2061772520",
-            "price": 11970,
-            "name": "〔状態A-〕カイリュ",
+            "link": "/items/908836294",
+            "price": 12800,
+            "name": "カイリューV SR ",
             "date": "2022-12-14",
             "stock": 1
         },
@@ -250,8 +298,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/908836294",
-            "price": 12800,
+            "link": "/items/2061772520",
+            "price": 11970,
+            "name": "〔状態A-〕カイリュ",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1125103780",
+            "price": 12000,
             "name": "カイリューV SR ",
             "date": "2022-12-14",
             "stock": 1
@@ -266,6 +322,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32394",
+            "price": 11400,
+            "name": "カイリューV074/",
+            "date": "2022-12-14",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21474",
             "price": 13800,
             "name": "カイリューV074/",
@@ -273,12 +337,12 @@
             "stock": 17
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32394",
-            "price": 11400,
-            "name": "カイリューV074/",
-            "date": "2022-12-14",
-            "stock": 4
+            "market": "magi",
+            "link": "/items/1823290025",
+            "price": 14490,
+            "name": "カイリューV(SA)",
+            "date": "2022-12-13",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -293,14 +357,6 @@
             "link": "/items/908836294",
             "price": 12800,
             "name": "カイリューV SR ",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1823290025",
-            "price": 14490,
-            "name": "カイリューV(SA)",
             "date": "2022-12-13",
             "stock": 1
         },
@@ -338,9 +394,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1823290025",
-            "price": 14490,
-            "name": "カイリューV(SA)",
+            "link": "/items/908836294",
+            "price": 12800,
+            "name": "カイリューV SR ",
             "date": "2022-12-12",
             "stock": 1
         },
@@ -354,50 +410,10 @@
         },
         {
             "market": "magi",
-            "link": "/items/908836294",
-            "price": 12800,
-            "name": "カイリューV SR ",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1125103780",
             "price": 12000,
             "name": "カイリューV SR ",
             "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19860",
-            "price": 14000,
-            "name": "カイリューV:SA(",
-            "date": "2022-12-12",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21474",
-            "price": 13800,
-            "name": "カイリューV074/",
-            "date": "2022-12-12",
-            "stock": 17
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32394",
-            "price": 11400,
-            "name": "カイリューV074/",
-            "date": "2022-12-12",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/908836294",
-            "price": 12800,
-            "name": "カイリューV SR ",
-            "date": "2022-12-11",
             "stock": 1
         },
         {
@@ -405,23 +421,7 @@
             "link": "/items/1823290025",
             "price": 14490,
             "name": "カイリューV(SA)",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1125103780",
-            "price": 12000,
-            "name": "カイリューV SR ",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2061772520",
-            "price": 11970,
-            "name": "〔状態A-〕カイリュ",
-            "date": "2022-12-11",
+            "date": "2022-12-12",
             "stock": 1
         },
         {
@@ -429,7 +429,15 @@
             "link": "https://www.hareruya2.com/product/19860",
             "price": 14000,
             "name": "カイリューV:SA(",
-            "date": "2022-12-11",
+            "date": "2022-12-12",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32394",
+            "price": 11400,
+            "name": "カイリューV074/",
+            "date": "2022-12-12",
             "stock": 4
         },
         {
@@ -437,16 +445,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/21474",
             "price": 13800,
             "name": "カイリューV074/",
-            "date": "2022-12-11",
+            "date": "2022-12-12",
             "stock": 17
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32394",
-            "price": 11400,
-            "name": "カイリューV074/",
-            "date": "2022-12-11",
-            "stock": 4
         }
     ]
 }

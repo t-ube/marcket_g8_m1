@@ -5,6 +5,22 @@
             "link": "/items/1269840717",
             "price": 1794,
             "name": "こくばバドレックスV",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23012",
+            "price": 1680,
+            "name": "こくばバドレックスV",
+            "date": "2022-12-19",
+            "stock": 6
+        },
+        {
+            "market": "magi",
+            "link": "/items/1269840717",
+            "price": 1794,
+            "name": "こくばバドレックスV",
             "date": "2022-12-18",
             "stock": 1
         },
@@ -26,19 +42,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23105",
-            "price": 1430,
-            "name": "こくばバドレックスV",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23012",
             "price": 1680,
             "name": "こくばバドレックスV",
             "date": "2022-12-17",
             "stock": 11
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23105",
+            "price": 1430,
+            "name": "こくばバドレックスV",
+            "date": "2022-12-17",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -50,19 +66,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23012",
-            "price": 1680,
-            "name": "こくばバドレックスV",
-            "date": "2022-12-16",
-            "stock": 15
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23105",
             "price": 1430,
             "name": "こくばバドレックスV",
             "date": "2022-12-16",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23012",
+            "price": 1680,
+            "name": "こくばバドレックスV",
+            "date": "2022-12-16",
+            "stock": 15
         },
         {
             "market": "magi",
@@ -127,22 +143,6 @@
             "name": "こくばバドレックスV",
             "date": "2022-12-12",
             "stock": 21
-        },
-        {
-            "market": "magi",
-            "link": "/items/1269840717",
-            "price": 1794,
-            "name": "こくばバドレックスV",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23012",
-            "price": 1680,
-            "name": "こくばバドレックスV",
-            "date": "2022-12-11",
-            "stock": 23
         }
     ]
 }
