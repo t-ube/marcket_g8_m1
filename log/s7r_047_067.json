@@ -2,11 +2,43 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1300980285",
+            "price": 450,
+            "name": "レックウザVMAX ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/734164077",
+            "price": 500,
+            "name": "レックウザVMAX ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1286101190",
+            "price": 300,
+            "name": "レックウザVMAX ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/391048753",
             "price": 200,
             "name": "レックウザVMAX ",
-            "date": "2022-12-19",
+            "date": "2022-12-20",
             "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19755",
+            "price": 100,
+            "name": "レックウザVMAX(",
+            "date": "2022-12-20",
+            "stock": 38
         },
         {
             "market": "magi",
@@ -18,16 +50,24 @@
         },
         {
             "market": "magi",
-            "link": "/items/734164077",
-            "price": 500,
+            "link": "/items/1300980285",
+            "price": 450,
             "name": "レックウザVMAX ",
             "date": "2022-12-19",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1300980285",
-            "price": 450,
+            "link": "/items/391048753",
+            "price": 200,
+            "name": "レックウザVMAX ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/734164077",
+            "price": 500,
             "name": "レックウザVMAX ",
             "date": "2022-12-19",
             "stock": 1
@@ -82,14 +122,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/734164077",
-            "price": 500,
-            "name": "レックウザVMAX ",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1286101190",
             "price": 300,
             "name": "レックウザVMAX ",
@@ -100,6 +132,14 @@
             "market": "magi",
             "link": "/items/1300980285",
             "price": 450,
+            "name": "レックウザVMAX ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/734164077",
+            "price": 500,
             "name": "レックウザVMAX ",
             "date": "2022-12-17",
             "stock": 1
@@ -122,16 +162,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1286101190",
-            "price": 300,
+            "link": "/items/734164077",
+            "price": 500,
             "name": "レックウザVMAX ",
             "date": "2022-12-16",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/734164077",
-            "price": 500,
+            "link": "/items/1286101190",
+            "price": 300,
             "name": "レックウザVMAX ",
             "date": "2022-12-16",
             "stock": 1
@@ -146,8 +186,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1286101190",
-            "price": 300,
+            "link": "/items/734164077",
+            "price": 500,
             "name": "レックウザVMAX ",
             "date": "2022-12-15",
             "stock": 1
@@ -162,8 +202,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/734164077",
-            "price": 500,
+            "link": "/items/1286101190",
+            "price": 300,
             "name": "レックウザVMAX ",
             "date": "2022-12-15",
             "stock": 1
@@ -218,8 +258,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1286101190",
-            "price": 300,
+            "link": "/items/734164077",
+            "price": 500,
             "name": "レックウザVMAX ",
             "date": "2022-12-13",
             "stock": 1
@@ -234,8 +274,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/734164077",
-            "price": 500,
+            "link": "/items/1286101190",
+            "price": 300,
             "name": "レックウザVMAX ",
             "date": "2022-12-13",
             "stock": 1
@@ -247,38 +287,6 @@
             "name": "レックウザVMAX(",
             "date": "2022-12-13",
             "stock": 43
-        },
-        {
-            "market": "magi",
-            "link": "/items/1286101190",
-            "price": 300,
-            "name": "レックウザVMAX ",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/734164077",
-            "price": 500,
-            "name": "レックウザVMAX ",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1300980285",
-            "price": 450,
-            "name": "レックウザVMAX ",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19755",
-            "price": 100,
-            "name": "レックウザVMAX(",
-            "date": "2022-12-12",
-            "stock": 44
         }
     ]
 }

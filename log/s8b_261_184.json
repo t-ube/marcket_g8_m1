@@ -2,24 +2,72 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/889566959",
-            "price": 3339,
-            "name": "サイトウ【SR】{2",
-            "date": "2022-12-19",
+            "link": "/items/1005398090",
+            "price": 3000,
+            "name": "サイトウ SR 26",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1005398090",
-            "price": 3100,
+            "link": "/items/2035133527",
+            "price": 5555,
             "name": "サイトウ SR 26",
-            "date": "2022-12-19",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/889566959",
+            "price": 3339,
+            "name": "サイトウ【SR】{2",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/232642449",
+            "price": 2690,
+            "name": "サイトウ SR 26",
+            "date": "2022-12-20",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/59501675",
+            "price": 2980,
+            "name": "サイトウ SR 26",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/115898468",
             "price": 3400,
+            "name": "サイトウ SR 26",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21405",
+            "price": 3200,
+            "name": "サイトウ(SR){サ",
+            "date": "2022-12-20",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23037",
+            "price": 3180,
+            "name": "サイトウ261/18",
+            "date": "2022-12-20",
+            "stock": 73
+        },
+        {
+            "market": "magi",
+            "link": "/items/1005398090",
+            "price": 3100,
             "name": "サイトウ SR 26",
             "date": "2022-12-19",
             "stock": 1
@@ -34,11 +82,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/232642449",
-            "price": 2690,
+            "link": "/items/115898468",
+            "price": 3400,
             "name": "サイトウ SR 26",
             "date": "2022-12-19",
-            "stock": 4
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/889566959",
+            "price": 3339,
+            "name": "サイトウ【SR】{2",
+            "date": "2022-12-19",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -47,6 +103,14 @@
             "name": "サイトウ SR 26",
             "date": "2022-12-19",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/232642449",
+            "price": 2690,
+            "name": "サイトウ SR 26",
+            "date": "2022-12-19",
+            "stock": 4
         },
         {
             "market": "hareruya2",
@@ -58,19 +122,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23128",
-            "price": 2480,
-            "name": "サイトウ261/18",
-            "date": "2022-12-19",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23037",
             "price": 3180,
             "name": "サイトウ261/18",
             "date": "2022-12-19",
             "stock": 73
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23128",
+            "price": 2480,
+            "name": "サイトウ261/18",
+            "date": "2022-12-19",
+            "stock": 3
         },
         {
             "market": "magi",
@@ -146,14 +210,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/2035133527",
-            "price": 5555,
-            "name": "サイトウ SR 26",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/115898468",
             "price": 3400,
             "name": "サイトウ SR 26",
@@ -162,9 +218,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/889566959",
-            "price": 3339,
-            "name": "サイトウ【SR】{2",
+            "link": "/items/59501675",
+            "price": 2980,
+            "name": "サイトウ SR 26",
             "date": "2022-12-17",
             "stock": 1
         },
@@ -178,8 +234,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/59501675",
-            "price": 2980,
+            "link": "/items/889566959",
+            "price": 3339,
+            "name": "サイトウ【SR】{2",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2035133527",
+            "price": 5555,
             "name": "サイトウ SR 26",
             "date": "2022-12-17",
             "stock": 1
@@ -210,16 +274,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/59501675",
-            "price": 2980,
+            "link": "/items/115898468",
+            "price": 3400,
             "name": "サイトウ SR 26",
             "date": "2022-12-16",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/115898468",
-            "price": 3400,
+            "link": "/items/59501675",
+            "price": 2980,
             "name": "サイトウ SR 26",
             "date": "2022-12-16",
             "stock": 1
@@ -250,6 +314,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23037",
+            "price": 3180,
+            "name": "サイトウ261/18",
+            "date": "2022-12-16",
+            "stock": 66
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23128",
             "price": 2480,
             "name": "サイトウ261/18",
@@ -257,14 +329,6 @@
             "stock": 3
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23037",
-            "price": 3180,
-            "name": "サイトウ261/18",
-            "date": "2022-12-16",
-            "stock": 66
-        },
-        {
             "market": "magi",
             "link": "/items/59501675",
             "price": 2980,
@@ -314,19 +378,19 @@
         },
         {
             "market": "magi",
+            "link": "/items/115898468",
+            "price": 3400,
+            "name": "サイトウ SR 26",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/232642449",
             "price": 2692,
             "name": "サイトウ SR 26",
             "date": "2022-12-14",
             "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/59501675",
-            "price": 2980,
-            "name": "サイトウ SR 26",
-            "date": "2022-12-14",
-            "stock": 1
         },
         {
             "market": "magi",
@@ -338,8 +402,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/115898468",
-            "price": 3400,
+            "link": "/items/59501675",
+            "price": 2980,
             "name": "サイトウ SR 26",
             "date": "2022-12-14",
             "stock": 1
@@ -362,6 +426,22 @@
         },
         {
             "market": "magi",
+            "link": "/items/232642449",
+            "price": 2692,
+            "name": "サイトウ SR 26",
+            "date": "2022-12-13",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/115898468",
+            "price": 3400,
+            "name": "サイトウ SR 26",
+            "date": "2022-12-13",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/889566959",
             "price": 3339,
             "name": "サイトウ【SR】{2",
@@ -375,22 +455,6 @@
             "name": "サイトウ SR 26",
             "date": "2022-12-13",
             "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/115898468",
-            "price": 3400,
-            "name": "サイトウ SR 26",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/232642449",
-            "price": 2692,
-            "name": "サイトウ SR 26",
-            "date": "2022-12-13",
-            "stock": 4
         },
         {
             "market": "hareruya2",
@@ -407,54 +471,6 @@
             "name": "サイトウ261/18",
             "date": "2022-12-13",
             "stock": 56
-        },
-        {
-            "market": "magi",
-            "link": "/items/889566959",
-            "price": 3339,
-            "name": "サイトウ【SR】{2",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/59501675",
-            "price": 2980,
-            "name": "サイトウ SR 26",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/115898468",
-            "price": 3400,
-            "name": "サイトウ SR 26",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/232642449",
-            "price": 2692,
-            "name": "サイトウ SR 26",
-            "date": "2022-12-12",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21405",
-            "price": 3500,
-            "name": "サイトウ(SR){サ",
-            "date": "2022-12-12",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23037",
-            "price": 3180,
-            "name": "サイトウ261/18",
-            "date": "2022-12-12",
-            "stock": 53
         }
     ]
 }
