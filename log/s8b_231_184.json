@@ -5,6 +5,38 @@
             "link": "/items/657642160",
             "price": 1100,
             "name": "ニンフィアV CSR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21375",
+            "price": 2200,
+            "name": "ニンフィアV(CSR",
+            "date": "2022-12-21",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23100",
+            "price": 1680,
+            "name": "ニンフィアV231/",
+            "date": "2022-12-21",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23007",
+            "price": 1980,
+            "name": "ニンフィアV231/",
+            "date": "2022-12-21",
+            "stock": 84
+        },
+        {
+            "market": "magi",
+            "link": "/items/657642160",
+            "price": 1100,
+            "name": "ニンフィアV CSR",
             "date": "2022-12-20",
             "stock": 1
         },
@@ -50,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23100",
-            "price": 1680,
-            "name": "ニンフィアV231/",
-            "date": "2022-12-19",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23007",
             "price": 1980,
             "name": "ニンフィアV231/",
             "date": "2022-12-19",
             "stock": 89
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23100",
+            "price": 1680,
+            "name": "ニンフィアV231/",
+            "date": "2022-12-19",
+            "stock": 4
         },
         {
             "market": "magi",
@@ -82,19 +114,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23007",
-            "price": 1980,
-            "name": "ニンフィアV231/",
-            "date": "2022-12-18",
-            "stock": 89
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23100",
             "price": 1680,
             "name": "ニンフィアV231/",
             "date": "2022-12-18",
             "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23007",
+            "price": 1980,
+            "name": "ニンフィアV231/",
+            "date": "2022-12-18",
+            "stock": 89
         },
         {
             "market": "magi",
@@ -111,14 +143,6 @@
             "name": "ニンフィアV(CSR",
             "date": "2022-12-17",
             "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23100",
-            "price": 1680,
-            "name": "ニンフィアV231/",
-            "date": "2022-12-17",
-            "stock": 4
         },
         {
             "market": "cardrush",
@@ -129,6 +153,14 @@
             "stock": 91
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23100",
+            "price": 1680,
+            "name": "ニンフィアV231/",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
             "market": "magi",
             "link": "/items/657642160",
             "price": 1100,
@@ -146,14 +178,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23100",
-            "price": 1680,
-            "name": "ニンフィアV231/",
-            "date": "2022-12-16",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23007",
             "price": 1980,
             "name": "ニンフィアV231/",
@@ -161,6 +185,14 @@
             "stock": 93
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23100",
+            "price": 1680,
+            "name": "ニンフィアV231/",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
             "market": "magi",
             "link": "/items/657642160",
             "price": 1100,
@@ -207,30 +239,6 @@
             "name": "ニンフィアV231/",
             "date": "2022-12-14",
             "stock": 94
-        },
-        {
-            "market": "magi",
-            "link": "/items/657642160",
-            "price": 1100,
-            "name": "ニンフィアV CSR",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21375",
-            "price": 2200,
-            "name": "ニンフィアV(CSR",
-            "date": "2022-12-13",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23007",
-            "price": 1980,
-            "name": "ニンフィアV231/",
-            "date": "2022-12-13",
-            "stock": 82
         }
     ]
 }

@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/19114",
             "price": 50,
             "name": "ターボパッチ(D){",
+            "date": "2022-12-21",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18206",
+            "price": 80,
+            "name": "ターボパッチ010/",
+            "date": "2022-12-21",
+            "stock": 114
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19114",
+            "price": 50,
+            "name": "ターボパッチ(D){",
             "date": "2022-12-20",
             "stock": 2
         },
@@ -111,22 +127,6 @@
             "name": "ターボパッチ010/",
             "date": "2022-12-14",
             "stock": 114
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19114",
-            "price": 50,
-            "name": "ターボパッチ(D){",
-            "date": "2022-12-13",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18206",
-            "price": 80,
-            "name": "ターボパッチ010/",
-            "date": "2022-12-13",
-            "stock": 118
         }
     ]
 }

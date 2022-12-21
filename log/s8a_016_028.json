@@ -1,12 +1,92 @@
 ﻿{
     "items": [
         {
+            "market": "magi",
+            "link": "/items/310084862",
+            "price": 350,
+            "name": "ソルガレオ(キラ) ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/313286917",
+            "price": 100,
+            "name": "25th ソルガレオ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1867288056",
+            "price": 120,
+            "name": "ソルガレオ(キラ) ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/473902570",
+            "price": 33,
+            "name": "ソルガレオ(キラ) ",
+            "date": "2022-12-21",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/1023440045",
+            "price": 200,
+            "name": "ソルガレオ(キラ) ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20710",
+            "price": 150,
+            "name": "ソルガレオ:ミラー(",
+            "date": "2022-12-21",
+            "stock": 38
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/20587",
             "price": 50,
             "name": "ソルガレオ(-){鋼",
-            "date": "2022-12-20",
+            "date": "2022-12-21",
             "stock": 149
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22361",
+            "price": 80,
+            "name": "ソルガレオ016/0",
+            "date": "2022-12-21",
+            "stock": 841
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22421",
+            "price": 120,
+            "name": "ソルガレオ016/0",
+            "date": "2022-12-21",
+            "stock": 21
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g016-028-S8A-B/",
+            "price": 11,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-21",
+            "stock": 18
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g016-028-S8A-BM/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-21",
+            "stock": 2
         },
         {
             "market": "magi",
@@ -25,12 +105,12 @@
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20710",
-            "price": 150,
-            "name": "ソルガレオ:ミラー(",
+            "market": "magi",
+            "link": "/items/313286917",
+            "price": 100,
+            "name": "25th ソルガレオ",
             "date": "2022-12-20",
-            "stock": 38
+            "stock": 1
         },
         {
             "market": "magi",
@@ -41,6 +121,22 @@
             "stock": 1
         },
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20587",
+            "price": 50,
+            "name": "ソルガレオ(-){鋼",
+            "date": "2022-12-20",
+            "stock": 149
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20710",
+            "price": 150,
+            "name": "ソルガレオ:ミラー(",
+            "date": "2022-12-20",
+            "stock": 38
+        },
+        {
             "market": "magi",
             "link": "/items/473902570",
             "price": 33,
@@ -49,12 +145,12 @@
             "stock": 3
         },
         {
-            "market": "magi",
-            "link": "/items/313286917",
-            "price": 100,
-            "name": "25th ソルガレオ",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22361",
+            "price": 80,
+            "name": "ソルガレオ016/0",
             "date": "2022-12-20",
-            "stock": 1
+            "stock": 841
         },
         {
             "market": "cardrush",
@@ -63,14 +159,6 @@
             "name": "ソルガレオ016/0",
             "date": "2022-12-20",
             "stock": 21
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22361",
-            "price": 80,
-            "name": "ソルガレオ016/0",
-            "date": "2022-12-20",
-            "stock": 841
         },
         {
             "market": "torecolo",
@@ -90,14 +178,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/313286917",
-            "price": 100,
-            "name": "25th ソルガレオ",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/310084862",
             "price": 350,
             "name": "ソルガレオ(キラ) ",
@@ -129,12 +209,12 @@
             "stock": 3
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20710",
-            "price": 150,
-            "name": "ソルガレオ:ミラー(",
+            "market": "magi",
+            "link": "/items/313286917",
+            "price": 100,
+            "name": "25th ソルガレオ",
             "date": "2022-12-19",
-            "stock": 38
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -145,12 +225,12 @@
             "stock": 149
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22361",
-            "price": 80,
-            "name": "ソルガレオ016/0",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20710",
+            "price": 150,
+            "name": "ソルガレオ:ミラー(",
             "date": "2022-12-19",
-            "stock": 841
+            "stock": 38
         },
         {
             "market": "cardrush",
@@ -161,12 +241,12 @@
             "stock": 21
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g016-028-S8A-BM/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）ミラー",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22361",
+            "price": 80,
+            "name": "ソルガレオ016/0",
             "date": "2022-12-19",
-            "stock": 2
+            "stock": 841
         },
         {
             "market": "torecolo",
@@ -177,17 +257,25 @@
             "stock": 18
         },
         {
-            "market": "magi",
-            "link": "/items/1867288056",
-            "price": 120,
-            "name": "ソルガレオ(キラ) ",
-            "date": "2022-12-18",
-            "stock": 1
+            "market": "torecolo",
+            "link": "/shop/g/g016-028-S8A-BM/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-19",
+            "stock": 2
         },
         {
             "market": "magi",
-            "link": "/items/1023440045",
-            "price": 200,
+            "link": "/items/473902570",
+            "price": 33,
+            "name": "ソルガレオ(キラ) ",
+            "date": "2022-12-18",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/310084862",
+            "price": 350,
             "name": "ソルガレオ(キラ) ",
             "date": "2022-12-18",
             "stock": 1
@@ -202,19 +290,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/310084862",
-            "price": 350,
+            "link": "/items/1023440045",
+            "price": 200,
             "name": "ソルガレオ(キラ) ",
             "date": "2022-12-18",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/473902570",
-            "price": 33,
+            "link": "/items/1867288056",
+            "price": 120,
             "name": "ソルガレオ(キラ) ",
             "date": "2022-12-18",
-            "stock": 3
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -282,9 +370,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/310084862",
-            "price": 350,
-            "name": "ソルガレオ(キラ) ",
+            "link": "/items/313286917",
+            "price": 100,
+            "name": "25th ソルガレオ",
             "date": "2022-12-17",
             "stock": 1
         },
@@ -298,9 +386,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/313286917",
-            "price": 100,
-            "name": "25th ソルガレオ",
+            "link": "/items/310084862",
+            "price": 350,
+            "name": "ソルガレオ(キラ) ",
             "date": "2022-12-17",
             "stock": 1
         },
@@ -370,19 +458,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/473902570",
-            "price": 33,
-            "name": "ソルガレオ(キラ) ",
-            "date": "2022-12-16",
-            "stock": 3
-        },
-        {
-            "market": "magi",
             "link": "/items/1023440045",
             "price": 200,
             "name": "ソルガレオ(キラ) ",
             "date": "2022-12-16",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/473902570",
+            "price": 33,
+            "name": "ソルガレオ(キラ) ",
+            "date": "2022-12-16",
+            "stock": 3
         },
         {
             "market": "magi",
@@ -418,14 +506,6 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20710",
-            "price": 150,
-            "name": "ソルガレオ:ミラー(",
-            "date": "2022-12-16",
-            "stock": 35
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/20587",
             "price": 50,
             "name": "ソルガレオ(-){鋼",
@@ -433,12 +513,12 @@
             "stock": 110
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22421",
-            "price": 120,
-            "name": "ソルガレオ016/0",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20710",
+            "price": 150,
+            "name": "ソルガレオ:ミラー(",
             "date": "2022-12-16",
-            "stock": 21
+            "stock": 35
         },
         {
             "market": "cardrush",
@@ -449,12 +529,12 @@
             "stock": 841
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g016-028-S8A-BM/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）ミラー",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22421",
+            "price": 120,
+            "name": "ソルガレオ016/0",
             "date": "2022-12-16",
-            "stock": 2
+            "stock": 21
         },
         {
             "market": "torecolo",
@@ -463,6 +543,22 @@
             "name": "【ポケカ】Ｃ）通常仕",
             "date": "2022-12-16",
             "stock": 18
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g016-028-S8A-BM/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-16",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1123392935",
+            "price": 150,
+            "name": "ソルガレオ(キラ) ",
+            "date": "2022-12-15",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -506,14 +602,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1123392935",
-            "price": 150,
-            "name": "ソルガレオ(キラ) ",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1867288056",
             "price": 120,
             "name": "ソルガレオ(キラ) ",
@@ -530,19 +618,19 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20587",
-            "price": 50,
-            "name": "ソルガレオ(-){鋼",
-            "date": "2022-12-15",
-            "stock": 110
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/20710",
             "price": 150,
             "name": "ソルガレオ:ミラー(",
             "date": "2022-12-15",
             "stock": 35
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20587",
+            "price": 50,
+            "name": "ソルガレオ(-){鋼",
+            "date": "2022-12-15",
+            "stock": 110
         },
         {
             "market": "cardrush",
@@ -578,22 +666,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1123392935",
-            "price": 150,
-            "name": "ソルガレオ(キラ) ",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/801640848",
-            "price": 110,
-            "name": "ソルガレオ(キラ) ",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/313286917",
             "price": 100,
             "name": "25th ソルガレオ",
@@ -602,24 +674,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1867288056",
-            "price": 120,
+            "link": "/items/310084862",
+            "price": 350,
             "name": "ソルガレオ(キラ) ",
             "date": "2022-12-14",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1443056095",
-            "price": 260,
-            "name": "ソルガレオキラ) 0",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1023440045",
-            "price": 200,
+            "link": "/items/1867288056",
+            "price": 120,
             "name": "ソルガレオ(キラ) ",
             "date": "2022-12-14",
             "stock": 1
@@ -634,9 +698,33 @@
         },
         {
             "market": "magi",
-            "link": "/items/310084862",
-            "price": 350,
+            "link": "/items/801640848",
+            "price": 110,
             "name": "ソルガレオ(キラ) ",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1123392935",
+            "price": 150,
+            "name": "ソルガレオ(キラ) ",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1023440045",
+            "price": 200,
+            "name": "ソルガレオ(キラ) ",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1443056095",
+            "price": 260,
+            "name": "ソルガレオキラ) 0",
             "date": "2022-12-14",
             "stock": 1
         },
@@ -674,14 +762,6 @@
         },
         {
             "market": "torecolo",
-            "link": "/shop/g/g016-028-S8A-BM/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-14",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
             "link": "/shop/g/g016-028-S8A-B/",
             "price": 11,
             "name": "【ポケカ】Ｃ）通常仕",
@@ -689,115 +769,11 @@
             "stock": 18
         },
         {
-            "market": "magi",
-            "link": "/items/801640848",
-            "price": 110,
-            "name": "ソルガレオ(キラ) ",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/310084862",
-            "price": 350,
-            "name": "ソルガレオ(キラ) ",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1123392935",
-            "price": 150,
-            "name": "ソルガレオ(キラ) ",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1023440045",
-            "price": 200,
-            "name": "ソルガレオ(キラ) ",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/313286917",
-            "price": 100,
-            "name": "25th ソルガレオ",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1443056095",
-            "price": 260,
-            "name": "ソルガレオキラ) 0",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/473902570",
-            "price": 33,
-            "name": "ソルガレオ(キラ) ",
-            "date": "2022-12-13",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/1867288056",
-            "price": 120,
-            "name": "ソルガレオ(キラ) ",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20587",
-            "price": 50,
-            "name": "ソルガレオ(-){鋼",
-            "date": "2022-12-13",
-            "stock": 110
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20710",
-            "price": 150,
-            "name": "ソルガレオ:ミラー(",
-            "date": "2022-12-13",
-            "stock": 35
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22361",
-            "price": 80,
-            "name": "ソルガレオ016/0",
-            "date": "2022-12-13",
-            "stock": 837
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22421",
-            "price": 120,
-            "name": "ソルガレオ016/0",
-            "date": "2022-12-13",
-            "stock": 20
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g016-028-S8A-B/",
-            "price": 11,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-13",
-            "stock": 18
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g016-028-S8A-BM/",
             "price": 110,
             "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-13",
+            "date": "2022-12-14",
             "stock": 2
         }
     ]

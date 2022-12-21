@@ -5,12 +5,36 @@
             "link": "/items/1454601787",
             "price": 2500,
             "name": "パワータブレット U",
-            "date": "2022-12-20",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1691012170",
+            "price": 2499,
+            "name": "パワータブレット U",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22211",
+            "price": 2380,
+            "name": "パワータブレット12",
+            "date": "2022-12-21",
+            "stock": 9
+        },
+        {
+            "market": "magi",
+            "link": "/items/1691012170",
+            "price": 2500,
+            "name": "パワータブレット U",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1454601787",
             "price": 2500,
             "name": "パワータブレット U",
             "date": "2022-12-20",
@@ -98,16 +122,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1454601787",
-            "price": 2500,
+            "link": "/items/1691012170",
+            "price": 2567,
             "name": "パワータブレット U",
             "date": "2022-12-16",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1691012170",
-            "price": 2567,
+            "link": "/items/1454601787",
+            "price": 2500,
             "name": "パワータブレット U",
             "date": "2022-12-16",
             "stock": 1
@@ -130,16 +154,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1454601787",
-            "price": 2500,
+            "link": "/items/1691012170",
+            "price": 2567,
             "name": "パワータブレット U",
             "date": "2022-12-15",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1691012170",
-            "price": 2567,
+            "link": "/items/1454601787",
+            "price": 2500,
             "name": "パワータブレット U",
             "date": "2022-12-15",
             "stock": 1
@@ -191,30 +215,6 @@
             "name": "【ポケカ】ＵＲ◇パワ",
             "date": "2022-12-14",
             "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1691012170",
-            "price": 2590,
-            "name": "パワータブレット U",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1454601787",
-            "price": 2500,
-            "name": "パワータブレット U",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22211",
-            "price": 2380,
-            "name": "パワータブレット12",
-            "date": "2022-12-13",
-            "stock": 17
         }
     ]
 }

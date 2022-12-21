@@ -3,6 +3,14 @@
         {
             "market": "magi",
             "link": "/items/1449167485",
+            "price": 26990,
+            "name": "エーフィVMAX 0",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1449167485",
             "price": 27000,
             "name": "エーフィVMAX 0",
             "date": "2022-12-20",
@@ -79,14 +87,6 @@
             "name": "エーフィVMAX00",
             "date": "2022-12-14",
             "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20723",
-            "price": 1680,
-            "name": "エーフィVMAX00",
-            "date": "2022-12-13",
-            "stock": 5
         }
     ]
 }

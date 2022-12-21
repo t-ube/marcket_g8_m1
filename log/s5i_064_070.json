@@ -1,6 +1,22 @@
 ﻿{
     "items": [
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18116",
+            "price": 80,
+            "name": "いちげきの巻物怒りの",
+            "date": "2022-12-21",
+            "stock": 16
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g064-070-S5I-B/",
+            "price": 77,
+            "name": "【ポケカ】Ｕ◇いちげ",
+            "date": "2022-12-21",
+            "stock": 22
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18986",
             "price": 100,
@@ -166,22 +182,6 @@
             "price": 77,
             "name": "【ポケカ】Ｕ◇いちげ",
             "date": "2022-12-14",
-            "stock": 13
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18116",
-            "price": 80,
-            "name": "いちげきの巻物怒りの",
-            "date": "2022-12-13",
-            "stock": 31
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g064-070-S5I-B/",
-            "price": 77,
-            "name": "【ポケカ】Ｕ◇いちげ",
-            "date": "2022-12-13",
             "stock": 13
         }
     ]
