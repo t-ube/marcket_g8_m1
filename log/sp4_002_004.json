@@ -5,6 +5,22 @@
             "link": "/items/2100972094",
             "price": 1700,
             "name": "シャワーズVMAX ",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20721",
+            "price": 1380,
+            "name": "シャワーズVMAX0",
+            "date": "2022-12-22",
+            "stock": 33
+        },
+        {
+            "market": "magi",
+            "link": "/items/2100972094",
+            "price": 1700,
+            "name": "シャワーズVMAX ",
             "date": "2022-12-21",
             "stock": 1
         },
@@ -111,22 +127,6 @@
             "name": "シャワーズVMAX0",
             "date": "2022-12-15",
             "stock": 24
-        },
-        {
-            "market": "magi",
-            "link": "/items/2100972094",
-            "price": 1700,
-            "name": "シャワーズVMAX ",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20721",
-            "price": 1380,
-            "name": "シャワーズVMAX0",
-            "date": "2022-12-14",
-            "stock": 25
         }
     ]
 }

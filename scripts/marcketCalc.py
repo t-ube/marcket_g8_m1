@@ -19,6 +19,9 @@ class calc():
                 _data_dir + '/' + item,
                 encoding="utf_8_sig", sep=",",
                 header=0)
+            if "stock" not in readDf.columns:
+                print('none stock field:'+item)
+                continue
             df = pd.concat([readDf, df], ignore_index=True,axis=0,sort=False)
         df = df.sort_values(by=['datetime'], ascending=False) 
         df = df[~df.duplicated(subset=['market','date','name','link'],keep='first')]

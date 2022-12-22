@@ -60,6 +60,7 @@ for exp in expansion.getList():
         if os.path.exists(dataDir) == False:
             continue
 
+        print(dataDir)
         calc = marcketCalc.calc(currentDT.strftime('%Y-%m-%d'))
         if calc.checkUpdate(file, 4) is False:
             print('Already calculated')
@@ -70,6 +71,7 @@ for exp in expansion.getList():
             ioCsv.load()
             
             df = calc.getUniqueRecodes(dataDir)
+
             log.save(df, currentDT.strftime('%Y-%m-%d'))
             log.delete2JsonLines(log_file)
             log.convert2Json(log_file2)

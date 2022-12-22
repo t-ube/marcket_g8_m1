@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/20495",
             "price": 2500,
             "name": "カミツレのきらめき(",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22207",
+            "price": 2180,
+            "name": "カミツレのきらめき1",
+            "date": "2022-12-22",
+            "stock": 9
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20495",
+            "price": 2500,
+            "name": "カミツレのきらめき(",
             "date": "2022-12-21",
             "stock": 1
         },
@@ -126,30 +142,6 @@
             "price": 1650,
             "name": "【ポケカ】ＨＲ◇カミ",
             "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20495",
-            "price": 2500,
-            "name": "カミツレのきらめき(",
-            "date": "2022-12-14",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22207",
-            "price": 2180,
-            "name": "カミツレのきらめき1",
-            "date": "2022-12-14",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g122-100-S8-B/",
-            "price": 1650,
-            "name": "【ポケカ】ＨＲ◇カミ",
-            "date": "2022-12-14",
             "stock": 1
         }
     ]
