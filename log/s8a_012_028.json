@@ -5,7 +5,15 @@
             "link": "/items/1648134862",
             "price": 129,
             "name": "【特価】ゼルネアス(",
-            "date": "2022-12-22",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1060266649",
+            "price": 100,
+            "name": "25th ゼルネアス",
+            "date": "2022-12-23",
             "stock": 1
         },
         {
@@ -13,8 +21,80 @@
             "link": "/items/708728430",
             "price": 200,
             "name": "ゼルネアス(キラ) ",
-            "date": "2022-12-22",
+            "date": "2022-12-23",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1932908355",
+            "price": 100,
+            "name": "ゼルネアス(キラ) ",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/223628198",
+            "price": 500,
+            "name": "ゼルネアス(キラ) ",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1423531877",
+            "price": 350,
+            "name": "ゼルネアス(ミラー)",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20706",
+            "price": 100,
+            "name": "ゼルネアス:ミラー(",
+            "date": "2022-12-23",
+            "stock": 30
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20583",
+            "price": 50,
+            "name": "ゼルネアス(-){超",
+            "date": "2022-12-23",
+            "stock": 29
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22417",
+            "price": 120,
+            "name": "ゼルネアス012/0",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22357",
+            "price": 80,
+            "name": "ゼルネアス012/0",
+            "date": "2022-12-23",
+            "stock": 213
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g012-028-S8A-BM/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-23",
+            "stock": 7
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g012-028-S8A-B/",
+            "price": 44,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-23",
+            "stock": 19
         },
         {
             "market": "magi",
@@ -34,6 +114,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1060266649",
+            "price": 100,
+            "name": "25th ゼルネアス",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1423531877",
             "price": 350,
             "name": "ゼルネアス(ミラー)",
@@ -42,19 +130,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/1060266649",
-            "price": 100,
-            "name": "25th ゼルネアス",
+            "link": "/items/1648134862",
+            "price": 129,
+            "name": "【特価】ゼルネアス(",
             "date": "2022-12-22",
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20583",
-            "price": 50,
-            "name": "ゼルネアス(-){超",
+            "market": "magi",
+            "link": "/items/708728430",
+            "price": 200,
+            "name": "ゼルネアス(キラ) ",
             "date": "2022-12-22",
-            "stock": 29
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -65,6 +153,14 @@
             "stock": 30
         },
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20583",
+            "price": 50,
+            "name": "ゼルネアス(-){超",
+            "date": "2022-12-22",
+            "stock": 29
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22357",
             "price": 80,
@@ -82,14 +178,6 @@
         },
         {
             "market": "torecolo",
-            "link": "/shop/g/g012-028-S8A-B/",
-            "price": 44,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-22",
-            "stock": 19
-        },
-        {
-            "market": "torecolo",
             "link": "/shop/g/g012-028-S8A-BM/",
             "price": 33,
             "name": "【ポケカ】Ｃ）ミラー",
@@ -97,33 +185,17 @@
             "stock": 7
         },
         {
-            "market": "magi",
-            "link": "/items/1648134862",
-            "price": 129,
-            "name": "【特価】ゼルネアス(",
-            "date": "2022-12-21",
-            "stock": 1
+            "market": "torecolo",
+            "link": "/shop/g/g012-028-S8A-B/",
+            "price": 44,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-22",
+            "stock": 19
         },
         {
             "market": "magi",
             "link": "/items/1932908355",
             "price": 100,
-            "name": "ゼルネアス(キラ) ",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1423531877",
-            "price": 350,
-            "name": "ゼルネアス(ミラー)",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/223628198",
-            "price": 500,
             "name": "ゼルネアス(キラ) ",
             "date": "2022-12-21",
             "stock": 1
@@ -138,8 +210,32 @@
         },
         {
             "market": "magi",
+            "link": "/items/1423531877",
+            "price": 350,
+            "name": "ゼルネアス(ミラー)",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/708728430",
             "price": 200,
+            "name": "ゼルネアス(キラ) ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1648134862",
+            "price": 129,
+            "name": "【特価】ゼルネアス(",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/223628198",
+            "price": 500,
             "name": "ゼルネアス(キラ) ",
             "date": "2022-12-21",
             "stock": 1
@@ -194,8 +290,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1932908355",
-            "price": 100,
+            "link": "/items/1648134862",
+            "price": 129,
+            "name": "【特価】ゼルネアス(",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/708728430",
+            "price": 200,
             "name": "ゼルネアス(キラ) ",
             "date": "2022-12-20",
             "stock": 1
@@ -226,16 +330,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1648134862",
-            "price": 129,
-            "name": "【特価】ゼルネアス(",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/708728430",
-            "price": 200,
+            "link": "/items/1932908355",
+            "price": 100,
             "name": "ゼルネアス(キラ) ",
             "date": "2022-12-20",
             "stock": 1
@@ -282,9 +378,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1423531877",
-            "price": 350,
-            "name": "ゼルネアス(ミラー)",
+            "link": "/items/1648134862",
+            "price": 129,
+            "name": "【特価】ゼルネアス(",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/708728430",
+            "price": 200,
+            "name": "ゼルネアス(キラ) ",
             "date": "2022-12-19",
             "stock": 1
         },
@@ -306,27 +410,27 @@
         },
         {
             "market": "magi",
-            "link": "/items/708728430",
-            "price": 200,
-            "name": "ゼルネアス(キラ) ",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1648134862",
-            "price": 129,
-            "name": "【特価】ゼルネアス(",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/223628198",
             "price": 500,
             "name": "ゼルネアス(キラ) ",
             "date": "2022-12-19",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1423531877",
+            "price": 350,
+            "name": "ゼルネアス(ミラー)",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20583",
+            "price": 50,
+            "name": "ゼルネアス(-){超",
+            "date": "2022-12-19",
+            "stock": 29
         },
         {
             "market": "hareruya2",
@@ -337,28 +441,12 @@
             "stock": 32
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20583",
-            "price": 50,
-            "name": "ゼルネアス(-){超",
-            "date": "2022-12-19",
-            "stock": 29
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22357",
             "price": 80,
             "name": "ゼルネアス012/0",
             "date": "2022-12-19",
             "stock": 213
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g012-028-S8A-BM/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-19",
-            "stock": 7
         },
         {
             "market": "torecolo",
@@ -369,25 +457,25 @@
             "stock": 19
         },
         {
+            "market": "torecolo",
+            "link": "/shop/g/g012-028-S8A-BM/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-19",
+            "stock": 7
+        },
+        {
             "market": "magi",
-            "link": "/items/1423531877",
-            "price": 350,
-            "name": "ゼルネアス(ミラー)",
+            "link": "/items/1060266649",
+            "price": 100,
+            "name": "25th ゼルネアス",
             "date": "2022-12-18",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1648134862",
-            "price": 129,
-            "name": "【特価】ゼルネアス(",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/223628198",
-            "price": 500,
+            "link": "/items/708728430",
+            "price": 200,
             "name": "ゼルネアス(キラ) ",
             "date": "2022-12-18",
             "stock": 1
@@ -402,19 +490,35 @@
         },
         {
             "market": "magi",
-            "link": "/items/708728430",
-            "price": 200,
-            "name": "ゼルネアス(キラ) ",
+            "link": "/items/1648134862",
+            "price": 129,
+            "name": "【特価】ゼルネアス(",
             "date": "2022-12-18",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1060266649",
-            "price": 100,
-            "name": "25th ゼルネアス",
+            "link": "/items/1423531877",
+            "price": 350,
+            "name": "ゼルネアス(ミラー)",
             "date": "2022-12-18",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/223628198",
+            "price": 500,
+            "name": "ゼルネアス(キラ) ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20583",
+            "price": 50,
+            "name": "ゼルネアス(-){超",
+            "date": "2022-12-18",
+            "stock": 29
         },
         {
             "market": "hareruya2",
@@ -425,14 +529,6 @@
             "stock": 32
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20583",
-            "price": 50,
-            "name": "ゼルネアス(-){超",
-            "date": "2022-12-18",
-            "stock": 29
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22357",
             "price": 80,
@@ -458,6 +554,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/708728430",
+            "price": 200,
+            "name": "ゼルネアス(キラ) ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1060266649",
             "price": 100,
             "name": "25th ゼルネアス",
@@ -477,14 +581,6 @@
             "link": "/items/1423531877",
             "price": 350,
             "name": "ゼルネアス(ミラー)",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/708728430",
-            "price": 200,
-            "name": "ゼルネアス(キラ) ",
             "date": "2022-12-17",
             "stock": 1
         },
@@ -546,9 +642,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1423531877",
-            "price": 350,
-            "name": "ゼルネアス(ミラー)",
+            "link": "/items/223628198",
+            "price": 500,
+            "name": "ゼルネアス(キラ) ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/708728430",
+            "price": 200,
+            "name": "ゼルネアス(キラ) ",
             "date": "2022-12-16",
             "stock": 1
         },
@@ -557,6 +661,22 @@
             "link": "/items/1648134862",
             "price": 129,
             "name": "【特価】ゼルネアス(",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1932908355",
+            "price": 100,
+            "name": "ゼルネアス(キラ) ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1423531877",
+            "price": 350,
+            "name": "ゼルネアス(ミラー)",
             "date": "2022-12-16",
             "stock": 1
         },
@@ -577,42 +697,18 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/708728430",
-            "price": 200,
-            "name": "ゼルネアス(キラ) ",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20583",
+            "price": 50,
+            "name": "ゼルネアス(-){超",
             "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1932908355",
-            "price": 100,
-            "name": "ゼルネアス(キラ) ",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/223628198",
-            "price": 500,
-            "name": "ゼルネアス(キラ) ",
-            "date": "2022-12-16",
-            "stock": 1
+            "stock": 29
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/20706",
             "price": 100,
             "name": "ゼルネアス:ミラー(",
-            "date": "2022-12-16",
-            "stock": 29
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20583",
-            "price": 50,
-            "name": "ゼルネアス(-){超",
             "date": "2022-12-16",
             "stock": 29
         },
@@ -626,14 +722,6 @@
         },
         {
             "market": "torecolo",
-            "link": "/shop/g/g012-028-S8A-BM/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-16",
-            "stock": 7
-        },
-        {
-            "market": "torecolo",
             "link": "/shop/g/g012-028-S8A-B/",
             "price": 44,
             "name": "【ポケカ】Ｃ）通常仕",
@@ -641,99 +729,11 @@
             "stock": 19
         },
         {
-            "market": "magi",
-            "link": "/items/1932908355",
-            "price": 100,
-            "name": "ゼルネアス(キラ) ",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1423531877",
-            "price": 350,
-            "name": "ゼルネアス(ミラー)",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1648134862",
-            "price": 129,
-            "name": "【特価】ゼルネアス(",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1060266649",
-            "price": 100,
-            "name": "25th ゼルネアス",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/708728430",
-            "price": 200,
-            "name": "ゼルネアス(キラ) ",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/511488203",
-            "price": 300,
-            "name": "ゼルネアス(キラ) ",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/223628198",
-            "price": 500,
-            "name": "ゼルネアス(キラ) ",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20706",
-            "price": 100,
-            "name": "ゼルネアス:ミラー(",
-            "date": "2022-12-15",
-            "stock": 29
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20583",
-            "price": 50,
-            "name": "ゼルネアス(-){超",
-            "date": "2022-12-15",
-            "stock": 29
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22357",
-            "price": 80,
-            "name": "ゼルネアス012/0",
-            "date": "2022-12-15",
-            "stock": 213
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g012-028-S8A-B/",
-            "price": 44,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-15",
-            "stock": 19
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g012-028-S8A-BM/",
             "price": 33,
             "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-15",
+            "date": "2022-12-16",
             "stock": 7
         }
     ]

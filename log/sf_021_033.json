@@ -1,6 +1,14 @@
 ﻿{
     "items": [
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18217",
+            "price": 80,
+            "name": "マリィ021/033",
+            "date": "2022-12-23",
+            "stock": 4
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g021-033-SF-B/",
             "price": 88,
@@ -54,14 +62,6 @@
             "price": 80,
             "name": "マリィ021/033",
             "date": "2022-12-16",
-            "stock": 13
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18217",
-            "price": 80,
-            "name": "マリィ021/033",
-            "date": "2022-12-15",
             "stock": 13
         }
     ]

@@ -5,6 +5,22 @@
             "link": "/items/1363762182",
             "price": 1700,
             "name": "バシャーモVMAX ",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22996",
+            "price": 1580,
+            "name": "バシャーモVMAX2",
+            "date": "2022-12-23",
+            "stock": 65
+        },
+        {
+            "market": "magi",
+            "link": "/items/1363762182",
+            "price": 1700,
+            "name": "バシャーモVMAX ",
             "date": "2022-12-22",
             "stock": 1
         },
@@ -79,14 +95,6 @@
             "name": "バシャーモVMAX2",
             "date": "2022-12-16",
             "stock": 67
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22996",
-            "price": 1580,
-            "name": "バシャーモVMAX2",
-            "date": "2022-12-15",
-            "stock": 65
         }
     ]
 }

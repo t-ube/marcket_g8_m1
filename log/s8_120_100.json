@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/20493",
             "price": 900,
             "name": "ヨクバリスVMAX(",
+            "date": "2022-12-23",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32588",
+            "price": 680,
+            "name": "ヨクバリスVMAX1",
+            "date": "2022-12-23",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22205",
+            "price": 780,
+            "name": "ヨクバリスVMAX1",
+            "date": "2022-12-23",
+            "stock": 76
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20493",
+            "price": 900,
+            "name": "ヨクバリスVMAX(",
             "date": "2022-12-22",
             "stock": 2
         },
@@ -58,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32588",
-            "price": 680,
-            "name": "ヨクバリスVMAX1",
-            "date": "2022-12-20",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22205",
             "price": 780,
             "name": "ヨクバリスVMAX1",
             "date": "2022-12-20",
             "stock": 81
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32588",
+            "price": 680,
+            "name": "ヨクバリスVMAX1",
+            "date": "2022-12-20",
+            "stock": 2
         },
         {
             "market": "hareruya2",
@@ -151,14 +175,6 @@
             "name": "ヨクバリスVMAX(",
             "date": "2022-12-16",
             "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22205",
-            "price": 780,
-            "name": "ヨクバリスVMAX1",
-            "date": "2022-12-16",
-            "stock": 81
         },
         {
             "market": "cardrush",
@@ -169,27 +185,11 @@
             "stock": 5
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20493",
-            "price": 900,
-            "name": "ヨクバリスVMAX(",
-            "date": "2022-12-15",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32588",
-            "price": 680,
-            "name": "ヨクバリスVMAX1",
-            "date": "2022-12-15",
-            "stock": 5
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22205",
             "price": 780,
             "name": "ヨクバリスVMAX1",
-            "date": "2022-12-15",
+            "date": "2022-12-16",
             "stock": 81
         }
     ]

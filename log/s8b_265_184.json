@@ -2,16 +2,72 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/1503669097",
+            "link": "/items/1075718443",
+            "price": 1555,
+            "name": "バーネット博士 SR",
+            "date": "2022-12-23",
+            "stock": 10
+        },
+        {
+            "market": "magi",
+            "link": "/items/472456899",
             "price": 1700,
             "name": "バーネット博士 SR",
-            "date": "2022-12-22",
+            "date": "2022-12-23",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1432727750",
             "price": 6000,
+            "name": "バーネット博士 SR",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2089270427",
+            "price": 2000,
+            "name": "バーネット博士 SR",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1503669097",
+            "price": 1700,
+            "name": "バーネット博士 SR",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23132",
+            "price": 1330,
+            "name": "バーネット博士265",
+            "date": "2022-12-23",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23041",
+            "price": 1580,
+            "name": "バーネット博士265",
+            "date": "2022-12-23",
+            "stock": 33
+        },
+        {
+            "market": "magi",
+            "link": "/items/1432727750",
+            "price": 6000,
+            "name": "バーネット博士 SR",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1503669097",
+            "price": 1700,
             "name": "バーネット博士 SR",
             "date": "2022-12-22",
             "stock": 1
@@ -114,14 +170,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1075718443",
-            "price": 1555,
-            "name": "バーネット博士 SR",
-            "date": "2022-12-20",
-            "stock": 10
-        },
-        {
-            "market": "magi",
             "link": "/items/1432727750",
             "price": 6000,
             "name": "バーネット博士 SR",
@@ -129,12 +177,12 @@
             "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23041",
-            "price": 1580,
-            "name": "バーネット博士265",
+            "market": "magi",
+            "link": "/items/1075718443",
+            "price": 1555,
+            "name": "バーネット博士 SR",
             "date": "2022-12-20",
-            "stock": 23
+            "stock": 10
         },
         {
             "market": "cardrush",
@@ -145,12 +193,12 @@
             "stock": 6
         },
         {
-            "market": "magi",
-            "link": "/items/1432727750",
-            "price": 6000,
-            "name": "バーネット博士 SR",
-            "date": "2022-12-19",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23041",
+            "price": 1580,
+            "name": "バーネット博士265",
+            "date": "2022-12-20",
+            "stock": 23
         },
         {
             "market": "magi",
@@ -162,8 +210,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/2089270427",
-            "price": 2000,
+            "link": "/items/1432727750",
+            "price": 6000,
             "name": "バーネット博士 SR",
             "date": "2022-12-19",
             "stock": 1
@@ -177,12 +225,12 @@
             "stock": 10
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23132",
-            "price": 1330,
-            "name": "バーネット博士265",
+            "market": "magi",
+            "link": "/items/2089270427",
+            "price": 2000,
+            "name": "バーネット博士 SR",
             "date": "2022-12-19",
-            "stock": 11
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -193,9 +241,17 @@
             "stock": 23
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23132",
+            "price": 1330,
+            "name": "バーネット博士265",
+            "date": "2022-12-19",
+            "stock": 11
+        },
+        {
             "market": "magi",
-            "link": "/items/1432727750",
-            "price": 6000,
+            "link": "/items/2089270427",
+            "price": 2000,
             "name": "バーネット博士 SR",
             "date": "2022-12-18",
             "stock": 1
@@ -210,8 +266,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/2089270427",
-            "price": 2000,
+            "link": "/items/1432727750",
+            "price": 6000,
             "name": "バーネット博士 SR",
             "date": "2022-12-18",
             "stock": 1
@@ -223,14 +279,6 @@
             "name": "バーネット博士 SR",
             "date": "2022-12-18",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23041",
-            "price": 1580,
-            "name": "バーネット博士265",
-            "date": "2022-12-18",
-            "stock": 23
         },
         {
             "market": "cardrush",
@@ -241,9 +289,25 @@
             "stock": 11
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23041",
+            "price": 1580,
+            "name": "バーネット博士265",
+            "date": "2022-12-18",
+            "stock": 23
+        },
+        {
             "market": "magi",
-            "link": "/items/1432727750",
-            "price": 6000,
+            "link": "/items/1075718443",
+            "price": 1555,
+            "name": "バーネット博士 SR",
+            "date": "2022-12-17",
+            "stock": 10
+        },
+        {
+            "market": "magi",
+            "link": "/items/2089270427",
+            "price": 2000,
             "name": "バーネット博士 SR",
             "date": "2022-12-17",
             "stock": 1
@@ -258,19 +322,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/2089270427",
-            "price": 2000,
+            "link": "/items/1432727750",
+            "price": 6000,
             "name": "バーネット博士 SR",
             "date": "2022-12-17",
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/1075718443",
-            "price": 1555,
-            "name": "バーネット博士 SR",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23132",
+            "price": 1330,
+            "name": "バーネット博士265",
             "date": "2022-12-17",
-            "stock": 10
+            "stock": 11
         },
         {
             "market": "cardrush",
@@ -281,17 +345,17 @@
             "stock": 24
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23132",
-            "price": 1330,
-            "name": "バーネット博士265",
-            "date": "2022-12-17",
-            "stock": 11
+            "market": "magi",
+            "link": "/items/1075718443",
+            "price": 1555,
+            "name": "バーネット博士 SR",
+            "date": "2022-12-16",
+            "stock": 10
         },
         {
             "market": "magi",
-            "link": "/items/1432727750",
-            "price": 6000,
+            "link": "/items/2089270427",
+            "price": 2000,
             "name": "バーネット博士 SR",
             "date": "2022-12-16",
             "stock": 1
@@ -306,19 +370,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/2089270427",
-            "price": 2000,
+            "link": "/items/1432727750",
+            "price": 6000,
             "name": "バーネット博士 SR",
             "date": "2022-12-16",
             "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1075718443",
-            "price": 1555,
-            "name": "バーネット博士 SR",
-            "date": "2022-12-16",
-            "stock": 10
         },
         {
             "market": "hareruya2",
@@ -330,14 +386,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23041",
-            "price": 1580,
-            "name": "バーネット博士265",
-            "date": "2022-12-16",
-            "stock": 24
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23132",
             "price": 1330,
             "name": "バーネット博士265",
@@ -345,60 +393,12 @@
             "stock": 11
         },
         {
-            "market": "magi",
-            "link": "/items/2089270427",
-            "price": 2000,
-            "name": "バーネット博士 SR",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1075718443",
-            "price": 1555,
-            "name": "バーネット博士 SR",
-            "date": "2022-12-15",
-            "stock": 10
-        },
-        {
-            "market": "magi",
-            "link": "/items/1432727750",
-            "price": 6000,
-            "name": "バーネット博士 SR",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1503669097",
-            "price": 1700,
-            "name": "バーネット博士 SR",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21409",
-            "price": 1800,
-            "name": "バーネット博士(SR",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23041",
             "price": 1580,
             "name": "バーネット博士265",
-            "date": "2022-12-15",
+            "date": "2022-12-16",
             "stock": 24
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23132",
-            "price": 1330,
-            "name": "バーネット博士265",
-            "date": "2022-12-15",
-            "stock": 11
         }
     ]
 }

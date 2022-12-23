@@ -2,16 +2,64 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1609831633",
+            "price": 1500,
+            "name": "メロン SR 274",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1002399141",
             "price": 1220,
             "name": "メロン SR 274",
-            "date": "2022-12-22",
+            "date": "2022-12-23",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/765693252",
             "price": 2200,
+            "name": "メロン SR 274",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21418",
+            "price": 2500,
+            "name": "メロン(SR){サポ",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23050",
+            "price": 1980,
+            "name": "メロン274/184",
+            "date": "2022-12-23",
+            "stock": 65
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23141",
+            "price": 1680,
+            "name": "メロン274/184",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/765693252",
+            "price": 2200,
+            "name": "メロン SR 274",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1002399141",
+            "price": 1220,
             "name": "メロン SR 274",
             "date": "2022-12-22",
             "stock": 1
@@ -66,16 +114,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/765693252",
-            "price": 2200,
+            "link": "/items/1002399141",
+            "price": 1380,
             "name": "メロン SR 274",
             "date": "2022-12-20",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1002399141",
-            "price": 1380,
+            "link": "/items/765693252",
+            "price": 2200,
             "name": "メロン SR 274",
             "date": "2022-12-20",
             "stock": 1
@@ -90,6 +138,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/765693252",
+            "price": 2200,
+            "name": "メロン SR 274",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1002399141",
             "price": 1380,
             "name": "メロン SR 274",
@@ -97,12 +153,12 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/765693252",
-            "price": 2200,
-            "name": "メロン SR 274",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23141",
+            "price": 1680,
+            "name": "メロン274/184",
             "date": "2022-12-19",
-            "stock": 1
+            "stock": 3
         },
         {
             "market": "cardrush",
@@ -113,14 +169,6 @@
             "stock": 66
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23141",
-            "price": 1680,
-            "name": "メロン274/184",
-            "date": "2022-12-19",
-            "stock": 3
-        },
-        {
             "market": "magi",
             "link": "/items/765693252",
             "price": 2200,
@@ -146,19 +194,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23050",
-            "price": 1980,
-            "name": "メロン274/184",
-            "date": "2022-12-18",
-            "stock": 69
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23141",
             "price": 1680,
             "name": "メロン274/184",
             "date": "2022-12-18",
             "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23050",
+            "price": 1980,
+            "name": "メロン274/184",
+            "date": "2022-12-18",
+            "stock": 69
         },
         {
             "market": "magi",
@@ -207,14 +255,6 @@
             "name": "メロン(SR){サポ",
             "date": "2022-12-16",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23141",
-            "price": 1680,
-            "name": "メロン274/184",
-            "date": "2022-12-16",
-            "stock": 2
         },
         {
             "market": "cardrush",
@@ -225,36 +265,12 @@
             "stock": 70
         },
         {
-            "market": "magi",
-            "link": "/items/765693252",
-            "price": 2200,
-            "name": "メロン SR 274",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21418",
-            "price": 2500,
-            "name": "メロン(SR){サポ",
-            "date": "2022-12-15",
-            "stock": 2
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23141",
             "price": 1680,
             "name": "メロン274/184",
-            "date": "2022-12-15",
+            "date": "2022-12-16",
             "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23050",
-            "price": 1980,
-            "name": "メロン274/184",
-            "date": "2022-12-15",
-            "stock": 66
         }
     ]
 }

@@ -2,10 +2,18 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/1708276627",
-            "price": 246,
+            "link": "/items/2142886503",
+            "price": 450,
+            "name": "ポケカ VMAXクラ",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/40818552",
+            "price": 270,
             "name": "サンダース CHR ",
-            "date": "2022-12-22",
+            "date": "2022-12-23",
             "stock": 1
         },
         {
@@ -13,6 +21,70 @@
             "link": "/items/1512740443",
             "price": 330,
             "name": "サンダース CHR ",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1671182961",
+            "price": 500,
+            "name": "サンダース CHR ",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1708276627",
+            "price": 240,
+            "name": "サンダース CHR ",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21340",
+            "price": 320,
+            "name": "サンダース(CHR)",
+            "date": "2022-12-23",
+            "stock": 318
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22972",
+            "price": 380,
+            "name": "サンダース193/1",
+            "date": "2022-12-23",
+            "stock": 191
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33010",
+            "price": 330,
+            "name": "サンダース193/1",
+            "date": "2022-12-23",
+            "stock": 2
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g193-184-S8B-B/",
+            "price": 330,
+            "name": "【ポケカ】ＣＨＲ◇サ",
+            "date": "2022-12-23",
+            "stock": 20
+        },
+        {
+            "market": "magi",
+            "link": "/items/1512740443",
+            "price": 330,
+            "name": "サンダース CHR ",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2142886503",
+            "price": 450,
+            "name": "ポケカ VMAXクラ",
             "date": "2022-12-22",
             "stock": 1
         },
@@ -26,9 +98,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/2142886503",
-            "price": 450,
-            "name": "ポケカ VMAXクラ",
+            "link": "/items/1708276627",
+            "price": 246,
+            "name": "サンダース CHR ",
             "date": "2022-12-22",
             "stock": 1
         },
@@ -71,6 +143,22 @@
             "name": "【ポケカ】ＣＨＲ◇サ",
             "date": "2022-12-22",
             "stock": 20
+        },
+        {
+            "market": "magi",
+            "link": "/items/40818552",
+            "price": 270,
+            "name": "サンダース CHR ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2142886503",
+            "price": 450,
+            "name": "ポケカ VMAXクラ",
+            "date": "2022-12-21",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -82,17 +170,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/40818552",
-            "price": 270,
+            "link": "/items/1512740443",
+            "price": 330,
             "name": "サンダース CHR ",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2142886503",
-            "price": 450,
-            "name": "ポケカ VMAXクラ",
             "date": "2022-12-21",
             "stock": 1
         },
@@ -100,14 +180,6 @@
             "market": "magi",
             "link": "/items/1671182961",
             "price": 500,
-            "name": "サンダース CHR ",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1512740443",
-            "price": 330,
             "name": "サンダース CHR ",
             "date": "2022-12-21",
             "stock": 1
@@ -122,6 +194,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33010",
+            "price": 330,
+            "name": "サンダース193/1",
+            "date": "2022-12-21",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22972",
             "price": 380,
             "name": "サンダース193/1",
@@ -129,14 +209,6 @@
             "stock": 192
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33010",
-            "price": 330,
-            "name": "サンダース193/1",
-            "date": "2022-12-21",
-            "stock": 2
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g193-184-S8B-B/",
             "price": 330,
@@ -146,8 +218,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/40818552",
-            "price": 270,
+            "link": "/items/1512740443",
+            "price": 330,
             "name": "サンダース CHR ",
             "date": "2022-12-20",
             "stock": 1
@@ -162,17 +234,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1512740443",
-            "price": 330,
-            "name": "サンダース CHR ",
+            "link": "/items/2142886503",
+            "price": 450,
+            "name": "ポケカ VMAXクラ",
             "date": "2022-12-20",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/2142886503",
-            "price": 450,
-            "name": "ポケカ VMAXクラ",
+            "link": "/items/40818552",
+            "price": 270,
+            "name": "サンダース CHR ",
             "date": "2022-12-20",
             "stock": 1
         },
@@ -226,17 +298,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1671182961",
-            "price": 500,
-            "name": "サンダース CHR ",
+            "link": "/items/2142886503",
+            "price": 450,
+            "name": "ポケカ VMAXクラ",
             "date": "2022-12-19",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/2142886503",
-            "price": 450,
-            "name": "ポケカ VMAXクラ",
+            "link": "/items/1671182961",
+            "price": 500,
+            "name": "サンダース CHR ",
             "date": "2022-12-19",
             "stock": 1
         },
@@ -250,19 +322,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33010",
-            "price": 330,
-            "name": "サンダース193/1",
-            "date": "2022-12-19",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22972",
             "price": 380,
             "name": "サンダース193/1",
             "date": "2022-12-19",
             "stock": 189
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33010",
+            "price": 330,
+            "name": "サンダース193/1",
+            "date": "2022-12-19",
+            "stock": 2
         },
         {
             "market": "torecolo",
@@ -274,9 +346,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/2142886503",
-            "price": 450,
-            "name": "ポケカ VMAXクラ",
+            "link": "/items/1512740443",
+            "price": 330,
+            "name": "サンダース CHR ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1671182961",
+            "price": 500,
+            "name": "サンダース CHR ",
             "date": "2022-12-18",
             "stock": 1
         },
@@ -290,17 +370,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1671182961",
-            "price": 500,
-            "name": "サンダース CHR ",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1512740443",
-            "price": 330,
-            "name": "サンダース CHR ",
+            "link": "/items/2142886503",
+            "price": 450,
+            "name": "ポケカ VMAXクラ",
             "date": "2022-12-18",
             "stock": 1
         },
@@ -311,14 +383,6 @@
             "name": "サンダース(CHR)",
             "date": "2022-12-18",
             "stock": 311
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33010",
-            "price": 330,
-            "name": "サンダース193/1",
-            "date": "2022-12-18",
-            "stock": 2
         },
         {
             "market": "cardrush",
@@ -329,12 +393,28 @@
             "stock": 194
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33010",
+            "price": 330,
+            "name": "サンダース193/1",
+            "date": "2022-12-18",
+            "stock": 2
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g193-184-S8B-B/",
             "price": 330,
             "name": "【ポケカ】ＣＨＲ◇サ",
             "date": "2022-12-18",
             "stock": 20
+        },
+        {
+            "market": "magi",
+            "link": "/items/496722423",
+            "price": 194,
+            "name": "サンダース CHR ",
+            "date": "2022-12-17",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -348,14 +428,6 @@
             "market": "magi",
             "link": "/items/1671182961",
             "price": 500,
-            "name": "サンダース CHR ",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/496722423",
-            "price": 194,
             "name": "サンダース CHR ",
             "date": "2022-12-17",
             "stock": 1
@@ -410,17 +482,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/496722423",
-            "price": 198,
+            "link": "/items/1671182961",
+            "price": 500,
             "name": "サンダース CHR ",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2142886503",
-            "price": 450,
-            "name": "ポケカ VMAXクラ",
             "date": "2022-12-16",
             "stock": 1
         },
@@ -434,8 +498,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1671182961",
-            "price": 500,
+            "link": "/items/496722423",
+            "price": 198,
             "name": "サンダース CHR ",
             "date": "2022-12-16",
             "stock": 1
@@ -446,54 +510,6 @@
             "price": 270,
             "name": "サンダース CHR ",
             "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21340",
-            "price": 400,
-            "name": "サンダース(CHR)",
-            "date": "2022-12-16",
-            "stock": 310
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33010",
-            "price": 330,
-            "name": "サンダース193/1",
-            "date": "2022-12-16",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22972",
-            "price": 380,
-            "name": "サンダース193/1",
-            "date": "2022-12-16",
-            "stock": 193
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g193-184-S8B-B/",
-            "price": 330,
-            "name": "【ポケカ】ＣＨＲ◇サ",
-            "date": "2022-12-16",
-            "stock": 20
-        },
-        {
-            "market": "magi",
-            "link": "/items/1671182961",
-            "price": 500,
-            "name": "サンダース CHR ",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/40818552",
-            "price": 270,
-            "name": "サンダース CHR ",
-            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -501,23 +517,7 @@
             "link": "/items/2142886503",
             "price": 450,
             "name": "ポケカ VMAXクラ",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1512740443",
-            "price": 330,
-            "name": "サンダース CHR ",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/496722423",
-            "price": 198,
-            "name": "サンダース CHR ",
-            "date": "2022-12-15",
+            "date": "2022-12-16",
             "stock": 1
         },
         {
@@ -525,31 +525,31 @@
             "link": "https://www.hareruya2.com/product/21340",
             "price": 400,
             "name": "サンダース(CHR)",
-            "date": "2022-12-15",
+            "date": "2022-12-16",
             "stock": 310
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33010",
-            "price": 330,
-            "name": "サンダース193/1",
-            "date": "2022-12-15",
-            "stock": 2
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22972",
             "price": 380,
             "name": "サンダース193/1",
-            "date": "2022-12-15",
+            "date": "2022-12-16",
             "stock": 193
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33010",
+            "price": 330,
+            "name": "サンダース193/1",
+            "date": "2022-12-16",
+            "stock": 2
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g193-184-S8B-B/",
             "price": 330,
             "name": "【ポケカ】ＣＨＲ◇サ",
-            "date": "2022-12-15",
+            "date": "2022-12-16",
             "stock": 20
         }
     ]

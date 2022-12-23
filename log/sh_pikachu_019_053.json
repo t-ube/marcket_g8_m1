@@ -5,8 +5,40 @@
             "link": "https://www.hareruya2.com/product/19950",
             "price": 150,
             "name": "ピカチュウV(-){",
-            "date": "2022-12-22",
+            "date": "2022-12-23",
             "stock": 9
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19806",
+            "price": 200,
+            "name": "ピカチュウV:キラ(",
+            "date": "2022-12-23",
+            "stock": 28
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32324",
+            "price": 70,
+            "name": "ピカチュウV019/",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21380",
+            "price": 80,
+            "name": "ピカチュウV019/",
+            "date": "2022-12-23",
+            "stock": 239
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21430",
+            "price": 220,
+            "name": "ピカチュウV019/",
+            "date": "2022-12-23",
+            "stock": 3
         },
         {
             "market": "hareruya2",
@@ -17,12 +49,20 @@
             "stock": 28
         },
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19950",
+            "price": 150,
+            "name": "ピカチュウV(-){",
+            "date": "2022-12-22",
+            "stock": 9
+        },
+        {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21380",
-            "price": 80,
+            "link": "https://www.cardrush-pokemon.jp/product/32324",
+            "price": 70,
             "name": "ピカチュウV019/",
             "date": "2022-12-22",
-            "stock": 239
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -34,11 +74,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32324",
-            "price": 70,
+            "link": "https://www.cardrush-pokemon.jp/product/21380",
+            "price": 80,
             "name": "ピカチュウV019/",
             "date": "2022-12-22",
-            "stock": 1
+            "stock": 239
         }
     ]
 }

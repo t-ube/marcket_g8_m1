@@ -5,6 +5,22 @@
             "link": "/items/37353722",
             "price": 1100,
             "name": "ゲノセクトV SR ",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22193",
+            "price": 1180,
+            "name": "ゲノセクトV108/",
+            "date": "2022-12-23",
+            "stock": 38
+        },
+        {
+            "market": "magi",
+            "link": "/items/37353722",
+            "price": 1100,
+            "name": "ゲノセクトV SR ",
             "date": "2022-12-22",
             "stock": 1
         },
@@ -111,22 +127,6 @@
             "name": "ゲノセクトV108/",
             "date": "2022-12-16",
             "stock": 42
-        },
-        {
-            "market": "magi",
-            "link": "/items/37353722",
-            "price": 1100,
-            "name": "ゲノセクトV SR ",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22193",
-            "price": 1180,
-            "name": "ゲノセクトV108/",
-            "date": "2022-12-15",
-            "stock": 39
         }
     ]
 }

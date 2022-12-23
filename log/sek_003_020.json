@@ -5,6 +5,30 @@
             "link": "/items/1741682893",
             "price": 564,
             "name": "タッツー TD 00",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30934",
+            "price": 250,
+            "name": "タッツー003/02",
+            "date": "2022-12-23",
+            "stock": 35
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17770",
+            "price": 280,
+            "name": "タッツー003/02",
+            "date": "2022-12-23",
+            "stock": 48
+        },
+        {
+            "market": "magi",
+            "link": "/items/1741682893",
+            "price": 564,
+            "name": "タッツー TD 00",
             "date": "2022-12-22",
             "stock": 1
         },
@@ -162,14 +186,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17770",
-            "price": 280,
-            "name": "タッツー003/02",
-            "date": "2022-12-16",
-            "stock": 48
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30934",
             "price": 250,
             "name": "タッツー003/02",
@@ -177,35 +193,11 @@
             "stock": 39
         },
         {
-            "market": "magi",
-            "link": "/items/1741682893",
-            "price": 564,
-            "name": "タッツー TD 00",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/231483690",
-            "price": 212,
-            "name": "タッツー TD 00",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30934",
-            "price": 250,
-            "name": "タッツー003/02",
-            "date": "2022-12-15",
-            "stock": 39
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17770",
             "price": 280,
             "name": "タッツー003/02",
-            "date": "2022-12-15",
+            "date": "2022-12-16",
             "stock": 48
         }
     ]

@@ -2,10 +2,34 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/525474215",
+            "price": 56000,
+            "name": "こくばバドレックスV",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/143484642",
+            "price": 1500,
+            "name": "こくばバドレックスV",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1760267474",
             "price": 55440,
             "name": "〔状態A-〕こくばバ",
-            "date": "2022-12-22",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/589364054",
+            "price": 49500,
+            "name": "高騰傾向！　中古　ポ",
+            "date": "2022-12-23",
             "stock": 1
         },
         {
@@ -13,6 +37,62 @@
             "link": "/items/888400070",
             "price": 125000,
             "name": "PSA10 こくばバ",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1124628555",
+            "price": 68040,
+            "name": "こくばバドレックスV",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19414",
+            "price": 65000,
+            "name": "こくばバドレックスV",
+            "date": "2022-12-23",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20183",
+            "price": 64800,
+            "name": "こくばバドレックスV",
+            "date": "2022-12-23",
+            "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31916",
+            "price": 52800,
+            "name": "こくばバドレックスV",
+            "date": "2022-12-23",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/888400070",
+            "price": 125000,
+            "name": "PSA10 こくばバ",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/143484642",
+            "price": 1500,
+            "name": "こくばバドレックスV",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1760267474",
+            "price": 55440,
+            "name": "〔状態A-〕こくばバ",
             "date": "2022-12-22",
             "stock": 1
         },
@@ -28,14 +108,6 @@
             "market": "magi",
             "link": "/items/525474215",
             "price": 56000,
-            "name": "こくばバドレックスV",
-            "date": "2022-12-22",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/143484642",
-            "price": 1500,
             "name": "こくばバドレックスV",
             "date": "2022-12-22",
             "stock": 1
@@ -58,19 +130,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20183",
-            "price": 64800,
-            "name": "こくばバドレックスV",
-            "date": "2022-12-22",
-            "stock": 11
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31916",
             "price": 52800,
             "name": "こくばバドレックスV",
             "date": "2022-12-22",
             "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20183",
+            "price": 64800,
+            "name": "こくばバドレックスV",
+            "date": "2022-12-22",
+            "stock": 11
         },
         {
             "market": "magi",
@@ -85,14 +157,6 @@
             "link": "/items/1124628555",
             "price": 68040,
             "name": "こくばバドレックスV",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1760267474",
-            "price": 55440,
-            "name": "〔状態A-〕こくばバ",
             "date": "2022-12-21",
             "stock": 1
         },
@@ -121,9 +185,25 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/1760267474",
+            "price": 55440,
+            "name": "〔状態A-〕こくばバ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19414",
             "price": 65000,
+            "name": "こくばバドレックスV",
+            "date": "2022-12-21",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31916",
+            "price": 52800,
             "name": "こくばバドレックスV",
             "date": "2022-12-21",
             "stock": 4
@@ -135,22 +215,6 @@
             "name": "こくばバドレックスV",
             "date": "2022-12-21",
             "stock": 11
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31916",
-            "price": 52800,
-            "name": "こくばバドレックスV",
-            "date": "2022-12-21",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/589364054",
-            "price": 50600,
-            "name": "高騰傾向！　中古　ポ",
-            "date": "2022-12-20",
-            "stock": 1
         },
         {
             "market": "magi",
@@ -193,6 +257,14 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/589364054",
+            "price": 50600,
+            "name": "高騰傾向！　中古　ポ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19414",
             "price": 65000,
@@ -234,9 +306,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1760267474",
-            "price": 55440,
-            "name": "〔状態A-〕こくばバ",
+            "link": "/items/1124628555",
+            "price": 68040,
+            "name": "こくばバドレックスV",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/525474215",
+            "price": 56000,
+            "name": "こくばバドレックスV",
             "date": "2022-12-19",
             "stock": 1
         },
@@ -250,17 +330,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1124628555",
-            "price": 68040,
-            "name": "こくばバドレックスV",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/525474215",
-            "price": 56000,
-            "name": "こくばバドレックスV",
+            "link": "/items/1760267474",
+            "price": 55440,
+            "name": "〔状態A-〕こくばバ",
             "date": "2022-12-19",
             "stock": 1
         },
@@ -274,14 +346,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20183",
-            "price": 64800,
-            "name": "こくばバドレックスV",
-            "date": "2022-12-19",
-            "stock": 11
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31916",
             "price": 52800,
             "name": "こくばバドレックスV",
@@ -289,17 +353,25 @@
             "stock": 4
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20183",
+            "price": 64800,
+            "name": "こくばバドレックスV",
+            "date": "2022-12-19",
+            "stock": 11
+        },
+        {
             "market": "magi",
-            "link": "/items/1760267474",
-            "price": 55440,
-            "name": "〔状態A-〕こくばバ",
+            "link": "/items/1124628555",
+            "price": 68040,
+            "name": "こくばバドレックスV",
             "date": "2022-12-18",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/143484642",
-            "price": 1500,
+            "link": "/items/525474215",
+            "price": 56000,
             "name": "こくばバドレックスV",
             "date": "2022-12-18",
             "stock": 1
@@ -314,25 +386,25 @@
         },
         {
             "market": "magi",
-            "link": "/items/525474215",
-            "price": 56000,
-            "name": "こくばバドレックスV",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1124628555",
-            "price": 68040,
-            "name": "こくばバドレックスV",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/888400070",
             "price": 125000,
             "name": "PSA10 こくばバ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1760267474",
+            "price": 55440,
+            "name": "〔状態A-〕こくばバ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/143484642",
+            "price": 1500,
+            "name": "こくばバドレックスV",
             "date": "2022-12-18",
             "stock": 1
         },
@@ -362,6 +434,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/143484642",
+            "price": 1500,
+            "name": "こくばバドレックスV",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1760267474",
             "price": 55440,
             "name": "〔状態A-〕こくばバ",
@@ -373,14 +453,6 @@
             "link": "/items/888400070",
             "price": 125000,
             "name": "PSA10 こくばバ",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/143484642",
-            "price": 1500,
-            "name": "こくばバドレックスV",
             "date": "2022-12-17",
             "stock": 1
         },
@@ -434,9 +506,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1124628555",
-            "price": 68040,
-            "name": "こくばバドレックスV",
+            "link": "/items/589364054",
+            "price": 51800,
+            "name": "高騰傾向！　中古　ポ",
             "date": "2022-12-16",
             "stock": 1
         },
@@ -445,6 +517,30 @@
             "link": "/items/1760267474",
             "price": 55440,
             "name": "〔状態A-〕こくばバ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/888400070",
+            "price": 125000,
+            "name": "PSA10 こくばバ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/143484642",
+            "price": 1500,
+            "name": "こくばバドレックスV",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1124628555",
+            "price": 68040,
+            "name": "こくばバドレックスV",
             "date": "2022-12-16",
             "stock": 1
         },
@@ -457,30 +553,6 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/589364054",
-            "price": 51800,
-            "name": "高騰傾向！　中古　ポ",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/143484642",
-            "price": 1500,
-            "name": "こくばバドレックスV",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/888400070",
-            "price": 125000,
-            "name": "PSA10 こくばバ",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19414",
             "price": 65000,
@@ -503,78 +575,6 @@
             "name": "こくばバドレックスV",
             "date": "2022-12-16",
             "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1124628555",
-            "price": 68040,
-            "name": "こくばバドレックスV",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/589364054",
-            "price": 52000,
-            "name": "高騰傾向！　中古　ポ",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/888400070",
-            "price": 125000,
-            "name": "PSA10 こくばバ",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/143484642",
-            "price": 1500,
-            "name": "こくばバドレックスV",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1760267474",
-            "price": 55440,
-            "name": "〔状態A-〕こくばバ",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/525474215",
-            "price": 58000,
-            "name": "こくばバドレックスV",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19414",
-            "price": 65000,
-            "name": "こくばバドレックスV",
-            "date": "2022-12-15",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31916",
-            "price": 52800,
-            "name": "こくばバドレックスV",
-            "date": "2022-12-15",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20183",
-            "price": 64800,
-            "name": "こくばバドレックスV",
-            "date": "2022-12-15",
-            "stock": 10
         }
     ]
 }
