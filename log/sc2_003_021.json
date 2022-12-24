@@ -2,10 +2,42 @@
     "items": [
         {
             "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17821",
+            "price": 50,
+            "name": "ビクティニ(D){炎",
+            "date": "2022-12-24",
+            "stock": 17
+        },
+        {
+            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18904",
             "price": 50,
             "name": "ビクティニ:SC2(",
-            "date": "2022-12-23",
+            "date": "2022-12-24",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7802",
+            "price": 50,
+            "name": "ビクティニ003/0",
+            "date": "2022-12-24",
+            "stock": 147
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g003-021-SC-R/",
+            "price": 28,
+            "name": "【ポケカ】ＳＳ◇ビク",
+            "date": "2022-12-24",
+            "stock": 3
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g003-021-SC2-R/",
+            "price": 66,
+            "name": "【ポケカ】ＳＳ◇ビク",
+            "date": "2022-12-24",
             "stock": 2
         },
         {
@@ -17,20 +49,20 @@
             "stock": 17
         },
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18904",
+            "price": 50,
+            "name": "ビクティニ:SC2(",
+            "date": "2022-12-23",
+            "stock": 2
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7802",
             "price": 50,
             "name": "ビクティニ003/0",
             "date": "2022-12-23",
             "stock": 147
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g003-021-SC2-R/",
-            "price": 66,
-            "name": "【ポケカ】ＳＳ◇ビク",
-            "date": "2022-12-23",
-            "stock": 2
         },
         {
             "market": "torecolo",
@@ -41,12 +73,12 @@
             "stock": 3
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17821",
-            "price": 50,
-            "name": "ビクティニ(D){炎",
-            "date": "2022-12-22",
-            "stock": 17
+            "market": "torecolo",
+            "link": "/shop/g/g003-021-SC2-R/",
+            "price": 66,
+            "name": "【ポケカ】ＳＳ◇ビク",
+            "date": "2022-12-23",
+            "stock": 2
         },
         {
             "market": "hareruya2",
@@ -57,6 +89,14 @@
             "stock": 2
         },
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17821",
+            "price": 50,
+            "name": "ビクティニ(D){炎",
+            "date": "2022-12-22",
+            "stock": 17
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7802",
             "price": 50,
@@ -66,19 +106,19 @@
         },
         {
             "market": "torecolo",
-            "link": "/shop/g/g003-021-SC-R/",
-            "price": 28,
-            "name": "【ポケカ】ＳＳ◇ビク",
-            "date": "2022-12-22",
-            "stock": 3
-        },
-        {
-            "market": "torecolo",
             "link": "/shop/g/g003-021-SC2-R/",
             "price": 66,
             "name": "【ポケカ】ＳＳ◇ビク",
             "date": "2022-12-22",
             "stock": 2
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g003-021-SC-R/",
+            "price": 28,
+            "name": "【ポケカ】ＳＳ◇ビク",
+            "date": "2022-12-22",
+            "stock": 3
         }
     ]
 }

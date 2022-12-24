@@ -1,6 +1,30 @@
 ﻿{
     "items": [
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30014",
+            "price": 300,
+            "name": "クイックボール009",
+            "date": "2022-12-24",
+            "stock": 3
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g009-021-SC-R/",
+            "price": 440,
+            "name": "【ポケカ】ＳＳ◇クイ",
+            "date": "2022-12-24",
+            "stock": 3
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g009-021-SC2-R/",
+            "price": 440,
+            "name": "【ポケカ】ＳＳ◇クイ",
+            "date": "2022-12-24",
+            "stock": 2
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g009-021-SC2-R/",
             "price": 440,
@@ -18,19 +42,19 @@
         },
         {
             "market": "torecolo",
-            "link": "/shop/g/g009-021-SC-R/",
-            "price": 440,
-            "name": "【ポケカ】ＳＳ◇クイ",
-            "date": "2022-12-22",
-            "stock": 3
-        },
-        {
-            "market": "torecolo",
             "link": "/shop/g/g009-021-SC2-R/",
             "price": 440,
             "name": "【ポケカ】ＳＳ◇クイ",
             "date": "2022-12-22",
             "stock": 2
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g009-021-SC-R/",
+            "price": 440,
+            "name": "【ポケカ】ＳＳ◇クイ",
+            "date": "2022-12-22",
+            "stock": 3
         }
     ]
 }

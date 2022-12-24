@@ -5,7 +5,7 @@
             "link": "/items/639292631",
             "price": 871,
             "name": "ターフスタジアム U",
-            "date": "2022-12-23",
+            "date": "2022-12-24",
             "stock": 1
         },
         {
@@ -13,6 +13,46 @@
             "link": "/items/118825044",
             "price": 1080,
             "name": "ターフスタジアム　1",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19576",
+            "price": 900,
+            "name": "ターフスタジアム(U",
+            "date": "2022-12-24",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20766",
+            "price": 880,
+            "name": "ターフスタジアム10",
+            "date": "2022-12-24",
+            "stock": 18
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32071",
+            "price": 730,
+            "name": "ターフスタジアム10",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/118825044",
+            "price": 1080,
+            "name": "ターフスタジアム　1",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/639292631",
+            "price": 871,
+            "name": "ターフスタジアム U",
             "date": "2022-12-23",
             "stock": 1
         },
@@ -66,14 +106,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20766",
-            "price": 880,
-            "name": "ターフスタジアム10",
-            "date": "2022-12-22",
-            "stock": 17
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32071",
             "price": 730,
             "name": "ターフスタジアム10",
@@ -81,18 +113,26 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/639292631",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20766",
             "price": 880,
-            "name": "ターフスタジアム U",
-            "date": "2022-12-21",
-            "stock": 1
+            "name": "ターフスタジアム10",
+            "date": "2022-12-22",
+            "stock": 17
         },
         {
             "market": "magi",
             "link": "/items/118825044",
             "price": 1080,
             "name": "ターフスタジアム　1",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/639292631",
+            "price": 880,
+            "name": "ターフスタジアム U",
             "date": "2022-12-21",
             "stock": 1
         },
@@ -186,6 +226,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/118825044",
+            "price": 1080,
+            "name": "ターフスタジアム　1",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/639292631",
             "price": 880,
             "name": "ターフスタジアム U",
@@ -193,14 +241,6 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/118825044",
-            "price": 1080,
-            "name": "ターフスタジアム　1",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19576",
             "price": 900,
@@ -247,38 +287,6 @@
             "name": "ターフスタジアム10",
             "date": "2022-12-17",
             "stock": 17
-        },
-        {
-            "market": "magi",
-            "link": "/items/118825044",
-            "price": 1080,
-            "name": "ターフスタジアム　1",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19576",
-            "price": 900,
-            "name": "ターフスタジアム(U",
-            "date": "2022-12-16",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20766",
-            "price": 880,
-            "name": "ターフスタジアム10",
-            "date": "2022-12-16",
-            "stock": 16
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g100-069-S6A-B/",
-            "price": 770,
-            "name": "【ポケカ】ＵＲ◇ター",
-            "date": "2022-12-16",
-            "stock": 5
         }
     ]
 }

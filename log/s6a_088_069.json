@@ -5,6 +5,30 @@
             "link": "/items/1057989259",
             "price": 43000,
             "name": "リーフィアVMAX ",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32062",
+            "price": 2080,
+            "name": "リーフィアVMAX0",
+            "date": "2022-12-24",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20754",
+            "price": 2380,
+            "name": "リーフィアVMAX0",
+            "date": "2022-12-24",
+            "stock": 33
+        },
+        {
+            "market": "magi",
+            "link": "/items/1057989259",
+            "price": 43000,
+            "name": "リーフィアVMAX ",
             "date": "2022-12-23",
             "stock": 1
         },
@@ -106,6 +130,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20754",
+            "price": 2380,
+            "name": "リーフィアVMAX0",
+            "date": "2022-12-19",
+            "stock": 33
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32062",
             "price": 2080,
             "name": "リーフィアVMAX0",
@@ -113,14 +145,6 @@
             "stock": 2
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20754",
-            "price": 2380,
-            "name": "リーフィアVMAX0",
-            "date": "2022-12-19",
-            "stock": 33
-        },
-        {
             "market": "magi",
             "link": "/items/1057989259",
             "price": 43000,
@@ -138,19 +162,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20754",
-            "price": 2380,
-            "name": "リーフィアVMAX0",
-            "date": "2022-12-18",
-            "stock": 33
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32062",
             "price": 2080,
             "name": "リーフィアVMAX0",
             "date": "2022-12-18",
             "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20754",
+            "price": 2380,
+            "name": "リーフィアVMAX0",
+            "date": "2022-12-18",
+            "stock": 33
         },
         {
             "market": "magi",
@@ -170,14 +194,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20754",
-            "price": 2380,
-            "name": "リーフィアVMAX0",
-            "date": "2022-12-17",
-            "stock": 33
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32062",
             "price": 2080,
             "name": "リーフィアVMAX0",
@@ -185,36 +201,12 @@
             "stock": 3
         },
         {
-            "market": "magi",
-            "link": "/items/1057989259",
-            "price": 43000,
-            "name": "リーフィアVMAX ",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19564",
-            "price": 2400,
-            "name": "リーフィアVMAX(",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20754",
             "price": 2380,
             "name": "リーフィアVMAX0",
-            "date": "2022-12-16",
+            "date": "2022-12-17",
             "stock": 33
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32062",
-            "price": 2080,
-            "name": "リーフィアVMAX0",
-            "date": "2022-12-16",
-            "stock": 3
         }
     ]
 }

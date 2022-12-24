@@ -5,6 +5,14 @@
             "link": "/items/2021950331",
             "price": 2700,
             "name": "チャーレムV SR ",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2021950331",
+            "price": 2700,
+            "name": "チャーレムV SR ",
             "date": "2022-12-23",
             "stock": 1
         },
@@ -82,17 +90,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/2107142867",
-            "price": 3864,
-            "name": "チャーレムV(SA)",
+            "link": "/items/2021950331",
+            "price": 2700,
+            "name": "チャーレムV SR ",
             "date": "2022-12-18",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/2021950331",
-            "price": 2700,
-            "name": "チャーレムV SR ",
+            "link": "/items/2107142867",
+            "price": 3864,
+            "name": "チャーレムV(SA)",
             "date": "2022-12-18",
             "stock": 1
         },
@@ -101,14 +109,6 @@
             "link": "https://www.hareruya2.com/product/19858",
             "price": 3500,
             "name": "チャーレムV:SA(",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32392",
-            "price": 2880,
-            "name": "チャーレムV072/",
             "date": "2022-12-18",
             "stock": 1
         },
@@ -121,6 +121,14 @@
             "stock": 1
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32392",
+            "price": 2880,
+            "name": "チャーレムV072/",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
             "market": "magi",
             "link": "/items/2021950331",
             "price": 2700,
@@ -142,30 +150,6 @@
             "price": 2880,
             "name": "チャーレムV072/",
             "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2021950331",
-            "price": 2700,
-            "name": "チャーレムV SR ",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19858",
-            "price": 3500,
-            "name": "チャーレムV:SA(",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32392",
-            "price": 2880,
-            "name": "チャーレムV072/",
-            "date": "2022-12-16",
             "stock": 1
         }
     ]

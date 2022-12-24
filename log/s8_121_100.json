@@ -1,6 +1,38 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20494",
+            "price": 800,
+            "name": "カゲツ(HR){サポ",
+            "date": "2022-12-24",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32589",
+            "price": 680,
+            "name": "カゲツ121/100",
+            "date": "2022-12-24",
+            "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22206",
+            "price": 780,
+            "name": "カゲツ121/100",
+            "date": "2022-12-24",
+            "stock": 62
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g121-100-S8-B/",
+            "price": 660,
+            "name": "【ポケカ】ＨＲ◇カゲ",
+            "date": "2022-12-24",
+            "stock": 2
+        },
+        {
             "market": "magi",
             "link": "/items/707083052",
             "price": 750,
@@ -50,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32589",
-            "price": 680,
-            "name": "カゲツ121/100",
-            "date": "2022-12-22",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22206",
             "price": 780,
             "name": "カゲツ121/100",
             "date": "2022-12-22",
             "stock": 58
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32589",
+            "price": 680,
+            "name": "カゲツ121/100",
+            "date": "2022-12-22",
+            "stock": 5
         },
         {
             "market": "torecolo",
@@ -82,6 +114,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32589",
+            "price": 680,
+            "name": "カゲツ121/100",
+            "date": "2022-12-21",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22206",
             "price": 780,
             "name": "カゲツ121/100",
@@ -89,14 +129,6 @@
             "stock": 58
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32589",
-            "price": 680,
-            "name": "カゲツ121/100",
-            "date": "2022-12-21",
-            "stock": 5
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g121-100-S8-B/",
             "price": 660,
@@ -146,19 +178,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22206",
-            "price": 780,
-            "name": "カゲツ121/100",
-            "date": "2022-12-19",
-            "stock": 57
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32589",
             "price": 680,
             "name": "カゲツ121/100",
             "date": "2022-12-19",
             "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22206",
+            "price": 780,
+            "name": "カゲツ121/100",
+            "date": "2022-12-19",
+            "stock": 57
         },
         {
             "market": "torecolo",
@@ -210,19 +242,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22206",
-            "price": 780,
-            "name": "カゲツ121/100",
-            "date": "2022-12-17",
-            "stock": 57
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32589",
             "price": 680,
             "name": "カゲツ121/100",
             "date": "2022-12-17",
             "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22206",
+            "price": 780,
+            "name": "カゲツ121/100",
+            "date": "2022-12-17",
+            "stock": 57
         },
         {
             "market": "torecolo",
@@ -231,38 +263,6 @@
             "name": "【ポケカ】ＨＲ◇カゲ",
             "date": "2022-12-17",
             "stock": 2
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20494",
-            "price": 800,
-            "name": "カゲツ(HR){サポ",
-            "date": "2022-12-16",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32589",
-            "price": 680,
-            "name": "カゲツ121/100",
-            "date": "2022-12-16",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22206",
-            "price": 780,
-            "name": "カゲツ121/100",
-            "date": "2022-12-16",
-            "stock": 57
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g121-100-S8-B/",
-            "price": 660,
-            "name": "【ポケカ】ＨＲ◇カゲ",
-            "date": "2022-12-16",
-            "stock": 5
         }
     ]
 }
