@@ -5,6 +5,30 @@
             "link": "/items/503503823",
             "price": 1200,
             "name": "クイックボール TD",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g011-020-SEK-B/",
+            "price": 440,
+            "name": "【ポケカ】ＳＳ◇クイ",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g011-020-SLD-G/",
+            "price": 440,
+            "name": "【ポケカ】ＳＳ◇クイ",
+            "date": "2022-12-25",
+            "stock": 8
+        },
+        {
+            "market": "magi",
+            "link": "/items/503503823",
+            "price": 1200,
+            "name": "クイックボール TD",
             "date": "2022-12-24",
             "stock": 1
         },
@@ -202,19 +226,19 @@
         },
         {
             "market": "torecolo",
-            "link": "/shop/g/g011-020-SEK-B/",
-            "price": 440,
-            "name": "【ポケカ】ＳＳ◇クイ",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "torecolo",
             "link": "/shop/g/g011-020-SLD-G/",
             "price": 440,
             "name": "【ポケカ】ＳＳ◇クイ",
             "date": "2022-12-19",
             "stock": 8
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g011-020-SEK-B/",
+            "price": 440,
+            "name": "【ポケカ】ＳＳ◇クイ",
+            "date": "2022-12-19",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -234,14 +258,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34015",
-            "price": 300,
-            "name": "クイックボール011",
-            "date": "2022-12-18",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30942",
             "price": 390,
             "name": "クイックボール011",
@@ -249,12 +265,12 @@
             "stock": 16
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g011-020-SEK-B/",
-            "price": 440,
-            "name": "【ポケカ】ＳＳ◇クイ",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34015",
+            "price": 300,
+            "name": "クイックボール011",
             "date": "2022-12-18",
-            "stock": 1
+            "stock": 2
         },
         {
             "market": "torecolo",
@@ -265,52 +281,12 @@
             "stock": 8
         },
         {
-            "market": "magi",
-            "link": "/items/730656296",
-            "price": 550,
-            "name": "クイックボール TD",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/503503823",
-            "price": 1200,
-            "name": "クイックボール TD",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30942",
-            "price": 390,
-            "name": "クイックボール011",
-            "date": "2022-12-17",
-            "stock": 16
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34015",
-            "price": 300,
-            "name": "クイックボール011",
-            "date": "2022-12-17",
-            "stock": 2
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g011-020-SEK-B/",
             "price": 440,
             "name": "【ポケカ】ＳＳ◇クイ",
-            "date": "2022-12-17",
+            "date": "2022-12-18",
             "stock": 1
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g011-020-SLD-G/",
-            "price": 440,
-            "name": "【ポケカ】ＳＳ◇クイ",
-            "date": "2022-12-17",
-            "stock": 8
         }
     ]
 }

@@ -5,6 +5,46 @@
             "link": "/items/1147864176",
             "price": 400,
             "name": "【希少】フシギバナV",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/555095496",
+            "price": 299,
+            "name": "【良品】リザードンV",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18881",
+            "price": 200,
+            "name": "フシギバナV(D){",
+            "date": "2022-12-25",
+            "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30952",
+            "price": 250,
+            "name": "フシギバナV001/",
+            "date": "2022-12-25",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17788",
+            "price": 280,
+            "name": "フシギバナV001/",
+            "date": "2022-12-25",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1147864176",
+            "price": 400,
+            "name": "【希少】フシギバナV",
             "date": "2022-12-24",
             "stock": 1
         },
@@ -26,14 +66,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30952",
-            "price": 250,
-            "name": "フシギバナV001/",
-            "date": "2022-12-24",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17788",
             "price": 280,
             "name": "フシギバナV001/",
@@ -41,6 +73,14 @@
             "stock": 4
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30952",
+            "price": 250,
+            "name": "フシギバナV001/",
+            "date": "2022-12-24",
+            "stock": 2
+        },
+        {
             "market": "magi",
             "link": "/items/1147864176",
             "price": 400,
@@ -206,30 +246,6 @@
             "price": 250,
             "name": "フシギバナV001/",
             "date": "2022-12-18",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1147864176",
-            "price": 400,
-            "name": "【希少】フシギバナV",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18881",
-            "price": 200,
-            "name": "フシギバナV(D){",
-            "date": "2022-12-17",
-            "stock": 11
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30952",
-            "price": 250,
-            "name": "フシギバナV001/",
-            "date": "2022-12-17",
             "stock": 2
         }
     ]

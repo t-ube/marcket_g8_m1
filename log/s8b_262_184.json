@@ -1,6 +1,22 @@
 ﻿{
     "items": [
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23038",
+            "price": 780,
+            "name": "ジャッジマン262/",
+            "date": "2022-12-25",
+            "stock": 23
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g262-184-S8B-B/",
+            "price": 770,
+            "name": "【ポケカ】ＳＲ◇ジャ",
+            "date": "2022-12-25",
+            "stock": 6
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21406",
             "price": 800,
@@ -122,19 +138,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23038",
-            "price": 780,
-            "name": "ジャッジマン262/",
-            "date": "2022-12-18",
-            "stock": 102
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23129",
             "price": 680,
             "name": "ジャッジマン262/",
             "date": "2022-12-18",
             "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23038",
+            "price": 780,
+            "name": "ジャッジマン262/",
+            "date": "2022-12-18",
+            "stock": 102
         },
         {
             "market": "torecolo",
@@ -143,30 +159,6 @@
             "name": "【ポケカ】ＳＲ◇ジャ",
             "date": "2022-12-18",
             "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23038",
-            "price": 780,
-            "name": "ジャッジマン262/",
-            "date": "2022-12-17",
-            "stock": 106
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23129",
-            "price": 680,
-            "name": "ジャッジマン262/",
-            "date": "2022-12-17",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g262-184-S8B-B/",
-            "price": 770,
-            "name": "【ポケカ】ＳＲ◇ジャ",
-            "date": "2022-12-17",
-            "stock": 4
         }
     ]
 }

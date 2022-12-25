@@ -5,6 +5,22 @@
             "link": "/items/1449343800",
             "price": 25,
             "name": "1枚25円 いかくの",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19753",
+            "price": 50,
+            "name": "ボーマンダ(R){ド",
+            "date": "2022-12-25",
+            "stock": 29
+        },
+        {
+            "market": "magi",
+            "link": "/items/1449343800",
+            "price": 25,
+            "name": "1枚25円 いかくの",
             "date": "2022-12-24",
             "stock": 1
         },
@@ -110,22 +126,6 @@
             "price": 50,
             "name": "ボーマンダ(R){ド",
             "date": "2022-12-18",
-            "stock": 28
-        },
-        {
-            "market": "magi",
-            "link": "/items/1449343800",
-            "price": 25,
-            "name": "1枚25円 いかくの",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19753",
-            "price": 50,
-            "name": "ボーマンダ(R){ド",
-            "date": "2022-12-17",
             "stock": 28
         }
     ]

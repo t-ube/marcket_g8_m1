@@ -5,6 +5,30 @@
             "link": "/items/104005216",
             "price": 300,
             "name": "マリィ TD 019",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17786",
+            "price": 80,
+            "name": "マリィ019/020",
+            "date": "2022-12-25",
+            "stock": 12
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g019-020-SEK-B/",
+            "price": 88,
+            "name": "【ポケカ】ＳＳ◇マリ",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/104005216",
+            "price": 300,
+            "name": "マリィ TD 019",
             "date": "2022-12-24",
             "stock": 1
         },
@@ -119,22 +143,6 @@
             "name": "マリィ019/020",
             "date": "2022-12-18",
             "stock": 32
-        },
-        {
-            "market": "magi",
-            "link": "/items/104005216",
-            "price": 300,
-            "name": "マリィ TD 019",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17786",
-            "price": 80,
-            "name": "マリィ019/020",
-            "date": "2022-12-17",
-            "stock": 38
         }
     ]
 }

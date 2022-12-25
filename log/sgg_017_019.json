@@ -5,6 +5,30 @@
             "link": "/items/2137985970",
             "price": 70,
             "name": "【4枚セット】マリィ",
+            "date": "2022-12-25",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31968",
+            "price": 110,
+            "name": "マリィ017/019",
+            "date": "2022-12-25",
+            "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20624",
+            "price": 120,
+            "name": "マリィ017/019",
+            "date": "2022-12-25",
+            "stock": 238
+        },
+        {
+            "market": "magi",
+            "link": "/items/2137985970",
+            "price": 70,
+            "name": "【4枚セット】マリィ",
             "date": "2022-12-24",
             "stock": 4
         },
@@ -130,6 +154,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31968",
+            "price": 110,
+            "name": "マリィ017/019",
+            "date": "2022-12-19",
+            "stock": 11
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20624",
             "price": 120,
             "name": "マリィ017/019",
@@ -137,28 +169,12 @@
             "stock": 247
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31968",
-            "price": 110,
-            "name": "マリィ017/019",
-            "date": "2022-12-19",
-            "stock": 11
-        },
-        {
             "market": "magi",
             "link": "/items/2137985970",
             "price": 70,
             "name": "【4枚セット】マリィ",
             "date": "2022-12-18",
             "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31968",
-            "price": 110,
-            "name": "マリィ017/019",
-            "date": "2022-12-18",
-            "stock": 11
         },
         {
             "market": "cardrush",
@@ -169,36 +185,12 @@
             "stock": 253
         },
         {
-            "market": "magi",
-            "link": "/items/2137985970",
-            "price": 70,
-            "name": "【4枚セット】マリィ",
-            "date": "2022-12-17",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19448",
-            "price": 100,
-            "name": "マリィ(-){サポー",
-            "date": "2022-12-17",
-            "stock": 3
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31968",
             "price": 110,
             "name": "マリィ017/019",
-            "date": "2022-12-17",
+            "date": "2022-12-18",
             "stock": 11
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20624",
-            "price": 120,
-            "name": "マリィ017/019",
-            "date": "2022-12-17",
-            "stock": 253
         }
     ]
 }

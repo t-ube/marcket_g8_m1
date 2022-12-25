@@ -5,6 +5,22 @@
             "link": "/items/721263999",
             "price": 1500,
             "name": "アロマなおねえさん ",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20762",
+            "price": 1080,
+            "name": "アロマなおねえさん0",
+            "date": "2022-12-25",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/721263999",
+            "price": 1500,
+            "name": "アロマなおねえさん ",
             "date": "2022-12-24",
             "stock": 1
         },
@@ -74,6 +90,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32067",
+            "price": 930,
+            "name": "アロマなおねえさん0",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20762",
             "price": 1080,
             "name": "アロマなおねえさん0",
@@ -81,14 +105,6 @@
             "stock": 6
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32067",
-            "price": 930,
-            "name": "アロマなおねえさん0",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
             "market": "magi",
             "link": "/items/721263999",
             "price": 1500,
@@ -98,14 +114,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20762",
-            "price": 1080,
-            "name": "アロマなおねえさん0",
-            "date": "2022-12-18",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32067",
             "price": 930,
             "name": "アロマなおねえさん0",
@@ -113,27 +121,11 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/721263999",
-            "price": 1500,
-            "name": "アロマなおねえさん ",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32067",
-            "price": 930,
-            "name": "アロマなおねえさん0",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20762",
             "price": 1080,
             "name": "アロマなおねえさん0",
-            "date": "2022-12-17",
+            "date": "2022-12-18",
             "stock": 7
         }
     ]
