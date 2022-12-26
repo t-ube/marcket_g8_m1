@@ -1,10 +1,90 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21076",
+            "price": 50,
+            "name": "フーパ(CP){悪}",
+            "date": "2022-12-26",
+            "stock": 340
+        },
+        {
+            "market": "magi",
+            "link": "/items/304423812",
+            "price": 100,
+            "name": "フーパ(R仕様) 1",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
             "market": "magi",
             "link": "/items/1579026347",
             "price": 100,
             "name": "フーパ(R仕様) 1",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1024995974",
+            "price": 100,
+            "name": "フーパ(R仕様)  ",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/472881396",
+            "price": 100,
+            "name": "フーパ(R仕様) 1",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1816192374",
+            "price": 250,
+            "name": "フーパ(R仕様) 1",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/137367264",
+            "price": 100,
+            "name": "フーパ(R仕様) 1",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22746",
+            "price": 80,
+            "name": "フーパ108/184",
+            "date": "2022-12-26",
+            "stock": 630
+        },
+        {
+            "market": "magi",
+            "link": "/items/472881396",
+            "price": 100,
+            "name": "フーパ(R仕様) 1",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1579026347",
+            "price": 100,
+            "name": "フーパ(R仕様) 1",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1024995974",
+            "price": 100,
+            "name": "フーパ(R仕様)  ",
             "date": "2022-12-25",
             "stock": 1
         },
@@ -29,22 +109,6 @@
             "link": "/items/1816192374",
             "price": 250,
             "name": "フーパ(R仕様) 1",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/472881396",
-            "price": 100,
-            "name": "フーパ(R仕様) 1",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1024995974",
-            "price": 100,
-            "name": "フーパ(R仕様)  ",
             "date": "2022-12-25",
             "stock": 1
         },
@@ -66,14 +130,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/137367264",
-            "price": 100,
-            "name": "フーパ(R仕様) 1",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1024995974",
             "price": 100,
             "name": "フーパ(R仕様)  ",
@@ -90,8 +146,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/472881396",
-            "price": 100,
+            "link": "/items/1816192374",
+            "price": 250,
             "name": "フーパ(R仕様) 1",
             "date": "2022-12-24",
             "stock": 1
@@ -106,8 +162,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1816192374",
-            "price": 250,
+            "link": "/items/472881396",
+            "price": 100,
+            "name": "フーパ(R仕様) 1",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/137367264",
+            "price": 100,
             "name": "フーパ(R仕様) 1",
             "date": "2022-12-24",
             "stock": 1
@@ -130,15 +194,23 @@
         },
         {
             "market": "magi",
-            "link": "/items/304423812",
+            "link": "/items/1024995974",
             "price": 100,
+            "name": "フーパ(R仕様)  ",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1816192374",
+            "price": 250,
             "name": "フーパ(R仕様) 1",
             "date": "2022-12-23",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1579026347",
+            "link": "/items/137367264",
             "price": 100,
             "name": "フーパ(R仕様) 1",
             "date": "2022-12-23",
@@ -154,7 +226,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/137367264",
+            "link": "/items/1579026347",
             "price": 100,
             "name": "フーパ(R仕様) 1",
             "date": "2022-12-23",
@@ -162,17 +234,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1816192374",
-            "price": 250,
-            "name": "フーパ(R仕様) 1",
-            "date": "2022-12-23",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1024995974",
+            "link": "/items/304423812",
             "price": 100,
-            "name": "フーパ(R仕様)  ",
+            "name": "フーパ(R仕様) 1",
             "date": "2022-12-23",
             "stock": 1
         },
@@ -210,16 +274,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/304423812",
-            "price": 100,
+            "link": "/items/1816192374",
+            "price": 250,
             "name": "フーパ(R仕様) 1",
             "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1816192374",
-            "price": 250,
+            "link": "/items/1579026347",
+            "price": 100,
             "name": "フーパ(R仕様) 1",
             "date": "2022-12-22",
             "stock": 1
@@ -234,7 +298,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1579026347",
+            "link": "/items/304423812",
             "price": 100,
             "name": "フーパ(R仕様) 1",
             "date": "2022-12-22",
@@ -258,32 +322,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/137367264",
+            "link": "/items/472881396",
             "price": 100,
-            "name": "フーパ(R仕様) 1",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1579026347",
-            "price": 100,
-            "name": "フーパ(R仕様) 1",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1024995974",
-            "price": 100,
-            "name": "フーパ(R仕様)  ",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1816192374",
-            "price": 250,
             "name": "フーパ(R仕様) 1",
             "date": "2022-12-21",
             "stock": 1
@@ -298,7 +338,31 @@
         },
         {
             "market": "magi",
-            "link": "/items/472881396",
+            "link": "/items/1816192374",
+            "price": 250,
+            "name": "フーパ(R仕様) 1",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1024995974",
+            "price": 100,
+            "name": "フーパ(R仕様)  ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1579026347",
+            "price": 100,
+            "name": "フーパ(R仕様) 1",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/137367264",
             "price": 100,
             "name": "フーパ(R仕様) 1",
             "date": "2022-12-21",
@@ -322,16 +386,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1816192374",
-            "price": 250,
+            "link": "/items/304423812",
+            "price": 100,
             "name": "フーパ(R仕様) 1",
             "date": "2022-12-20",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/304423812",
-            "price": 100,
+            "link": "/items/1816192374",
+            "price": 250,
             "name": "フーパ(R仕様) 1",
             "date": "2022-12-20",
             "stock": 1
@@ -386,9 +450,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1024995974",
-            "price": 100,
-            "name": "フーパ(R仕様)  ",
+            "link": "/items/1816192374",
+            "price": 250,
+            "name": "フーパ(R仕様) 1",
             "date": "2022-12-19",
             "stock": 1
         },
@@ -402,16 +466,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1579026347",
+            "link": "/items/472881396",
             "price": 100,
-            "name": "フーパ(R仕様) 1",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1816192374",
-            "price": 250,
             "name": "フーパ(R仕様) 1",
             "date": "2022-12-19",
             "stock": 1
@@ -426,7 +482,15 @@
         },
         {
             "market": "magi",
-            "link": "/items/472881396",
+            "link": "/items/1024995974",
+            "price": 100,
+            "name": "フーパ(R仕様)  ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1579026347",
             "price": 100,
             "name": "フーパ(R仕様) 1",
             "date": "2022-12-19",
@@ -446,70 +510,6 @@
             "price": 80,
             "name": "フーパ108/184",
             "date": "2022-12-19",
-            "stock": 632
-        },
-        {
-            "market": "magi",
-            "link": "/items/1024995974",
-            "price": 100,
-            "name": "フーパ(R仕様)  ",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1816192374",
-            "price": 250,
-            "name": "フーパ(R仕様) 1",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1579026347",
-            "price": 100,
-            "name": "フーパ(R仕様) 1",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/472881396",
-            "price": 100,
-            "name": "フーパ(R仕様) 1",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/304423812",
-            "price": 100,
-            "name": "フーパ(R仕様) 1",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/137367264",
-            "price": 100,
-            "name": "フーパ(R仕様) 1",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21076",
-            "price": 50,
-            "name": "フーパ(CP){悪}",
-            "date": "2022-12-18",
-            "stock": 342
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22746",
-            "price": 80,
-            "name": "フーパ108/184",
-            "date": "2022-12-18",
             "stock": 632
         }
     ]

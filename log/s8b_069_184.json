@@ -2,7 +2,103 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/179113283",
+            "price": 100,
+            "name": "クレセリア(R仕様)",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1656535102",
+            "price": 100,
+            "name": "クレセリア(R仕様)",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1403629961",
+            "price": 100,
+            "name": "クレセリア(R仕様)",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1491749593",
+            "price": 100,
+            "name": " s8b クレセリア",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/362249086",
+            "price": 100,
+            "name": "クレセリア(R仕様)",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/47437763",
+            "price": 100,
+            "name": "クレセリア(R仕様)",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1604394517",
+            "price": 100,
+            "name": "クレセリア(R仕様)",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/898859319",
+            "price": 100,
+            "name": "クレセリア(R仕様)",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/21894114",
+            "price": 100,
+            "name": "クレセリア(R仕様)",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21037",
+            "price": 50,
+            "name": "クレセリア(CP){",
+            "date": "2022-12-26",
+            "stock": 75
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22707",
+            "price": 50,
+            "name": "クレセリア069/1",
+            "date": "2022-12-26",
+            "stock": 173
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g069-184-S8B-B/",
+            "price": 22,
+            "name": "【ポケカ】Ｒ◇クレセ",
+            "date": "2022-12-26",
+            "stock": 59
+        },
+        {
+            "market": "magi",
+            "link": "/items/1604394517",
             "price": 100,
             "name": "クレセリア(R仕様)",
             "date": "2022-12-25",
@@ -10,7 +106,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1604394517",
+            "link": "/items/47437763",
             "price": 100,
             "name": "クレセリア(R仕様)",
             "date": "2022-12-25",
@@ -42,7 +138,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/47437763",
+            "link": "/items/1403629961",
             "price": 100,
             "name": "クレセリア(R仕様)",
             "date": "2022-12-25",
@@ -58,17 +154,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/362249086",
+            "link": "/items/1491749593",
             "price": 100,
-            "name": "クレセリア(R仕様)",
+            "name": " s8b クレセリア",
             "date": "2022-12-25",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1491749593",
+            "link": "/items/362249086",
             "price": 100,
-            "name": " s8b クレセリア",
+            "name": "クレセリア(R仕様)",
             "date": "2022-12-25",
             "stock": 1
         },
@@ -290,7 +386,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/362249086",
+            "link": "/items/1403629961",
             "price": 100,
             "name": "クレセリア(R仕様)",
             "date": "2022-12-22",
@@ -306,7 +402,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1403629961",
+            "link": "/items/362249086",
             "price": 100,
             "name": "クレセリア(R仕様)",
             "date": "2022-12-22",
@@ -482,17 +578,25 @@
         },
         {
             "market": "magi",
-            "link": "/items/1491749593",
+            "link": "/items/362249086",
             "price": 100,
-            "name": " s8b クレセリア",
+            "name": "クレセリア(R仕様)",
             "date": "2022-12-20",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/362249086",
+            "link": "/items/1604394517",
             "price": 100,
             "name": "クレセリア(R仕様)",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1491749593",
+            "price": 100,
+            "name": " s8b クレセリア",
             "date": "2022-12-20",
             "stock": 1
         },
@@ -531,14 +635,6 @@
         {
             "market": "magi",
             "link": "/items/898859319",
-            "price": 100,
-            "name": "クレセリア(R仕様)",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1604394517",
             "price": 100,
             "name": "クレセリア(R仕様)",
             "date": "2022-12-20",
@@ -578,14 +674,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1656535102",
-            "price": 100,
-            "name": "クレセリア(R仕様)",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/47437763",
             "price": 100,
             "name": "クレセリア(R仕様)",
@@ -602,7 +690,15 @@
         },
         {
             "market": "magi",
-            "link": "/items/898859319",
+            "link": "/items/1604394517",
+            "price": 100,
+            "name": "クレセリア(R仕様)",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1656535102",
             "price": 100,
             "name": "クレセリア(R仕様)",
             "date": "2022-12-19",
@@ -618,15 +714,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1604394517",
-            "price": 100,
-            "name": "クレセリア(R仕様)",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1403629961",
+            "link": "/items/898859319",
             "price": 100,
             "name": "クレセリア(R仕様)",
             "date": "2022-12-19",
@@ -643,6 +731,14 @@
         {
             "market": "magi",
             "link": "/items/179113283",
+            "price": 100,
+            "name": "クレセリア(R仕様)",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1403629961",
             "price": 100,
             "name": "クレセリア(R仕様)",
             "date": "2022-12-19",
@@ -671,102 +767,6 @@
             "name": "【ポケカ】Ｒ◇クレセ",
             "date": "2022-12-19",
             "stock": 59
-        },
-        {
-            "market": "magi",
-            "link": "/items/1604394517",
-            "price": 100,
-            "name": "クレセリア(R仕様)",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/179113283",
-            "price": 100,
-            "name": "クレセリア(R仕様)",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1491749593",
-            "price": 100,
-            "name": " s8b クレセリア",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/47437763",
-            "price": 100,
-            "name": "クレセリア(R仕様)",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/898859319",
-            "price": 100,
-            "name": "クレセリア(R仕様)",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/21894114",
-            "price": 100,
-            "name": "クレセリア(R仕様)",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1403629961",
-            "price": 100,
-            "name": "クレセリア(R仕様)",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/362249086",
-            "price": 100,
-            "name": "クレセリア(R仕様)",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1656535102",
-            "price": 100,
-            "name": "クレセリア(R仕様)",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21037",
-            "price": 50,
-            "name": "クレセリア(CP){",
-            "date": "2022-12-18",
-            "stock": 75
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22707",
-            "price": 50,
-            "name": "クレセリア069/1",
-            "date": "2022-12-18",
-            "stock": 183
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g069-184-S8B-B/",
-            "price": 22,
-            "name": "【ポケカ】Ｒ◇クレセ",
-            "date": "2022-12-18",
-            "stock": 60
         }
     ]
 }

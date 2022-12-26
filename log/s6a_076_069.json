@@ -5,6 +5,30 @@
             "link": "/items/333444027",
             "price": 3000,
             "name": "リーフィアV SR ",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1318535379",
+            "price": 999,
+            "name": "グレイシアV SR ",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20742",
+            "price": 1780,
+            "name": "グレイシアV076/",
+            "date": "2022-12-26",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/333444027",
+            "price": 3000,
+            "name": "リーフィアV SR ",
             "date": "2022-12-25",
             "stock": 1
         },
@@ -50,17 +74,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/333444027",
-            "price": 3000,
-            "name": "リーフィアV SR ",
+            "link": "/items/1318535379",
+            "price": 999,
+            "name": "グレイシアV SR ",
             "date": "2022-12-23",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1318535379",
-            "price": 999,
-            "name": "グレイシアV SR ",
+            "link": "/items/333444027",
+            "price": 3000,
+            "name": "リーフィアV SR ",
             "date": "2022-12-23",
             "stock": 1
         },
@@ -74,17 +98,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/333444027",
-            "price": 3000,
-            "name": "リーフィアV SR ",
+            "link": "/items/1318535379",
+            "price": 999,
+            "name": "グレイシアV SR ",
             "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1318535379",
-            "price": 999,
-            "name": "グレイシアV SR ",
+            "link": "/items/333444027",
+            "price": 3000,
+            "name": "リーフィアV SR ",
             "date": "2022-12-22",
             "stock": 1
         },
@@ -94,6 +118,14 @@
             "price": 1530,
             "name": "グレイシアV076/",
             "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/333444027",
+            "price": 3000,
+            "name": "リーフィアV SR ",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -105,10 +137,10 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/333444027",
-            "price": 3000,
-            "name": "リーフィアV SR ",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32050",
+            "price": 1530,
+            "name": "グレイシアV076/",
             "date": "2022-12-21",
             "stock": 1
         },
@@ -119,14 +151,6 @@
             "name": "グレイシアV076/",
             "date": "2022-12-21",
             "stock": 25
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32050",
-            "price": 1530,
-            "name": "グレイシアV076/",
-            "date": "2022-12-21",
-            "stock": 1
         },
         {
             "market": "magi",
@@ -167,22 +191,6 @@
             "name": "グレイシアV076/",
             "date": "2022-12-19",
             "stock": 25
-        },
-        {
-            "market": "magi",
-            "link": "/items/333444027",
-            "price": 3000,
-            "name": "リーフィアV SR ",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20742",
-            "price": 1780,
-            "name": "グレイシアV076/",
-            "date": "2022-12-18",
-            "stock": 36
         }
     ]
 }

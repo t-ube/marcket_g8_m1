@@ -2,6 +2,38 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/183710005",
+            "price": 1500,
+            "name": "キバナ SR 259",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23126",
+            "price": 1230,
+            "name": "キバナ259/184",
+            "date": "2022-12-26",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23035",
+            "price": 1480,
+            "name": "キバナ259/184",
+            "date": "2022-12-26",
+            "stock": 128
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g259-184-S8B-B/",
+            "price": 1430,
+            "name": "【ポケカ】ＳＲ◇キバ",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1746192061",
             "price": 1480,
             "name": "キバナ SR 259",
@@ -58,19 +90,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23035",
-            "price": 1480,
-            "name": "キバナ259/184",
-            "date": "2022-12-24",
-            "stock": 129
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23126",
             "price": 1230,
             "name": "キバナ259/184",
             "date": "2022-12-24",
             "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23035",
+            "price": 1480,
+            "name": "キバナ259/184",
+            "date": "2022-12-24",
+            "stock": 129
         },
         {
             "market": "torecolo",
@@ -82,14 +114,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1746192061",
-            "price": 1480,
-            "name": "キバナ SR 259",
-            "date": "2022-12-23",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/183710005",
             "price": 1500,
             "name": "キバナ SR 259",
@@ -97,12 +121,12 @@
             "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23126",
-            "price": 1230,
-            "name": "キバナ259/184",
+            "market": "magi",
+            "link": "/items/1746192061",
+            "price": 1480,
+            "name": "キバナ SR 259",
             "date": "2022-12-23",
-            "stock": 5
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -111,6 +135,14 @@
             "name": "キバナ259/184",
             "date": "2022-12-23",
             "stock": 129
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23126",
+            "price": 1230,
+            "name": "キバナ259/184",
+            "date": "2022-12-23",
+            "stock": 5
         },
         {
             "market": "torecolo",
@@ -135,6 +167,14 @@
             "name": "キバナ SR 259",
             "date": "2022-12-22",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23126",
+            "price": 1230,
+            "name": "キバナ259/184",
+            "date": "2022-12-22",
+            "stock": 5
         },
         {
             "market": "cardrush",
@@ -145,19 +185,19 @@
             "stock": 128
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23126",
-            "price": 1230,
-            "name": "キバナ259/184",
-            "date": "2022-12-22",
-            "stock": 5
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g259-184-S8B-B/",
             "price": 1430,
             "name": "【ポケカ】ＳＲ◇キバ",
             "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/183710005",
+            "price": 1500,
+            "name": "キバナ SR 259",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -169,12 +209,12 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/183710005",
-            "price": 1500,
-            "name": "キバナ SR 259",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23126",
+            "price": 1230,
+            "name": "キバナ259/184",
             "date": "2022-12-21",
-            "stock": 1
+            "stock": 5
         },
         {
             "market": "cardrush",
@@ -185,27 +225,11 @@
             "stock": 128
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23126",
-            "price": 1230,
-            "name": "キバナ259/184",
-            "date": "2022-12-21",
-            "stock": 5
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g259-184-S8B-B/",
             "price": 1430,
             "name": "【ポケカ】ＳＲ◇キバ",
             "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/183710005",
-            "price": 1500,
-            "name": "キバナ SR 259",
-            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -217,12 +241,12 @@
             "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23126",
-            "price": 1230,
-            "name": "キバナ259/184",
+            "market": "magi",
+            "link": "/items/183710005",
+            "price": 1500,
+            "name": "キバナ SR 259",
             "date": "2022-12-20",
-            "stock": 6
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -233,19 +257,19 @@
             "stock": 127
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23126",
+            "price": 1230,
+            "name": "キバナ259/184",
+            "date": "2022-12-20",
+            "stock": 6
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g259-184-S8B-B/",
             "price": 1430,
             "name": "【ポケカ】ＳＲ◇キバ",
             "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1746192061",
-            "price": 1480,
-            "name": "キバナ SR 259",
-            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -257,12 +281,12 @@
             "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23126",
-            "price": 1230,
-            "name": "キバナ259/184",
+            "market": "magi",
+            "link": "/items/1746192061",
+            "price": 1480,
+            "name": "キバナ SR 259",
             "date": "2022-12-19",
-            "stock": 11
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -273,43 +297,11 @@
             "stock": 128
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g259-184-S8B-B/",
-            "price": 1320,
-            "name": "【ポケカ】ＳＲ◇キバ",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/183710005",
-            "price": 1500,
-            "name": "キバナ SR 259",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1746192061",
-            "price": 1480,
-            "name": "キバナ SR 259",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23035",
-            "price": 1480,
-            "name": "キバナ259/184",
-            "date": "2022-12-18",
-            "stock": 131
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23126",
             "price": 1230,
             "name": "キバナ259/184",
-            "date": "2022-12-18",
+            "date": "2022-12-19",
             "stock": 11
         },
         {
@@ -317,7 +309,7 @@
             "link": "/shop/g/g259-184-S8B-B/",
             "price": 1320,
             "name": "【ポケカ】ＳＲ◇キバ",
-            "date": "2022-12-18",
+            "date": "2022-12-19",
             "stock": 1
         }
     ]

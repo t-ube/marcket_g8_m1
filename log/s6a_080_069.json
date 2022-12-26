@@ -5,6 +5,22 @@
             "link": "/items/1433339573",
             "price": 1600,
             "name": "エーフィV SR 0",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20746",
+            "price": 1680,
+            "name": "エーフィV080/0",
+            "date": "2022-12-26",
+            "stock": 9
+        },
+        {
+            "market": "magi",
+            "link": "/items/1433339573",
+            "price": 1600,
+            "name": "エーフィV SR 0",
             "date": "2022-12-25",
             "stock": 1
         },
@@ -39,14 +55,6 @@
             "name": "エーフィV SR 0",
             "date": "2022-12-23",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32054",
-            "price": 1430,
-            "name": "エーフィV080/0",
-            "date": "2022-12-23",
-            "stock": 3
         },
         {
             "market": "cardrush",
@@ -55,6 +63,14 @@
             "name": "エーフィV080/0",
             "date": "2022-12-23",
             "stock": 36
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32054",
+            "price": 1430,
+            "name": "エーフィV080/0",
+            "date": "2022-12-23",
+            "stock": 3
         },
         {
             "market": "magi",
@@ -119,30 +135,6 @@
             "name": "エーフィV080/0",
             "date": "2022-12-19",
             "stock": 87
-        },
-        {
-            "market": "magi",
-            "link": "/items/1433339573",
-            "price": 1600,
-            "name": "エーフィV SR 0",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32054",
-            "price": 1430,
-            "name": "エーフィV080/0",
-            "date": "2022-12-18",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20746",
-            "price": 1680,
-            "name": "エーフィV080/0",
-            "date": "2022-12-18",
-            "stock": 94
         }
     ]
 }
