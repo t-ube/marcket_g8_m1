@@ -2,11 +2,51 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/56945194",
+            "price": 995,
+            "name": "ダンサー SR 11",
+            "date": "2022-12-28",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1017753668",
+            "price": 1000,
+            "name": "ダンサー SR 11",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1329617674",
             "price": 750,
             "name": "【緊急値下】ダンサー",
-            "date": "2022-12-27",
+            "date": "2022-12-28",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24029",
+            "price": 880,
+            "name": "ダンサー114/10",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32583",
+            "price": 1090,
+            "name": "ダンサー114/10",
+            "date": "2022-12-28",
+            "stock": 17
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22199",
+            "price": 1280,
+            "name": "ダンサー114/10",
+            "date": "2022-12-28",
+            "stock": 55
         },
         {
             "market": "magi",
@@ -23,6 +63,14 @@
             "name": "ダンサー SR 11",
             "date": "2022-12-27",
             "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1329617674",
+            "price": 750,
+            "name": "【緊急値下】ダンサー",
+            "date": "2022-12-27",
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -74,19 +122,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24029",
-            "price": 880,
-            "name": "ダンサー114/10",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32583",
             "price": 1090,
             "name": "ダンサー114/10",
             "date": "2022-12-26",
             "stock": 15
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24029",
+            "price": 880,
+            "name": "ダンサー114/10",
+            "date": "2022-12-26",
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -106,11 +154,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/1017753668",
+            "link": "/items/56945194",
             "price": 1000,
             "name": "ダンサー SR 11",
             "date": "2022-12-25",
-            "stock": 1
+            "stock": 4
         },
         {
             "market": "magi",
@@ -122,25 +170,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/56945194",
+            "link": "/items/1017753668",
             "price": 1000,
             "name": "ダンサー SR 11",
-            "date": "2022-12-25",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32583",
-            "price": 1090,
-            "name": "ダンサー114/10",
-            "date": "2022-12-25",
-            "stock": 14
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24029",
-            "price": 880,
-            "name": "ダンサー114/10",
             "date": "2022-12-25",
             "stock": 1
         },
@@ -153,12 +185,20 @@
             "stock": 47
         },
         {
-            "market": "magi",
-            "link": "/items/56945194",
-            "price": 1000,
-            "name": "ダンサー SR 11",
-            "date": "2022-12-24",
-            "stock": 4
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24029",
+            "price": 880,
+            "name": "ダンサー114/10",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32583",
+            "price": 1090,
+            "name": "ダンサー114/10",
+            "date": "2022-12-25",
+            "stock": 14
         },
         {
             "market": "magi",
@@ -170,11 +210,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/1017753668",
+            "link": "/items/56945194",
             "price": 1000,
             "name": "ダンサー SR 11",
             "date": "2022-12-24",
-            "stock": 1
+            "stock": 4
         },
         {
             "market": "magi",
@@ -185,20 +225,20 @@
             "stock": 2
         },
         {
+            "market": "magi",
+            "link": "/items/1017753668",
+            "price": 1000,
+            "name": "ダンサー SR 11",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22199",
             "price": 1280,
             "name": "ダンサー114/10",
             "date": "2022-12-24",
             "stock": 47
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24029",
-            "price": 880,
-            "name": "ダンサー114/10",
-            "date": "2022-12-24",
-            "stock": 1
         },
         {
             "market": "cardrush",
@@ -209,10 +249,18 @@
             "stock": 14
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24029",
+            "price": 880,
+            "name": "ダンサー114/10",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
             "market": "magi",
-            "link": "/items/1329617674",
-            "price": 750,
-            "name": "【緊急値下】ダンサー",
+            "link": "/items/1017753668",
+            "price": 1000,
+            "name": "ダンサー SR 11",
             "date": "2022-12-23",
             "stock": 1
         },
@@ -226,19 +274,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/1017753668",
-            "price": 1000,
-            "name": "ダンサー SR 11",
+            "link": "/items/1329617674",
+            "price": 750,
+            "name": "【緊急値下】ダンサー",
             "date": "2022-12-23",
             "stock": 1
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32583",
-            "price": 1090,
+            "link": "https://www.cardrush-pokemon.jp/product/24029",
+            "price": 880,
             "name": "ダンサー114/10",
             "date": "2022-12-23",
-            "stock": 15
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -250,10 +298,18 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24029",
-            "price": 880,
+            "link": "https://www.cardrush-pokemon.jp/product/32583",
+            "price": 1090,
             "name": "ダンサー114/10",
             "date": "2022-12-23",
+            "stock": 15
+        },
+        {
+            "market": "magi",
+            "link": "/items/1329617674",
+            "price": 750,
+            "name": "【緊急値下】ダンサー",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -265,12 +321,20 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/1329617674",
-            "price": 750,
-            "name": "【緊急値下】ダンサー",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24029",
+            "price": 880,
+            "name": "ダンサー114/10",
             "date": "2022-12-22",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22199",
+            "price": 1280,
+            "name": "ダンサー114/10",
+            "date": "2022-12-22",
+            "stock": 55
         },
         {
             "market": "cardrush",
@@ -281,19 +345,11 @@
             "stock": 14
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22199",
-            "price": 1280,
-            "name": "ダンサー114/10",
-            "date": "2022-12-22",
-            "stock": 55
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24029",
-            "price": 880,
-            "name": "ダンサー114/10",
-            "date": "2022-12-22",
+            "market": "magi",
+            "link": "/items/1017753668",
+            "price": 1000,
+            "name": "ダンサー SR 11",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -305,10 +361,18 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/1017753668",
-            "price": 1000,
-            "name": "ダンサー SR 11",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22199",
+            "price": 1280,
+            "name": "ダンサー114/10",
+            "date": "2022-12-21",
+            "stock": 55
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24029",
+            "price": 880,
+            "name": "ダンサー114/10",
             "date": "2022-12-21",
             "stock": 1
         },
@@ -321,75 +385,11 @@
             "stock": 13
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24029",
-            "price": 880,
-            "name": "ダンサー114/10",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22199",
-            "price": 1280,
-            "name": "ダンサー114/10",
-            "date": "2022-12-21",
-            "stock": 55
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g114-100-S8-B/",
             "price": 1100,
             "name": "【ポケカ】ＳＲ◇ダン",
             "date": "2022-12-21",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1017753668",
-            "price": 1000,
-            "name": "ダンサー SR 11",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1329617674",
-            "price": 750,
-            "name": "【緊急値下】ダンサー",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22199",
-            "price": 1280,
-            "name": "ダンサー114/10",
-            "date": "2022-12-20",
-            "stock": 55
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24029",
-            "price": 880,
-            "name": "ダンサー114/10",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32583",
-            "price": 1090,
-            "name": "ダンサー114/10",
-            "date": "2022-12-20",
-            "stock": 13
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g114-100-S8-B/",
-            "price": 1100,
-            "name": "【ポケカ】ＳＲ◇ダン",
-            "date": "2022-12-20",
             "stock": 2
         }
     ]

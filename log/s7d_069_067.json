@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/19878",
             "price": 900,
             "name": "ゴルーグV(SR){",
+            "date": "2022-12-28",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32366",
+            "price": 680,
+            "name": "ゴルーグV069/0",
+            "date": "2022-12-28",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21446",
+            "price": 780,
+            "name": "ゴルーグV069/0",
+            "date": "2022-12-28",
+            "stock": 50
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19878",
+            "price": 900,
+            "name": "ゴルーグV(SR){",
             "date": "2022-12-27",
             "stock": 2
         },
@@ -58,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32366",
-            "price": 680,
-            "name": "ゴルーグV069/0",
-            "date": "2022-12-25",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21446",
             "price": 780,
             "name": "ゴルーグV069/0",
             "date": "2022-12-25",
             "stock": 48
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32366",
+            "price": 680,
+            "name": "ゴルーグV069/0",
+            "date": "2022-12-25",
+            "stock": 4
         },
         {
             "market": "hareruya2",
@@ -154,14 +178,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21446",
-            "price": 780,
-            "name": "ゴルーグV069/0",
-            "date": "2022-12-21",
-            "stock": 47
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32366",
             "price": 680,
             "name": "ゴルーグV069/0",
@@ -169,27 +185,11 @@
             "stock": 4
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19878",
-            "price": 900,
-            "name": "ゴルーグV(SR){",
-            "date": "2022-12-20",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32366",
-            "price": 680,
-            "name": "ゴルーグV069/0",
-            "date": "2022-12-20",
-            "stock": 4
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21446",
             "price": 780,
             "name": "ゴルーグV069/0",
-            "date": "2022-12-20",
+            "date": "2022-12-21",
             "stock": 47
         }
     ]
