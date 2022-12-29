@@ -5,6 +5,38 @@
             "link": "/items/1057989259",
             "price": 43000,
             "name": "リーフィアVMAX ",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1265178686",
+            "price": 2099,
+            "name": "リーフィアVMAX ",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32062",
+            "price": 2080,
+            "name": "リーフィアVMAX0",
+            "date": "2022-12-29",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20754",
+            "price": 2380,
+            "name": "リーフィアVMAX0",
+            "date": "2022-12-29",
+            "stock": 48
+        },
+        {
+            "market": "magi",
+            "link": "/items/1057989259",
+            "price": 43000,
+            "name": "リーフィアVMAX ",
             "date": "2022-12-28",
             "stock": 1
         },
@@ -82,14 +114,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20754",
-            "price": 2380,
-            "name": "リーフィアVMAX0",
-            "date": "2022-12-25",
-            "stock": 33
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32062",
             "price": 2080,
             "name": "リーフィアVMAX0",
@@ -97,6 +121,14 @@
             "stock": 2
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20754",
+            "price": 2380,
+            "name": "リーフィアVMAX0",
+            "date": "2022-12-25",
+            "stock": 33
+        },
+        {
             "market": "magi",
             "link": "/items/1057989259",
             "price": 43000,
@@ -154,14 +186,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32062",
-            "price": 2080,
-            "name": "リーフィアVMAX0",
-            "date": "2022-12-22",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20754",
             "price": 2380,
             "name": "リーフィアVMAX0",
@@ -169,28 +193,12 @@
             "stock": 33
         },
         {
-            "market": "magi",
-            "link": "/items/1057989259",
-            "price": 43000,
-            "name": "リーフィアVMAX ",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32062",
             "price": 2080,
             "name": "リーフィアVMAX0",
-            "date": "2022-12-21",
+            "date": "2022-12-22",
             "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20754",
-            "price": 2380,
-            "name": "リーフィアVMAX0",
-            "date": "2022-12-21",
-            "stock": 33
         }
     ]
 }

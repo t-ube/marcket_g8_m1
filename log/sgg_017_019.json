@@ -5,6 +5,38 @@
             "link": "/items/2137985970",
             "price": 70,
             "name": "【4枚セット】マリィ",
+            "date": "2022-12-29",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19448",
+            "price": 100,
+            "name": "マリィ(-){サポー",
+            "date": "2022-12-29",
+            "stock": 15
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31968",
+            "price": 110,
+            "name": "マリィ017/019",
+            "date": "2022-12-29",
+            "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20624",
+            "price": 120,
+            "name": "マリィ017/019",
+            "date": "2022-12-29",
+            "stock": 232
+        },
+        {
+            "market": "magi",
+            "link": "/items/2137985970",
+            "price": 70,
+            "name": "【4枚セット】マリィ",
             "date": "2022-12-28",
             "stock": 4
         },
@@ -82,14 +114,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31968",
-            "price": 110,
-            "name": "マリィ017/019",
-            "date": "2022-12-25",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20624",
             "price": 120,
             "name": "マリィ017/019",
@@ -97,6 +121,14 @@
             "stock": 238
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31968",
+            "price": 110,
+            "name": "マリィ017/019",
+            "date": "2022-12-25",
+            "stock": 10
+        },
+        {
             "market": "magi",
             "link": "/items/2137985970",
             "price": 70,
@@ -130,19 +162,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20624",
-            "price": 120,
-            "name": "マリィ017/019",
-            "date": "2022-12-23",
-            "stock": 241
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31968",
             "price": 110,
             "name": "マリィ017/019",
             "date": "2022-12-23",
             "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20624",
+            "price": 120,
+            "name": "マリィ017/019",
+            "date": "2022-12-23",
+            "stock": 241
         },
         {
             "market": "magi",
@@ -154,14 +186,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31968",
-            "price": 110,
-            "name": "マリィ017/019",
-            "date": "2022-12-22",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20624",
             "price": 120,
             "name": "マリィ017/019",
@@ -169,28 +193,12 @@
             "stock": 241
         },
         {
-            "market": "magi",
-            "link": "/items/2137985970",
-            "price": 70,
-            "name": "【4枚セット】マリィ",
-            "date": "2022-12-21",
-            "stock": 4
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31968",
             "price": 110,
             "name": "マリィ017/019",
-            "date": "2022-12-21",
+            "date": "2022-12-22",
             "stock": 9
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20624",
-            "price": 120,
-            "name": "マリィ017/019",
-            "date": "2022-12-21",
-            "stock": 241
         }
     ]
 }

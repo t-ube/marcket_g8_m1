@@ -5,6 +5,38 @@
             "link": "/items/83292373",
             "price": 3000,
             "name": "【美品】トルネロスV",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19311",
+            "price": 800,
+            "name": "トルネロスV(SR)",
+            "date": "2022-12-29",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31931",
+            "price": 680,
+            "name": "トルネロスV078/",
+            "date": "2022-12-29",
+            "stock": 16
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20198",
+            "price": 780,
+            "name": "トルネロスV078/",
+            "date": "2022-12-29",
+            "stock": 51
+        },
+        {
+            "market": "magi",
+            "link": "/items/83292373",
+            "price": 3000,
+            "name": "【美品】トルネロスV",
             "date": "2022-12-28",
             "stock": 1
         },
@@ -50,6 +82,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20198",
+            "price": 780,
+            "name": "トルネロスV078/",
+            "date": "2022-12-27",
+            "stock": 48
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31931",
             "price": 680,
             "name": "トルネロスV078/",
@@ -57,14 +97,6 @@
             "stock": 16
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20198",
-            "price": 780,
-            "name": "トルネロスV078/",
-            "date": "2022-12-27",
-            "stock": 48
-        },
-        {
             "market": "magi",
             "link": "/items/83292373",
             "price": 3000,
@@ -114,14 +146,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20198",
-            "price": 780,
-            "name": "トルネロスV078/",
-            "date": "2022-12-25",
-            "stock": 46
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31931",
             "price": 680,
             "name": "トルネロスV078/",
@@ -129,6 +153,14 @@
             "stock": 15
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20198",
+            "price": 780,
+            "name": "トルネロスV078/",
+            "date": "2022-12-25",
+            "stock": 46
+        },
+        {
             "market": "magi",
             "link": "/items/83292373",
             "price": 3000,
@@ -143,14 +175,6 @@
             "name": "トルネロスV(SR)",
             "date": "2022-12-24",
             "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31931",
-            "price": 680,
-            "name": "トルネロスV078/",
-            "date": "2022-12-24",
-            "stock": 15
         },
         {
             "market": "cardrush",
@@ -161,6 +185,14 @@
             "stock": 46
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31931",
+            "price": 680,
+            "name": "トルネロスV078/",
+            "date": "2022-12-24",
+            "stock": 15
+        },
+        {
             "market": "magi",
             "link": "/items/83292373",
             "price": 3000,
@@ -210,42 +242,10 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20198",
-            "price": 780,
-            "name": "トルネロスV078/",
-            "date": "2022-12-22",
-            "stock": 46
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31931",
             "price": 680,
             "name": "トルネロスV078/",
             "date": "2022-12-22",
-            "stock": 15
-        },
-        {
-            "market": "magi",
-            "link": "/items/83292373",
-            "price": 3000,
-            "name": "【美品】トルネロスV",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19311",
-            "price": 800,
-            "name": "トルネロスV(SR)",
-            "date": "2022-12-21",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31931",
-            "price": 680,
-            "name": "トルネロスV078/",
-            "date": "2022-12-21",
             "stock": 15
         },
         {
@@ -253,8 +253,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/20198",
             "price": 780,
             "name": "トルネロスV078/",
-            "date": "2022-12-21",
-            "stock": 45
+            "date": "2022-12-22",
+            "stock": 46
         }
     ]
 }

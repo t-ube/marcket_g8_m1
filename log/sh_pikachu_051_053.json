@@ -5,6 +5,38 @@
             "link": "/items/2105969165",
             "price": 105,
             "name": "【4枚セット】ボスの",
+            "date": "2022-12-29",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1993626417",
+            "price": 360,
+            "name": "【3枚】ボスの指令[",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32336",
+            "price": 170,
+            "name": "ボスの指令サカキ05",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21395",
+            "price": 180,
+            "name": "ボスの指令サカキ05",
+            "date": "2022-12-29",
+            "stock": 36
+        },
+        {
+            "market": "magi",
+            "link": "/items/2105969165",
+            "price": 105,
+            "name": "【4枚セット】ボスの",
             "date": "2022-12-28",
             "stock": 4
         },
@@ -146,14 +178,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32336",
-            "price": 170,
-            "name": "ボスの指令サカキ05",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21395",
             "price": 180,
             "name": "ボスの指令サカキ05",
@@ -161,11 +185,11 @@
             "stock": 36
         },
         {
-            "market": "magi",
-            "link": "/items/1993626417",
-            "price": 360,
-            "name": "【3枚】ボスの指令[",
-            "date": "2022-12-23",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32336",
+            "price": 170,
+            "name": "ボスの指令サカキ05",
+            "date": "2022-12-24",
             "stock": 1
         },
         {
@@ -177,12 +201,12 @@
             "stock": 4
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21395",
-            "price": 180,
-            "name": "ボスの指令サカキ05",
+            "market": "magi",
+            "link": "/items/1993626417",
+            "price": 360,
+            "name": "【3枚】ボスの指令[",
             "date": "2022-12-23",
-            "stock": 36
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -191,6 +215,14 @@
             "name": "ボスの指令サカキ05",
             "date": "2022-12-23",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21395",
+            "price": 180,
+            "name": "ボスの指令サカキ05",
+            "date": "2022-12-23",
+            "stock": 36
         },
         {
             "market": "magi",
@@ -210,19 +242,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21395",
-            "price": 180,
-            "name": "ボスの指令サカキ05",
-            "date": "2022-12-22",
-            "stock": 36
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32336",
             "price": 170,
             "name": "ボスの指令サカキ05",
             "date": "2022-12-22",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21395",
+            "price": 180,
+            "name": "ボスの指令サカキ05",
+            "date": "2022-12-22",
+            "stock": 36
         }
     ]
 }
