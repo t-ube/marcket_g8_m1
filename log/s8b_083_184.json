@@ -2,16 +2,56 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/708505280",
-            "price": 650,
+            "link": "/items/2120638940",
+            "price": 348,
             "name": "こくばバドレックスV",
-            "date": "2022-12-29",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/708505280",
+            "price": 620,
+            "name": "こくばバドレックスV",
+            "date": "2022-12-30",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1852705800",
             "price": 1000,
+            "name": "こくばバドレックスV",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/847958563",
+            "price": 677,
+            "name": "こくばバドレックスV",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21051",
+            "price": 200,
+            "name": "こくばバドレックスV",
+            "date": "2022-12-30",
+            "stock": 72
+        },
+        {
+            "market": "magi",
+            "link": "/items/1852705800",
+            "price": 1000,
+            "name": "こくばバドレックスV",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/708505280",
+            "price": 650,
             "name": "こくばバドレックスV",
             "date": "2022-12-29",
             "stock": 1
@@ -66,8 +106,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/847958563",
-            "price": 678,
+            "link": "/items/1852705800",
+            "price": 1000,
             "name": "こくばバドレックスV",
             "date": "2022-12-27",
             "stock": 1
@@ -82,8 +122,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1852705800",
-            "price": 1000,
+            "link": "/items/847958563",
+            "price": 678,
             "name": "こくばバドレックスV",
             "date": "2022-12-27",
             "stock": 1
@@ -106,16 +146,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/708505280",
-            "price": 650,
+            "link": "/items/847958563",
+            "price": 678,
             "name": "こくばバドレックスV",
             "date": "2022-12-26",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/847958563",
-            "price": 678,
+            "link": "/items/708505280",
+            "price": 650,
             "name": "こくばバドレックスV",
             "date": "2022-12-26",
             "stock": 1
@@ -130,8 +170,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/847958563",
-            "price": 679,
+            "link": "/items/1852705800",
+            "price": 1000,
             "name": "こくばバドレックスV",
             "date": "2022-12-25",
             "stock": 1
@@ -146,8 +186,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1852705800",
-            "price": 1000,
+            "link": "/items/847958563",
+            "price": 679,
             "name": "こくばバドレックスV",
             "date": "2022-12-25",
             "stock": 1
@@ -162,16 +202,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/616205566",
-            "price": 620,
-            "name": "【4枚】こくばバドレ",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1852705800",
-            "price": 1000,
+            "link": "/items/847958563",
+            "price": 679,
             "name": "こくばバドレックスV",
             "date": "2022-12-24",
             "stock": 1
@@ -186,8 +218,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/847958563",
-            "price": 679,
+            "link": "/items/616205566",
+            "price": 620,
+            "name": "【4枚】こくばバドレ",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1852705800",
+            "price": 1000,
             "name": "こくばバドレックスV",
             "date": "2022-12-24",
             "stock": 1
@@ -210,9 +250,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/708505280",
-            "price": 650,
-            "name": "こくばバドレックスV",
+            "link": "/items/616205566",
+            "price": 620,
+            "name": "【4枚】こくばバドレ",
             "date": "2022-12-23",
             "stock": 1
         },
@@ -226,50 +266,10 @@
         },
         {
             "market": "magi",
-            "link": "/items/616205566",
-            "price": 620,
-            "name": "【4枚】こくばバドレ",
-            "date": "2022-12-23",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21051",
-            "price": 200,
-            "name": "こくばバドレックスV",
-            "date": "2022-12-23",
-            "stock": 192
-        },
-        {
-            "market": "magi",
-            "link": "/items/847958563",
-            "price": 680,
-            "name": "こくばバドレックスV",
-            "date": "2022-12-22",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/616205566",
-            "price": 620,
-            "name": "【4枚】こくばバドレ",
-            "date": "2022-12-22",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1852705800",
-            "price": 1000,
-            "name": "こくばバドレックスV",
-            "date": "2022-12-22",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/708505280",
             "price": 650,
             "name": "こくばバドレックスV",
-            "date": "2022-12-22",
+            "date": "2022-12-23",
             "stock": 1
         },
         {
@@ -277,7 +277,7 @@
             "link": "https://www.hareruya2.com/product/21051",
             "price": 200,
             "name": "こくばバドレックスV",
-            "date": "2022-12-22",
+            "date": "2022-12-23",
             "stock": 192
         }
     ]

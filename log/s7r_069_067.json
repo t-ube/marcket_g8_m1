@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/19855",
             "price": 1200,
             "name": "ウルガモスV(SR)",
+            "date": "2022-12-30",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32389",
+            "price": 930,
+            "name": "ウルガモスV069/",
+            "date": "2022-12-30",
+            "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21469",
+            "price": 1080,
+            "name": "ウルガモスV069/",
+            "date": "2022-12-30",
+            "stock": 65
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19855",
+            "price": 1200,
+            "name": "ウルガモスV(SR)",
             "date": "2022-12-29",
             "stock": 2
         },
@@ -82,11 +106,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21469",
-            "price": 1080,
+            "link": "https://www.cardrush-pokemon.jp/product/32389",
+            "price": 930,
             "name": "ウルガモスV069/",
             "date": "2022-12-26",
-            "stock": 54
+            "stock": 12
         },
         {
             "market": "cardrush",
@@ -98,11 +122,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32389",
-            "price": 930,
+            "link": "https://www.cardrush-pokemon.jp/product/21469",
+            "price": 1080,
             "name": "ウルガモスV069/",
             "date": "2022-12-26",
-            "stock": 12
+            "stock": 54
         },
         {
             "market": "hareruya2",
@@ -154,14 +178,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32389",
-            "price": 930,
-            "name": "ウルガモスV069/",
-            "date": "2022-12-24",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21469",
             "price": 1080,
             "name": "ウルガモスV069/",
@@ -173,16 +189,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/32389",
             "price": 930,
             "name": "ウルガモスV069/",
-            "date": "2022-12-23",
+            "date": "2022-12-24",
             "stock": 12
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24064",
-            "price": 780,
-            "name": "ウルガモスV069/",
-            "date": "2022-12-23",
-            "stock": 1
         },
         {
             "market": "cardrush",
@@ -194,27 +202,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21469",
-            "price": 1080,
+            "link": "https://www.cardrush-pokemon.jp/product/24064",
+            "price": 780,
             "name": "ウルガモスV069/",
-            "date": "2022-12-22",
-            "stock": 62
+            "date": "2022-12-23",
+            "stock": 1
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32389",
             "price": 930,
             "name": "ウルガモスV069/",
-            "date": "2022-12-22",
+            "date": "2022-12-23",
             "stock": 12
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24064",
-            "price": 780,
-            "name": "ウルガモスV069/",
-            "date": "2022-12-22",
-            "stock": 1
         }
     ]
 }

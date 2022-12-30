@@ -2,11 +2,123 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1363095818",
+            "price": 50,
+            "name": "あくの塔 166/1",
+            "date": "2022-12-30",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1723187223",
+            "price": 50,
+            "name": "あくの塔 166/1",
+            "date": "2022-12-30",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/715849684",
+            "price": 330,
+            "name": "あくの塔 166/1",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1735517132",
+            "price": 100,
+            "name": "あくの塔 166/1",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1165284963",
+            "price": 100,
+            "name": "あくの塔 166/1",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1853224871",
+            "price": 130,
+            "name": "あくの塔 166/1",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/2077865049",
             "price": 100,
             "name": "あくの塔 166/1",
-            "date": "2022-12-29",
+            "date": "2022-12-30",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/796304067",
+            "price": 60,
+            "name": "1枚60円 あくの塔",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/364307314",
+            "price": 40,
+            "name": "1枚40円 あくの塔",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21134",
+            "price": 50,
+            "name": "あくの塔(CP){ス",
+            "date": "2022-12-30",
+            "stock": 264
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21313",
+            "price": 200,
+            "name": "あくの塔:ミラー(C",
+            "date": "2022-12-30",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22804",
+            "price": 80,
+            "name": "あくの塔166/18",
+            "date": "2022-12-30",
+            "stock": 65
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22945",
+            "price": 120,
+            "name": "あくの塔166/18",
+            "date": "2022-12-30",
+            "stock": 65
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g166-184-S8B-B/",
+            "price": 55,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-30",
+            "stock": 56
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g166-184-S8B-BM/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-30",
+            "stock": 7
         },
         {
             "market": "magi",
@@ -18,8 +130,32 @@
         },
         {
             "market": "magi",
-            "link": "/items/1165284963",
-            "price": 100,
+            "link": "/items/364307314",
+            "price": 40,
+            "name": "1枚40円 あくの塔",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1363095818",
+            "price": 50,
+            "name": "あくの塔 166/1",
+            "date": "2022-12-29",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1723187223",
+            "price": 50,
+            "name": "あくの塔 166/1",
+            "date": "2022-12-29",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/715849684",
+            "price": 330,
             "name": "あくの塔 166/1",
             "date": "2022-12-29",
             "stock": 1
@@ -34,33 +170,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/715849684",
-            "price": 330,
+            "link": "/items/2077865049",
+            "price": 100,
             "name": "あくの塔 166/1",
             "date": "2022-12-29",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1723187223",
-            "price": 50,
+            "link": "/items/1165284963",
+            "price": 100,
             "name": "あくの塔 166/1",
-            "date": "2022-12-29",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1363095818",
-            "price": 50,
-            "name": "あくの塔 166/1",
-            "date": "2022-12-29",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/364307314",
-            "price": 40,
-            "name": "1枚40円 あくの塔",
             "date": "2022-12-29",
             "stock": 1
         },
@@ -74,14 +194,6 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21134",
-            "price": 50,
-            "name": "あくの塔(CP){ス",
-            "date": "2022-12-29",
-            "stock": 264
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21313",
             "price": 200,
             "name": "あくの塔:ミラー(C",
@@ -89,12 +201,12 @@
             "stock": 2
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22945",
-            "price": 120,
-            "name": "あくの塔166/18",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21134",
+            "price": 50,
+            "name": "あくの塔(CP){ス",
             "date": "2022-12-29",
-            "stock": 65
+            "stock": 264
         },
         {
             "market": "cardrush",
@@ -103,6 +215,14 @@
             "name": "あくの塔166/18",
             "date": "2022-12-29",
             "stock": 68
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22945",
+            "price": 120,
+            "name": "あくの塔166/18",
+            "date": "2022-12-29",
+            "stock": 65
         },
         {
             "market": "torecolo",
@@ -210,19 +330,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22945",
-            "price": 120,
-            "name": "あくの塔166/18",
-            "date": "2022-12-28",
-            "stock": 65
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22804",
             "price": 80,
             "name": "あくの塔166/18",
             "date": "2022-12-28",
             "stock": 66
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22945",
+            "price": 120,
+            "name": "あくの塔166/18",
+            "date": "2022-12-28",
+            "stock": 65
         },
         {
             "market": "torecolo",
@@ -239,6 +359,22 @@
             "name": "【ポケカ】Ｃ）通常仕",
             "date": "2022-12-28",
             "stock": 56
+        },
+        {
+            "market": "magi",
+            "link": "/items/364307314",
+            "price": 40,
+            "name": "1枚40円 あくの塔",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1853224871",
+            "price": 130,
+            "name": "あくの塔 166/1",
+            "date": "2022-12-27",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -282,14 +418,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/364307314",
-            "price": 40,
-            "name": "1枚40円 あくの塔",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/87051188",
             "price": 100,
             "name": "あくの塔 166/1",
@@ -316,14 +444,6 @@
             "market": "magi",
             "link": "/items/1165284963",
             "price": 100,
-            "name": "あくの塔 166/1",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1853224871",
-            "price": 130,
             "name": "あくの塔 166/1",
             "date": "2022-12-27",
             "stock": 1
@@ -346,14 +466,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22804",
-            "price": 80,
-            "name": "あくの塔166/18",
-            "date": "2022-12-27",
-            "stock": 66
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22945",
             "price": 120,
             "name": "あくの塔166/18",
@@ -361,12 +473,12 @@
             "stock": 65
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g166-184-S8B-BM/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）ミラー",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22804",
+            "price": 80,
+            "name": "あくの塔166/18",
             "date": "2022-12-27",
-            "stock": 7
+            "stock": 66
         },
         {
             "market": "torecolo",
@@ -377,34 +489,26 @@
             "stock": 56
         },
         {
-            "market": "magi",
-            "link": "/items/364307314",
-            "price": 40,
-            "name": "1枚40円 あくの塔",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/796304067",
-            "price": 60,
-            "name": "1枚60円 あくの塔",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1363095818",
-            "price": 50,
-            "name": "あくの塔 166/1",
-            "date": "2022-12-26",
-            "stock": 4
+            "market": "torecolo",
+            "link": "/shop/g/g166-184-S8B-BM/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-27",
+            "stock": 7
         },
         {
             "market": "magi",
             "link": "/items/87051188",
             "price": 100,
             "name": "あくの塔 166/1",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/364307314",
+            "price": 40,
+            "name": "1枚40円 あくの塔",
             "date": "2022-12-26",
             "stock": 1
         },
@@ -463,6 +567,22 @@
             "name": "あくの塔 166/1",
             "date": "2022-12-26",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/796304067",
+            "price": 60,
+            "name": "1枚60円 あくの塔",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1363095818",
+            "price": 50,
+            "name": "あくの塔 166/1",
+            "date": "2022-12-26",
+            "stock": 4
         },
         {
             "market": "hareruya2",
@@ -498,14 +618,6 @@
         },
         {
             "market": "torecolo",
-            "link": "/shop/g/g166-184-S8B-B/",
-            "price": 55,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-26",
-            "stock": 56
-        },
-        {
-            "market": "torecolo",
             "link": "/shop/g/g166-184-S8B-BM/",
             "price": 110,
             "name": "【ポケカ】Ｃ）ミラー",
@@ -513,12 +625,12 @@
             "stock": 7
         },
         {
-            "market": "magi",
-            "link": "/items/364307314",
-            "price": 40,
-            "name": "1枚40円 あくの塔",
-            "date": "2022-12-25",
-            "stock": 1
+            "market": "torecolo",
+            "link": "/shop/g/g166-184-S8B-B/",
+            "price": 55,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-26",
+            "stock": 56
         },
         {
             "market": "magi",
@@ -597,6 +709,14 @@
             "link": "/items/1853224871",
             "price": 130,
             "name": "あくの塔 166/1",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/364307314",
+            "price": 40,
+            "name": "1枚40円 あくの塔",
             "date": "2022-12-25",
             "stock": 1
         },
@@ -618,14 +738,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22945",
-            "price": 120,
-            "name": "あくの塔166/18",
-            "date": "2022-12-25",
-            "stock": 63
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22804",
             "price": 80,
             "name": "あくの塔166/18",
@@ -633,12 +745,12 @@
             "stock": 69
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g166-184-S8B-B/",
-            "price": 55,
-            "name": "【ポケカ】Ｃ）通常仕",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22945",
+            "price": 120,
+            "name": "あくの塔166/18",
             "date": "2022-12-25",
-            "stock": 56
+            "stock": 63
         },
         {
             "market": "torecolo",
@@ -649,8 +761,16 @@
             "stock": 7
         },
         {
+            "market": "torecolo",
+            "link": "/shop/g/g166-184-S8B-B/",
+            "price": 55,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-25",
+            "stock": 56
+        },
+        {
             "market": "magi",
-            "link": "/items/1663801773",
+            "link": "/items/1735517132",
             "price": 100,
             "name": "あくの塔 166/1",
             "date": "2022-12-24",
@@ -658,7 +778,23 @@
         },
         {
             "market": "magi",
-            "link": "/items/1735517132",
+            "link": "/items/364307314",
+            "price": 40,
+            "name": "1枚40円 あくの塔",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/715849684",
+            "price": 330,
+            "name": "あくの塔 166/1",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1663801773",
             "price": 100,
             "name": "あくの塔 166/1",
             "date": "2022-12-24",
@@ -714,35 +850,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/364307314",
-            "price": 40,
-            "name": "1枚40円 あくの塔",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1363095818",
             "price": 50,
             "name": "あくの塔 166/1",
             "date": "2022-12-24",
             "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/715849684",
-            "price": 330,
-            "name": "あくの塔 166/1",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21313",
-            "price": 200,
-            "name": "あくの塔:ミラー(C",
-            "date": "2022-12-24",
-            "stock": 2
         },
         {
             "market": "hareruya2",
@@ -753,6 +865,14 @@
             "stock": 289
         },
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21313",
+            "price": 200,
+            "name": "あくの塔:ミラー(C",
+            "date": "2022-12-24",
+            "stock": 2
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22804",
             "price": 80,
@@ -786,15 +906,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1663801773",
-            "price": 100,
-            "name": "あくの塔 166/1",
-            "date": "2022-12-23",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2077865049",
+            "link": "/items/1165284963",
             "price": 100,
             "name": "あくの塔 166/1",
             "date": "2022-12-23",
@@ -818,7 +930,31 @@
         },
         {
             "market": "magi",
-            "link": "/items/1165284963",
+            "link": "/items/364307314",
+            "price": 40,
+            "name": "1枚40円 あくの塔",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2077865049",
+            "price": 100,
+            "name": "あくの塔 166/1",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1663801773",
+            "price": 100,
+            "name": "あくの塔 166/1",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1735517132",
             "price": 100,
             "name": "あくの塔 166/1",
             "date": "2022-12-23",
@@ -842,17 +978,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1735517132",
-            "price": 100,
+            "link": "/items/715849684",
+            "price": 330,
             "name": "あくの塔 166/1",
-            "date": "2022-12-23",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/364307314",
-            "price": 40,
-            "name": "1枚40円 あくの塔",
             "date": "2022-12-23",
             "stock": 1
         },
@@ -861,14 +989,6 @@
             "link": "/items/796304067",
             "price": 60,
             "name": "1枚60円 あくの塔",
-            "date": "2022-12-23",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/715849684",
-            "price": 330,
-            "name": "あくの塔 166/1",
             "date": "2022-12-23",
             "stock": 1
         },
@@ -906,14 +1026,6 @@
         },
         {
             "market": "torecolo",
-            "link": "/shop/g/g166-184-S8B-BM/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-23",
-            "stock": 7
-        },
-        {
-            "market": "torecolo",
             "link": "/shop/g/g166-184-S8B-B/",
             "price": 55,
             "name": "【ポケカ】Ｃ）通常仕",
@@ -921,139 +1033,11 @@
             "stock": 56
         },
         {
-            "market": "magi",
-            "link": "/items/796304067",
-            "price": 60,
-            "name": "1枚60円 あくの塔",
-            "date": "2022-12-22",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1165284963",
-            "price": 100,
-            "name": "あくの塔 166/1",
-            "date": "2022-12-22",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/715849684",
-            "price": 330,
-            "name": "あくの塔 166/1",
-            "date": "2022-12-22",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/87051188",
-            "price": 100,
-            "name": "あくの塔 166/1",
-            "date": "2022-12-22",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1853224871",
-            "price": 130,
-            "name": "あくの塔 166/1",
-            "date": "2022-12-22",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/364307314",
-            "price": 40,
-            "name": "1枚40円 あくの塔",
-            "date": "2022-12-22",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2077865049",
-            "price": 100,
-            "name": "あくの塔 166/1",
-            "date": "2022-12-22",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1723187223",
-            "price": 50,
-            "name": "あくの塔 166/1",
-            "date": "2022-12-22",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1363095818",
-            "price": 50,
-            "name": "あくの塔 166/1",
-            "date": "2022-12-22",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1735517132",
-            "price": 100,
-            "name": "あくの塔 166/1",
-            "date": "2022-12-22",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1663801773",
-            "price": 100,
-            "name": "あくの塔 166/1",
-            "date": "2022-12-22",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21134",
-            "price": 50,
-            "name": "あくの塔(CP){ス",
-            "date": "2022-12-22",
-            "stock": 293
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21313",
-            "price": 200,
-            "name": "あくの塔:ミラー(C",
-            "date": "2022-12-22",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22945",
-            "price": 120,
-            "name": "あくの塔166/18",
-            "date": "2022-12-22",
-            "stock": 67
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22804",
-            "price": 80,
-            "name": "あくの塔166/18",
-            "date": "2022-12-22",
-            "stock": 69
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g166-184-S8B-B/",
-            "price": 55,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-22",
-            "stock": 56
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g166-184-S8B-BM/",
             "price": 110,
             "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-22",
+            "date": "2022-12-23",
             "stock": 7
         }
     ]
