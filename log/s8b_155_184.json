@@ -2,11 +2,83 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/433145887",
+            "price": 100,
+            "name": "とりつかい 155/",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/230279579",
             "price": 100,
             "name": "とりつかい 155/",
-            "date": "2022-12-30",
+            "date": "2022-12-31",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/4540648",
+            "price": 100,
+            "name": "【Ｄ特価】とりつかい",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1037014916",
+            "price": 100,
+            "name": "とりつかい 155/",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21302",
+            "price": 150,
+            "name": "とりつかい:ミラー(",
+            "date": "2022-12-31",
+            "stock": 2
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21123",
+            "price": 50,
+            "name": "とりつかい(CP){",
+            "date": "2022-12-31",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22934",
+            "price": 120,
+            "name": "とりつかい155/1",
+            "date": "2022-12-31",
+            "stock": 11
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32973",
+            "price": 110,
+            "name": "とりつかい155/1",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22793",
+            "price": 80,
+            "name": "とりつかい155/1",
+            "date": "2022-12-31",
+            "stock": 84
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g155-184-S8B-B/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-31",
+            "stock": 6
         },
         {
             "market": "magi",
@@ -33,12 +105,12 @@
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21302",
-            "price": 150,
-            "name": "とりつかい:ミラー(",
+            "market": "magi",
+            "link": "/items/230279579",
+            "price": 100,
+            "name": "とりつかい 155/",
             "date": "2022-12-30",
-            "stock": 2
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -49,12 +121,20 @@
             "stock": 3
         },
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21302",
+            "price": 150,
+            "name": "とりつかい:ミラー(",
+            "date": "2022-12-30",
+            "stock": 2
+        },
+        {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22793",
-            "price": 80,
+            "link": "https://www.cardrush-pokemon.jp/product/32973",
+            "price": 110,
             "name": "とりつかい155/1",
             "date": "2022-12-30",
-            "stock": 85
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -66,11 +146,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32973",
-            "price": 110,
+            "link": "https://www.cardrush-pokemon.jp/product/22793",
+            "price": 80,
             "name": "とりつかい155/1",
             "date": "2022-12-30",
-            "stock": 1
+            "stock": 85
         },
         {
             "market": "torecolo",
@@ -79,14 +159,6 @@
             "name": "【ポケカ】Ｃ）通常仕",
             "date": "2022-12-30",
             "stock": 6
-        },
-        {
-            "market": "magi",
-            "link": "/items/4540648",
-            "price": 100,
-            "name": "【Ｄ特価】とりつかい",
-            "date": "2022-12-29",
-            "stock": 1
         },
         {
             "market": "magi",
@@ -106,19 +178,19 @@
         },
         {
             "market": "magi",
+            "link": "/items/4540648",
+            "price": 100,
+            "name": "【Ｄ特価】とりつかい",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1037014916",
             "price": 100,
             "name": "とりつかい 155/",
             "date": "2022-12-29",
             "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21302",
-            "price": 150,
-            "name": "とりつかい:ミラー(",
-            "date": "2022-12-29",
-            "stock": 2
         },
         {
             "market": "hareruya2",
@@ -129,20 +201,12 @@
             "stock": 8
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22934",
-            "price": 120,
-            "name": "とりつかい155/1",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21302",
+            "price": 150,
+            "name": "とりつかい:ミラー(",
             "date": "2022-12-29",
-            "stock": 11
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32973",
-            "price": 110,
-            "name": "とりつかい155/1",
-            "date": "2022-12-29",
-            "stock": 1
+            "stock": 2
         },
         {
             "market": "cardrush",
@@ -153,12 +217,44 @@
             "stock": 92
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32973",
+            "price": 110,
+            "name": "とりつかい155/1",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22934",
+            "price": 120,
+            "name": "とりつかい155/1",
+            "date": "2022-12-29",
+            "stock": 11
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g155-184-S8B-B/",
             "price": 110,
             "name": "【ポケカ】Ｃ）通常仕",
             "date": "2022-12-29",
             "stock": 6
+        },
+        {
+            "market": "magi",
+            "link": "/items/1037014916",
+            "price": 100,
+            "name": "とりつかい 155/",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/4540648",
+            "price": 100,
+            "name": "【Ｄ特価】とりつかい",
+            "date": "2022-12-28",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -175,30 +271,6 @@
             "name": "とりつかい 155/",
             "date": "2022-12-28",
             "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/4540648",
-            "price": 100,
-            "name": "【Ｄ特価】とりつかい",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1037014916",
-            "price": 100,
-            "name": "とりつかい 155/",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21302",
-            "price": 150,
-            "name": "とりつかい:ミラー(",
-            "date": "2022-12-28",
-            "stock": 2
         },
         {
             "market": "hareruya2",
@@ -209,6 +281,14 @@
             "stock": 10
         },
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21302",
+            "price": 150,
+            "name": "とりつかい:ミラー(",
+            "date": "2022-12-28",
+            "stock": 2
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32973",
             "price": 110,
@@ -242,9 +322,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/4540648",
+            "link": "/items/433145887",
             "price": 100,
-            "name": "【Ｄ特価】とりつかい",
+            "name": "とりつかい 155/",
             "date": "2022-12-27",
             "stock": 1
         },
@@ -266,9 +346,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/433145887",
+            "link": "/items/4540648",
             "price": 100,
-            "name": "とりつかい 155/",
+            "name": "【Ｄ特価】とりつかい",
             "date": "2022-12-27",
             "stock": 1
         },
@@ -290,11 +370,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32973",
-            "price": 110,
+            "link": "https://www.cardrush-pokemon.jp/product/22793",
+            "price": 80,
             "name": "とりつかい155/1",
             "date": "2022-12-27",
-            "stock": 1
+            "stock": 100
         },
         {
             "market": "cardrush",
@@ -306,11 +386,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22793",
-            "price": 80,
+            "link": "https://www.cardrush-pokemon.jp/product/32973",
+            "price": 110,
             "name": "とりつかい155/1",
             "date": "2022-12-27",
-            "stock": 100
+            "stock": 1
         },
         {
             "market": "torecolo",
@@ -322,9 +402,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/4540648",
+            "link": "/items/1037014916",
             "price": 100,
-            "name": "【Ｄ特価】とりつかい",
+            "name": "とりつかい 155/",
             "date": "2022-12-26",
             "stock": 1
         },
@@ -338,27 +418,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/433145887",
+            "link": "/items/4540648",
             "price": 100,
-            "name": "とりつかい 155/",
+            "name": "【Ｄ特価】とりつかい",
             "date": "2022-12-26",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1037014916",
+            "link": "/items/433145887",
             "price": 100,
             "name": "とりつかい 155/",
             "date": "2022-12-26",
             "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21302",
-            "price": 150,
-            "name": "とりつかい:ミラー(",
-            "date": "2022-12-26",
-            "stock": 2
         },
         {
             "market": "hareruya2",
@@ -369,20 +441,12 @@
             "stock": 12
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32973",
-            "price": 110,
-            "name": "とりつかい155/1",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21302",
+            "price": 150,
+            "name": "とりつかい:ミラー(",
             "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22934",
-            "price": 120,
-            "name": "とりつかい155/1",
-            "date": "2022-12-26",
-            "stock": 13
+            "stock": 2
         },
         {
             "market": "cardrush",
@@ -393,12 +457,36 @@
             "stock": 105
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22934",
+            "price": 120,
+            "name": "とりつかい155/1",
+            "date": "2022-12-26",
+            "stock": 13
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32973",
+            "price": 110,
+            "name": "とりつかい155/1",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g155-184-S8B-B/",
             "price": 110,
             "name": "【ポケカ】Ｃ）通常仕",
             "date": "2022-12-26",
             "stock": 6
+        },
+        {
+            "market": "magi",
+            "link": "/items/4540648",
+            "price": 100,
+            "name": "【Ｄ特価】とりつかい",
+            "date": "2022-12-25",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -413,14 +501,6 @@
             "link": "/items/433145887",
             "price": 100,
             "name": "とりつかい 155/",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/4540648",
-            "price": 100,
-            "name": "【Ｄ特価】とりつかい",
             "date": "2022-12-25",
             "stock": 1
         },
@@ -482,6 +562,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/230279579",
+            "price": 100,
+            "name": "とりつかい 155/",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/433145887",
             "price": 100,
             "name": "とりつかい 155/",
@@ -505,14 +593,6 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/230279579",
-            "price": 100,
-            "name": "とりつかい 155/",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21302",
             "price": 150,
@@ -527,6 +607,14 @@
             "name": "とりつかい(CP){",
             "date": "2022-12-24",
             "stock": 15
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22793",
+            "price": 80,
+            "name": "とりつかい155/1",
+            "date": "2022-12-24",
+            "stock": 112
         },
         {
             "market": "cardrush",
@@ -545,99 +633,11 @@
             "stock": 13
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22793",
-            "price": 80,
-            "name": "とりつかい155/1",
-            "date": "2022-12-24",
-            "stock": 112
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g155-184-S8B-B/",
             "price": 110,
             "name": "【ポケカ】Ｃ）通常仕",
             "date": "2022-12-24",
-            "stock": 6
-        },
-        {
-            "market": "magi",
-            "link": "/items/230279579",
-            "price": 100,
-            "name": "とりつかい 155/",
-            "date": "2022-12-23",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/4540648",
-            "price": 100,
-            "name": "【Ｄ特価】とりつかい",
-            "date": "2022-12-23",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1037014916",
-            "price": 100,
-            "name": "とりつかい 155/",
-            "date": "2022-12-23",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/433145887",
-            "price": 100,
-            "name": "とりつかい 155/",
-            "date": "2022-12-23",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21123",
-            "price": 50,
-            "name": "とりつかい(CP){",
-            "date": "2022-12-23",
-            "stock": 15
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21302",
-            "price": 150,
-            "name": "とりつかい:ミラー(",
-            "date": "2022-12-23",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22934",
-            "price": 120,
-            "name": "とりつかい155/1",
-            "date": "2022-12-23",
-            "stock": 13
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22793",
-            "price": 80,
-            "name": "とりつかい155/1",
-            "date": "2022-12-23",
-            "stock": 112
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32973",
-            "price": 110,
-            "name": "とりつかい155/1",
-            "date": "2022-12-23",
-            "stock": 1
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g155-184-S8B-B/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-23",
             "stock": 6
         }
     ]

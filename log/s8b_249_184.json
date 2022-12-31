@@ -1,6 +1,22 @@
 ﻿{
     "items": [
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23118",
+            "price": 930,
+            "name": "アーマーガアVMAX",
+            "date": "2022-12-31",
+            "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23025",
+            "price": 1080,
+            "name": "アーマーガアVMAX",
+            "date": "2022-12-31",
+            "stock": 86
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21393",
             "price": 1100,
@@ -58,19 +74,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23118",
-            "price": 930,
-            "name": "アーマーガアVMAX",
-            "date": "2022-12-28",
-            "stock": 13
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23025",
             "price": 1080,
             "name": "アーマーガアVMAX",
             "date": "2022-12-28",
             "stock": 91
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23118",
+            "price": 930,
+            "name": "アーマーガアVMAX",
+            "date": "2022-12-28",
+            "stock": 13
         },
         {
             "market": "hareruya2",
@@ -154,14 +170,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23025",
-            "price": 1080,
-            "name": "アーマーガアVMAX",
-            "date": "2022-12-24",
-            "stock": 69
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23118",
             "price": 930,
             "name": "アーマーガアVMAX",
@@ -169,28 +177,12 @@
             "stock": 13
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21393",
-            "price": 1100,
-            "name": "アーマーガアVMAX",
-            "date": "2022-12-23",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23118",
-            "price": 930,
-            "name": "アーマーガアVMAX",
-            "date": "2022-12-23",
-            "stock": 9
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23025",
             "price": 1080,
             "name": "アーマーガアVMAX",
-            "date": "2022-12-23",
-            "stock": 74
+            "date": "2022-12-24",
+            "stock": 69
         }
     ]
 }

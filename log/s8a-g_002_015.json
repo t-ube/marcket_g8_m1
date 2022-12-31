@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/22374",
             "price": 4000,
             "name": "モンスターボール(D",
+            "date": "2022-12-31",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33510",
+            "price": 4980,
+            "name": "モンスターボール00",
+            "date": "2022-12-31",
+            "stock": 9
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22374",
+            "price": 4000,
+            "name": "モンスターボール(D",
             "date": "2022-12-30",
             "stock": 4
         },
@@ -162,14 +178,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33510",
-            "price": 4980,
-            "name": "モンスターボール00",
-            "date": "2022-12-24",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23853",
             "price": 3980,
             "name": "モンスターボール00",
@@ -177,27 +185,11 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/593772688",
-            "price": 4400,
-            "name": "モンスターボール　 ",
-            "date": "2022-12-23",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22374",
-            "price": 4200,
-            "name": "モンスターボール(D",
-            "date": "2022-12-23",
-            "stock": 8
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33510",
             "price": 4980,
             "name": "モンスターボール00",
-            "date": "2022-12-23",
+            "date": "2022-12-24",
             "stock": 9
         }
     ]

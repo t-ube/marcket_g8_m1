@@ -5,6 +5,30 @@
             "link": "/items/123381922",
             "price": 200,
             "name": "アーマーガアVMAX",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1036255426",
+            "price": 100,
+            "name": "アーマーガアVMAX",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19069",
+            "price": 100,
+            "name": "アーマーガアVMAX",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/123381922",
+            "price": 200,
+            "name": "アーマーガアVMAX",
             "date": "2022-12-30",
             "stock": 1
         },
@@ -110,22 +134,6 @@
             "price": 100,
             "name": "アーマーガアVMAX",
             "date": "2022-12-24",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/123381922",
-            "price": 200,
-            "name": "アーマーガアVMAX",
-            "date": "2022-12-23",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19069",
-            "price": 100,
-            "name": "アーマーガアVMAX",
-            "date": "2022-12-23",
             "stock": 4
         }
     ]

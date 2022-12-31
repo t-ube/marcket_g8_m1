@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/19665",
             "price": 100,
             "name": "ルガルガンV(RR)",
+            "date": "2022-12-31",
+            "stock": 56
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21237",
+            "price": 80,
+            "name": "ルガルガンV024/",
+            "date": "2022-12-31",
+            "stock": 80
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19665",
+            "price": 100,
+            "name": "ルガルガンV(RR)",
             "date": "2022-12-30",
             "stock": 56
         },
@@ -110,22 +126,6 @@
             "price": 80,
             "name": "ルガルガンV024/",
             "date": "2022-12-24",
-            "stock": 80
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19665",
-            "price": 100,
-            "name": "ルガルガンV(RR)",
-            "date": "2022-12-23",
-            "stock": 56
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21237",
-            "price": 80,
-            "name": "ルガルガンV024/",
-            "date": "2022-12-23",
             "stock": 80
         }
     ]
