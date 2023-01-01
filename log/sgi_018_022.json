@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/19470",
             "price": 150,
             "name": "冒険家の発見(-){",
+            "date": "2023-01-01",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20644",
+            "price": 120,
+            "name": "冒険家の発見018/",
+            "date": "2023-01-01",
+            "stock": 25
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g018-022-SGI-B/",
+            "price": 110,
+            "name": "【ポケカ】ＳＳ）Ｒ仕",
+            "date": "2023-01-01",
+            "stock": 15
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19470",
+            "price": 150,
+            "name": "冒険家の発見(-){",
             "date": "2022-12-31",
             "stock": 3
         },
@@ -166,30 +190,6 @@
             "price": 110,
             "name": "【ポケカ】ＳＳ）Ｒ仕",
             "date": "2022-12-25",
-            "stock": 15
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19470",
-            "price": 150,
-            "name": "冒険家の発見(-){",
-            "date": "2022-12-24",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20644",
-            "price": 120,
-            "name": "冒険家の発見018/",
-            "date": "2022-12-24",
-            "stock": 21
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g018-022-SGI-B/",
-            "price": 110,
-            "name": "【ポケカ】ＳＳ）Ｒ仕",
-            "date": "2022-12-24",
             "stock": 15
         }
     ]

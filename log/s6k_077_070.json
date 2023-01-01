@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/19405",
             "price": 800,
             "name": "メタグロスV(SR)",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31907",
+            "price": 680,
+            "name": "メタグロスV077/",
+            "date": "2023-01-01",
+            "stock": 19
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20174",
+            "price": 780,
+            "name": "メタグロスV077/",
+            "date": "2023-01-01",
+            "stock": 90
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19405",
+            "price": 800,
+            "name": "メタグロスV(SR)",
             "date": "2022-12-31",
             "stock": 1
         },
@@ -58,6 +82,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20174",
+            "price": 780,
+            "name": "メタグロスV077/",
+            "date": "2022-12-29",
+            "stock": 100
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31907",
             "price": 680,
             "name": "メタグロスV077/",
@@ -65,28 +97,12 @@
             "stock": 19
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20174",
-            "price": 780,
-            "name": "メタグロスV077/",
-            "date": "2022-12-29",
-            "stock": 100
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19405",
             "price": 800,
             "name": "メタグロスV(SR)",
             "date": "2022-12-28",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20174",
-            "price": 780,
-            "name": "メタグロスV077/",
-            "date": "2022-12-28",
-            "stock": 100
         },
         {
             "market": "cardrush",
@@ -97,20 +113,20 @@
             "stock": 16
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20174",
+            "price": 780,
+            "name": "メタグロスV077/",
+            "date": "2022-12-28",
+            "stock": 100
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19405",
             "price": 800,
             "name": "メタグロスV(SR)",
             "date": "2022-12-27",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31907",
-            "price": 680,
-            "name": "メタグロスV077/",
-            "date": "2022-12-27",
-            "stock": 16
         },
         {
             "market": "cardrush",
@@ -121,12 +137,28 @@
             "stock": 93
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31907",
+            "price": 680,
+            "name": "メタグロスV077/",
+            "date": "2022-12-27",
+            "stock": 16
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19405",
             "price": 800,
             "name": "メタグロスV(SR)",
             "date": "2022-12-26",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31907",
+            "price": 680,
+            "name": "メタグロスV077/",
+            "date": "2022-12-26",
+            "stock": 16
         },
         {
             "market": "cardrush",
@@ -137,28 +169,12 @@
             "stock": 93
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31907",
-            "price": 680,
-            "name": "メタグロスV077/",
-            "date": "2022-12-26",
-            "stock": 16
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19405",
             "price": 800,
             "name": "メタグロスV(SR)",
             "date": "2022-12-25",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31907",
-            "price": 680,
-            "name": "メタグロスV077/",
-            "date": "2022-12-25",
-            "stock": 16
         },
         {
             "market": "cardrush",
@@ -169,27 +185,11 @@
             "stock": 88
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19405",
-            "price": 800,
-            "name": "メタグロスV(SR)",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20174",
-            "price": 780,
-            "name": "メタグロスV077/",
-            "date": "2022-12-24",
-            "stock": 88
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31907",
             "price": 680,
             "name": "メタグロスV077/",
-            "date": "2022-12-24",
+            "date": "2022-12-25",
             "stock": 16
         }
     ]

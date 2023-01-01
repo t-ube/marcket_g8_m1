@@ -1,6 +1,38 @@
 ﻿{
     "items": [
         {
+            "market": "magi",
+            "link": "/items/1372713103",
+            "price": 160,
+            "name": "レベルボール U 0",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1830521193",
+            "price": 160,
+            "name": "レベルボール U 0",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19076",
+            "price": 100,
+            "name": "レベルボール(U){",
+            "date": "2023-01-01",
+            "stock": 7
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g063-070-S5R-B/",
+            "price": 110,
+            "name": "【ポケカ】Ｕ◇レベル",
+            "date": "2023-01-01",
+            "stock": 5
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19076",
             "price": 100,
@@ -110,22 +142,6 @@
             "price": 110,
             "name": "【ポケカ】Ｕ◇レベル",
             "date": "2022-12-25",
-            "stock": 5
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19076",
-            "price": 100,
-            "name": "レベルボール(U){",
-            "date": "2022-12-24",
-            "stock": 14
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g063-070-S5R-B/",
-            "price": 110,
-            "name": "【ポケカ】Ｕ◇レベル",
-            "date": "2022-12-24",
             "stock": 5
         }
     ]

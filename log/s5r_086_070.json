@@ -5,6 +5,22 @@
             "link": "/items/2051525787",
             "price": 1000,
             "name": "コルニの気合い HR",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18266",
+            "price": 2380,
+            "name": "コルニの気合い086",
+            "date": "2023-01-01",
+            "stock": 7
+        },
+        {
+            "market": "magi",
+            "link": "/items/2051525787",
+            "price": 1000,
+            "name": "コルニの気合い HR",
             "date": "2022-12-31",
             "stock": 1
         },
@@ -79,14 +95,6 @@
             "name": "コルニの気合い086",
             "date": "2022-12-25",
             "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18266",
-            "price": 2380,
-            "name": "コルニの気合い086",
-            "date": "2022-12-24",
-            "stock": 7
         }
     ]
 }

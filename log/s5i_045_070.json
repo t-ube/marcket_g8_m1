@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/18967",
             "price": 100,
             "name": "ヘルガー(R){悪}",
+            "date": "2023-01-01",
+            "stock": 36
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18097",
+            "price": 80,
+            "name": "ヘルガー045/07",
+            "date": "2023-01-01",
+            "stock": 25
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18967",
+            "price": 100,
+            "name": "ヘルガー(R){悪}",
             "date": "2022-12-31",
             "stock": 36
         },
@@ -110,22 +126,6 @@
             "price": 80,
             "name": "ヘルガー045/07",
             "date": "2022-12-25",
-            "stock": 25
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18967",
-            "price": 100,
-            "name": "ヘルガー(R){悪}",
-            "date": "2022-12-24",
-            "stock": 36
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18097",
-            "price": 80,
-            "name": "ヘルガー045/07",
-            "date": "2022-12-24",
             "stock": 25
         }
     ]

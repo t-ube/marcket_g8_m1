@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/19744",
             "price": 200,
             "name": "チャーレムV(RR)",
+            "date": "2023-01-01",
+            "stock": 29
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21316",
+            "price": 180,
+            "name": "チャーレムV036/",
+            "date": "2023-01-01",
+            "stock": 7
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19744",
+            "price": 200,
+            "name": "チャーレムV(RR)",
             "date": "2022-12-31",
             "stock": 29
         },
@@ -103,14 +119,6 @@
             "name": "チャーレムV(RR)",
             "date": "2022-12-25",
             "stock": 33
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19744",
-            "price": 200,
-            "name": "チャーレムV(RR)",
-            "date": "2022-12-24",
-            "stock": 34
         }
     ]
 }

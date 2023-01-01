@@ -5,6 +5,30 @@
             "link": "/items/2097628850",
             "price": 980,
             "name": "クイックボール(R仕",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/953254448",
+            "price": 699,
+            "name": "クイックボール(R仕",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20638",
+            "price": 320,
+            "name": "クイックボール012",
+            "date": "2023-01-01",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/2097628850",
+            "price": 980,
+            "name": "クイックボール(R仕",
             "date": "2022-12-31",
             "stock": 1
         },
@@ -42,16 +66,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/2097628850",
-            "price": 980,
+            "link": "/items/953254448",
+            "price": 699,
             "name": "クイックボール(R仕",
             "date": "2022-12-29",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/953254448",
-            "price": 699,
+            "link": "/items/2097628850",
+            "price": 980,
             "name": "クイックボール(R仕",
             "date": "2022-12-29",
             "stock": 1
@@ -66,16 +90,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/953254448",
-            "price": 699,
+            "link": "/items/2097628850",
+            "price": 980,
             "name": "クイックボール(R仕",
             "date": "2022-12-28",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/2097628850",
-            "price": 980,
+            "link": "/items/953254448",
+            "price": 699,
             "name": "クイックボール(R仕",
             "date": "2022-12-28",
             "stock": 1
@@ -86,14 +110,6 @@
             "price": 300,
             "name": "クイックボール012",
             "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/953254448",
-            "price": 699,
-            "name": "クイックボール(R仕",
-            "date": "2022-12-27",
             "stock": 1
         },
         {
@@ -109,7 +125,7 @@
             "link": "/items/953254448",
             "price": 699,
             "name": "クイックボール(R仕",
-            "date": "2022-12-26",
+            "date": "2022-12-27",
             "stock": 1
         },
         {
@@ -125,7 +141,7 @@
             "link": "/items/953254448",
             "price": 699,
             "name": "クイックボール(R仕",
-            "date": "2022-12-25",
+            "date": "2022-12-26",
             "stock": 1
         },
         {
@@ -134,14 +150,6 @@
             "price": 980,
             "name": "クイックボール(R仕",
             "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2097628850",
-            "price": 980,
-            "name": "クイックボール(R仕",
-            "date": "2022-12-24",
             "stock": 1
         },
         {
@@ -149,16 +157,8 @@
             "link": "/items/953254448",
             "price": 699,
             "name": "クイックボール(R仕",
-            "date": "2022-12-24",
+            "date": "2022-12-25",
             "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19464",
-            "price": 400,
-            "name": "クイックボール(-)",
-            "date": "2022-12-24",
-            "stock": 17
         }
     ]
 }

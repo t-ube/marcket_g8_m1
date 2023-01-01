@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/19777",
             "price": 50,
             "name": "ワタシラガ(-){草",
+            "date": "2023-01-01",
+            "stock": 32
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21351",
+            "price": 30,
+            "name": "ワタシラガ004/0",
+            "date": "2023-01-01",
+            "stock": 98
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g004-053-SH-B/",
+            "price": 33,
+            "name": "【ポケカ】ＳＳ◇ワタ",
+            "date": "2023-01-01",
+            "stock": 12
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19777",
+            "price": 50,
+            "name": "ワタシラガ(-){草",
             "date": "2022-12-31",
             "stock": 32
         },
@@ -166,30 +190,6 @@
             "price": 33,
             "name": "【ポケカ】ＳＳ◇ワタ",
             "date": "2022-12-25",
-            "stock": 12
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19777",
-            "price": 50,
-            "name": "ワタシラガ(-){草",
-            "date": "2022-12-24",
-            "stock": 32
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21351",
-            "price": 30,
-            "name": "ワタシラガ004/0",
-            "date": "2022-12-24",
-            "stock": 98
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g004-053-SH-B/",
-            "price": 33,
-            "name": "【ポケカ】ＳＳ◇ワタ",
-            "date": "2022-12-24",
             "stock": 12
         }
     ]

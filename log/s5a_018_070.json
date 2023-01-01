@@ -5,6 +5,14 @@
             "link": "https://www.hareruya2.com/product/19155",
             "price": 100,
             "name": "インテレオン(R){",
+            "date": "2023-01-01",
+            "stock": 32
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19155",
+            "price": 100,
+            "name": "インテレオン(R){",
             "date": "2022-12-31",
             "stock": 31
         },
@@ -55,14 +63,6 @@
             "name": "インテレオン(R){",
             "date": "2022-12-25",
             "stock": 37
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19155",
-            "price": 100,
-            "name": "インテレオン(R){",
-            "date": "2022-12-24",
-            "stock": 39
         }
     ]
 }

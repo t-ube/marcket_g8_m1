@@ -1,6 +1,22 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19113",
+            "price": 150,
+            "name": "しんかのおこう(D)",
+            "date": "2023-01-01",
+            "stock": 6
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g009-033-SF-B/",
+            "price": 220,
+            "name": "【ポケカ】ＳＳ◇しん",
+            "date": "2023-01-01",
+            "stock": 2
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g009-033-SF-B/",
             "price": 220,
@@ -54,14 +70,6 @@
             "price": 220,
             "name": "【ポケカ】ＳＳ◇しん",
             "date": "2022-12-25",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g009-033-SF-B/",
-            "price": 220,
-            "name": "【ポケカ】ＳＳ◇しん",
-            "date": "2022-12-24",
             "stock": 2
         }
     ]

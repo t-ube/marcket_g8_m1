@@ -5,6 +5,22 @@
             "link": "/items/777116337",
             "price": 490,
             "name": "ガラルヤドキングVM",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19184",
+            "price": 250,
+            "name": "ガラルヤドキングVM",
+            "date": "2023-01-01",
+            "stock": 38
+        },
+        {
+            "market": "magi",
+            "link": "/items/777116337",
+            "price": 490,
+            "name": "ガラルヤドキングVM",
             "date": "2022-12-31",
             "stock": 1
         },
@@ -98,16 +114,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/777116337",
-            "price": 490,
+            "link": "/items/256884762",
+            "price": 100,
             "name": "ガラルヤドキングVM",
             "date": "2022-12-25",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/256884762",
-            "price": 100,
+            "link": "/items/777116337",
+            "price": 490,
             "name": "ガラルヤドキングVM",
             "date": "2022-12-25",
             "stock": 1
@@ -118,30 +134,6 @@
             "price": 250,
             "name": "ガラルヤドキングVM",
             "date": "2022-12-25",
-            "stock": 38
-        },
-        {
-            "market": "magi",
-            "link": "/items/777116337",
-            "price": 490,
-            "name": "ガラルヤドキングVM",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/256884762",
-            "price": 100,
-            "name": "ガラルヤドキングVM",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19184",
-            "price": 250,
-            "name": "ガラルヤドキングVM",
-            "date": "2022-12-24",
             "stock": 38
         }
     ]

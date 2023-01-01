@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/19839",
             "price": 100,
             "name": "クラッシュハンマー(",
+            "date": "2023-01-01",
+            "stock": 45
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21413",
+            "price": 80,
+            "name": "クラッシュハンマー0",
+            "date": "2023-01-01",
+            "stock": 24
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g041-053-SH-B/",
+            "price": 77,
+            "name": "【ポケカ】ＳＳ◇クラ",
+            "date": "2023-01-01",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19839",
+            "price": 100,
+            "name": "クラッシュハンマー(",
             "date": "2022-12-31",
             "stock": 45
         },
@@ -166,30 +190,6 @@
             "price": 77,
             "name": "【ポケカ】ＳＳ◇クラ",
             "date": "2022-12-25",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19839",
-            "price": 100,
-            "name": "クラッシュハンマー(",
-            "date": "2022-12-24",
-            "stock": 45
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21413",
-            "price": 80,
-            "name": "クラッシュハンマー0",
-            "date": "2022-12-24",
-            "stock": 24
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g041-053-SH-B/",
-            "price": 77,
-            "name": "【ポケカ】ＳＳ◇クラ",
-            "date": "2022-12-24",
             "stock": 4
         }
     ]

@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/19131",
             "price": 100,
             "name": "ホラー超エネルギー(",
+            "date": "2023-01-01",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18223",
+            "price": 80,
+            "name": "ホラー超エネルギー0",
+            "date": "2023-01-01",
+            "stock": 101
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19131",
+            "price": 100,
+            "name": "ホラー超エネルギー(",
             "date": "2022-12-31",
             "stock": 2
         },
@@ -111,22 +127,6 @@
             "name": "ホラー超エネルギー0",
             "date": "2022-12-25",
             "stock": 106
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19131",
-            "price": 100,
-            "name": "ホラー超エネルギー(",
-            "date": "2022-12-24",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18223",
-            "price": 80,
-            "name": "ホラー超エネルギー0",
-            "date": "2022-12-24",
-            "stock": 105
         }
     ]
 }

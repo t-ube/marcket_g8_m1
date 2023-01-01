@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/19141",
             "price": 50,
             "name": "ヘラクロス(C){草",
+            "date": "2023-01-01",
+            "stock": 28
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18680",
+            "price": 30,
+            "name": "ヘラクロス004/0",
+            "date": "2023-01-01",
+            "stock": 51
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g004-070-S5A-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ◇ヘラク",
+            "date": "2023-01-01",
+            "stock": 15
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19141",
+            "price": 50,
+            "name": "ヘラクロス(C){草",
             "date": "2022-12-31",
             "stock": 28
         },
@@ -166,30 +190,6 @@
             "price": 33,
             "name": "【ポケカ】Ｃ◇ヘラク",
             "date": "2022-12-25",
-            "stock": 15
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19141",
-            "price": 50,
-            "name": "ヘラクロス(C){草",
-            "date": "2022-12-24",
-            "stock": 28
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18680",
-            "price": 30,
-            "name": "ヘラクロス004/0",
-            "date": "2022-12-24",
-            "stock": 51
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g004-070-S5A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ◇ヘラク",
-            "date": "2022-12-24",
             "stock": 15
         }
     ]

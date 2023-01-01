@@ -1,6 +1,22 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19121",
+            "price": 100,
+            "name": "ふうせん(D){グッ",
+            "date": "2023-01-01",
+            "stock": 2
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g017-033-SF-B/",
+            "price": 165,
+            "name": "【ポケカ】ＳＳ◇ふう",
+            "date": "2023-01-01",
+            "stock": 2
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g017-033-SF-B/",
             "price": 165,
@@ -54,14 +70,6 @@
             "price": 165,
             "name": "【ポケカ】ＳＳ◇ふう",
             "date": "2022-12-25",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g017-033-SF-B/",
-            "price": 165,
-            "name": "【ポケカ】ＳＳ◇ふう",
-            "date": "2022-12-24",
             "stock": 2
         }
     ]
