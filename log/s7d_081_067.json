@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/19890",
             "price": 900,
             "name": "ダストダスVMAX(",
+            "date": "2023-01-02",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32378",
+            "price": 680,
+            "name": "ダストダスVMAX0",
+            "date": "2023-01-02",
+            "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21458",
+            "price": 780,
+            "name": "ダストダスVMAX0",
+            "date": "2023-01-02",
+            "stock": 33
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19890",
+            "price": 900,
+            "name": "ダストダスVMAX(",
             "date": "2023-01-01",
             "stock": 3
         },
@@ -58,14 +82,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32378",
-            "price": 680,
-            "name": "ダストダスVMAX0",
-            "date": "2022-12-30",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21458",
             "price": 780,
             "name": "ダストダスVMAX0",
@@ -73,6 +89,14 @@
             "stock": 32
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32378",
+            "price": 680,
+            "name": "ダストダスVMAX0",
+            "date": "2022-12-30",
+            "stock": 7
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19890",
             "price": 900,
@@ -154,14 +178,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21458",
-            "price": 780,
-            "name": "ダストダスVMAX0",
-            "date": "2022-12-26",
-            "stock": 32
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32378",
             "price": 680,
             "name": "ダストダスVMAX0",
@@ -169,27 +185,11 @@
             "stock": 6
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19890",
-            "price": 900,
-            "name": "ダストダスVMAX(",
-            "date": "2022-12-25",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32378",
-            "price": 680,
-            "name": "ダストダスVMAX0",
-            "date": "2022-12-25",
-            "stock": 6
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21458",
             "price": 780,
             "name": "ダストダスVMAX0",
-            "date": "2022-12-25",
+            "date": "2022-12-26",
             "stock": 32
         }
     ]

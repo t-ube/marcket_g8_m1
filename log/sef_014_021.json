@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/18894",
             "price": 100,
             "name": "ポケギア3.0(D)",
+            "date": "2023-01-02",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17801",
+            "price": 80,
+            "name": "ポケギア3.0014",
+            "date": "2023-01-02",
+            "stock": 49
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18894",
+            "price": 100,
+            "name": "ポケギア3.0(D)",
             "date": "2023-01-01",
             "stock": 3
         },
@@ -74,14 +90,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17801",
-            "price": 80,
-            "name": "ポケギア3.0014",
-            "date": "2022-12-28",
-            "stock": 51
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30965",
             "price": 70,
             "name": "ポケギア3.0014",
@@ -89,12 +97,28 @@
             "stock": 1
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17801",
+            "price": 80,
+            "name": "ポケギア3.0014",
+            "date": "2022-12-28",
+            "stock": 51
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18894",
             "price": 100,
             "name": "ポケギア3.0(D)",
             "date": "2022-12-27",
             "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30965",
+            "price": 70,
+            "name": "ポケギア3.0014",
+            "date": "2022-12-27",
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -105,14 +129,6 @@
             "stock": 51
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30965",
-            "price": 70,
-            "name": "ポケギア3.0014",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18894",
             "price": 100,
@@ -122,14 +138,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17801",
-            "price": 80,
-            "name": "ポケギア3.0014",
-            "date": "2022-12-26",
-            "stock": 51
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30965",
             "price": 70,
             "name": "ポケギア3.0014",
@@ -137,27 +145,11 @@
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18894",
-            "price": 100,
-            "name": "ポケギア3.0(D)",
-            "date": "2022-12-25",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30965",
-            "price": 70,
-            "name": "ポケギア3.0014",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17801",
             "price": 80,
             "name": "ポケギア3.0014",
-            "date": "2022-12-25",
+            "date": "2022-12-26",
             "stock": 51
         }
     ]

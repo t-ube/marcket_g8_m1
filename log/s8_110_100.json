@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/20483",
             "price": 800,
             "name": "ヨクバリスV(SR)",
+            "date": "2023-01-02",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32579",
+            "price": 680,
+            "name": "ヨクバリスV110/",
+            "date": "2023-01-02",
+            "stock": 17
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22195",
+            "price": 780,
+            "name": "ヨクバリスV110/",
+            "date": "2023-01-02",
+            "stock": 82
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20483",
+            "price": 800,
+            "name": "ヨクバリスV(SR)",
             "date": "2023-01-01",
             "stock": 3
         },
@@ -55,14 +79,6 @@
             "name": "ヨクバリスV(SR)",
             "date": "2022-12-30",
             "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32579",
-            "price": 680,
-            "name": "ヨクバリスV110/",
-            "date": "2022-12-30",
-            "stock": 17
         },
         {
             "market": "cardrush",
@@ -71,6 +87,14 @@
             "name": "ヨクバリスV110/",
             "date": "2022-12-30",
             "stock": 80
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32579",
+            "price": 680,
+            "name": "ヨクバリスV110/",
+            "date": "2022-12-30",
+            "stock": 17
         },
         {
             "market": "hareruya2",
@@ -154,34 +178,10 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22195",
-            "price": 780,
-            "name": "ヨクバリスV110/",
-            "date": "2022-12-26",
-            "stock": 75
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32579",
             "price": 680,
             "name": "ヨクバリスV110/",
             "date": "2022-12-26",
-            "stock": 16
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20483",
-            "price": 800,
-            "name": "ヨクバリスV(SR)",
-            "date": "2022-12-25",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32579",
-            "price": 680,
-            "name": "ヨクバリスV110/",
-            "date": "2022-12-25",
             "stock": 16
         },
         {
@@ -189,8 +189,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/22195",
             "price": 780,
             "name": "ヨクバリスV110/",
-            "date": "2022-12-25",
-            "stock": 74
+            "date": "2022-12-26",
+            "stock": 75
         }
     ]
 }

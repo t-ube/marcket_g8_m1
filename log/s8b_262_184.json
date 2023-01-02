@@ -1,6 +1,22 @@
 ﻿{
     "items": [
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23129",
+            "price": 730,
+            "name": "ジャッジマン262/",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g262-184-S8B-B/",
+            "price": 770,
+            "name": "【ポケカ】ＳＲ◇ジャ",
+            "date": "2023-01-02",
+            "stock": 2
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g262-184-S8B-B/",
             "price": 770,
@@ -62,22 +78,6 @@
             "price": 770,
             "name": "【ポケカ】ＳＲ◇ジャ",
             "date": "2022-12-26",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23038",
-            "price": 780,
-            "name": "ジャッジマン262/",
-            "date": "2022-12-25",
-            "stock": 23
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g262-184-S8B-B/",
-            "price": 770,
-            "name": "【ポケカ】ＳＲ◇ジャ",
-            "date": "2022-12-25",
             "stock": 6
         }
     ]

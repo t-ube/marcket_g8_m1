@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/20495",
             "price": 2400,
             "name": "カミツレのきらめき(",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22207",
+            "price": 2180,
+            "name": "カミツレのきらめき1",
+            "date": "2023-01-02",
+            "stock": 17
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20495",
+            "price": 2400,
+            "name": "カミツレのきらめき(",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -110,22 +126,6 @@
             "price": 2180,
             "name": "カミツレのきらめき1",
             "date": "2022-12-26",
-            "stock": 18
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20495",
-            "price": 2400,
-            "name": "カミツレのきらめき(",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22207",
-            "price": 2180,
-            "name": "カミツレのきらめき1",
-            "date": "2022-12-25",
             "stock": 18
         }
     ]

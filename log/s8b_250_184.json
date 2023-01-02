@@ -5,7 +5,15 @@
             "link": "/items/2015061094",
             "price": 1180,
             "name": "ザシアンV CSR ",
-            "date": "2023-01-01",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/495705970",
+            "price": 600,
+            "name": "ザシアンV CSR ",
+            "date": "2023-01-02",
             "stock": 1
         },
         {
@@ -13,13 +21,45 @@
             "link": "/items/754257697",
             "price": 1000,
             "name": "ザシアンV CSR ",
-            "date": "2023-01-01",
+            "date": "2023-01-02",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1070178741",
             "price": 1324,
+            "name": "ザシアンV CSR ",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21394",
+            "price": 1400,
+            "name": "ザシアンV(CSR)",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23119",
+            "price": 1090,
+            "name": "ザシアンV250/1",
+            "date": "2023-01-02",
+            "stock": 17
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23026",
+            "price": 1280,
+            "name": "ザシアンV250/1",
+            "date": "2023-01-02",
+            "stock": 82
+        },
+        {
+            "market": "magi",
+            "link": "/items/754257697",
+            "price": 1000,
             "name": "ザシアンV CSR ",
             "date": "2023-01-01",
             "stock": 1
@@ -33,20 +73,28 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/2015061094",
+            "price": 1180,
+            "name": "ザシアンV CSR ",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1070178741",
+            "price": 1324,
+            "name": "ザシアンV CSR ",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21394",
             "price": 1400,
             "name": "ザシアンV(CSR)",
             "date": "2023-01-01",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23119",
-            "price": 1090,
-            "name": "ザシアンV250/1",
-            "date": "2023-01-01",
-            "stock": 18
         },
         {
             "market": "cardrush",
@@ -57,6 +105,14 @@
             "stock": 83
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23119",
+            "price": 1090,
+            "name": "ザシアンV250/1",
+            "date": "2023-01-01",
+            "stock": 18
+        },
+        {
             "market": "magi",
             "link": "/items/754257697",
             "price": 1000,
@@ -74,16 +130,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/495705970",
-            "price": 600,
+            "link": "/items/2015061094",
+            "price": 1180,
             "name": "ザシアンV CSR ",
             "date": "2022-12-31",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/2015061094",
-            "price": 1180,
+            "link": "/items/495705970",
+            "price": 600,
             "name": "ザシアンV CSR ",
             "date": "2022-12-31",
             "stock": 1
@@ -95,14 +151,6 @@
             "name": "ザシアンV(CSR)",
             "date": "2022-12-31",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23119",
-            "price": 1090,
-            "name": "ザシアンV250/1",
-            "date": "2022-12-31",
-            "stock": 18
         },
         {
             "market": "cardrush",
@@ -113,17 +161,17 @@
             "stock": 88
         },
         {
-            "market": "magi",
-            "link": "/items/754257697",
-            "price": 1000,
-            "name": "ザシアンV CSR ",
-            "date": "2022-12-30",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23119",
+            "price": 1090,
+            "name": "ザシアンV250/1",
+            "date": "2022-12-31",
+            "stock": 18
         },
         {
             "market": "magi",
-            "link": "/items/495705970",
-            "price": 650,
+            "link": "/items/2015061094",
+            "price": 1180,
             "name": "ザシアンV CSR ",
             "date": "2022-12-30",
             "stock": 1
@@ -138,8 +186,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/2015061094",
-            "price": 1180,
+            "link": "/items/495705970",
+            "price": 650,
+            "name": "ザシアンV CSR ",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/754257697",
+            "price": 1000,
             "name": "ザシアンV CSR ",
             "date": "2022-12-30",
             "stock": 1
@@ -186,16 +242,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/495705970",
-            "price": 650,
+            "link": "/items/754257697",
+            "price": 1000,
             "name": "ザシアンV CSR ",
             "date": "2022-12-29",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/754257697",
-            "price": 1000,
+            "link": "/items/495705970",
+            "price": 650,
             "name": "ザシアンV CSR ",
             "date": "2022-12-29",
             "stock": 1
@@ -210,14 +266,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23026",
-            "price": 1280,
-            "name": "ザシアンV250/1",
-            "date": "2022-12-29",
-            "stock": 98
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23119",
             "price": 1090,
             "name": "ザシアンV250/1",
@@ -225,28 +273,12 @@
             "stock": 18
         },
         {
-            "market": "magi",
-            "link": "/items/1070178741",
-            "price": 1338,
-            "name": "ザシアンV CSR ",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/495705970",
-            "price": 650,
-            "name": "ザシアンV CSR ",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/754257697",
-            "price": 1000,
-            "name": "ザシアンV CSR ",
-            "date": "2022-12-28",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23026",
+            "price": 1280,
+            "name": "ザシアンV250/1",
+            "date": "2022-12-29",
+            "stock": 98
         },
         {
             "market": "magi",
@@ -257,20 +289,36 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/754257697",
+            "price": 1000,
+            "name": "ザシアンV CSR ",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/495705970",
+            "price": 650,
+            "name": "ザシアンV CSR ",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1070178741",
+            "price": 1338,
+            "name": "ザシアンV CSR ",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21394",
             "price": 1400,
             "name": "ザシアンV(CSR)",
             "date": "2022-12-28",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23119",
-            "price": 1090,
-            "name": "ザシアンV250/1",
-            "date": "2022-12-28",
-            "stock": 18
         },
         {
             "market": "cardrush",
@@ -281,17 +329,25 @@
             "stock": 98
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23119",
+            "price": 1090,
+            "name": "ザシアンV250/1",
+            "date": "2022-12-28",
+            "stock": 18
+        },
+        {
             "market": "magi",
-            "link": "/items/754257697",
-            "price": 1000,
+            "link": "/items/495705970",
+            "price": 650,
             "name": "ザシアンV CSR ",
             "date": "2022-12-27",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/495705970",
-            "price": 650,
+            "link": "/items/754257697",
+            "price": 1000,
             "name": "ザシアンV CSR ",
             "date": "2022-12-27",
             "stock": 1
@@ -338,24 +394,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/495705970",
-            "price": 650,
-            "name": "ザシアンV CSR ",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/754257697",
-            "price": 1000,
-            "name": "ザシアンV CSR ",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1070178741",
             "price": 1352,
+            "name": "ザシアンV CSR ",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/495705970",
+            "price": 650,
             "name": "ザシアンV CSR ",
             "date": "2022-12-26",
             "stock": 1
@@ -369,20 +417,20 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/754257697",
+            "price": 1000,
+            "name": "ザシアンV CSR ",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21394",
             "price": 1400,
             "name": "ザシアンV(CSR)",
             "date": "2022-12-26",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23119",
-            "price": 1090,
-            "name": "ザシアンV250/1",
-            "date": "2022-12-26",
-            "stock": 18
         },
         {
             "market": "cardrush",
@@ -393,51 +441,11 @@
             "stock": 97
         },
         {
-            "market": "magi",
-            "link": "/items/754257697",
-            "price": 1000,
-            "name": "ザシアンV CSR ",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2015061094",
-            "price": 1180,
-            "name": "ザシアンV CSR ",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1070178741",
-            "price": 1366,
-            "name": "ザシアンV CSR ",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21394",
-            "price": 1400,
-            "name": "ザシアンV(CSR)",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23026",
-            "price": 1280,
-            "name": "ザシアンV250/1",
-            "date": "2022-12-25",
-            "stock": 93
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23119",
             "price": 1090,
             "name": "ザシアンV250/1",
-            "date": "2022-12-25",
+            "date": "2022-12-26",
             "stock": 18
         }
     ]

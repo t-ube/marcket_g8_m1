@@ -1,12 +1,44 @@
 ﻿{
     "items": [
         {
+            "market": "magi",
+            "link": "/items/537117992",
+            "price": 100,
+            "name": "ポケモンいれかえ T",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33646",
+            "price": 80,
+            "name": "ポケモンいれかえ01",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7813",
             "price": 80,
             "name": "ポケモンいれかえ01",
-            "date": "2023-01-01",
+            "date": "2023-01-02",
             "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17823",
+            "price": 80,
+            "name": "ポケモンいれかえ01",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g014-021-SLL-R/",
+            "price": 88,
+            "name": "【ポケカ】ＳＳ◇ポケ",
+            "date": "2023-01-02",
+            "stock": 2
         },
         {
             "market": "cardrush",
@@ -15,6 +47,14 @@
             "name": "ポケモンいれかえ01",
             "date": "2023-01-01",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7813",
+            "price": 80,
+            "name": "ポケモンいれかえ01",
+            "date": "2023-01-01",
+            "stock": 4
         },
         {
             "market": "torecolo",
@@ -166,30 +206,6 @@
             "price": 88,
             "name": "【ポケカ】ＳＳ◇ポケ",
             "date": "2022-12-26",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17823",
-            "price": 80,
-            "name": "ポケモンいれかえ01",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7813",
-            "price": 80,
-            "name": "ポケモンいれかえ01",
-            "date": "2022-12-25",
-            "stock": 4
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g014-021-SLL-R/",
-            "price": 88,
-            "name": "【ポケカ】ＳＳ◇ポケ",
-            "date": "2022-12-25",
             "stock": 2
         }
     ]

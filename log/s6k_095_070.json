@@ -2,10 +2,50 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1641837906",
+            "price": 10479,
+            "name": "基本超エネルギー【U",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1822508668",
             "price": 8694,
             "name": "〔状態A-〕基本超エ",
-            "date": "2023-01-01",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19423",
+            "price": 10000,
+            "name": "基本超エネルギー(U",
+            "date": "2023-01-02",
+            "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20190",
+            "price": 9980,
+            "name": "基本超エネルギー09",
+            "date": "2023-01-02",
+            "stock": 33
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31923",
+            "price": 8280,
+            "name": "基本超エネルギー09",
+            "date": "2023-01-02",
+            "stock": 4
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g095-070-S6K-B/",
+            "price": 11000,
+            "name": "【ポケカ】ＵＲ◇基本",
+            "date": "2023-01-02",
             "stock": 1
         },
         {
@@ -13,6 +53,14 @@
             "link": "/items/1641837906",
             "price": 10479,
             "name": "基本超エネルギー【U",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1822508668",
+            "price": 8694,
+            "name": "〔状態A-〕基本超エ",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -46,14 +94,6 @@
             "price": 11000,
             "name": "【ポケカ】ＵＲ◇基本",
             "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1641837906",
-            "price": 10479,
-            "name": "基本超エネルギー【U",
-            "date": "2022-12-31",
             "stock": 1
         },
         {
@@ -73,6 +113,14 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/1641837906",
+            "price": 10479,
+            "name": "基本超エネルギー【U",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19423",
             "price": 10000,
@@ -82,19 +130,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31923",
-            "price": 8280,
-            "name": "基本超エネルギー09",
-            "date": "2022-12-31",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20190",
             "price": 9980,
             "name": "基本超エネルギー09",
             "date": "2022-12-31",
             "stock": 31
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31923",
+            "price": 8280,
+            "name": "基本超エネルギー09",
+            "date": "2022-12-31",
+            "stock": 4
         },
         {
             "market": "torecolo",
@@ -106,17 +154,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1641837906",
-            "price": 10479,
-            "name": "基本超エネルギー【U",
+            "link": "/items/1822508668",
+            "price": 8694,
+            "name": "〔状態A-〕基本超エ",
             "date": "2022-12-30",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1822508668",
-            "price": 8694,
-            "name": "〔状態A-〕基本超エ",
+            "link": "/items/1641837906",
+            "price": 10479,
+            "name": "基本超エネルギー【U",
             "date": "2022-12-30",
             "stock": 1
         },
@@ -130,19 +178,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31923",
-            "price": 8280,
-            "name": "基本超エネルギー09",
-            "date": "2022-12-30",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20190",
             "price": 9980,
             "name": "基本超エネルギー09",
             "date": "2022-12-30",
             "stock": 34
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31923",
+            "price": 8280,
+            "name": "基本超エネルギー09",
+            "date": "2022-12-30",
+            "stock": 6
         },
         {
             "market": "torecolo",
@@ -202,17 +250,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1822508668",
-            "price": 8694,
-            "name": "〔状態A-〕基本超エ",
+            "link": "/items/984389267",
+            "price": 10479,
+            "name": "基本超エネルギー【U",
             "date": "2022-12-28",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/984389267",
-            "price": 10479,
-            "name": "基本超エネルギー【U",
+            "link": "/items/1822508668",
+            "price": 8694,
+            "name": "〔状態A-〕基本超エ",
             "date": "2022-12-28",
             "stock": 1
         },
@@ -223,14 +271,6 @@
             "name": "基本超エネルギー(U",
             "date": "2022-12-28",
             "stock": 8
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20190",
-            "price": 9980,
-            "name": "基本超エネルギー09",
-            "date": "2022-12-28",
-            "stock": 38
         },
         {
             "market": "cardrush",
@@ -241,6 +281,14 @@
             "stock": 6
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20190",
+            "price": 9980,
+            "name": "基本超エネルギー09",
+            "date": "2022-12-28",
+            "stock": 38
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g095-070-S6K-B/",
             "price": 11000,
@@ -250,17 +298,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/984389267",
-            "price": 11340,
-            "name": "基本超エネルギー【U",
+            "link": "/items/1822508668",
+            "price": 9954,
+            "name": "〔状態A-〕基本超エ",
             "date": "2022-12-27",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1822508668",
-            "price": 9954,
-            "name": "〔状態A-〕基本超エ",
+            "link": "/items/984389267",
+            "price": 11340,
+            "name": "基本超エネルギー【U",
             "date": "2022-12-27",
             "stock": 1
         },
@@ -298,17 +346,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1822508668",
-            "price": 9954,
-            "name": "〔状態A-〕基本超エ",
+            "link": "/items/984389267",
+            "price": 11340,
+            "name": "基本超エネルギー【U",
             "date": "2022-12-26",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/984389267",
-            "price": 11340,
-            "name": "基本超エネルギー【U",
+            "link": "/items/1822508668",
+            "price": 9954,
+            "name": "〔状態A-〕基本超エ",
             "date": "2022-12-26",
             "stock": 1
         },
@@ -322,14 +370,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31923",
-            "price": 9480,
-            "name": "基本超エネルギー09",
-            "date": "2022-12-26",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20190",
             "price": 10800,
             "name": "基本超エネルギー09",
@@ -337,51 +377,11 @@
             "stock": 43
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g095-070-S6K-B/",
-            "price": 11000,
-            "name": "【ポケカ】ＵＲ◇基本",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/984389267",
-            "price": 11340,
-            "name": "基本超エネルギー【U",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1822508668",
-            "price": 9954,
-            "name": "〔状態A-〕基本超エ",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19423",
-            "price": 10000,
-            "name": "基本超エネルギー(U",
-            "date": "2022-12-25",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20190",
-            "price": 10800,
-            "name": "基本超エネルギー09",
-            "date": "2022-12-25",
-            "stock": 43
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31923",
             "price": 9480,
             "name": "基本超エネルギー09",
-            "date": "2022-12-25",
+            "date": "2022-12-26",
             "stock": 6
         },
         {
@@ -389,7 +389,7 @@
             "link": "/shop/g/g095-070-S6K-B/",
             "price": 11000,
             "name": "【ポケカ】ＵＲ◇基本",
-            "date": "2022-12-25",
+            "date": "2022-12-26",
             "stock": 1
         }
     ]

@@ -5,6 +5,38 @@
             "link": "/items/1656069584",
             "price": 150,
             "name": "ピカチュウ C 02",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/474904116",
+            "price": 140,
+            "name": "ピカチュウ C 02",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19502",
+            "price": 50,
+            "name": "ピカチュウ(C){雷",
+            "date": "2023-01-02",
+            "stock": 33
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20676",
+            "price": 80,
+            "name": "ピカチュウ026/0",
+            "date": "2023-01-02",
+            "stock": 67
+        },
+        {
+            "market": "magi",
+            "link": "/items/1656069584",
+            "price": 150,
+            "name": "ピカチュウ C 02",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -162,16 +194,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1656069584",
-            "price": 150,
+            "link": "/items/474904116",
+            "price": 140,
             "name": "ピカチュウ C 02",
             "date": "2022-12-27",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/474904116",
-            "price": 140,
+            "link": "/items/1656069584",
+            "price": 150,
             "name": "ピカチュウ C 02",
             "date": "2022-12-27",
             "stock": 1
@@ -194,16 +226,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/474904116",
-            "price": 140,
+            "link": "/items/1656069584",
+            "price": 150,
             "name": "ピカチュウ C 02",
             "date": "2022-12-26",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1656069584",
-            "price": 150,
+            "link": "/items/474904116",
+            "price": 140,
             "name": "ピカチュウ C 02",
             "date": "2022-12-26",
             "stock": 1
@@ -222,38 +254,6 @@
             "price": 80,
             "name": "ピカチュウ026/0",
             "date": "2022-12-26",
-            "stock": 67
-        },
-        {
-            "market": "magi",
-            "link": "/items/1656069584",
-            "price": 150,
-            "name": "ピカチュウ C 02",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/474904116",
-            "price": 140,
-            "name": "ピカチュウ C 02",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19502",
-            "price": 50,
-            "name": "ピカチュウ(C){雷",
-            "date": "2022-12-25",
-            "stock": 41
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20676",
-            "price": 80,
-            "name": "ピカチュウ026/0",
-            "date": "2022-12-25",
             "stock": 67
         }
     ]

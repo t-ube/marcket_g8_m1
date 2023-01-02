@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/19776",
             "price": 50,
             "name": "ヒメンカ(-){草}",
+            "date": "2023-01-02",
+            "stock": 21
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21350",
+            "price": 30,
+            "name": "ヒメンカ003/05",
+            "date": "2023-01-02",
+            "stock": 90
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g003-053-SH-B/",
+            "price": 22,
+            "name": "【ポケカ】ＳＳ◇ヒメ",
+            "date": "2023-01-02",
+            "stock": 18
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19776",
+            "price": 50,
+            "name": "ヒメンカ(-){草}",
             "date": "2023-01-01",
             "stock": 21
         },
@@ -166,30 +190,6 @@
             "price": 22,
             "name": "【ポケカ】ＳＳ◇ヒメ",
             "date": "2022-12-26",
-            "stock": 18
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19776",
-            "price": 50,
-            "name": "ヒメンカ(-){草}",
-            "date": "2022-12-25",
-            "stock": 21
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21350",
-            "price": 30,
-            "name": "ヒメンカ003/05",
-            "date": "2022-12-25",
-            "stock": 90
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g003-053-SH-B/",
-            "price": 22,
-            "name": "【ポケカ】ＳＳ◇ヒメ",
-            "date": "2022-12-25",
             "stock": 18
         }
     ]

@@ -5,6 +5,30 @@
             "link": "/items/1750044858",
             "price": 699,
             "name": "そらをとぶピカチュウ",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1172662171",
+            "price": 1000,
+            "name": "そらをとぶピカチュウ",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22369",
+            "price": 480,
+            "name": "そらをとぶピカチュウ",
+            "date": "2023-01-02",
+            "stock": 107
+        },
+        {
+            "market": "magi",
+            "link": "/items/1750044858",
+            "price": 699,
+            "name": "そらをとぶピカチュウ",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -58,14 +82,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1750044858",
-            "price": 699,
-            "name": "そらをとぶピカチュウ",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1172662171",
             "price": 1000,
             "name": "そらをとぶピカチュウ",
@@ -77,7 +93,7 @@
             "link": "/items/1750044858",
             "price": 699,
             "name": "そらをとぶピカチュウ",
-            "date": "2022-12-28",
+            "date": "2022-12-29",
             "stock": 1
         },
         {
@@ -90,16 +106,24 @@
         },
         {
             "market": "magi",
-            "link": "/items/1172662171",
-            "price": 1000,
+            "link": "/items/1750044858",
+            "price": 699,
+            "name": "そらをとぶピカチュウ",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1750044858",
+            "price": 699,
             "name": "そらをとぶピカチュウ",
             "date": "2022-12-27",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1750044858",
-            "price": 699,
+            "link": "/items/1172662171",
+            "price": 1000,
             "name": "そらをとぶピカチュウ",
             "date": "2022-12-27",
             "stock": 1
@@ -142,38 +166,6 @@
             "price": 420,
             "name": "そらをとぶピカチュウ",
             "date": "2022-12-26",
-            "stock": 31
-        },
-        {
-            "market": "magi",
-            "link": "/items/1750044858",
-            "price": 699,
-            "name": "そらをとぶピカチュウ",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1172662171",
-            "price": 1000,
-            "name": "そらをとぶピカチュウ",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20595",
-            "price": 400,
-            "name": "そらをとぶピカチュウ",
-            "date": "2022-12-25",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22369",
-            "price": 420,
-            "name": "そらをとぶピカチュウ",
-            "date": "2022-12-25",
             "stock": 31
         }
     ]

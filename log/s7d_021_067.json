@@ -5,6 +5,38 @@
             "link": "/items/949594566",
             "price": 100,
             "name": "グライオン C 02",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19662",
+            "price": 50,
+            "name": "グライオン(C){闘",
+            "date": "2023-01-02",
+            "stock": 21
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21234",
+            "price": 30,
+            "name": "グライオン021/0",
+            "date": "2023-01-02",
+            "stock": 71
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g021-067-S7D-B/",
+            "price": 14,
+            "name": "【ポケカ】Ｃ◇グライ",
+            "date": "2023-01-02",
+            "stock": 21
+        },
+        {
+            "market": "magi",
+            "link": "/items/949594566",
+            "price": 100,
+            "name": "グライオン C 02",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -222,38 +254,6 @@
             "price": 14,
             "name": "【ポケカ】Ｃ◇グライ",
             "date": "2022-12-26",
-            "stock": 21
-        },
-        {
-            "market": "magi",
-            "link": "/items/949594566",
-            "price": 100,
-            "name": "グライオン C 02",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19662",
-            "price": 50,
-            "name": "グライオン(C){闘",
-            "date": "2022-12-25",
-            "stock": 21
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21234",
-            "price": 30,
-            "name": "グライオン021/0",
-            "date": "2022-12-25",
-            "stock": 71
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g021-067-S7D-B/",
-            "price": 14,
-            "name": "【ポケカ】Ｃ◇グライ",
-            "date": "2022-12-25",
             "stock": 21
         }
     ]

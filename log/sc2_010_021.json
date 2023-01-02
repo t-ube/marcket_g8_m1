@@ -1,6 +1,30 @@
 ﻿{
     "items": [
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7809",
+            "price": 220,
+            "name": "しんかのおこう010",
+            "date": "2023-01-02",
+            "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17819",
+            "price": 220,
+            "name": "しんかのおこう010",
+            "date": "2023-01-02",
+            "stock": 4
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g010-021-SC-R/",
+            "price": 220,
+            "name": "【ポケカ】ＳＳ◇しん",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g010-021-SC-R/",
             "price": 220,
@@ -54,14 +78,6 @@
             "price": 220,
             "name": "【ポケカ】ＳＳ◇しん",
             "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g010-021-SC-R/",
-            "price": 220,
-            "name": "【ポケカ】ＳＳ◇しん",
-            "date": "2022-12-25",
             "stock": 1
         }
     ]

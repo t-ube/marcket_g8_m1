@@ -2,11 +2,67 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1053431331",
+            "price": 600,
+            "name": "【値下げ6枚】なみの",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1414014676",
             "price": 300,
             "name": "なみのりピカチュウV",
-            "date": "2023-01-01",
+            "date": "2023-01-02",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2125996865",
+            "price": 160,
+            "name": "なみのりピカチュウV",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/698383110",
+            "price": 349,
+            "name": "なみのりピカチュウV",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/173446070",
+            "price": 400,
+            "name": "【値下げ】なみのりピ",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20593",
+            "price": 150,
+            "name": "なみのりピカチュウV",
+            "date": "2023-01-02",
+            "stock": 55
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32636",
+            "price": 250,
+            "name": "なみのりピカチュウV",
+            "date": "2023-01-02",
+            "stock": 17
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22367",
+            "price": 280,
+            "name": "なみのりピカチュウV",
+            "date": "2023-01-02",
+            "stock": 227
         },
         {
             "market": "magi",
@@ -18,9 +74,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1053431331",
-            "price": 600,
-            "name": "【値下げ6枚】なみの",
+            "link": "/items/1414014676",
+            "price": 300,
+            "name": "なみのりピカチュウV",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -29,6 +85,14 @@
             "link": "/items/173446070",
             "price": 400,
             "name": "【値下げ】なみのりピ",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1053431331",
+            "price": 600,
+            "name": "【値下げ6枚】なみの",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -194,14 +258,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/698383110",
-            "price": 349,
-            "name": "なみのりピカチュウV",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1053431331",
             "price": 600,
             "name": "【値下げ6枚】なみの",
@@ -210,9 +266,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/173446070",
-            "price": 400,
-            "name": "【値下げ】なみのりピ",
+            "link": "/items/2125996865",
+            "price": 160,
+            "name": "なみのりピカチュウV",
             "date": "2022-12-29",
             "stock": 1
         },
@@ -226,8 +282,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/2125996865",
-            "price": 160,
+            "link": "/items/173446070",
+            "price": 400,
+            "name": "【値下げ】なみのりピ",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/698383110",
+            "price": 349,
             "name": "なみのりピカチュウV",
             "date": "2022-12-29",
             "stock": 1
@@ -242,14 +306,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22367",
-            "price": 280,
-            "name": "なみのりピカチュウV",
-            "date": "2022-12-29",
-            "stock": 146
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32636",
             "price": 250,
             "name": "なみのりピカチュウV",
@@ -257,26 +313,18 @@
             "stock": 18
         },
         {
-            "market": "magi",
-            "link": "/items/1414014676",
-            "price": 300,
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22367",
+            "price": 280,
             "name": "なみのりピカチュウV",
-            "date": "2022-12-28",
-            "stock": 1
+            "date": "2022-12-29",
+            "stock": 146
         },
         {
             "market": "magi",
-            "link": "/items/1053431331",
-            "price": 600,
-            "name": "【値下げ6枚】なみの",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/173446070",
-            "price": 400,
-            "name": "【値下げ】なみのりピ",
+            "link": "/items/2125996865",
+            "price": 160,
+            "name": "なみのりピカチュウV",
             "date": "2022-12-28",
             "stock": 1
         },
@@ -290,8 +338,24 @@
         },
         {
             "market": "magi",
-            "link": "/items/2125996865",
-            "price": 160,
+            "link": "/items/173446070",
+            "price": 400,
+            "name": "【値下げ】なみのりピ",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1053431331",
+            "price": 600,
+            "name": "【値下げ6枚】なみの",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1414014676",
+            "price": 300,
             "name": "なみのりピカチュウV",
             "date": "2022-12-28",
             "stock": 1
@@ -303,14 +367,6 @@
             "name": "なみのりピカチュウV",
             "date": "2022-12-28",
             "stock": 59
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32636",
-            "price": 250,
-            "name": "なみのりピカチュウV",
-            "date": "2022-12-28",
-            "stock": 16
         },
         {
             "market": "cardrush",
@@ -321,17 +377,25 @@
             "stock": 144
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32636",
+            "price": 250,
+            "name": "なみのりピカチュウV",
+            "date": "2022-12-28",
+            "stock": 16
+        },
+        {
             "market": "magi",
-            "link": "/items/2125996865",
-            "price": 160,
+            "link": "/items/1414014676",
+            "price": 300,
             "name": "なみのりピカチュウV",
             "date": "2022-12-27",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1414014676",
-            "price": 300,
+            "link": "/items/2125996865",
+            "price": 160,
             "name": "なみのりピカチュウV",
             "date": "2022-12-27",
             "stock": 1
@@ -386,16 +450,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/173446070",
-            "price": 400,
-            "name": "【値下げ】なみのりピ",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/698383110",
-            "price": 349,
+            "link": "/items/2125996865",
+            "price": 160,
             "name": "なみのりピカチュウV",
             "date": "2022-12-26",
             "stock": 1
@@ -410,8 +466,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/2125996865",
-            "price": 160,
+            "link": "/items/173446070",
+            "price": 400,
+            "name": "【値下げ】なみのりピ",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/698383110",
+            "price": 349,
             "name": "なみのりピカチュウV",
             "date": "2022-12-26",
             "stock": 1
@@ -446,78 +510,6 @@
             "price": 250,
             "name": "なみのりピカチュウV",
             "date": "2022-12-26",
-            "stock": 16
-        },
-        {
-            "market": "magi",
-            "link": "/items/698383110",
-            "price": 349,
-            "name": "なみのりピカチュウV",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1414014676",
-            "price": 300,
-            "name": "なみのりピカチュウV",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1911654782",
-            "price": 200,
-            "name": "なみのりピカチュウV",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/173446070",
-            "price": 400,
-            "name": "【値下げ】なみのりピ",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1053431331",
-            "price": 600,
-            "name": "【値下げ6枚】なみの",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2125996865",
-            "price": 160,
-            "name": "なみのりピカチュウV",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20593",
-            "price": 120,
-            "name": "なみのりピカチュウV",
-            "date": "2022-12-25",
-            "stock": 62
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22367",
-            "price": 280,
-            "name": "なみのりピカチュウV",
-            "date": "2022-12-25",
-            "stock": 149
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32636",
-            "price": 250,
-            "name": "なみのりピカチュウV",
-            "date": "2022-12-25",
             "stock": 16
         }
     ]

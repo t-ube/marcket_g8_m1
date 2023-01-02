@@ -5,6 +5,30 @@
             "link": "/items/2133808647",
             "price": 77777,
             "name": "ポケカ【極美品】こく",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1331070268",
+            "price": 1500,
+            "name": "ポケモンカード こく",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20182",
+            "price": 1980,
+            "name": "こくばバドレックスV",
+            "date": "2023-01-02",
+            "stock": 25
+        },
+        {
+            "market": "magi",
+            "link": "/items/2133808647",
+            "price": 77777,
+            "name": "ポケカ【極美品】こく",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -114,6 +138,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1331070268",
+            "price": 1500,
+            "name": "ポケモンカード こく",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/2133808647",
             "price": 77777,
             "name": "ポケカ【極美品】こく",
@@ -129,14 +161,6 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/1331070268",
-            "price": 1500,
-            "name": "ポケモンカード こく",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20182",
             "price": 1980,
@@ -146,9 +170,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1331070268",
-            "price": 1500,
-            "name": "ポケモンカード こく",
+            "link": "/items/97128331",
+            "price": 1300,
+            "name": "こくばバドレックスV",
             "date": "2022-12-27",
             "stock": 1
         },
@@ -162,9 +186,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/97128331",
-            "price": 1300,
-            "name": "こくばバドレックスV",
+            "link": "/items/1331070268",
+            "price": 1500,
+            "name": "ポケモンカード こく",
             "date": "2022-12-27",
             "stock": 1
         },
@@ -178,9 +202,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1331070268",
-            "price": 1500,
-            "name": "ポケモンカード こく",
+            "link": "/items/97128331",
+            "price": 1300,
+            "name": "こくばバドレックスV",
             "date": "2022-12-26",
             "stock": 1
         },
@@ -194,9 +218,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/97128331",
-            "price": 1300,
-            "name": "こくばバドレックスV",
+            "link": "/items/1331070268",
+            "price": 1500,
+            "name": "ポケモンカード こく",
             "date": "2022-12-26",
             "stock": 1
         },
@@ -207,38 +231,6 @@
             "name": "こくばバドレックスV",
             "date": "2022-12-26",
             "stock": 20
-        },
-        {
-            "market": "magi",
-            "link": "/items/2133808647",
-            "price": 77777,
-            "name": "ポケカ【極美品】こく",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/97128331",
-            "price": 1300,
-            "name": "こくばバドレックスV",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1331070268",
-            "price": 1500,
-            "name": "ポケモンカード こく",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20182",
-            "price": 1980,
-            "name": "こくばバドレックスV",
-            "date": "2022-12-25",
-            "stock": 15
         }
     ]
 }
