@@ -5,7 +5,7 @@
             "link": "/items/2129330809",
             "price": 7500,
             "name": "シャクヤ SR 08",
-            "date": "2023-01-02",
+            "date": "2023-01-03",
             "stock": 1
         },
         {
@@ -13,6 +13,46 @@
             "link": "/items/1886717164",
             "price": 1950,
             "name": "シャクヤ HR 09",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19418",
+            "price": 2200,
+            "name": "シャクヤ(HR){サ",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20187",
+            "price": 2180,
+            "name": "シャクヤ090/07",
+            "date": "2023-01-03",
+            "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31920",
+            "price": 1880,
+            "name": "シャクヤ090/07",
+            "date": "2023-01-03",
+            "stock": 5
+        },
+        {
+            "market": "magi",
+            "link": "/items/1886717164",
+            "price": 1950,
+            "name": "シャクヤ HR 09",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2129330809",
+            "price": 7500,
+            "name": "シャクヤ SR 08",
             "date": "2023-01-02",
             "stock": 1
         },
@@ -66,14 +106,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20187",
-            "price": 2180,
-            "name": "シャクヤ090/07",
-            "date": "2023-01-01",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31920",
             "price": 1880,
             "name": "シャクヤ090/07",
@@ -81,18 +113,26 @@
             "stock": 3
         },
         {
-            "market": "magi",
-            "link": "/items/1886717164",
-            "price": 1950,
-            "name": "シャクヤ HR 09",
-            "date": "2022-12-31",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20187",
+            "price": 2180,
+            "name": "シャクヤ090/07",
+            "date": "2023-01-01",
+            "stock": 7
         },
         {
             "market": "magi",
             "link": "/items/2129330809",
             "price": 7500,
             "name": "シャクヤ SR 08",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1886717164",
+            "price": 1950,
+            "name": "シャクヤ HR 09",
             "date": "2022-12-31",
             "stock": 1
         },
@@ -106,19 +146,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31920",
-            "price": 1880,
-            "name": "シャクヤ090/07",
-            "date": "2022-12-31",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20187",
             "price": 2180,
             "name": "シャクヤ090/07",
             "date": "2022-12-31",
             "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31920",
+            "price": 1880,
+            "name": "シャクヤ090/07",
+            "date": "2022-12-31",
+            "stock": 3
         },
         {
             "market": "magi",
@@ -143,14 +183,6 @@
             "name": "シャクヤ(HR){サ",
             "date": "2022-12-30",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31920",
-            "price": 1880,
-            "name": "シャクヤ090/07",
-            "date": "2022-12-30",
-            "stock": 3
         },
         {
             "market": "cardrush",
@@ -161,6 +193,14 @@
             "stock": 13
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31920",
+            "price": 1880,
+            "name": "シャクヤ090/07",
+            "date": "2022-12-30",
+            "stock": 3
+        },
+        {
             "market": "magi",
             "link": "/items/2129330809",
             "price": 7500,
@@ -186,6 +226,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20187",
+            "price": 2180,
+            "name": "シャクヤ090/07",
+            "date": "2022-12-29",
+            "stock": 13
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31920",
             "price": 1880,
             "name": "シャクヤ090/07",
@@ -193,12 +241,12 @@
             "stock": 3
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20187",
-            "price": 2180,
-            "name": "シャクヤ090/07",
-            "date": "2022-12-29",
-            "stock": 13
+            "market": "magi",
+            "link": "/items/2129330809",
+            "price": 7500,
+            "name": "シャクヤ SR 08",
+            "date": "2022-12-28",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -209,20 +257,20 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/2129330809",
-            "price": 7500,
-            "name": "シャクヤ SR 08",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19418",
             "price": 2200,
             "name": "シャクヤ(HR){サ",
             "date": "2022-12-28",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31920",
+            "price": 1880,
+            "name": "シャクヤ090/07",
+            "date": "2022-12-28",
+            "stock": 3
         },
         {
             "market": "cardrush",
@@ -233,12 +281,12 @@
             "stock": 13
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31920",
-            "price": 1880,
-            "name": "シャクヤ090/07",
-            "date": "2022-12-28",
-            "stock": 3
+            "market": "magi",
+            "link": "/items/2129330809",
+            "price": 7500,
+            "name": "シャクヤ SR 08",
+            "date": "2022-12-27",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -249,28 +297,12 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/2129330809",
-            "price": 7500,
-            "name": "シャクヤ SR 08",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19418",
             "price": 2200,
             "name": "シャクヤ(HR){サ",
             "date": "2022-12-27",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31920",
-            "price": 1880,
-            "name": "シャクヤ090/07",
-            "date": "2022-12-27",
-            "stock": 3
         },
         {
             "market": "cardrush",
@@ -281,36 +313,12 @@
             "stock": 12
         },
         {
-            "market": "magi",
-            "link": "/items/2129330809",
-            "price": 7500,
-            "name": "シャクヤ SR 08",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1886717164",
-            "price": 2000,
-            "name": "シャクヤ HR 09",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31920",
             "price": 1880,
             "name": "シャクヤ090/07",
-            "date": "2022-12-26",
+            "date": "2022-12-27",
             "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20187",
-            "price": 2180,
-            "name": "シャクヤ090/07",
-            "date": "2022-12-26",
-            "stock": 12
         }
     ]
 }

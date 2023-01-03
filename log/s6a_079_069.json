@@ -2,11 +2,115 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/2041590261",
+            "price": 13000,
+            "name": "サンダースV SR ",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1540938504",
             "price": 14070,
             "name": "〔状態A-〕サンダー",
-            "date": "2023-01-02",
+            "date": "2023-01-03",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2071466289",
+            "price": 10479,
+            "name": "〔状態B〕サンダース",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2129267016",
+            "price": 12800,
+            "name": "サンダースV SR ",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/993923099",
+            "price": 14800,
+            "name": "サンダースV SR ",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/747161969",
+            "price": 200000,
+            "name": "サンダースV SR ",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1615283307",
+            "price": 12000,
+            "name": "（微キズ）サンダース",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/96129139",
+            "price": 16590,
+            "name": "サンダースV(SA)",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/88914496",
+            "price": 17500,
+            "name": "サンダースV SR ",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26311",
+            "price": 35000,
+            "name": "【PSA10】サンダ",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19555",
+            "price": 16000,
+            "name": "サンダースV:SA(",
+            "date": "2023-01-03",
+            "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21044",
+            "price": 9980,
+            "name": "サンダースV079/",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32053",
+            "price": 13400,
+            "name": "サンダースV079/",
+            "date": "2023-01-03",
+            "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20745",
+            "price": 15800,
+            "name": "サンダースV079/",
+            "date": "2023-01-03",
+            "stock": 16
         },
         {
             "market": "magi",
@@ -18,9 +122,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/96129139",
-            "price": 16590,
-            "name": "サンダースV(SA)",
+            "link": "/items/2041590261",
+            "price": 13000,
+            "name": "サンダースV SR ",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2129267016",
+            "price": 12800,
+            "name": "サンダースV SR ",
             "date": "2023-01-02",
             "stock": 1
         },
@@ -34,9 +146,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/2041590261",
-            "price": 13000,
-            "name": "サンダースV SR ",
+            "link": "/items/96129139",
+            "price": 16590,
+            "name": "サンダースV(SA)",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1540938504",
+            "price": 14070,
+            "name": "〔状態A-〕サンダー",
             "date": "2023-01-02",
             "stock": 1
         },
@@ -52,14 +172,6 @@
             "market": "magi",
             "link": "/items/993923099",
             "price": 14800,
-            "name": "サンダースV SR ",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2129267016",
-            "price": 12800,
             "name": "サンダースV SR ",
             "date": "2023-01-02",
             "stock": 1
@@ -90,6 +202,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21044",
+            "price": 9980,
+            "name": "サンダースV079/",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32053",
             "price": 13400,
             "name": "サンダースV079/",
@@ -105,42 +225,10 @@
             "stock": 22
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21044",
-            "price": 9980,
-            "name": "サンダースV079/",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/747161969",
-            "price": 200000,
-            "name": "サンダースV SR ",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
             "market": "magi",
             "link": "/items/2129267016",
             "price": 12800,
             "name": "サンダースV SR ",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2041590261",
-            "price": 13000,
-            "name": "サンダースV SR ",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2071466289",
-            "price": 9429,
-            "name": "〔状態B〕サンダース",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -154,8 +242,24 @@
         },
         {
             "market": "magi",
+            "link": "/items/2041590261",
+            "price": 13000,
+            "name": "サンダースV SR ",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/88914496",
             "price": 17500,
+            "name": "サンダースV SR ",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/747161969",
+            "price": 200000,
             "name": "サンダースV SR ",
             "date": "2023-01-01",
             "stock": 1
@@ -181,6 +285,22 @@
             "link": "/items/96129139",
             "price": 15540,
             "name": "サンダースV(SA)",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2071466289",
+            "price": 9429,
+            "name": "〔状態B〕サンダース",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26311",
+            "price": 35000,
+            "name": "【PSA10】サンダ",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -193,10 +313,18 @@
             "stock": 8
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26311",
-            "price": 35000,
-            "name": "【PSA10】サンダ",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20745",
+            "price": 14800,
+            "name": "サンダースV079/",
+            "date": "2023-01-01",
+            "stock": 21
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21044",
+            "price": 8980,
+            "name": "サンダースV079/",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -209,62 +337,6 @@
             "stock": 12
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21044",
-            "price": 8980,
-            "name": "サンダースV079/",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20745",
-            "price": 14800,
-            "name": "サンダースV079/",
-            "date": "2023-01-01",
-            "stock": 21
-        },
-        {
-            "market": "magi",
-            "link": "/items/2129267016",
-            "price": 12800,
-            "name": "サンダースV SR ",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1615283307",
-            "price": 12000,
-            "name": "（微キズ）サンダース",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/96129139",
-            "price": 15540,
-            "name": "サンダースV(SA)",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2041590261",
-            "price": 13000,
-            "name": "サンダースV SR ",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/747161969",
-            "price": 200000,
-            "name": "サンダースV SR ",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
             "market": "magi",
             "link": "/items/2071466289",
             "price": 9429,
@@ -274,9 +346,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1540938504",
-            "price": 13020,
-            "name": "〔状態A-〕サンダー",
+            "link": "/items/993923099",
+            "price": 14800,
+            "name": "サンダースV SR ",
             "date": "2022-12-31",
             "stock": 1
         },
@@ -290,8 +362,48 @@
         },
         {
             "market": "magi",
-            "link": "/items/993923099",
-            "price": 14800,
+            "link": "/items/1540938504",
+            "price": 13020,
+            "name": "〔状態A-〕サンダー",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1615283307",
+            "price": 12000,
+            "name": "（微キズ）サンダース",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2129267016",
+            "price": 12800,
+            "name": "サンダースV SR ",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2041590261",
+            "price": 13000,
+            "name": "サンダースV SR ",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/96129139",
+            "price": 15540,
+            "name": "サンダースV(SA)",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/747161969",
+            "price": 200000,
             "name": "サンダースV SR ",
             "date": "2022-12-31",
             "stock": 1
@@ -346,22 +458,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1615283307",
-            "price": 12000,
-            "name": "（微キズ）サンダース",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/993923099",
-            "price": 14800,
-            "name": "サンダースV SR ",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/2041590261",
             "price": 13000,
             "name": "サンダースV SR ",
@@ -401,10 +497,18 @@
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26311",
-            "price": 35000,
-            "name": "【PSA10】サンダ",
+            "market": "magi",
+            "link": "/items/993923099",
+            "price": 14800,
+            "name": "サンダースV SR ",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1615283307",
+            "price": 12000,
+            "name": "（微キズ）サンダース",
             "date": "2022-12-30",
             "stock": 1
         },
@@ -417,12 +521,12 @@
             "stock": 10
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32053",
-            "price": 12400,
-            "name": "サンダースV079/",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/26311",
+            "price": 35000,
+            "name": "【PSA10】サンダ",
             "date": "2022-12-30",
-            "stock": 28
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -433,10 +537,18 @@
             "stock": 52
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32053",
+            "price": 12400,
+            "name": "サンダースV079/",
+            "date": "2022-12-30",
+            "stock": 28
+        },
+        {
             "market": "magi",
-            "link": "/items/96129139",
-            "price": 15540,
-            "name": "サンダースV(SA)",
+            "link": "/items/747161969",
+            "price": 200000,
+            "name": "サンダースV SR ",
             "date": "2022-12-29",
             "stock": 1
         },
@@ -444,14 +556,6 @@
             "market": "magi",
             "link": "/items/88914496",
             "price": 17500,
-            "name": "サンダースV SR ",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/747161969",
-            "price": 200000,
             "name": "サンダースV SR ",
             "date": "2022-12-29",
             "stock": 1
@@ -477,6 +581,14 @@
             "link": "/items/1615283307",
             "price": 12000,
             "name": "（微キズ）サンダース",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/96129139",
+            "price": 15540,
+            "name": "サンダースV(SA)",
             "date": "2022-12-29",
             "stock": 1
         },
@@ -594,17 +706,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/235200785",
-            "price": 13800,
-            "name": "サンダースV SR ",
+            "link": "/items/1615283307",
+            "price": 12000,
+            "name": "（微キズ）サンダース",
             "date": "2022-12-27",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/96129139",
-            "price": 15540,
-            "name": "サンダースV(SA)",
+            "link": "/items/2041590261",
+            "price": 13000,
+            "name": "サンダースV SR ",
             "date": "2022-12-27",
             "stock": 1
         },
@@ -634,16 +746,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1615283307",
-            "price": 12000,
-            "name": "（微キズ）サンダース",
+            "link": "/items/96129139",
+            "price": 15540,
+            "name": "サンダースV(SA)",
             "date": "2022-12-27",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/2041590261",
-            "price": 13000,
+            "link": "/items/235200785",
+            "price": 13800,
             "name": "サンダースV SR ",
             "date": "2022-12-27",
             "stock": 1
@@ -679,94 +791,6 @@
             "name": "サンダースV079/",
             "date": "2022-12-27",
             "stock": 30
-        },
-        {
-            "market": "magi",
-            "link": "/items/88914496",
-            "price": 17500,
-            "name": "サンダースV SR ",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1615283307",
-            "price": 12000,
-            "name": "（微キズ）サンダース",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2041590261",
-            "price": 13000,
-            "name": "サンダースV SR ",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/747161969",
-            "price": 200000,
-            "name": "サンダースV SR ",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/96129139",
-            "price": 15540,
-            "name": "サンダースV(SA)",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1540938504",
-            "price": 13020,
-            "name": "〔状態A-〕サンダー",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/235200785",
-            "price": 13800,
-            "name": "サンダースV SR ",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/26311",
-            "price": 35000,
-            "name": "【PSA10】サンダ",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19555",
-            "price": 15000,
-            "name": "サンダースV:SA(",
-            "date": "2022-12-26",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20745",
-            "price": 14800,
-            "name": "サンダースV079/",
-            "date": "2022-12-26",
-            "stock": 34
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32053",
-            "price": 12400,
-            "name": "サンダースV079/",
-            "date": "2022-12-26",
-            "stock": 29
         }
     ]
 }

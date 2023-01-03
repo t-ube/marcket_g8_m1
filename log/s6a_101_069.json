@@ -2,7 +2,87 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1868732731",
+            "price": 3969,
+            "name": "〔状態A-〕基本悪エ",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/143646926",
+            "price": 6190,
+            "name": "基本悪エネルギー(U",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/637600349",
+            "price": 6980,
+            "name": "基本悪エネルギー　1",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1170217426",
+            "price": 6980,
+            "name": "基本悪エネルギー　1",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/2135458807",
+            "price": 6980,
+            "name": "基本悪エネルギー　1",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/254214768",
+            "price": 5019,
+            "name": "基本悪エネルギー【U",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19577",
+            "price": 5000,
+            "name": "基本悪エネルギー(U",
+            "date": "2023-01-03",
+            "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32072",
+            "price": 3780,
+            "name": "基本悪エネルギー10",
+            "date": "2023-01-03",
+            "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20767",
+            "price": 4780,
+            "name": "基本悪エネルギー10",
+            "date": "2023-01-03",
+            "stock": 16
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g101-069-S6A-B/",
+            "price": 5500,
+            "name": "【ポケカ】ＵＲ◇基本",
+            "date": "2023-01-03",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/637600349",
             "price": 6980,
             "name": "基本悪エネルギー　1",
             "date": "2023-01-02",
@@ -10,7 +90,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/637600349",
+            "link": "/items/2135458807",
             "price": 6980,
             "name": "基本悪エネルギー　1",
             "date": "2023-01-02",
@@ -26,17 +106,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1868732731",
-            "price": 3969,
-            "name": "〔状態A-〕基本悪エ",
+            "link": "/items/254214768",
+            "price": 5019,
+            "name": "基本悪エネルギー【U",
             "date": "2023-01-02",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/254214768",
-            "price": 5019,
-            "name": "基本悪エネルギー【U",
+            "link": "/items/1868732731",
+            "price": 3969,
+            "name": "〔状態A-〕基本悪エ",
             "date": "2023-01-02",
             "stock": 1
         },
@@ -53,14 +133,6 @@
             "link": "https://www.hareruya2.com/product/19577",
             "price": 5000,
             "name": "基本悪エネルギー(U",
-            "date": "2023-01-02",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32072",
-            "price": 3780,
-            "name": "基本悪エネルギー10",
             "date": "2023-01-02",
             "stock": 8
         },
@@ -73,6 +145,14 @@
             "stock": 16
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32072",
+            "price": 3780,
+            "name": "基本悪エネルギー10",
+            "date": "2023-01-02",
+            "stock": 8
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g101-069-S6A-B/",
             "price": 5500,
@@ -82,25 +162,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1868732731",
-            "price": 3969,
-            "name": "〔状態A-〕基本悪エ",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/254214768",
             "price": 5019,
             "name": "基本悪エネルギー【U",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/143646926",
-            "price": 6190,
-            "name": "基本悪エネルギー(U",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -125,6 +189,22 @@
             "link": "/items/637600349",
             "price": 6980,
             "name": "基本悪エネルギー　1",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1868732731",
+            "price": 3969,
+            "name": "〔状態A-〕基本悪エ",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/143646926",
+            "price": 6190,
+            "name": "基本悪エネルギー(U",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -138,19 +218,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32072",
-            "price": 3780,
-            "name": "基本悪エネルギー10",
-            "date": "2023-01-01",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20767",
             "price": 4780,
             "name": "基本悪エネルギー10",
             "date": "2023-01-01",
             "stock": 17
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32072",
+            "price": 3780,
+            "name": "基本悪エネルギー10",
+            "date": "2023-01-01",
+            "stock": 8
         },
         {
             "market": "torecolo",
@@ -162,23 +242,15 @@
         },
         {
             "market": "magi",
-            "link": "/items/1868732731",
-            "price": 3969,
-            "name": "〔状態A-〕基本悪エ",
+            "link": "/items/254214768",
+            "price": 5019,
+            "name": "基本悪エネルギー【U",
             "date": "2022-12-31",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/143646926",
-            "price": 6190,
-            "name": "基本悪エネルギー(U",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1170217426",
+            "link": "/items/637600349",
             "price": 6980,
             "name": "基本悪エネルギー　1",
             "date": "2022-12-31",
@@ -194,7 +266,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/637600349",
+            "link": "/items/1170217426",
             "price": 6980,
             "name": "基本悪エネルギー　1",
             "date": "2022-12-31",
@@ -202,9 +274,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/254214768",
-            "price": 5019,
-            "name": "基本悪エネルギー【U",
+            "link": "/items/1868732731",
+            "price": 3969,
+            "name": "〔状態A-〕基本悪エ",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/143646926",
+            "price": 6190,
+            "name": "基本悪エネルギー(U",
             "date": "2022-12-31",
             "stock": 1
         },
@@ -242,25 +322,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/2135458807",
-            "price": 6980,
-            "name": "基本悪エネルギー　1",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/254214768",
-            "price": 5229,
-            "name": "基本悪エネルギー【U",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/637600349",
-            "price": 6980,
-            "name": "基本悪エネルギー　1",
+            "link": "/items/1868732731",
+            "price": 4389,
+            "name": "〔状態A-〕基本悪エ",
             "date": "2022-12-30",
             "stock": 1
         },
@@ -274,15 +338,31 @@
         },
         {
             "market": "magi",
-            "link": "/items/1868732731",
-            "price": 4389,
-            "name": "〔状態A-〕基本悪エ",
+            "link": "/items/254214768",
+            "price": 5229,
+            "name": "基本悪エネルギー【U",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/637600349",
+            "price": 6980,
+            "name": "基本悪エネルギー　1",
             "date": "2022-12-30",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1170217426",
+            "price": 6980,
+            "name": "基本悪エネルギー　1",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2135458807",
             "price": 6980,
             "name": "基本悪エネルギー　1",
             "date": "2022-12-30",
@@ -298,19 +378,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32072",
-            "price": 4180,
-            "name": "基本悪エネルギー10",
-            "date": "2022-12-30",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20767",
             "price": 4980,
             "name": "基本悪エネルギー10",
             "date": "2022-12-30",
             "stock": 47
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32072",
+            "price": 4180,
+            "name": "基本悪エネルギー10",
+            "date": "2022-12-30",
+            "stock": 8
         },
         {
             "market": "torecolo",
@@ -319,6 +399,38 @@
             "name": "【ポケカ】ＵＲ◇基本",
             "date": "2022-12-30",
             "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/637600349",
+            "price": 6980,
+            "name": "基本悪エネルギー　1",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/254214768",
+            "price": 5229,
+            "name": "基本悪エネルギー【U",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1170217426",
+            "price": 6980,
+            "name": "基本悪エネルギー　1",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2135458807",
+            "price": 6980,
+            "name": "基本悪エネルギー　1",
+            "date": "2022-12-29",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -330,41 +442,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/2135458807",
-            "price": 6980,
-            "name": "基本悪エネルギー　1",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1868732731",
             "price": 4389,
             "name": "〔状態A-〕基本悪エ",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1170217426",
-            "price": 6980,
-            "name": "基本悪エネルギー　1",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/254214768",
-            "price": 5229,
-            "name": "基本悪エネルギー【U",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/637600349",
-            "price": 6980,
-            "name": "基本悪エネルギー　1",
             "date": "2022-12-29",
             "stock": 1
         },
@@ -402,6 +482,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/637600349",
+            "price": 6980,
+            "name": "基本悪エネルギー　1",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1868732731",
             "price": 4389,
             "name": "〔状態A-〕基本悪エ",
@@ -413,14 +501,6 @@
             "link": "/items/143646926",
             "price": 6209,
             "name": "基本悪エネルギー(U",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/637600349",
-            "price": 6980,
-            "name": "基本悪エネルギー　1",
             "date": "2022-12-28",
             "stock": 1
         },
@@ -482,17 +562,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/2135458807",
-            "price": 6980,
-            "name": "基本悪エネルギー　1",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/637600349",
-            "price": 6980,
-            "name": "基本悪エネルギー　1",
+            "link": "/items/143646926",
+            "price": 6209,
+            "name": "基本悪エネルギー(U",
             "date": "2022-12-27",
             "stock": 1
         },
@@ -506,17 +578,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1868732731",
-            "price": 4389,
-            "name": "〔状態A-〕基本悪エ",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/143646926",
-            "price": 6209,
-            "name": "基本悪エネルギー(U",
+            "link": "/items/2135458807",
+            "price": 6980,
+            "name": "基本悪エネルギー　1",
             "date": "2022-12-27",
             "stock": 1
         },
@@ -525,6 +589,22 @@
             "link": "/items/254214768",
             "price": 5229,
             "name": "基本悪エネルギー【U",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/637600349",
+            "price": 6980,
+            "name": "基本悪エネルギー　1",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1868732731",
+            "price": 4389,
+            "name": "〔状態A-〕基本悪エ",
             "date": "2022-12-27",
             "stock": 1
         },
@@ -538,14 +618,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20767",
-            "price": 4980,
-            "name": "基本悪エネルギー10",
-            "date": "2022-12-27",
-            "stock": 52
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32072",
             "price": 4180,
             "name": "基本悪エネルギー10",
@@ -553,83 +625,11 @@
             "stock": 8
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g101-069-S6A-B/",
-            "price": 5500,
-            "name": "【ポケカ】ＵＲ◇基本",
-            "date": "2022-12-27",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/1170217426",
-            "price": 6980,
-            "name": "基本悪エネルギー　1",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1868732731",
-            "price": 4389,
-            "name": "〔状態A-〕基本悪エ",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/254214768",
-            "price": 5229,
-            "name": "基本悪エネルギー【U",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/143646926",
-            "price": 6209,
-            "name": "基本悪エネルギー(U",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/637600349",
-            "price": 6980,
-            "name": "基本悪エネルギー　1",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2135458807",
-            "price": 6980,
-            "name": "基本悪エネルギー　1",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19577",
-            "price": 5000,
-            "name": "基本悪エネルギー(U",
-            "date": "2022-12-26",
-            "stock": 11
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32072",
-            "price": 4180,
-            "name": "基本悪エネルギー10",
-            "date": "2022-12-26",
-            "stock": 14
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20767",
             "price": 4980,
             "name": "基本悪エネルギー10",
-            "date": "2022-12-26",
+            "date": "2022-12-27",
             "stock": 52
         },
         {
@@ -637,7 +637,7 @@
             "link": "/shop/g/g101-069-S6A-B/",
             "price": 5500,
             "name": "【ポケカ】ＵＲ◇基本",
-            "date": "2022-12-26",
+            "date": "2022-12-27",
             "stock": 3
         }
     ]

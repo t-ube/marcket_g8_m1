@@ -5,6 +5,38 @@
             "link": "/items/1080672256",
             "price": 3500,
             "name": "サナ HR 084/",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19870",
+            "price": 2400,
+            "name": "サナ(HR){サポー",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32403",
+            "price": 1880,
+            "name": "サナ084/067",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21484",
+            "price": 2180,
+            "name": "サナ084/067",
+            "date": "2023-01-03",
+            "stock": 18
+        },
+        {
+            "market": "magi",
+            "link": "/items/1080672256",
+            "price": 3500,
+            "name": "サナ HR 084/",
             "date": "2023-01-02",
             "stock": 1
         },
@@ -87,14 +119,6 @@
             "name": "サナ(HR){サポー",
             "date": "2022-12-30",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21484",
-            "price": 2180,
-            "name": "サナ084/067",
-            "date": "2022-12-30",
-            "stock": 17
         },
         {
             "market": "cardrush",
@@ -105,6 +129,14 @@
             "stock": 1
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21484",
+            "price": 2180,
+            "name": "サナ084/067",
+            "date": "2022-12-30",
+            "stock": 17
+        },
+        {
             "market": "magi",
             "link": "/items/1080672256",
             "price": 3500,
@@ -122,19 +154,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21484",
-            "price": 2180,
-            "name": "サナ084/067",
-            "date": "2022-12-29",
-            "stock": 17
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32403",
             "price": 1880,
             "name": "サナ084/067",
             "date": "2022-12-29",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21484",
+            "price": 2180,
+            "name": "サナ084/067",
+            "date": "2022-12-29",
+            "stock": 17
         },
         {
             "market": "magi",
@@ -182,30 +214,6 @@
             "price": 2180,
             "name": "サナ084/067",
             "date": "2022-12-27",
-            "stock": 13
-        },
-        {
-            "market": "magi",
-            "link": "/items/1080672256",
-            "price": 3500,
-            "name": "サナ HR 084/",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19870",
-            "price": 2400,
-            "name": "サナ(HR){サポー",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21484",
-            "price": 2180,
-            "name": "サナ084/067",
-            "date": "2022-12-26",
             "stock": 13
         }
     ]

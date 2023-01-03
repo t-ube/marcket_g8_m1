@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/19161",
             "price": 300,
             "name": "パッチラゴンVMAX",
+            "date": "2023-01-03",
+            "stock": 11
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18700",
+            "price": 120,
+            "name": "パッチラゴンVMAX",
+            "date": "2023-01-03",
+            "stock": 118
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19161",
+            "price": 300,
+            "name": "パッチラゴンVMAX",
             "date": "2023-01-02",
             "stock": 11
         },
@@ -150,30 +166,6 @@
             "price": 120,
             "name": "パッチラゴンVMAX",
             "date": "2022-12-27",
-            "stock": 50
-        },
-        {
-            "market": "magi",
-            "link": "/items/1543582991",
-            "price": 198,
-            "name": "パッチラゴンVMAX",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19161",
-            "price": 300,
-            "name": "パッチラゴンVMAX",
-            "date": "2022-12-26",
-            "stock": 15
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18700",
-            "price": 120,
-            "name": "パッチラゴンVMAX",
-            "date": "2022-12-26",
             "stock": 50
         }
     ]

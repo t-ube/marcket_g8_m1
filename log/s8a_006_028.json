@@ -2,10 +2,18 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/2002768946",
-            "price": 25,
-            "name": "1枚25円 25th",
-            "date": "2023-01-02",
+            "link": "/items/230534447",
+            "price": 500,
+            "name": "グラードン(キラ) ",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/361793137",
+            "price": 500,
+            "name": "グラードン(ミラー)",
+            "date": "2023-01-03",
             "stock": 1
         },
         {
@@ -13,6 +21,78 @@
             "link": "/items/288677710",
             "price": 180,
             "name": "グラードン(キラ) ",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2002768946",
+            "price": 25,
+            "name": "1枚25円 25th",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/27710498",
+            "price": 400,
+            "name": "グラードン(ミラー)",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22411",
+            "price": 280,
+            "name": "グラードン006/0",
+            "date": "2023-01-03",
+            "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22351",
+            "price": 80,
+            "name": "グラードン006/0",
+            "date": "2023-01-03",
+            "stock": 322
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g006-028-S8A-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2023-01-03",
+            "stock": 4
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g006-028-S8A-BM/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/288677710",
+            "price": 180,
+            "name": "グラードン(キラ) ",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/27710498",
+            "price": 400,
+            "name": "グラードン(ミラー)",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2002768946",
+            "price": 25,
+            "name": "1枚25円 25th",
             "date": "2023-01-02",
             "stock": 1
         },
@@ -31,22 +111,6 @@
             "name": "グラードン(ミラー)",
             "date": "2023-01-02",
             "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/27710498",
-            "price": 400,
-            "name": "グラードン(ミラー)",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22411",
-            "price": 280,
-            "name": "グラードン006/0",
-            "date": "2023-01-02",
-            "stock": 9
         },
         {
             "market": "cardrush",
@@ -57,475 +121,19 @@
             "stock": 322
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g006-028-S8A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2023-01-02",
-            "stock": 4
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g006-028-S8A-BM/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/27710498",
-            "price": 400,
-            "name": "グラードン(ミラー)",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/230534447",
-            "price": 500,
-            "name": "グラードン(キラ) ",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2002768946",
-            "price": 25,
-            "name": "1枚25円 25th",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/288677710",
-            "price": 180,
-            "name": "グラードン(キラ) ",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/361793137",
-            "price": 500,
-            "name": "グラードン(ミラー)",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22351",
-            "price": 80,
-            "name": "グラードン006/0",
-            "date": "2023-01-01",
-            "stock": 181
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g006-028-S8A-BM/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g006-028-S8A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2023-01-01",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/2002768946",
-            "price": 25,
-            "name": "1枚25円 25th",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/361793137",
-            "price": 500,
-            "name": "グラードン(ミラー)",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/230534447",
-            "price": 500,
-            "name": "グラードン(キラ) ",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/288677710",
-            "price": 180,
-            "name": "グラードン(キラ) ",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/27710498",
-            "price": 400,
-            "name": "グラードン(ミラー)",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22351",
-            "price": 80,
-            "name": "グラードン006/0",
-            "date": "2022-12-31",
-            "stock": 181
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g006-028-S8A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-31",
-            "stock": 4
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g006-028-S8A-BM/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/288677710",
-            "price": 180,
-            "name": "グラードン(キラ) ",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/230534447",
-            "price": 500,
-            "name": "グラードン(キラ) ",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2002768946",
-            "price": 25,
-            "name": "1枚25円 25th",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/27710498",
-            "price": 400,
-            "name": "グラードン(ミラー)",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/361793137",
-            "price": 500,
-            "name": "グラードン(ミラー)",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22351",
-            "price": 80,
-            "name": "グラードン006/0",
-            "date": "2022-12-30",
-            "stock": 181
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g006-028-S8A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-30",
-            "stock": 4
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g006-028-S8A-BM/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2002768946",
-            "price": 25,
-            "name": "1枚25円 25th",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/230534447",
-            "price": 500,
-            "name": "グラードン(キラ) ",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/288677710",
-            "price": 180,
-            "name": "グラードン(キラ) ",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/27710498",
-            "price": 400,
-            "name": "グラードン(ミラー)",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/361793137",
-            "price": 500,
-            "name": "グラードン(ミラー)",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22351",
-            "price": 80,
-            "name": "グラードン006/0",
-            "date": "2022-12-29",
-            "stock": 187
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g006-028-S8A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-29",
-            "stock": 4
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g006-028-S8A-BM/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2002768946",
-            "price": 25,
-            "name": "1枚25円 25th",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/361793137",
-            "price": 500,
-            "name": "グラードン(ミラー)",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/230534447",
-            "price": 500,
-            "name": "グラードン(キラ) ",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/288677710",
-            "price": 180,
-            "name": "グラードン(キラ) ",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/27710498",
-            "price": 400,
-            "name": "グラードン(ミラー)",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22351",
-            "price": 80,
-            "name": "グラードン006/0",
-            "date": "2022-12-28",
-            "stock": 187
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g006-028-S8A-BM/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g006-028-S8A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-28",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/230534447",
-            "price": 500,
-            "name": "グラードン(キラ) ",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2002768946",
-            "price": 25,
-            "name": "1枚25円 25th",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/288677710",
-            "price": 180,
-            "name": "グラードン(キラ) ",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/27710498",
-            "price": 400,
-            "name": "グラードン(ミラー)",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/361793137",
-            "price": 500,
-            "name": "グラードン(ミラー)",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22351",
-            "price": 80,
-            "name": "グラードン006/0",
-            "date": "2022-12-27",
-            "stock": 187
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g006-028-S8A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-27",
-            "stock": 4
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g006-028-S8A-BM/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/230534447",
-            "price": 500,
-            "name": "グラードン(キラ) ",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/27710498",
-            "price": 400,
-            "name": "グラードン(ミラー)",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/288677710",
-            "price": 180,
-            "name": "グラードン(キラ) ",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/361793137",
-            "price": 500,
-            "name": "グラードン(ミラー)",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2002768946",
-            "price": 25,
-            "name": "1枚25円 25th",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20577",
-            "price": 50,
-            "name": "グラードン(-){闘",
-            "date": "2022-12-26",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22351",
-            "price": 80,
-            "name": "グラードン006/0",
-            "date": "2022-12-26",
-            "stock": 191
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22411",
-            "price": 180,
+            "price": 280,
             "name": "グラードン006/0",
-            "date": "2022-12-26",
-            "stock": 1
+            "date": "2023-01-02",
+            "stock": 9
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g006-028-S8A-BM/",
             "price": 110,
             "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-26",
+            "date": "2023-01-02",
             "stock": 1
         },
         {
@@ -533,7 +141,391 @@
             "link": "/shop/g/g006-028-S8A-B/",
             "price": 33,
             "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-26",
+            "date": "2023-01-02",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/288677710",
+            "price": 180,
+            "name": "グラードン(キラ) ",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2002768946",
+            "price": 25,
+            "name": "1枚25円 25th",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/230534447",
+            "price": 500,
+            "name": "グラードン(キラ) ",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/27710498",
+            "price": 400,
+            "name": "グラードン(ミラー)",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/361793137",
+            "price": 500,
+            "name": "グラードン(ミラー)",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22351",
+            "price": 80,
+            "name": "グラードン006/0",
+            "date": "2023-01-01",
+            "stock": 181
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g006-028-S8A-BM/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g006-028-S8A-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2023-01-01",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/27710498",
+            "price": 400,
+            "name": "グラードン(ミラー)",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/288677710",
+            "price": 180,
+            "name": "グラードン(キラ) ",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2002768946",
+            "price": 25,
+            "name": "1枚25円 25th",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/230534447",
+            "price": 500,
+            "name": "グラードン(キラ) ",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/361793137",
+            "price": 500,
+            "name": "グラードン(ミラー)",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22351",
+            "price": 80,
+            "name": "グラードン006/0",
+            "date": "2022-12-31",
+            "stock": 181
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g006-028-S8A-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-31",
+            "stock": 4
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g006-028-S8A-BM/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/288677710",
+            "price": 180,
+            "name": "グラードン(キラ) ",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/230534447",
+            "price": 500,
+            "name": "グラードン(キラ) ",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2002768946",
+            "price": 25,
+            "name": "1枚25円 25th",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/27710498",
+            "price": 400,
+            "name": "グラードン(ミラー)",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/361793137",
+            "price": 500,
+            "name": "グラードン(ミラー)",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22351",
+            "price": 80,
+            "name": "グラードン006/0",
+            "date": "2022-12-30",
+            "stock": 181
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g006-028-S8A-BM/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g006-028-S8A-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-30",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/361793137",
+            "price": 500,
+            "name": "グラードン(ミラー)",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/27710498",
+            "price": 400,
+            "name": "グラードン(ミラー)",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/288677710",
+            "price": 180,
+            "name": "グラードン(キラ) ",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/230534447",
+            "price": 500,
+            "name": "グラードン(キラ) ",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2002768946",
+            "price": 25,
+            "name": "1枚25円 25th",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22351",
+            "price": 80,
+            "name": "グラードン006/0",
+            "date": "2022-12-29",
+            "stock": 187
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g006-028-S8A-BM/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g006-028-S8A-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-29",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/27710498",
+            "price": 400,
+            "name": "グラードン(ミラー)",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2002768946",
+            "price": 25,
+            "name": "1枚25円 25th",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/361793137",
+            "price": 500,
+            "name": "グラードン(ミラー)",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/230534447",
+            "price": 500,
+            "name": "グラードン(キラ) ",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/288677710",
+            "price": 180,
+            "name": "グラードン(キラ) ",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22351",
+            "price": 80,
+            "name": "グラードン006/0",
+            "date": "2022-12-28",
+            "stock": 187
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g006-028-S8A-BM/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g006-028-S8A-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-28",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/361793137",
+            "price": 500,
+            "name": "グラードン(ミラー)",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2002768946",
+            "price": 25,
+            "name": "1枚25円 25th",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/230534447",
+            "price": 500,
+            "name": "グラードン(キラ) ",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/27710498",
+            "price": 400,
+            "name": "グラードン(ミラー)",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/288677710",
+            "price": 180,
+            "name": "グラードン(キラ) ",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22351",
+            "price": 80,
+            "name": "グラードン006/0",
+            "date": "2022-12-27",
+            "stock": 187
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g006-028-S8A-BM/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g006-028-S8A-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-27",
             "stock": 4
         }
     ]

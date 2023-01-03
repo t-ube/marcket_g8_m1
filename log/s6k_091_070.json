@@ -5,6 +5,38 @@
             "link": "https://www.hareruya2.com/product/19419",
             "price": 900,
             "name": "ズミ(HR){サポー",
+            "date": "2023-01-03",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31921",
+            "price": 680,
+            "name": "ズミ091/070",
+            "date": "2023-01-03",
+            "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20188",
+            "price": 780,
+            "name": "ズミ091/070",
+            "date": "2023-01-03",
+            "stock": 54
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g091-070-S6K-B/",
+            "price": 770,
+            "name": "【ポケカ】ＨＲ◇ズミ",
+            "date": "2023-01-03",
+            "stock": 5
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19419",
+            "price": 900,
+            "name": "ズミ(HR){サポー",
             "date": "2023-01-02",
             "stock": 3
         },
@@ -74,14 +106,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31921",
-            "price": 680,
-            "name": "ズミ091/070",
-            "date": "2022-12-31",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20188",
             "price": 780,
             "name": "ズミ091/070",
@@ -89,6 +113,14 @@
             "stock": 45
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31921",
+            "price": 680,
+            "name": "ズミ091/070",
+            "date": "2022-12-31",
+            "stock": 9
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g091-070-S6K-B/",
             "price": 770,
@@ -138,19 +170,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20188",
-            "price": 780,
-            "name": "ズミ091/070",
-            "date": "2022-12-29",
-            "stock": 44
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31921",
             "price": 680,
             "name": "ズミ091/070",
             "date": "2022-12-29",
             "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20188",
+            "price": 780,
+            "name": "ズミ091/070",
+            "date": "2022-12-29",
+            "stock": 44
         },
         {
             "market": "torecolo",
@@ -170,19 +202,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31921",
-            "price": 680,
-            "name": "ズミ091/070",
-            "date": "2022-12-28",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20188",
             "price": 780,
             "name": "ズミ091/070",
             "date": "2022-12-28",
             "stock": 44
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31921",
+            "price": 680,
+            "name": "ズミ091/070",
+            "date": "2022-12-28",
+            "stock": 9
         },
         {
             "market": "torecolo",
@@ -202,14 +234,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20188",
-            "price": 780,
-            "name": "ズミ091/070",
-            "date": "2022-12-27",
-            "stock": 44
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31921",
             "price": 680,
             "name": "ズミ091/070",
@@ -217,35 +241,11 @@
             "stock": 9
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g091-070-S6K-B/",
-            "price": 770,
-            "name": "【ポケカ】ＨＲ◇ズミ",
-            "date": "2022-12-27",
-            "stock": 5
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19419",
-            "price": 900,
-            "name": "ズミ(HR){サポー",
-            "date": "2022-12-26",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31921",
-            "price": 680,
-            "name": "ズミ091/070",
-            "date": "2022-12-26",
-            "stock": 9
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20188",
             "price": 780,
             "name": "ズミ091/070",
-            "date": "2022-12-26",
+            "date": "2022-12-27",
             "stock": 44
         },
         {
@@ -253,7 +253,7 @@
             "link": "/shop/g/g091-070-S6K-B/",
             "price": 770,
             "name": "【ポケカ】ＨＲ◇ズミ",
-            "date": "2022-12-26",
+            "date": "2022-12-27",
             "stock": 5
         }
     ]

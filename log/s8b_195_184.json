@@ -2,16 +2,64 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/957844852",
+            "price": 348,
+            "name": "ゼクロム CHR 1",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1194566536",
             "price": 2700,
             "name": "ゼクロム CHR 1",
-            "date": "2023-01-02",
+            "date": "2023-01-03",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/55895496",
             "price": 500,
+            "name": "ゼクロム CHR 1",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21342",
+            "price": 700,
+            "name": "ゼクロム(CHR){",
+            "date": "2023-01-03",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22974",
+            "price": 380,
+            "name": "ゼクロム195/18",
+            "date": "2023-01-03",
+            "stock": 335
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g195-184-S8B-B/",
+            "price": 440,
+            "name": "【ポケカ】ＣＨＲ◇ゼ",
+            "date": "2023-01-03",
+            "stock": 10
+        },
+        {
+            "market": "magi",
+            "link": "/items/55895496",
+            "price": 500,
+            "name": "ゼクロム CHR 1",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1194566536",
+            "price": 2700,
             "name": "ゼクロム CHR 1",
             "date": "2023-01-02",
             "stock": 1
@@ -82,16 +130,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/55895496",
-            "price": 500,
+            "link": "/items/1194566536",
+            "price": 2700,
             "name": "ゼクロム CHR 1",
             "date": "2022-12-31",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1194566536",
-            "price": 2700,
+            "link": "/items/55895496",
+            "price": 500,
             "name": "ゼクロム CHR 1",
             "date": "2022-12-31",
             "stock": 1
@@ -186,19 +234,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33012",
-            "price": 330,
-            "name": "ゼクロム195/18",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22974",
             "price": 380,
             "name": "ゼクロム195/18",
             "date": "2022-12-29",
             "stock": 194
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33012",
+            "price": 330,
+            "name": "ゼクロム195/18",
+            "date": "2022-12-29",
+            "stock": 1
         },
         {
             "market": "torecolo",
@@ -210,16 +258,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1194566536",
-            "price": 2700,
+            "link": "/items/55895496",
+            "price": 500,
             "name": "ゼクロム CHR 1",
             "date": "2022-12-28",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/55895496",
-            "price": 500,
+            "link": "/items/1194566536",
+            "price": 2700,
             "name": "ゼクロム CHR 1",
             "date": "2022-12-28",
             "stock": 1
@@ -258,16 +306,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/55895496",
-            "price": 500,
+            "link": "/items/1194566536",
+            "price": 2700,
             "name": "ゼクロム CHR 1",
             "date": "2022-12-27",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1194566536",
-            "price": 2700,
+            "link": "/items/55895496",
+            "price": 500,
             "name": "ゼクロム CHR 1",
             "date": "2022-12-27",
             "stock": 1
@@ -279,6 +327,14 @@
             "name": "ゼクロム(CHR){",
             "date": "2022-12-27",
             "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33012",
+            "price": 330,
+            "name": "ゼクロム195/18",
+            "date": "2022-12-27",
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -289,67 +345,11 @@
             "stock": 196
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33012",
-            "price": 330,
-            "name": "ゼクロム195/18",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g195-184-S8B-B/",
             "price": 440,
             "name": "【ポケカ】ＣＨＲ◇ゼ",
             "date": "2022-12-27",
-            "stock": 8
-        },
-        {
-            "market": "magi",
-            "link": "/items/55895496",
-            "price": 500,
-            "name": "ゼクロム CHR 1",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1194566536",
-            "price": 2700,
-            "name": "ゼクロム CHR 1",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21342",
-            "price": 700,
-            "name": "ゼクロム(CHR){",
-            "date": "2022-12-26",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33012",
-            "price": 330,
-            "name": "ゼクロム195/18",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22974",
-            "price": 380,
-            "name": "ゼクロム195/18",
-            "date": "2022-12-26",
-            "stock": 198
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g195-184-S8B-B/",
-            "price": 440,
-            "name": "【ポケカ】ＣＨＲ◇ゼ",
-            "date": "2022-12-26",
             "stock": 8
         }
     ]

@@ -5,6 +5,14 @@
             "link": "https://www.cardrush-pokemon.jp/product/21859",
             "price": 980,
             "name": "ゲッコウガV-UNI",
+            "date": "2023-01-03",
+            "stock": 167
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21859",
+            "price": 980,
+            "name": "ゲッコウガV-UNI",
             "date": "2023-01-02",
             "stock": 167
         },
@@ -18,14 +26,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32429",
-            "price": 830,
-            "name": "ゲッコウガV-UNI",
-            "date": "2022-12-31",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21859",
             "price": 980,
             "name": "ゲッコウガV-UNI",
@@ -37,7 +37,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/32429",
             "price": 830,
             "name": "ゲッコウガV-UNI",
-            "date": "2022-12-30",
+            "date": "2022-12-31",
             "stock": 3
         },
         {
@@ -50,11 +50,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21859",
-            "price": 980,
+            "link": "https://www.cardrush-pokemon.jp/product/32429",
+            "price": 830,
             "name": "ゲッコウガV-UNI",
-            "date": "2022-12-29",
-            "stock": 138
+            "date": "2022-12-30",
+            "stock": 3
         },
         {
             "market": "cardrush",
@@ -63,6 +63,14 @@
             "name": "ゲッコウガV-UNI",
             "date": "2022-12-29",
             "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21859",
+            "price": 980,
+            "name": "ゲッコウガV-UNI",
+            "date": "2022-12-29",
+            "stock": 138
         },
         {
             "market": "cardrush",
@@ -82,35 +90,19 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32429",
+            "price": 830,
+            "name": "ゲッコウガV-UNI",
+            "date": "2022-12-27",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21859",
             "price": 980,
             "name": "ゲッコウガV-UNI",
             "date": "2022-12-27",
             "stock": 139
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32429",
-            "price": 830,
-            "name": "ゲッコウガV-UNI",
-            "date": "2022-12-27",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21859",
-            "price": 980,
-            "name": "ゲッコウガV-UNI",
-            "date": "2022-12-26",
-            "stock": 140
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32429",
-            "price": 830,
-            "name": "ゲッコウガV-UNI",
-            "date": "2022-12-26",
-            "stock": 4
         }
     ]
 }

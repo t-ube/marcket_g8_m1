@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/19155",
             "price": 100,
             "name": "インテレオン(R){",
+            "date": "2023-01-03",
+            "stock": 31
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18694",
+            "price": 80,
+            "name": "インテレオン018/",
+            "date": "2023-01-03",
+            "stock": 67
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19155",
+            "price": 100,
+            "name": "インテレオン(R){",
             "date": "2023-01-02",
             "stock": 31
         },
@@ -63,14 +79,6 @@
             "name": "インテレオン(R){",
             "date": "2022-12-27",
             "stock": 32
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19155",
-            "price": 100,
-            "name": "インテレオン(R){",
-            "date": "2022-12-26",
-            "stock": 37
         }
     ]
 }

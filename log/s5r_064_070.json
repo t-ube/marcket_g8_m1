@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/19077",
             "price": 400,
             "name": "ツールジャマー(U)",
+            "date": "2023-01-03",
+            "stock": 19
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18186",
+            "price": 380,
+            "name": "ツールジャマー064",
+            "date": "2023-01-03",
+            "stock": 98
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g064-070-S5R-B/",
+            "price": 330,
+            "name": "【ポケカ】Ｕ◇ツール",
+            "date": "2023-01-03",
+            "stock": 8
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19077",
+            "price": 400,
+            "name": "ツールジャマー(U)",
             "date": "2023-01-02",
             "stock": 19
         },
@@ -58,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18186",
-            "price": 380,
-            "name": "ツールジャマー064",
-            "date": "2022-12-31",
-            "stock": 30
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/24646",
             "price": 350,
             "name": "ツールジャマー064",
             "date": "2022-12-31",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18186",
+            "price": 380,
+            "name": "ツールジャマー064",
+            "date": "2022-12-31",
+            "stock": 30
         },
         {
             "market": "torecolo",
@@ -122,19 +146,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24646",
-            "price": 350,
-            "name": "ツールジャマー064",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/18186",
             "price": 380,
             "name": "ツールジャマー064",
             "date": "2022-12-29",
             "stock": 33
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24646",
+            "price": 350,
+            "name": "ツールジャマー064",
+            "date": "2022-12-29",
+            "stock": 1
         },
         {
             "market": "torecolo",
@@ -190,38 +214,6 @@
             "price": 330,
             "name": "【ポケカ】Ｕ◇ツール",
             "date": "2022-12-27",
-            "stock": 8
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19077",
-            "price": 400,
-            "name": "ツールジャマー(U)",
-            "date": "2022-12-26",
-            "stock": 19
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24646",
-            "price": 350,
-            "name": "ツールジャマー064",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18186",
-            "price": 380,
-            "name": "ツールジャマー064",
-            "date": "2022-12-26",
-            "stock": 50
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g064-070-S5R-B/",
-            "price": 330,
-            "name": "【ポケカ】Ｕ◇ツール",
-            "date": "2022-12-26",
             "stock": 8
         }
     ]
