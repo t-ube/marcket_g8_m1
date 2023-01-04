@@ -5,6 +5,30 @@
             "link": "/items/1071608450",
             "price": 290,
             "name": "バシャーモV RR ",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19144",
+            "price": 100,
+            "name": "バシャーモV(RR)",
+            "date": "2023-01-04",
+            "stock": 20
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18683",
+            "price": 80,
+            "name": "バシャーモV007/",
+            "date": "2023-01-04",
+            "stock": 12
+        },
+        {
+            "market": "magi",
+            "link": "/items/1071608450",
+            "price": 290,
+            "name": "バシャーモV RR ",
             "date": "2023-01-03",
             "stock": 1
         },
@@ -167,30 +191,6 @@
             "name": "バシャーモV007/",
             "date": "2022-12-28",
             "stock": 18
-        },
-        {
-            "market": "magi",
-            "link": "/items/1071608450",
-            "price": 290,
-            "name": "バシャーモV RR ",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19144",
-            "price": 100,
-            "name": "バシャーモV(RR)",
-            "date": "2022-12-27",
-            "stock": 20
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18683",
-            "price": 80,
-            "name": "バシャーモV007/",
-            "date": "2022-12-27",
-            "stock": 19
         }
     ]
 }

@@ -5,6 +5,30 @@
             "link": "/items/938264834",
             "price": 209,
             "name": "たっぷりバケツ　ミラ",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19589",
+            "price": 200,
+            "name": "たっぷりバケツ(‐)",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20161",
+            "price": 220,
+            "name": "たっぷりバケツ004",
+            "date": "2023-01-04",
+            "stock": 40
+        },
+        {
+            "market": "magi",
+            "link": "/items/938264834",
+            "price": 209,
+            "name": "たっぷりバケツ　ミラ",
             "date": "2023-01-03",
             "stock": 1
         },
@@ -167,30 +191,6 @@
             "name": "たっぷりバケツ004",
             "date": "2022-12-28",
             "stock": 17
-        },
-        {
-            "market": "magi",
-            "link": "/items/938264834",
-            "price": 212,
-            "name": "たっぷりバケツ　ミラ",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19589",
-            "price": 200,
-            "name": "たっぷりバケツ(‐)",
-            "date": "2022-12-27",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20161",
-            "price": 220,
-            "name": "たっぷりバケツ004",
-            "date": "2022-12-27",
-            "stock": 19
         }
     ]
 }

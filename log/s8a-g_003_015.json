@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/22890",
             "price": 600,
             "name": "ピカチュウ(D){雷",
+            "date": "2023-01-04",
+            "stock": 32
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33378",
+            "price": 150,
+            "name": "ピカチュウ003/0",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22890",
+            "price": 600,
+            "name": "ピカチュウ(D){雷",
             "date": "2023-01-03",
             "stock": 32
         },
@@ -42,19 +58,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33378",
-            "price": 150,
-            "name": "ピカチュウ003/0",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23854",
             "price": 180,
             "name": "ピカチュウ003/0",
             "date": "2023-01-01",
             "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33378",
+            "price": 150,
+            "name": "ピカチュウ003/0",
+            "date": "2023-01-01",
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -66,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23854",
-            "price": 180,
-            "name": "ピカチュウ003/0",
-            "date": "2022-12-31",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33378",
             "price": 150,
             "name": "ピカチュウ003/0",
             "date": "2022-12-31",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23854",
+            "price": 180,
+            "name": "ピカチュウ003/0",
+            "date": "2022-12-31",
+            "stock": 4
         },
         {
             "market": "hareruya2",
@@ -87,14 +103,6 @@
             "name": "ピカチュウ(D){雷",
             "date": "2022-12-30",
             "stock": 8
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33378",
-            "price": 150,
-            "name": "ピカチュウ003/0",
-            "date": "2022-12-30",
-            "stock": 1
         },
         {
             "market": "cardrush",
@@ -105,12 +113,28 @@
             "stock": 5
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33378",
+            "price": 150,
+            "name": "ピカチュウ003/0",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/22890",
             "price": 600,
             "name": "ピカチュウ(D){雷",
             "date": "2022-12-29",
             "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33378",
+            "price": 150,
+            "name": "ピカチュウ003/0",
+            "date": "2022-12-29",
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -121,14 +145,6 @@
             "stock": 6
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33378",
-            "price": 150,
-            "name": "ピカチュウ003/0",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/22890",
             "price": 600,
@@ -143,14 +159,6 @@
             "name": "ピカチュウ003/0",
             "date": "2022-12-28",
             "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22890",
-            "price": 600,
-            "name": "ピカチュウ(D){雷",
-            "date": "2022-12-27",
-            "stock": 9
         }
     ]
 }

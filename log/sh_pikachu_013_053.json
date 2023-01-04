@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/19800",
             "price": 50,
             "name": "ハリーセン(-){水",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21374",
+            "price": 30,
+            "name": "ハリーセン013/0",
+            "date": "2023-01-04",
+            "stock": 42
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g013-053-SH-B/",
+            "price": 33,
+            "name": "【ポケカ】ＳＳ◇ハリ",
+            "date": "2023-01-04",
+            "stock": 5
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19800",
+            "price": 50,
+            "name": "ハリーセン(-){水",
             "date": "2023-01-03",
             "stock": 1
         },
@@ -166,30 +190,6 @@
             "price": 33,
             "name": "【ポケカ】ＳＳ◇ハリ",
             "date": "2022-12-28",
-            "stock": 5
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19800",
-            "price": 50,
-            "name": "ハリーセン(-){水",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21374",
-            "price": 30,
-            "name": "ハリーセン013/0",
-            "date": "2022-12-27",
-            "stock": 42
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g013-053-SH-B/",
-            "price": 33,
-            "name": "【ポケカ】ＳＳ◇ハリ",
-            "date": "2022-12-27",
             "stock": 5
         }
     ]

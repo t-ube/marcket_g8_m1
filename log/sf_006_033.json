@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/19110",
             "price": 150,
             "name": "いちげきウーラオスV",
+            "date": "2023-01-04",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18202",
+            "price": 80,
+            "name": "いちげきウーラオスV",
+            "date": "2023-01-04",
+            "stock": 49
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19110",
+            "price": 150,
+            "name": "いちげきウーラオスV",
             "date": "2023-01-03",
             "stock": 2
         },
@@ -111,22 +127,6 @@
             "name": "いちげきウーラオスV",
             "date": "2022-12-28",
             "stock": 47
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19110",
-            "price": 150,
-            "name": "いちげきウーラオスV",
-            "date": "2022-12-27",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18202",
-            "price": 80,
-            "name": "いちげきウーラオスV",
-            "date": "2022-12-27",
-            "stock": 48
         }
     ]
 }

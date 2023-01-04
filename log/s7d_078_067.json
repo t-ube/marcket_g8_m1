@@ -5,13 +5,53 @@
             "link": "/items/460296164",
             "price": 1830,
             "name": "スクールガール SR",
-            "date": "2023-01-03",
+            "date": "2023-01-04",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/2101008761",
             "price": 2000,
+            "name": "スクールガール SR",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19887",
+            "price": 2500,
+            "name": "スクールガール(SR",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21455",
+            "price": 2380,
+            "name": "スクールガール078",
+            "date": "2023-01-04",
+            "stock": 47
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32375",
+            "price": 2080,
+            "name": "スクールガール078",
+            "date": "2023-01-04",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2101008761",
+            "price": 2000,
+            "name": "スクールガール SR",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/460296164",
+            "price": 1830,
             "name": "スクールガール SR",
             "date": "2023-01-03",
             "stock": 1
@@ -202,6 +242,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/2101008761",
+            "price": 2000,
+            "name": "スクールガール SR",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/460296164",
             "price": 1920,
             "name": "スクールガール SR",
@@ -209,14 +257,6 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/2101008761",
-            "price": 2000,
-            "name": "スクールガール SR",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19887",
             "price": 2500,
@@ -230,38 +270,6 @@
             "price": 2380,
             "name": "スクールガール078",
             "date": "2022-12-28",
-            "stock": 34
-        },
-        {
-            "market": "magi",
-            "link": "/items/2101008761",
-            "price": 2000,
-            "name": "スクールガール SR",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/460296164",
-            "price": 1930,
-            "name": "スクールガール SR",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19887",
-            "price": 2500,
-            "name": "スクールガール(SR",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21455",
-            "price": 2380,
-            "name": "スクールガール078",
-            "date": "2022-12-27",
             "stock": 34
         }
     ]

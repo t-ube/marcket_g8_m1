@@ -5,6 +5,46 @@
             "link": "/items/2045164083",
             "price": 500,
             "name": "【値下げ】マクワ S",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19563",
+            "price": 900,
+            "name": "マクワ(SR){サポ",
+            "date": "2023-01-04",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20753",
+            "price": 780,
+            "name": "マクワ087/069",
+            "date": "2023-01-04",
+            "stock": 110
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32061",
+            "price": 680,
+            "name": "マクワ087/069",
+            "date": "2023-01-04",
+            "stock": 59
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g087-069-S6A-B/",
+            "price": 880,
+            "name": "【ポケカ】ＳＲ◇マク",
+            "date": "2023-01-04",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/2045164083",
+            "price": 500,
+            "name": "【値下げ】マクワ S",
             "date": "2023-01-03",
             "stock": 1
         },
@@ -98,14 +138,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32061",
-            "price": 680,
-            "name": "マクワ087/069",
-            "date": "2023-01-01",
-            "stock": 55
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20753",
             "price": 780,
             "name": "マクワ087/069",
@@ -113,6 +145,14 @@
             "stock": 84
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32061",
+            "price": 680,
+            "name": "マクワ087/069",
+            "date": "2023-01-01",
+            "stock": 55
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g087-069-S6A-B/",
             "price": 880,
@@ -178,19 +218,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32061",
-            "price": 680,
-            "name": "マクワ087/069",
-            "date": "2022-12-30",
-            "stock": 55
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20753",
             "price": 780,
             "name": "マクワ087/069",
             "date": "2022-12-30",
             "stock": 96
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32061",
+            "price": 680,
+            "name": "マクワ087/069",
+            "date": "2022-12-30",
+            "stock": 55
         },
         {
             "market": "torecolo",
@@ -218,19 +258,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32061",
-            "price": 680,
-            "name": "マクワ087/069",
-            "date": "2022-12-29",
-            "stock": 55
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20753",
             "price": 780,
             "name": "マクワ087/069",
             "date": "2022-12-29",
             "stock": 96
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32061",
+            "price": 680,
+            "name": "マクワ087/069",
+            "date": "2022-12-29",
+            "stock": 55
         },
         {
             "market": "magi",
@@ -250,51 +290,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20753",
-            "price": 780,
-            "name": "マクワ087/069",
-            "date": "2022-12-28",
-            "stock": 96
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32061",
             "price": 680,
             "name": "マクワ087/069",
             "date": "2022-12-28",
             "stock": 55
-        },
-        {
-            "market": "magi",
-            "link": "/items/2045164083",
-            "price": 500,
-            "name": "【値下げ】マクワ S",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19563",
-            "price": 900,
-            "name": "マクワ(SR){サポ",
-            "date": "2022-12-27",
-            "stock": 5
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20753",
             "price": 780,
             "name": "マクワ087/069",
-            "date": "2022-12-27",
-            "stock": 100
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32061",
-            "price": 680,
-            "name": "マクワ087/069",
-            "date": "2022-12-27",
-            "stock": 55
+            "date": "2022-12-28",
+            "stock": 96
         }
     ]
 }

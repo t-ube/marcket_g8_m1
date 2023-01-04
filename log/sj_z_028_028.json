@@ -1,6 +1,30 @@
 ﻿{
     "items": [
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32712",
+            "price": 70,
+            "name": "マリィ028/028",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22498",
+            "price": 80,
+            "name": "マリィ028/028",
+            "date": "2023-01-04",
+            "stock": 27
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g028-028-SJ-B/",
+            "price": 88,
+            "name": "【ポケカ】ＳＳ◇マリ",
+            "date": "2023-01-04",
+            "stock": 3
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/20795",
             "price": 100,
@@ -118,14 +142,6 @@
             "price": 88,
             "name": "【ポケカ】ＳＳ◇マリ",
             "date": "2022-12-28",
-            "stock": 4
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g028-028-SJ-B/",
-            "price": 88,
-            "name": "【ポケカ】ＳＳ◇マリ",
-            "date": "2022-12-27",
             "stock": 4
         }
     ]

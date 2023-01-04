@@ -1,6 +1,30 @@
 ﻿{
     "items": [
         {
+            "market": "magi",
+            "link": "/items/647375976",
+            "price": 1500,
+            "name": "ゼラオラV CSR ",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23003",
+            "price": 1580,
+            "name": "ゼラオラV224/1",
+            "date": "2023-01-04",
+            "stock": 102
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23096",
+            "price": 1330,
+            "name": "ゼラオラV224/1",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23003",
             "price": 1580,
@@ -42,14 +66,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23003",
-            "price": 1580,
-            "name": "ゼラオラV224/1",
-            "date": "2022-12-29",
-            "stock": 88
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23096",
             "price": 1330,
             "name": "ゼラオラV224/1",
@@ -61,7 +77,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/23003",
             "price": 1580,
             "name": "ゼラオラV224/1",
-            "date": "2022-12-28",
+            "date": "2022-12-29",
             "stock": 88
         },
         {
@@ -74,19 +90,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23096",
-            "price": 1330,
-            "name": "ゼラオラV224/1",
-            "date": "2022-12-27",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23003",
             "price": 1580,
             "name": "ゼラオラV224/1",
-            "date": "2022-12-27",
-            "stock": 76
+            "date": "2022-12-28",
+            "stock": 88
         }
     ]
 }

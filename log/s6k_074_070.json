@@ -2,6 +2,22 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1969474987",
+            "price": 10479,
+            "name": "ゼラオラV(SA)【",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20171",
+            "price": 9980,
+            "name": "ゼラオラV074/0",
+            "date": "2023-01-04",
+            "stock": 12
+        },
+        {
+            "market": "magi",
             "link": "/items/608162699",
             "price": 8694,
             "name": "〔状態A-〕ゼラオラ",
@@ -42,17 +58,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/608162699",
-            "price": 8694,
-            "name": "〔状態A-〕ゼラオラ",
+            "link": "/items/1969474987",
+            "price": 10479,
+            "name": "ゼラオラV(SA)【",
             "date": "2023-01-02",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1969474987",
-            "price": 10479,
-            "name": "ゼラオラV(SA)【",
+            "link": "/items/608162699",
+            "price": 8694,
+            "name": "〔状態A-〕ゼラオラ",
             "date": "2023-01-02",
             "stock": 1
         },
@@ -63,14 +79,6 @@
             "name": "ゼラオラV:SA(S",
             "date": "2023-01-02",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31904",
-            "price": 8280,
-            "name": "ゼラオラV074/0",
-            "date": "2023-01-02",
-            "stock": 3
         },
         {
             "market": "cardrush",
@@ -81,12 +89,12 @@
             "stock": 10
         },
         {
-            "market": "magi",
-            "link": "/items/1969474987",
-            "price": 10479,
-            "name": "ゼラオラV(SA)【",
-            "date": "2023-01-01",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31904",
+            "price": 8280,
+            "name": "ゼラオラV074/0",
+            "date": "2023-01-02",
+            "stock": 3
         },
         {
             "market": "magi",
@@ -97,12 +105,28 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/1969474987",
+            "price": 10479,
+            "name": "ゼラオラV(SA)【",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19402",
             "price": 10000,
             "name": "ゼラオラV:SA(S",
             "date": "2023-01-01",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31904",
+            "price": 8280,
+            "name": "ゼラオラV074/0",
+            "date": "2023-01-01",
+            "stock": 3
         },
         {
             "market": "cardrush",
@@ -113,14 +137,6 @@
             "stock": 10
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31904",
-            "price": 8280,
-            "name": "ゼラオラV074/0",
-            "date": "2023-01-01",
-            "stock": 3
-        },
-        {
             "market": "magi",
             "link": "/items/608162699",
             "price": 8694,
@@ -143,14 +159,6 @@
             "name": "ゼラオラV:SA(S",
             "date": "2022-12-31",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31904",
-            "price": 8280,
-            "name": "ゼラオラV074/0",
-            "date": "2022-12-31",
-            "stock": 3
         },
         {
             "market": "cardrush",
@@ -161,12 +169,12 @@
             "stock": 10
         },
         {
-            "market": "magi",
-            "link": "/items/608162699",
-            "price": 8694,
-            "name": "〔状態A-〕ゼラオラ",
-            "date": "2022-12-30",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31904",
+            "price": 8280,
+            "name": "ゼラオラV074/0",
+            "date": "2022-12-31",
+            "stock": 3
         },
         {
             "market": "magi",
@@ -177,20 +185,20 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/608162699",
+            "price": 8694,
+            "name": "〔状態A-〕ゼラオラ",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19402",
             "price": 10000,
             "name": "ゼラオラV:SA(S",
             "date": "2022-12-30",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31904",
-            "price": 8280,
-            "name": "ゼラオラV074/0",
-            "date": "2022-12-30",
-            "stock": 3
         },
         {
             "market": "cardrush",
@@ -201,18 +209,26 @@
             "stock": 9
         },
         {
-            "market": "magi",
-            "link": "/items/1969474987",
-            "price": 10479,
-            "name": "ゼラオラV(SA)【",
-            "date": "2022-12-29",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31904",
+            "price": 8280,
+            "name": "ゼラオラV074/0",
+            "date": "2022-12-30",
+            "stock": 3
         },
         {
             "market": "magi",
             "link": "/items/608162699",
             "price": 8694,
             "name": "〔状態A-〕ゼラオラ",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1969474987",
+            "price": 10479,
+            "name": "ゼラオラV(SA)【",
             "date": "2022-12-29",
             "stock": 1
         },
@@ -226,14 +242,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20171",
-            "price": 9980,
-            "name": "ゼラオラV074/0",
-            "date": "2022-12-29",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31904",
             "price": 8280,
             "name": "ゼラオラV074/0",
@@ -241,12 +249,12 @@
             "stock": 3
         },
         {
-            "market": "magi",
-            "link": "/items/608162699",
-            "price": 8694,
-            "name": "〔状態A-〕ゼラオラ",
-            "date": "2022-12-28",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20171",
+            "price": 9980,
+            "name": "ゼラオラV074/0",
+            "date": "2022-12-29",
+            "stock": 9
         },
         {
             "market": "magi",
@@ -257,6 +265,14 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/608162699",
+            "price": 8694,
+            "name": "〔状態A-〕ゼラオラ",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19402",
             "price": 10000,
@@ -279,46 +295,6 @@
             "name": "ゼラオラV074/0",
             "date": "2022-12-28",
             "stock": 9
-        },
-        {
-            "market": "magi",
-            "link": "/items/608162699",
-            "price": 8694,
-            "name": "〔状態A-〕ゼラオラ",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/75239371",
-            "price": 10479,
-            "name": "ゼラオラV(SA)【",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19402",
-            "price": 10000,
-            "name": "ゼラオラV:SA(S",
-            "date": "2022-12-27",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20171",
-            "price": 9980,
-            "name": "ゼラオラV074/0",
-            "date": "2022-12-27",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31904",
-            "price": 8280,
-            "name": "ゼラオラV074/0",
-            "date": "2022-12-27",
-            "stock": 3
         }
     ]
 }

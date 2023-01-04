@@ -1,6 +1,30 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20369",
+            "price": 50,
+            "name": "トランセル(C){草",
+            "date": "2023-01-04",
+            "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22077",
+            "price": 30,
+            "name": "トランセル002/1",
+            "date": "2023-01-04",
+            "stock": 15
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g002-100-S8-B/",
+            "price": 14,
+            "name": "【ポケカ】Ｃ◇トラン",
+            "date": "2023-01-04",
+            "stock": 30
+        },
+        {
             "market": "magi",
             "link": "/items/1439562820",
             "price": 100,
@@ -50,7 +74,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1439562820",
+            "link": "/items/1866535843",
             "price": 100,
             "name": "トランセル C 00",
             "date": "2023-01-02",
@@ -66,7 +90,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1866535843",
+            "link": "/items/1439562820",
             "price": 100,
             "name": "トランセル C 00",
             "date": "2023-01-02",
@@ -146,7 +170,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1439562820",
+            "link": "/items/1866535843",
             "price": 100,
             "name": "トランセル C 00",
             "date": "2022-12-31",
@@ -162,7 +186,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1866535843",
+            "link": "/items/1439562820",
             "price": 100,
             "name": "トランセル C 00",
             "date": "2022-12-31",
@@ -202,7 +226,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1866535843",
+            "link": "/items/278095616",
             "price": 100,
             "name": "トランセル C 00",
             "date": "2022-12-30",
@@ -210,7 +234,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/278095616",
+            "link": "/items/1866535843",
             "price": 100,
             "name": "トランセル C 00",
             "date": "2022-12-30",
@@ -290,7 +314,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/278095616",
+            "link": "/items/1866535843",
             "price": 100,
             "name": "トランセル C 00",
             "date": "2022-12-28",
@@ -298,7 +322,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1866535843",
+            "link": "/items/278095616",
             "price": 100,
             "name": "トランセル C 00",
             "date": "2022-12-28",
@@ -334,54 +358,6 @@
             "price": 14,
             "name": "【ポケカ】Ｃ◇トラン",
             "date": "2022-12-28",
-            "stock": 30
-        },
-        {
-            "market": "magi",
-            "link": "/items/1439562820",
-            "price": 100,
-            "name": "トランセル C 00",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1866535843",
-            "price": 100,
-            "name": "トランセル C 00",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/278095616",
-            "price": 100,
-            "name": "トランセル C 00",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20369",
-            "price": 50,
-            "name": "トランセル(C){草",
-            "date": "2022-12-27",
-            "stock": 15
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22077",
-            "price": 30,
-            "name": "トランセル002/1",
-            "date": "2022-12-27",
-            "stock": 15
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g002-100-S8-B/",
-            "price": 14,
-            "name": "【ポケカ】Ｃ◇トラン",
-            "date": "2022-12-27",
             "stock": 30
         }
     ]

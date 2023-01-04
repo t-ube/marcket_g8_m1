@@ -5,6 +5,30 @@
             "link": "/items/2133808647",
             "price": 77777,
             "name": "ポケカ【極美品】こく",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1331070268",
+            "price": 1500,
+            "name": "ポケモンカード こく",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20182",
+            "price": 1980,
+            "name": "こくばバドレックスV",
+            "date": "2023-01-04",
+            "stock": 28
+        },
+        {
+            "market": "magi",
+            "link": "/items/2133808647",
+            "price": 77777,
+            "name": "ポケカ【極美品】こく",
             "date": "2023-01-03",
             "stock": 1
         },
@@ -98,17 +122,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/2133808647",
-            "price": 77777,
-            "name": "ポケカ【極美品】こく",
+            "link": "/items/97128331",
+            "price": 1300,
+            "name": "こくばバドレックスV",
             "date": "2022-12-30",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/97128331",
-            "price": 1300,
-            "name": "こくばバドレックスV",
+            "link": "/items/2133808647",
+            "price": 77777,
+            "name": "ポケカ【極美品】こく",
             "date": "2022-12-30",
             "stock": 1
         },
@@ -162,6 +186,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/2133808647",
+            "price": 77777,
+            "name": "ポケカ【極美品】こく",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1331070268",
             "price": 1500,
             "name": "ポケモンカード こく",
@@ -173,14 +205,6 @@
             "link": "/items/97128331",
             "price": 1300,
             "name": "こくばバドレックスV",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2133808647",
-            "price": 77777,
-            "name": "ポケカ【極美品】こく",
             "date": "2022-12-28",
             "stock": 1
         },
@@ -191,38 +215,6 @@
             "name": "こくばバドレックスV",
             "date": "2022-12-28",
             "stock": 24
-        },
-        {
-            "market": "magi",
-            "link": "/items/1331070268",
-            "price": 1500,
-            "name": "ポケモンカード こく",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2133808647",
-            "price": 77777,
-            "name": "ポケカ【極美品】こく",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/97128331",
-            "price": 1300,
-            "name": "こくばバドレックスV",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20182",
-            "price": 1980,
-            "name": "こくばバドレックスV",
-            "date": "2022-12-27",
-            "stock": 20
         }
     ]
 }

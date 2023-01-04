@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/19400",
             "price": 900,
             "name": "ウオチルドンV(SR",
+            "date": "2023-01-04",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31902",
+            "price": 680,
+            "name": "ウオチルドンV072",
+            "date": "2023-01-04",
+            "stock": 33
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20169",
+            "price": 780,
+            "name": "ウオチルドンV072",
+            "date": "2023-01-04",
+            "stock": 116
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19400",
+            "price": 900,
+            "name": "ウオチルドンV(SR",
             "date": "2023-01-03",
             "stock": 5
         },
@@ -58,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31902",
-            "price": 680,
-            "name": "ウオチルドンV072",
-            "date": "2023-01-01",
-            "stock": 32
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20169",
             "price": 780,
             "name": "ウオチルドンV072",
             "date": "2023-01-01",
             "stock": 105
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31902",
+            "price": 680,
+            "name": "ウオチルドンV072",
+            "date": "2023-01-01",
+            "stock": 32
         },
         {
             "market": "hareruya2",
@@ -79,6 +103,14 @@
             "name": "ウオチルドンV(SR",
             "date": "2022-12-31",
             "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31902",
+            "price": 680,
+            "name": "ウオチルドンV072",
+            "date": "2022-12-31",
+            "stock": 32
         },
         {
             "market": "cardrush",
@@ -89,28 +121,12 @@
             "stock": 104
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31902",
-            "price": 680,
-            "name": "ウオチルドンV072",
-            "date": "2022-12-31",
-            "stock": 32
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19400",
             "price": 900,
             "name": "ウオチルドンV(SR",
             "date": "2022-12-30",
             "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31902",
-            "price": 680,
-            "name": "ウオチルドンV072",
-            "date": "2022-12-30",
-            "stock": 32
         },
         {
             "market": "cardrush",
@@ -121,12 +137,28 @@
             "stock": 113
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31902",
+            "price": 680,
+            "name": "ウオチルドンV072",
+            "date": "2022-12-30",
+            "stock": 32
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19400",
             "price": 900,
             "name": "ウオチルドンV(SR",
             "date": "2022-12-29",
             "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31902",
+            "price": 680,
+            "name": "ウオチルドンV072",
+            "date": "2022-12-29",
+            "stock": 32
         },
         {
             "market": "cardrush",
@@ -137,28 +169,12 @@
             "stock": 113
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31902",
-            "price": 680,
-            "name": "ウオチルドンV072",
-            "date": "2022-12-29",
-            "stock": 32
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19400",
             "price": 900,
             "name": "ウオチルドンV(SR",
             "date": "2022-12-28",
             "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31902",
-            "price": 680,
-            "name": "ウオチルドンV072",
-            "date": "2022-12-28",
-            "stock": 32
         },
         {
             "market": "cardrush",
@@ -169,27 +185,11 @@
             "stock": 90
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19400",
-            "price": 900,
-            "name": "ウオチルドンV(SR",
-            "date": "2022-12-27",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20169",
-            "price": 780,
-            "name": "ウオチルドンV072",
-            "date": "2022-12-27",
-            "stock": 95
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31902",
             "price": 680,
             "name": "ウオチルドンV072",
-            "date": "2022-12-27",
+            "date": "2022-12-28",
             "stock": 32
         }
     ]
