@@ -2,11 +2,51 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/206343705",
+            "price": 15000,
+            "name": "基本水エネルギー U",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/696287263",
+            "price": 11340,
+            "name": "〔状態A-〕基本水エ",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/252776926",
             "price": 13440,
             "name": "基本水エネルギー【U",
-            "date": "2023-01-04",
+            "date": "2023-01-05",
             "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19328",
+            "price": 12000,
+            "name": "基本水エネルギー(U",
+            "date": "2023-01-05",
+            "stock": 13
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31948",
+            "price": 10800,
+            "name": "基本水エネルギー09",
+            "date": "2023-01-05",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20215",
+            "price": 12800,
+            "name": "基本水エネルギー09",
+            "date": "2023-01-05",
+            "stock": 26
         },
         {
             "market": "magi",
@@ -25,6 +65,14 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/252776926",
+            "price": 13440,
+            "name": "基本水エネルギー【U",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19328",
             "price": 12000,
@@ -34,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20215",
-            "price": 12800,
-            "name": "基本水エネルギー09",
-            "date": "2023-01-04",
-            "stock": 25
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31948",
             "price": 10800,
             "name": "基本水エネルギー09",
             "date": "2023-01-04",
             "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20215",
+            "price": 12800,
+            "name": "基本水エネルギー09",
+            "date": "2023-01-04",
+            "stock": 25
         },
         {
             "market": "magi",
@@ -98,9 +146,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/252776926",
-            "price": 13440,
-            "name": "基本水エネルギー【U",
+            "link": "/items/206343705",
+            "price": 15000,
+            "name": "基本水エネルギー U",
             "date": "2023-01-02",
             "stock": 1
         },
@@ -114,9 +162,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/206343705",
-            "price": 15000,
-            "name": "基本水エネルギー U",
+            "link": "/items/252776926",
+            "price": 13440,
+            "name": "基本水エネルギー【U",
             "date": "2023-01-02",
             "stock": 1
         },
@@ -130,19 +178,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31948",
-            "price": 10800,
-            "name": "基本水エネルギー09",
-            "date": "2023-01-02",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20215",
             "price": 12800,
             "name": "基本水エネルギー09",
             "date": "2023-01-02",
             "stock": 25
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31948",
+            "price": 10800,
+            "name": "基本水エネルギー09",
+            "date": "2023-01-02",
+            "stock": 5
         },
         {
             "market": "magi",
@@ -154,17 +202,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/206343705",
-            "price": 15000,
-            "name": "基本水エネルギー U",
+            "link": "/items/252776926",
+            "price": 13440,
+            "name": "基本水エネルギー【U",
             "date": "2023-01-01",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/252776926",
-            "price": 13440,
-            "name": "基本水エネルギー【U",
+            "link": "/items/206343705",
+            "price": 15000,
+            "name": "基本水エネルギー U",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -178,14 +226,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20215",
-            "price": 12800,
-            "name": "基本水エネルギー09",
-            "date": "2023-01-01",
-            "stock": 25
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31948",
             "price": 10800,
             "name": "基本水エネルギー09",
@@ -193,12 +233,12 @@
             "stock": 5
         },
         {
-            "market": "magi",
-            "link": "/items/696287263",
-            "price": 11340,
-            "name": "〔状態A-〕基本水エ",
-            "date": "2022-12-31",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20215",
+            "price": 12800,
+            "name": "基本水エネルギー09",
+            "date": "2023-01-01",
+            "stock": 25
         },
         {
             "market": "magi",
@@ -217,20 +257,20 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/696287263",
+            "price": 11340,
+            "name": "〔状態A-〕基本水エ",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19328",
             "price": 12000,
             "name": "基本水エネルギー(U",
             "date": "2022-12-31",
             "stock": 23
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31948",
-            "price": 10800,
-            "name": "基本水エネルギー09",
-            "date": "2022-12-31",
-            "stock": 5
         },
         {
             "market": "cardrush",
@@ -241,10 +281,18 @@
             "stock": 25
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31948",
+            "price": 10800,
+            "name": "基本水エネルギー09",
+            "date": "2022-12-31",
+            "stock": 5
+        },
+        {
             "market": "magi",
-            "link": "/items/696287263",
-            "price": 11340,
-            "name": "〔状態A-〕基本水エ",
+            "link": "/items/252776926",
+            "price": 13440,
+            "name": "基本水エネルギー【U",
             "date": "2022-12-30",
             "stock": 1
         },
@@ -258,9 +306,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/252776926",
-            "price": 13440,
-            "name": "基本水エネルギー【U",
+            "link": "/items/696287263",
+            "price": 11340,
+            "name": "〔状態A-〕基本水エ",
             "date": "2022-12-30",
             "stock": 1
         },
@@ -274,14 +322,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31948",
-            "price": 10800,
-            "name": "基本水エネルギー09",
-            "date": "2022-12-30",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20215",
             "price": 12800,
             "name": "基本水エネルギー09",
@@ -289,10 +329,18 @@
             "stock": 33
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31948",
+            "price": 10800,
+            "name": "基本水エネルギー09",
+            "date": "2022-12-30",
+            "stock": 5
+        },
+        {
             "market": "magi",
-            "link": "/items/252776926",
-            "price": 13440,
-            "name": "基本水エネルギー【U",
+            "link": "/items/696287263",
+            "price": 11340,
+            "name": "〔状態A-〕基本水エ",
             "date": "2022-12-29",
             "stock": 1
         },
@@ -306,58 +354,10 @@
         },
         {
             "market": "magi",
-            "link": "/items/696287263",
-            "price": 11340,
-            "name": "〔状態A-〕基本水エ",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19328",
-            "price": 12000,
-            "name": "基本水エネルギー(U",
-            "date": "2022-12-29",
-            "stock": 23
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31948",
-            "price": 10800,
-            "name": "基本水エネルギー09",
-            "date": "2022-12-29",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20215",
-            "price": 12800,
-            "name": "基本水エネルギー09",
-            "date": "2022-12-29",
-            "stock": 33
-        },
-        {
-            "market": "magi",
             "link": "/items/252776926",
             "price": 13440,
             "name": "基本水エネルギー【U",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/696287263",
-            "price": 11340,
-            "name": "〔状態A-〕基本水エ",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/206343705",
-            "price": 15000,
-            "name": "基本水エネルギー U",
-            "date": "2022-12-28",
+            "date": "2022-12-29",
             "stock": 1
         },
         {
@@ -365,24 +365,24 @@
             "link": "https://www.hareruya2.com/product/19328",
             "price": 12000,
             "name": "基本水エネルギー(U",
-            "date": "2022-12-28",
+            "date": "2022-12-29",
             "stock": 23
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31948",
-            "price": 10800,
-            "name": "基本水エネルギー09",
-            "date": "2022-12-28",
-            "stock": 5
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20215",
             "price": 12800,
             "name": "基本水エネルギー09",
-            "date": "2022-12-28",
+            "date": "2022-12-29",
             "stock": 33
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31948",
+            "price": 10800,
+            "name": "基本水エネルギー09",
+            "date": "2022-12-29",
+            "stock": 5
         }
     ]
 }

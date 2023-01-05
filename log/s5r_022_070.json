@@ -1,6 +1,22 @@
 ﻿{
     "items": [
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18144",
+            "price": 50,
+            "name": "テッポウオ022/0",
+            "date": "2023-01-05",
+            "stock": 28
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g022-070-S5R-B/",
+            "price": 6,
+            "name": "【ポケカ】Ｃ◇テッポ",
+            "date": "2023-01-05",
+            "stock": 10
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19035",
             "price": 50,
@@ -166,30 +182,6 @@
             "price": 6,
             "name": "【ポケカ】Ｃ◇テッポ",
             "date": "2022-12-29",
-            "stock": 10
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19035",
-            "price": 50,
-            "name": "テッポウオ(C){水",
-            "date": "2022-12-28",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18144",
-            "price": 50,
-            "name": "テッポウオ022/0",
-            "date": "2022-12-28",
-            "stock": 21
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g022-070-S5R-B/",
-            "price": 6,
-            "name": "【ポケカ】Ｃ◇テッポ",
-            "date": "2022-12-28",
             "stock": 10
         }
     ]

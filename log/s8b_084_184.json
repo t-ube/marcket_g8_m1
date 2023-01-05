@@ -5,6 +5,30 @@
             "link": "/items/2107850897",
             "price": 300,
             "name": "ガラルサンダーV R",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21052",
+            "price": 100,
+            "name": "ガラルサンダーV(R",
+            "date": "2023-01-05",
+            "stock": 128
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22722",
+            "price": 120,
+            "name": "ガラルサンダーV08",
+            "date": "2023-01-05",
+            "stock": 345
+        },
+        {
+            "market": "magi",
+            "link": "/items/2107850897",
+            "price": 300,
+            "name": "ガラルサンダーV R",
             "date": "2023-01-04",
             "stock": 1
         },
@@ -143,30 +167,6 @@
             "name": "ガラルサンダーV08",
             "date": "2022-12-29",
             "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/2107850897",
-            "price": 300,
-            "name": "ガラルサンダーV R",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21052",
-            "price": 100,
-            "name": "ガラルサンダーV(R",
-            "date": "2022-12-28",
-            "stock": 125
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22722",
-            "price": 120,
-            "name": "ガラルサンダーV08",
-            "date": "2022-12-28",
-            "stock": 4
         }
     ]
 }

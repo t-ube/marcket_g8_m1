@@ -5,6 +5,30 @@
             "link": "/items/305308861",
             "price": 1490,
             "name": "いちげきウーラオスV",
+            "date": "2023-01-05",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23108",
+            "price": 1230,
+            "name": "いちげきウーラオスV",
+            "date": "2023-01-05",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23015",
+            "price": 1480,
+            "name": "いちげきウーラオスV",
+            "date": "2023-01-05",
+            "stock": 107
+        },
+        {
+            "market": "magi",
+            "link": "/items/305308861",
+            "price": 1490,
+            "name": "いちげきウーラオスV",
             "date": "2023-01-04",
             "stock": 2
         },
@@ -82,14 +106,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23108",
-            "price": 1230,
-            "name": "いちげきウーラオスV",
-            "date": "2023-01-01",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23015",
             "price": 1480,
             "name": "いちげきウーラオスV",
@@ -97,6 +113,14 @@
             "stock": 92
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23108",
+            "price": 1230,
+            "name": "いちげきウーラオスV",
+            "date": "2023-01-01",
+            "stock": 5
+        },
+        {
             "market": "magi",
             "link": "/items/305308861",
             "price": 1490,
@@ -106,19 +130,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23015",
-            "price": 1480,
-            "name": "いちげきウーラオスV",
-            "date": "2022-12-31",
-            "stock": 93
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23108",
             "price": 1230,
             "name": "いちげきウーラオスV",
             "date": "2022-12-31",
             "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23015",
+            "price": 1480,
+            "name": "いちげきウーラオスV",
+            "date": "2022-12-31",
+            "stock": 93
         },
         {
             "market": "magi",
@@ -130,19 +154,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23108",
-            "price": 1230,
-            "name": "いちげきウーラオスV",
-            "date": "2022-12-30",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23015",
             "price": 1480,
             "name": "いちげきウーラオスV",
             "date": "2022-12-30",
             "stock": 93
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23108",
+            "price": 1230,
+            "name": "いちげきウーラオスV",
+            "date": "2022-12-30",
+            "stock": 5
         },
         {
             "market": "magi",
@@ -154,34 +178,10 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23015",
-            "price": 1480,
-            "name": "いちげきウーラオスV",
-            "date": "2022-12-29",
-            "stock": 93
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23108",
             "price": 1230,
             "name": "いちげきウーラオスV",
             "date": "2022-12-29",
-            "stock": 5
-        },
-        {
-            "market": "magi",
-            "link": "/items/305308861",
-            "price": 1490,
-            "name": "いちげきウーラオスV",
-            "date": "2022-12-28",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23108",
-            "price": 1230,
-            "name": "いちげきウーラオスV",
-            "date": "2022-12-28",
             "stock": 5
         },
         {
@@ -189,8 +189,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/23015",
             "price": 1480,
             "name": "いちげきウーラオスV",
-            "date": "2022-12-28",
-            "stock": 91
+            "date": "2022-12-29",
+            "stock": 93
         }
     ]
 }

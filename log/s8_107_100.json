@@ -5,6 +5,46 @@
             "link": "/items/454471103",
             "price": 700,
             "name": "フーパV SR 10",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1771212815",
+            "price": 810,
+            "name": "フーパV SR 10",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20480",
+            "price": 900,
+            "name": "フーパV(SR){悪",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32576",
+            "price": 680,
+            "name": "フーパV107/10",
+            "date": "2023-01-05",
+            "stock": 50
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22192",
+            "price": 780,
+            "name": "フーパV107/10",
+            "date": "2023-01-05",
+            "stock": 117
+        },
+        {
+            "market": "magi",
+            "link": "/items/454471103",
+            "price": 700,
+            "name": "フーパV SR 10",
             "date": "2023-01-04",
             "stock": 1
         },
@@ -42,16 +82,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/454471103",
-            "price": 700,
+            "link": "/items/1771212815",
+            "price": 810,
             "name": "フーパV SR 10",
             "date": "2023-01-03",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1771212815",
-            "price": 810,
+            "link": "/items/454471103",
+            "price": 700,
             "name": "フーパV SR 10",
             "date": "2023-01-03",
             "stock": 1
@@ -66,14 +106,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32576",
-            "price": 680,
-            "name": "フーパV107/10",
-            "date": "2023-01-03",
-            "stock": 50
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22192",
             "price": 780,
             "name": "フーパV107/10",
@@ -81,17 +113,25 @@
             "stock": 107
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32576",
+            "price": 680,
+            "name": "フーパV107/10",
+            "date": "2023-01-03",
+            "stock": 50
+        },
+        {
             "market": "magi",
-            "link": "/items/1771212815",
-            "price": 810,
+            "link": "/items/454471103",
+            "price": 700,
             "name": "フーパV SR 10",
             "date": "2023-01-02",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/454471103",
-            "price": 700,
+            "link": "/items/1771212815",
+            "price": 810,
             "name": "フーパV SR 10",
             "date": "2023-01-02",
             "stock": 1
@@ -138,19 +178,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22192",
-            "price": 780,
-            "name": "フーパV107/10",
-            "date": "2023-01-01",
-            "stock": 102
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32576",
             "price": 680,
             "name": "フーパV107/10",
             "date": "2023-01-01",
             "stock": 45
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22192",
+            "price": 780,
+            "name": "フーパV107/10",
+            "date": "2023-01-01",
+            "stock": 102
         },
         {
             "market": "magi",
@@ -167,6 +207,14 @@
             "name": "フーパV(SR){悪",
             "date": "2022-12-31",
             "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32576",
+            "price": 680,
+            "name": "フーパV107/10",
+            "date": "2022-12-31",
+            "stock": 45
         },
         {
             "market": "cardrush",
@@ -177,14 +225,6 @@
             "stock": 110
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32576",
-            "price": 680,
-            "name": "フーパV107/10",
-            "date": "2022-12-31",
-            "stock": 45
-        },
-        {
             "market": "magi",
             "link": "/items/454471103",
             "price": 700,
@@ -202,19 +242,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32576",
-            "price": 680,
-            "name": "フーパV107/10",
-            "date": "2022-12-30",
-            "stock": 45
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22192",
             "price": 780,
             "name": "フーパV107/10",
             "date": "2022-12-30",
             "stock": 134
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32576",
+            "price": 680,
+            "name": "フーパV107/10",
+            "date": "2022-12-30",
+            "stock": 45
         },
         {
             "market": "magi",
@@ -234,14 +274,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22192",
-            "price": 780,
-            "name": "フーパV107/10",
-            "date": "2022-12-29",
-            "stock": 134
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32576",
             "price": 680,
             "name": "フーパV107/10",
@@ -249,36 +281,12 @@
             "stock": 45
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20480",
-            "price": 900,
-            "name": "フーパV(SR){悪",
-            "date": "2022-12-28",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/454471103",
-            "price": 700,
-            "name": "フーパV SR 10",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22192",
             "price": 780,
             "name": "フーパV107/10",
-            "date": "2022-12-28",
+            "date": "2022-12-29",
             "stock": 134
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32576",
-            "price": 680,
-            "name": "フーパV107/10",
-            "date": "2022-12-28",
-            "stock": 45
         }
     ]
 }

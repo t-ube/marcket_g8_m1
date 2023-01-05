@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/19229",
             "price": 900,
             "name": "トウキ(HR){サポ",
+            "date": "2023-01-05",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31608",
+            "price": 730,
+            "name": "トウキ092/070",
+            "date": "2023-01-05",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/19009",
+            "price": 880,
+            "name": "トウキ092/070",
+            "date": "2023-01-05",
+            "stock": 20
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19229",
+            "price": 900,
+            "name": "トウキ(HR){サポ",
             "date": "2023-01-04",
             "stock": 2
         },
@@ -82,19 +106,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31608",
-            "price": 730,
-            "name": "トウキ092/070",
-            "date": "2023-01-01",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/19009",
             "price": 880,
             "name": "トウキ092/070",
             "date": "2023-01-01",
             "stock": 19
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31608",
+            "price": 730,
+            "name": "トウキ092/070",
+            "date": "2023-01-01",
+            "stock": 4
         },
         {
             "market": "hareruya2",
@@ -127,6 +151,14 @@
             "name": "トウキ(HR){サポ",
             "date": "2022-12-30",
             "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31608",
+            "price": 730,
+            "name": "トウキ092/070",
+            "date": "2022-12-30",
+            "stock": 4
         },
         {
             "market": "cardrush",
@@ -137,28 +169,12 @@
             "stock": 18
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31608",
-            "price": 730,
-            "name": "トウキ092/070",
-            "date": "2022-12-30",
-            "stock": 4
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19229",
             "price": 900,
             "name": "トウキ(HR){サポ",
             "date": "2022-12-29",
             "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31608",
-            "price": 730,
-            "name": "トウキ092/070",
-            "date": "2022-12-29",
-            "stock": 4
         },
         {
             "market": "cardrush",
@@ -169,27 +185,11 @@
             "stock": 12
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19229",
-            "price": 900,
-            "name": "トウキ(HR){サポ",
-            "date": "2022-12-28",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/19009",
-            "price": 880,
-            "name": "トウキ092/070",
-            "date": "2022-12-28",
-            "stock": 11
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31608",
             "price": 730,
             "name": "トウキ092/070",
-            "date": "2022-12-28",
+            "date": "2022-12-29",
             "stock": 4
         }
     ]

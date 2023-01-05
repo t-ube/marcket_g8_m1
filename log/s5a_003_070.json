@@ -5,7 +5,7 @@
             "link": "/items/179902854",
             "price": 100,
             "name": "スピアー C 003",
-            "date": "2023-01-04",
+            "date": "2023-01-05",
             "stock": 1
         },
         {
@@ -13,6 +13,22 @@
             "link": "/items/733803022",
             "price": 150,
             "name": "ポケモンカード スピ",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/733803022",
+            "price": 150,
+            "name": "ポケモンカード スピ",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/179902854",
+            "price": 100,
+            "name": "スピアー C 003",
             "date": "2023-01-04",
             "stock": 1
         },
@@ -98,14 +114,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/733803022",
-            "price": 150,
-            "name": "ポケモンカード スピ",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/179902854",
             "price": 100,
             "name": "スピアー C 003",
@@ -114,18 +122,10 @@
         },
         {
             "market": "magi",
-            "link": "/items/179902854",
-            "price": 100,
-            "name": "スピアー C 003",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/733803022",
             "price": 150,
             "name": "ポケモンカード スピ",
-            "date": "2022-12-28",
+            "date": "2022-12-29",
             "stock": 1
         }
     ]

@@ -5,7 +5,7 @@
             "link": "/items/1628154668",
             "price": 300,
             "name": "しんかのおこう TD",
-            "date": "2023-01-04",
+            "date": "2023-01-05",
             "stock": 1
         },
         {
@@ -13,8 +13,24 @@
             "link": "https://www.cardrush-pokemon.jp/product/30964",
             "price": 200,
             "name": "しんかのおこう013",
-            "date": "2023-01-04",
+            "date": "2023-01-05",
             "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17800",
+            "price": 220,
+            "name": "しんかのおこう013",
+            "date": "2023-01-05",
+            "stock": 60
+        },
+        {
+            "market": "magi",
+            "link": "/items/1628154668",
+            "price": 300,
+            "name": "しんかのおこう TD",
+            "date": "2023-01-04",
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -23,6 +39,14 @@
             "name": "しんかのおこう013",
             "date": "2023-01-04",
             "stock": 60
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30964",
+            "price": 200,
+            "name": "しんかのおこう013",
+            "date": "2023-01-04",
+            "stock": 3
         },
         {
             "market": "magi",
@@ -110,14 +134,6 @@
             "price": 150,
             "name": "しんかのおこう(D)",
             "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1628154668",
-            "price": 300,
-            "name": "しんかのおこう TD",
-            "date": "2022-12-28",
             "stock": 1
         }
     ]

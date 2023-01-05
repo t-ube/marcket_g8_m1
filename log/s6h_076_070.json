@@ -5,6 +5,38 @@
             "link": "/items/1258408854",
             "price": 899,
             "name": "サダイジャV SR ",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19309",
+            "price": 800,
+            "name": "サダイジャV(SR)",
+            "date": "2023-01-05",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31929",
+            "price": 680,
+            "name": "サダイジャV076/",
+            "date": "2023-01-05",
+            "stock": 31
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20196",
+            "price": 780,
+            "name": "サダイジャV076/",
+            "date": "2023-01-05",
+            "stock": 96
+        },
+        {
+            "market": "magi",
+            "link": "/items/1258408854",
+            "price": 899,
+            "name": "サダイジャV SR ",
             "date": "2023-01-04",
             "stock": 1
         },
@@ -50,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31929",
-            "price": 680,
-            "name": "サダイジャV076/",
-            "date": "2023-01-03",
-            "stock": 31
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20196",
             "price": 780,
             "name": "サダイジャV076/",
             "date": "2023-01-03",
             "stock": 97
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31929",
+            "price": 680,
+            "name": "サダイジャV076/",
+            "date": "2023-01-03",
+            "stock": 31
         },
         {
             "market": "magi",
@@ -111,6 +143,14 @@
             "name": "サダイジャV(SR)",
             "date": "2023-01-01",
             "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31929",
+            "price": 680,
+            "name": "サダイジャV076/",
+            "date": "2023-01-01",
+            "stock": 31
         },
         {
             "market": "cardrush",
@@ -121,14 +161,6 @@
             "stock": 86
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31929",
-            "price": 680,
-            "name": "サダイジャV076/",
-            "date": "2023-01-01",
-            "stock": 31
-        },
-        {
             "market": "magi",
             "link": "/items/1258408854",
             "price": 899,
@@ -143,14 +175,6 @@
             "name": "サダイジャV(SR)",
             "date": "2022-12-31",
             "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31929",
-            "price": 680,
-            "name": "サダイジャV076/",
-            "date": "2022-12-31",
-            "stock": 31
         },
         {
             "market": "cardrush",
@@ -161,6 +185,14 @@
             "stock": 85
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31929",
+            "price": 680,
+            "name": "サダイジャV076/",
+            "date": "2022-12-31",
+            "stock": 31
+        },
+        {
             "market": "magi",
             "link": "/items/1258408854",
             "price": 899,
@@ -175,6 +207,14 @@
             "name": "サダイジャV(SR)",
             "date": "2022-12-30",
             "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31929",
+            "price": 680,
+            "name": "サダイジャV076/",
+            "date": "2022-12-30",
+            "stock": 31
         },
         {
             "market": "cardrush",
@@ -185,14 +225,6 @@
             "stock": 95
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31929",
-            "price": 680,
-            "name": "サダイジャV076/",
-            "date": "2022-12-30",
-            "stock": 31
-        },
-        {
             "market": "magi",
             "link": "/items/1258408854",
             "price": 899,
@@ -223,38 +255,6 @@
             "name": "サダイジャV076/",
             "date": "2022-12-29",
             "stock": 95
-        },
-        {
-            "market": "magi",
-            "link": "/items/1258408854",
-            "price": 899,
-            "name": "サダイジャV SR ",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19309",
-            "price": 800,
-            "name": "サダイジャV(SR)",
-            "date": "2022-12-28",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31929",
-            "price": 680,
-            "name": "サダイジャV076/",
-            "date": "2022-12-28",
-            "stock": 31
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20196",
-            "price": 780,
-            "name": "サダイジャV076/",
-            "date": "2022-12-28",
-            "stock": 90
         }
     ]
 }

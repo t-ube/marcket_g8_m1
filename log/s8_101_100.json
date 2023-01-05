@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/20474",
             "price": 900,
             "name": "アマージョV(SR)",
+            "date": "2023-01-05",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32570",
+            "price": 680,
+            "name": "アマージョV101/",
+            "date": "2023-01-05",
+            "stock": 58
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22186",
+            "price": 780,
+            "name": "アマージョV101/",
+            "date": "2023-01-05",
+            "stock": 138
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20474",
+            "price": 900,
+            "name": "アマージョV(SR)",
             "date": "2023-01-04",
             "stock": 4
         },
@@ -58,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32570",
-            "price": 680,
-            "name": "アマージョV101/",
-            "date": "2023-01-02",
-            "stock": 50
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22186",
             "price": 780,
             "name": "アマージョV101/",
             "date": "2023-01-02",
             "stock": 113
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32570",
+            "price": 680,
+            "name": "アマージョV101/",
+            "date": "2023-01-02",
+            "stock": 50
         },
         {
             "market": "hareruya2",
@@ -82,19 +106,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22186",
-            "price": 780,
-            "name": "アマージョV101/",
-            "date": "2023-01-01",
-            "stock": 113
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32570",
             "price": 680,
             "name": "アマージョV101/",
             "date": "2023-01-01",
             "stock": 50
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22186",
+            "price": 780,
+            "name": "アマージョV101/",
+            "date": "2023-01-01",
+            "stock": 113
         },
         {
             "market": "hareruya2",
@@ -106,19 +130,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32570",
-            "price": 680,
-            "name": "アマージョV101/",
-            "date": "2022-12-31",
-            "stock": 50
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22186",
             "price": 780,
             "name": "アマージョV101/",
             "date": "2022-12-31",
             "stock": 113
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32570",
+            "price": 680,
+            "name": "アマージョV101/",
+            "date": "2022-12-31",
+            "stock": 50
         },
         {
             "market": "hareruya2",
@@ -127,6 +151,14 @@
             "name": "アマージョV(SR)",
             "date": "2022-12-30",
             "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32570",
+            "price": 680,
+            "name": "アマージョV101/",
+            "date": "2022-12-30",
+            "stock": 50
         },
         {
             "market": "cardrush",
@@ -137,28 +169,12 @@
             "stock": 118
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32570",
-            "price": 680,
-            "name": "アマージョV101/",
-            "date": "2022-12-30",
-            "stock": 50
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/20474",
             "price": 900,
             "name": "アマージョV(SR)",
             "date": "2022-12-29",
             "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32570",
-            "price": 680,
-            "name": "アマージョV101/",
-            "date": "2022-12-29",
-            "stock": 50
         },
         {
             "market": "cardrush",
@@ -169,28 +185,12 @@
             "stock": 118
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20474",
-            "price": 900,
-            "name": "アマージョV(SR)",
-            "date": "2022-12-28",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22186",
-            "price": 780,
-            "name": "アマージョV101/",
-            "date": "2022-12-28",
-            "stock": 109
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32570",
             "price": 680,
             "name": "アマージョV101/",
-            "date": "2022-12-28",
-            "stock": 49
+            "date": "2022-12-29",
+            "stock": 50
         }
     ]
 }

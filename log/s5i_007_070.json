@@ -3,6 +3,30 @@
         {
             "market": "magi",
             "link": "/items/708648323",
+            "price": 134,
+            "name": "【特価】アップリュー",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18929",
+            "price": 100,
+            "name": "アップリューV(RR",
+            "date": "2023-01-05",
+            "stock": 125
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18059",
+            "price": 80,
+            "name": "アップリューV007",
+            "date": "2023-01-05",
+            "stock": 337
+        },
+        {
+            "market": "magi",
+            "link": "/items/708648323",
             "price": 135,
             "name": "【特価】アップリュー",
             "date": "2023-01-04",
@@ -166,30 +190,6 @@
             "price": 80,
             "name": "アップリューV007",
             "date": "2022-12-29",
-            "stock": 338
-        },
-        {
-            "market": "magi",
-            "link": "/items/708648323",
-            "price": 135,
-            "name": "【特価】アップリュー",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18929",
-            "price": 100,
-            "name": "アップリューV(RR",
-            "date": "2022-12-28",
-            "stock": 126
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18059",
-            "price": 80,
-            "name": "アップリューV007",
-            "date": "2022-12-28",
             "stock": 338
         }
     ]
