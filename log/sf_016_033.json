@@ -2,6 +2,22 @@
     "items": [
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18212",
+            "price": 80,
+            "name": "メタルソーサー016",
+            "date": "2023-01-06",
+            "stock": 27
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g016-033-SF-B/",
+            "price": 110,
+            "name": "【ポケカ】ＳＳ◇メタ",
+            "date": "2023-01-06",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31159",
             "price": 70,
             "name": "メタルソーサー016",
@@ -26,19 +42,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31159",
-            "price": 70,
-            "name": "メタルソーサー016",
-            "date": "2023-01-04",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/18212",
             "price": 80,
             "name": "メタルソーサー016",
             "date": "2023-01-04",
             "stock": 27
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31159",
+            "price": 70,
+            "name": "メタルソーサー016",
+            "date": "2023-01-04",
+            "stock": 4
         },
         {
             "market": "torecolo",
@@ -126,22 +142,6 @@
             "price": 110,
             "name": "【ポケカ】ＳＳ◇メタ",
             "date": "2022-12-30",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18212",
-            "price": 80,
-            "name": "メタルソーサー016",
-            "date": "2022-12-29",
-            "stock": 19
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g016-033-SF-B/",
-            "price": 110,
-            "name": "【ポケカ】ＳＳ◇メタ",
-            "date": "2022-12-29",
             "stock": 3
         }
     ]

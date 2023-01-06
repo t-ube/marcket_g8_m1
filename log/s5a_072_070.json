@@ -5,6 +5,38 @@
             "link": "/items/1437366125",
             "price": 497,
             "name": "パッチラゴンV SR",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19209",
+            "price": 800,
+            "name": "パッチラゴンV(SR",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31588",
+            "price": 680,
+            "name": "パッチラゴンV072",
+            "date": "2023-01-06",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18989",
+            "price": 780,
+            "name": "パッチラゴンV072",
+            "date": "2023-01-06",
+            "stock": 64
+        },
+        {
+            "market": "magi",
+            "link": "/items/1437366125",
+            "price": 497,
+            "name": "パッチラゴンV SR",
             "date": "2023-01-05",
             "stock": 1
         },
@@ -50,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31588",
-            "price": 680,
-            "name": "パッチラゴンV072",
-            "date": "2023-01-04",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/18989",
             "price": 780,
             "name": "パッチラゴンV072",
             "date": "2023-01-04",
             "stock": 54
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31588",
+            "price": 680,
+            "name": "パッチラゴンV072",
+            "date": "2023-01-04",
+            "stock": 5
         },
         {
             "market": "magi",
@@ -82,14 +114,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31588",
-            "price": 680,
-            "name": "パッチラゴンV072",
-            "date": "2023-01-03",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/18989",
             "price": 780,
             "name": "パッチラゴンV072",
@@ -97,6 +121,14 @@
             "stock": 53
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31588",
+            "price": 680,
+            "name": "パッチラゴンV072",
+            "date": "2023-01-03",
+            "stock": 5
+        },
+        {
             "market": "magi",
             "link": "/items/1437366125",
             "price": 497,
@@ -130,19 +162,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31588",
-            "price": 680,
-            "name": "パッチラゴンV072",
-            "date": "2023-01-01",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/18989",
             "price": 780,
             "name": "パッチラゴンV072",
             "date": "2023-01-01",
             "stock": 52
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31588",
+            "price": 680,
+            "name": "パッチラゴンV072",
+            "date": "2023-01-01",
+            "stock": 4
         },
         {
             "market": "magi",
@@ -178,14 +210,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18989",
-            "price": 780,
-            "name": "パッチラゴンV072",
-            "date": "2022-12-30",
-            "stock": 52
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31588",
             "price": 680,
             "name": "パッチラゴンV072",
@@ -193,28 +217,12 @@
             "stock": 4
         },
         {
-            "market": "magi",
-            "link": "/items/1437366125",
-            "price": 497,
-            "name": "パッチラゴンV SR",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/18989",
             "price": 780,
             "name": "パッチラゴンV072",
-            "date": "2022-12-29",
+            "date": "2022-12-30",
             "stock": 52
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31588",
-            "price": 680,
-            "name": "パッチラゴンV072",
-            "date": "2022-12-29",
-            "stock": 4
         }
     ]
 }

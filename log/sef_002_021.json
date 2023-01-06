@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18882",
             "price": 300,
             "name": "フシギバナVMAX(",
+            "date": "2023-01-06",
+            "stock": 66
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30953",
+            "price": 380,
+            "name": "フシギバナVMAX0",
+            "date": "2023-01-06",
+            "stock": 15
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17789",
+            "price": 480,
+            "name": "フシギバナVMAX0",
+            "date": "2023-01-06",
+            "stock": 40
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18882",
+            "price": 300,
+            "name": "フシギバナVMAX(",
             "date": "2023-01-05",
             "stock": 66
         },
@@ -58,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30953",
-            "price": 380,
-            "name": "フシギバナVMAX0",
-            "date": "2023-01-03",
-            "stock": 19
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17789",
             "price": 480,
             "name": "フシギバナVMAX0",
             "date": "2023-01-03",
             "stock": 76
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30953",
+            "price": 380,
+            "name": "フシギバナVMAX0",
+            "date": "2023-01-03",
+            "stock": 19
         },
         {
             "market": "hareruya2",
@@ -82,6 +106,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30953",
+            "price": 380,
+            "name": "フシギバナVMAX0",
+            "date": "2023-01-02",
+            "stock": 19
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17789",
             "price": 480,
             "name": "フシギバナVMAX0",
@@ -89,28 +121,12 @@
             "stock": 76
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30953",
-            "price": 380,
-            "name": "フシギバナVMAX0",
-            "date": "2023-01-02",
-            "stock": 19
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18882",
             "price": 300,
             "name": "フシギバナVMAX(",
             "date": "2023-01-01",
             "stock": 67
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30953",
-            "price": 380,
-            "name": "フシギバナVMAX0",
-            "date": "2023-01-01",
-            "stock": 19
         },
         {
             "market": "cardrush",
@@ -121,12 +137,28 @@
             "stock": 56
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30953",
+            "price": 380,
+            "name": "フシギバナVMAX0",
+            "date": "2023-01-01",
+            "stock": 19
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18882",
             "price": 300,
             "name": "フシギバナVMAX(",
             "date": "2022-12-31",
             "stock": 67
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30953",
+            "price": 380,
+            "name": "フシギバナVMAX0",
+            "date": "2022-12-31",
+            "stock": 19
         },
         {
             "market": "cardrush",
@@ -137,28 +169,12 @@
             "stock": 56
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30953",
-            "price": 380,
-            "name": "フシギバナVMAX0",
-            "date": "2022-12-31",
-            "stock": 19
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18882",
             "price": 300,
             "name": "フシギバナVMAX(",
             "date": "2022-12-30",
             "stock": 67
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30953",
-            "price": 380,
-            "name": "フシギバナVMAX0",
-            "date": "2022-12-30",
-            "stock": 19
         },
         {
             "market": "cardrush",
@@ -169,27 +185,11 @@
             "stock": 55
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18882",
-            "price": 300,
-            "name": "フシギバナVMAX(",
-            "date": "2022-12-29",
-            "stock": 67
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17789",
-            "price": 480,
-            "name": "フシギバナVMAX0",
-            "date": "2022-12-29",
-            "stock": 52
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30953",
             "price": 380,
             "name": "フシギバナVMAX0",
-            "date": "2022-12-29",
+            "date": "2022-12-30",
             "stock": 19
         }
     ]

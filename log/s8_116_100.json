@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/20489",
             "price": 1000,
             "name": "シャンデラVMAX:",
+            "date": "2023-01-06",
+            "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22201",
+            "price": 780,
+            "name": "シャンデラVMAX1",
+            "date": "2023-01-06",
+            "stock": 71
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33491",
+            "price": 1430,
+            "name": "シャンデラVMAX1",
+            "date": "2023-01-06",
+            "stock": 2
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20489",
+            "price": 1000,
+            "name": "シャンデラVMAX:",
             "date": "2023-01-05",
             "stock": 6
         },
@@ -98,6 +122,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33491",
+            "price": 1430,
+            "name": "シャンデラVMAX1",
+            "date": "2023-01-02",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/24682",
             "price": 1680,
             "name": "シャンデラVMAX1",
@@ -111,14 +143,6 @@
             "name": "シャンデラVMAX1",
             "date": "2023-01-02",
             "stock": 70
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33491",
-            "price": 1430,
-            "name": "シャンデラVMAX1",
-            "date": "2023-01-02",
-            "stock": 2
         },
         {
             "market": "hareruya2",
@@ -130,6 +154,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24682",
+            "price": 1680,
+            "name": "シャンデラVMAX1",
+            "date": "2023-01-01",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33491",
             "price": 1430,
             "name": "シャンデラVMAX1",
@@ -143,14 +175,6 @@
             "name": "シャンデラVMAX1",
             "date": "2023-01-01",
             "stock": 70
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24682",
-            "price": 1680,
-            "name": "シャンデラVMAX1",
-            "date": "2023-01-01",
-            "stock": 3
         },
         {
             "market": "hareruya2",
@@ -159,6 +183,22 @@
             "name": "シャンデラVMAX:",
             "date": "2022-12-31",
             "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33491",
+            "price": 1430,
+            "name": "シャンデラVMAX1",
+            "date": "2022-12-31",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24682",
+            "price": 1680,
+            "name": "シャンデラVMAX1",
+            "date": "2022-12-31",
+            "stock": 3
         },
         {
             "market": "cardrush",
@@ -169,44 +209,12 @@
             "stock": 68
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24682",
-            "price": 1680,
-            "name": "シャンデラVMAX1",
-            "date": "2022-12-31",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33491",
-            "price": 1430,
-            "name": "シャンデラVMAX1",
-            "date": "2022-12-31",
-            "stock": 2
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/20489",
             "price": 1000,
             "name": "シャンデラVMAX:",
             "date": "2022-12-30",
             "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33491",
-            "price": 1430,
-            "name": "シャンデラVMAX1",
-            "date": "2022-12-30",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24682",
-            "price": 1680,
-            "name": "シャンデラVMAX1",
-            "date": "2022-12-30",
-            "stock": 3
         },
         {
             "market": "cardrush",
@@ -217,27 +225,11 @@
             "stock": 72
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20489",
-            "price": 1000,
-            "name": "シャンデラVMAX:",
-            "date": "2022-12-29",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22201",
-            "price": 780,
-            "name": "シャンデラVMAX1",
-            "date": "2022-12-29",
-            "stock": 72
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/24682",
             "price": 1680,
             "name": "シャンデラVMAX1",
-            "date": "2022-12-29",
+            "date": "2022-12-30",
             "stock": 3
         },
         {
@@ -245,7 +237,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/33491",
             "price": 1430,
             "name": "シャンデラVMAX1",
-            "date": "2022-12-29",
+            "date": "2022-12-30",
             "stock": 2
         }
     ]

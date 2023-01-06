@@ -5,6 +5,46 @@
             "link": "/items/1182848072",
             "price": 1100,
             "name": "ダンサー HR 12",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/474679194",
+            "price": 650,
+            "name": "ダンサー HR 12",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22208",
+            "price": 1080,
+            "name": "ダンサー123/10",
+            "date": "2023-01-06",
+            "stock": 31
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32591",
+            "price": 930,
+            "name": "ダンサー123/10",
+            "date": "2023-01-06",
+            "stock": 2
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g123-100-S8-B/",
+            "price": 990,
+            "name": "【ポケカ】ＨＲ◇ダン",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1182848072",
+            "price": 1100,
+            "name": "ダンサー HR 12",
             "date": "2023-01-05",
             "stock": 1
         },
@@ -138,6 +178,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32591",
+            "price": 930,
+            "name": "ダンサー123/10",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22208",
             "price": 1080,
             "name": "ダンサー123/10",
@@ -145,14 +193,6 @@
             "stock": 3
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32591",
-            "price": 930,
-            "name": "ダンサー123/10",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g123-100-S8-B/",
             "price": 990,
@@ -234,14 +274,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32591",
-            "price": 930,
-            "name": "ダンサー123/10",
-            "date": "2022-12-30",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22208",
             "price": 1080,
             "name": "ダンサー123/10",
@@ -249,35 +281,11 @@
             "stock": 5
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g123-100-S8-B/",
-            "price": 990,
-            "name": "【ポケカ】ＨＲ◇ダン",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/474679194",
-            "price": 650,
-            "name": "ダンサー HR 12",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22208",
-            "price": 1080,
-            "name": "ダンサー123/10",
-            "date": "2022-12-29",
-            "stock": 5
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32591",
             "price": 930,
             "name": "ダンサー123/10",
-            "date": "2022-12-29",
+            "date": "2022-12-30",
             "stock": 2
         },
         {
@@ -285,7 +293,7 @@
             "link": "/shop/g/g123-100-S8-B/",
             "price": 990,
             "name": "【ポケカ】ＨＲ◇ダン",
-            "date": "2022-12-29",
+            "date": "2022-12-30",
             "stock": 1
         }
     ]

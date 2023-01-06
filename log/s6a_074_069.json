@@ -2,6 +2,14 @@
     "items": [
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20740",
+            "price": 1780,
+            "name": "シャワーズV074/",
+            "date": "2023-01-06",
+            "stock": 43
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32048",
             "price": 1530,
             "name": "シャワーズV074/",
@@ -66,14 +74,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32048",
-            "price": 1530,
-            "name": "シャワーズV074/",
-            "date": "2023-01-01",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20740",
             "price": 1780,
             "name": "シャワーズV074/",
@@ -82,11 +82,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20740",
-            "price": 1780,
+            "link": "https://www.cardrush-pokemon.jp/product/32048",
+            "price": 1530,
             "name": "シャワーズV074/",
-            "date": "2022-12-31",
-            "stock": 18
+            "date": "2023-01-01",
+            "stock": 3
         },
         {
             "market": "cardrush",
@@ -95,6 +95,14 @@
             "name": "シャワーズV074/",
             "date": "2022-12-31",
             "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20740",
+            "price": 1780,
+            "name": "シャワーズV074/",
+            "date": "2022-12-31",
+            "stock": 18
         },
         {
             "market": "magi",
@@ -126,38 +134,6 @@
             "price": 1530,
             "name": "シャワーズV074/",
             "date": "2022-12-30",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/1312128390",
-            "price": 1250,
-            "name": "シャワーズV SR ",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/157905452",
-            "price": 1000,
-            "name": "シャワーズV SR ",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20740",
-            "price": 1780,
-            "name": "シャワーズV074/",
-            "date": "2022-12-29",
-            "stock": 21
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32048",
-            "price": 1530,
-            "name": "シャワーズV074/",
-            "date": "2022-12-29",
             "stock": 3
         }
     ]

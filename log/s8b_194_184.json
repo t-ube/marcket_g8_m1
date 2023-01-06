@@ -5,7 +5,7 @@
             "link": "/items/1994047675",
             "price": 800,
             "name": "【p99】モココ(C",
-            "date": "2023-01-05",
+            "date": "2023-01-06",
             "stock": 1
         },
         {
@@ -13,6 +13,54 @@
             "link": "/items/109539204",
             "price": 980,
             "name": "モココ CHR 19",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21341",
+            "price": 1000,
+            "name": "モココ(CHR){雷",
+            "date": "2023-01-06",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22973",
+            "price": 980,
+            "name": "モココ194/184",
+            "date": "2023-01-06",
+            "stock": 230
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33011",
+            "price": 830,
+            "name": "モココ194/184",
+            "date": "2023-01-06",
+            "stock": 3
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g194-184-S8B-B/",
+            "price": 1100,
+            "name": "【ポケカ】ＣＨＲ◇モ",
+            "date": "2023-01-06",
+            "stock": 5
+        },
+        {
+            "market": "magi",
+            "link": "/items/109539204",
+            "price": 980,
+            "name": "モココ CHR 19",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1994047675",
+            "price": 800,
+            "name": "【p99】モココ(C",
             "date": "2023-01-05",
             "stock": 1
         },
@@ -74,19 +122,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22973",
-            "price": 980,
-            "name": "モココ194/184",
-            "date": "2023-01-04",
-            "stock": 204
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33011",
             "price": 830,
             "name": "モココ194/184",
             "date": "2023-01-04",
             "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22973",
+            "price": 980,
+            "name": "モココ194/184",
+            "date": "2023-01-04",
+            "stock": 204
         },
         {
             "market": "torecolo",
@@ -98,11 +146,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/109539204",
-            "price": 980,
+            "link": "/items/1263480115",
+            "price": 599,
             "name": "モココ CHR 19",
             "date": "2023-01-03",
-            "stock": 1
+            "stock": 4
         },
         {
             "market": "magi",
@@ -114,11 +162,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/1263480115",
-            "price": 599,
+            "link": "/items/109539204",
+            "price": 980,
             "name": "モココ CHR 19",
             "date": "2023-01-03",
-            "stock": 4
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -146,19 +194,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/1263480115",
-            "price": 599,
-            "name": "モココ CHR 19",
-            "date": "2023-01-02",
-            "stock": 4
-        },
-        {
-            "market": "magi",
             "link": "/items/109539204",
             "price": 980,
             "name": "モココ CHR 19",
             "date": "2023-01-02",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1263480115",
+            "price": 599,
+            "name": "モココ CHR 19",
+            "date": "2023-01-02",
+            "stock": 4
         },
         {
             "market": "magi",
@@ -186,11 +234,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/1263480115",
-            "price": 599,
-            "name": "モココ CHR 19",
+            "link": "/items/1994047675",
+            "price": 800,
+            "name": "【p99】モココ(C",
             "date": "2023-01-01",
-            "stock": 4
+            "stock": 1
         },
         {
             "market": "magi",
@@ -202,11 +250,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/1994047675",
-            "price": 800,
-            "name": "【p99】モココ(C",
+            "link": "/items/1263480115",
+            "price": 599,
+            "name": "モココ CHR 19",
             "date": "2023-01-01",
-            "stock": 1
+            "stock": 4
         },
         {
             "market": "cardrush",
@@ -226,14 +274,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1263480115",
-            "price": 624,
-            "name": "モココ CHR 19",
-            "date": "2022-12-31",
-            "stock": 4
-        },
-        {
-            "market": "magi",
             "link": "/items/109539204",
             "price": 980,
             "name": "モココ CHR 19",
@@ -247,6 +287,14 @@
             "name": "【p99】モココ(C",
             "date": "2022-12-31",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1263480115",
+            "price": 624,
+            "name": "モココ CHR 19",
+            "date": "2022-12-31",
+            "stock": 4
         },
         {
             "market": "cardrush",
@@ -266,11 +314,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/1263480115",
-            "price": 699,
-            "name": "モココ CHR 19",
+            "link": "/items/1994047675",
+            "price": 800,
+            "name": "【p99】モココ(C",
             "date": "2022-12-30",
-            "stock": 4
+            "stock": 1
         },
         {
             "market": "magi",
@@ -282,11 +330,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/1994047675",
-            "price": 800,
-            "name": "【p99】モココ(C",
+            "link": "/items/1263480115",
+            "price": 699,
+            "name": "モココ CHR 19",
             "date": "2022-12-30",
-            "stock": 1
+            "stock": 4
         },
         {
             "market": "cardrush",
@@ -303,46 +351,6 @@
             "name": "【ポケカ】ＣＨＲ◇モ",
             "date": "2022-12-30",
             "stock": 6
-        },
-        {
-            "market": "magi",
-            "link": "/items/109539204",
-            "price": 980,
-            "name": "モココ CHR 19",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1994047675",
-            "price": 800,
-            "name": "【p99】モココ(C",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1263480115",
-            "price": 749,
-            "name": "モココ CHR 19",
-            "date": "2022-12-29",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22973",
-            "price": 980,
-            "name": "モココ194/184",
-            "date": "2022-12-29",
-            "stock": 7
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g194-184-S8B-B/",
-            "price": 1100,
-            "name": "【ポケカ】ＣＨＲ◇モ",
-            "date": "2022-12-29",
-            "stock": 5
         }
     ]
 }

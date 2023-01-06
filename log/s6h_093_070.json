@@ -5,6 +5,30 @@
             "link": "/items/684744672",
             "price": 1000,
             "name": "おむかえちょうちん ",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31946",
+            "price": 830,
+            "name": "おむかえちょうちん0",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20213",
+            "price": 980,
+            "name": "おむかえちょうちん0",
+            "date": "2023-01-06",
+            "stock": 30
+        },
+        {
+            "market": "magi",
+            "link": "/items/684744672",
+            "price": 1000,
+            "name": "おむかえちょうちん ",
             "date": "2023-01-05",
             "stock": 1
         },
@@ -110,22 +134,6 @@
             "price": 980,
             "name": "おむかえちょうちん0",
             "date": "2022-12-30",
-            "stock": 30
-        },
-        {
-            "market": "magi",
-            "link": "/items/684744672",
-            "price": 1000,
-            "name": "おむかえちょうちん ",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20213",
-            "price": 980,
-            "name": "おむかえちょうちん0",
-            "date": "2022-12-29",
             "stock": 30
         }
     ]

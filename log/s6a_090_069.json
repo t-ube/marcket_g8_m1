@@ -5,6 +5,30 @@
             "link": "/items/1934043734",
             "price": 1780,
             "name": "グレイシアVMAX ",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32064",
+            "price": 1580,
+            "name": "グレイシアVMAX0",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20756",
+            "price": 1880,
+            "name": "グレイシアVMAX0",
+            "date": "2023-01-06",
+            "stock": 27
+        },
+        {
+            "market": "magi",
+            "link": "/items/1934043734",
+            "price": 1780,
+            "name": "グレイシアVMAX ",
             "date": "2023-01-05",
             "stock": 1
         },
@@ -82,19 +106,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20756",
-            "price": 1880,
-            "name": "グレイシアVMAX0",
-            "date": "2023-01-02",
-            "stock": 23
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32064",
             "price": 1580,
             "name": "グレイシアVMAX0",
             "date": "2023-01-02",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20756",
+            "price": 1880,
+            "name": "グレイシアVMAX0",
+            "date": "2023-01-02",
+            "stock": 23
         },
         {
             "market": "magi",
@@ -106,6 +130,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32064",
+            "price": 1580,
+            "name": "グレイシアVMAX0",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20756",
             "price": 1880,
             "name": "グレイシアVMAX0",
@@ -113,26 +145,10 @@
             "stock": 23
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32064",
-            "price": 1580,
-            "name": "グレイシアVMAX0",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
             "market": "magi",
             "link": "/items/1934043734",
             "price": 1780,
             "name": "グレイシアVMAX ",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32064",
-            "price": 1580,
-            "name": "グレイシアVMAX0",
             "date": "2022-12-31",
             "stock": 1
         },
@@ -145,18 +161,18 @@
             "stock": 22
         },
         {
-            "market": "magi",
-            "link": "/items/1934043734",
-            "price": 1780,
-            "name": "グレイシアVMAX ",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32064",
             "price": 1580,
             "name": "グレイシアVMAX0",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1934043734",
+            "price": 1780,
+            "name": "グレイシアVMAX ",
             "date": "2022-12-30",
             "stock": 1
         },
@@ -169,35 +185,11 @@
             "stock": 23
         },
         {
-            "market": "magi",
-            "link": "/items/1934043734",
-            "price": 1780,
-            "name": "グレイシアVMAX ",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/984194210",
-            "price": 1450,
-            "name": "ポケカ　グレイシアV",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20756",
-            "price": 1880,
-            "name": "グレイシアVMAX0",
-            "date": "2022-12-29",
-            "stock": 23
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32064",
             "price": 1580,
             "name": "グレイシアVMAX0",
-            "date": "2022-12-29",
+            "date": "2022-12-30",
             "stock": 1
         }
     ]

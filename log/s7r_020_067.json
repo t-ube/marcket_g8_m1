@@ -5,6 +5,30 @@
             "link": "/items/408863800",
             "price": 330,
             "name": "ギャラドスVMAX ",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19728",
+            "price": 100,
+            "name": "ギャラドスV(RR)",
+            "date": "2023-01-06",
+            "stock": 90
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21300",
+            "price": 80,
+            "name": "ギャラドスV020/",
+            "date": "2023-01-06",
+            "stock": 44
+        },
+        {
+            "market": "magi",
+            "link": "/items/408863800",
+            "price": 330,
+            "name": "ギャラドスVMAX ",
             "date": "2023-01-05",
             "stock": 1
         },
@@ -166,30 +190,6 @@
             "price": 80,
             "name": "ギャラドスV020/",
             "date": "2022-12-30",
-            "stock": 48
-        },
-        {
-            "market": "magi",
-            "link": "/items/408863800",
-            "price": 330,
-            "name": "ギャラドスVMAX ",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19728",
-            "price": 100,
-            "name": "ギャラドスV(RR)",
-            "date": "2022-12-29",
-            "stock": 94
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21300",
-            "price": 80,
-            "name": "ギャラドスV020/",
-            "date": "2022-12-29",
             "stock": 48
         }
     ]

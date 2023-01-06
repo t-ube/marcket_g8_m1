@@ -2,11 +2,75 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1714908829",
+            "price": 3969,
+            "name": "〔状態A-〕霧の水晶",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/85710009",
+            "price": 4400,
+            "name": "霧の水晶 UR 09",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/791680017",
+            "price": 3400,
+            "name": "（微キズ）霧の水晶 ",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/516365261",
             "price": 4809,
             "name": "霧の水晶【UR】{0",
-            "date": "2023-01-05",
+            "date": "2023-01-06",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/323864646",
+            "price": 4300,
+            "name": "霧の水晶 UR 09",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1889192972",
+            "price": 5500,
+            "name": "霧の水晶 UR 09",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19421",
+            "price": 4500,
+            "name": "霧の水晶(UR){グ",
+            "date": "2023-01-06",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31922",
+            "price": 3780,
+            "name": "霧の水晶093/07",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20189",
+            "price": 4580,
+            "name": "霧の水晶093/07",
+            "date": "2023-01-06",
+            "stock": 50
         },
         {
             "market": "magi",
@@ -18,9 +82,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/85710009",
-            "price": 4400,
-            "name": "霧の水晶 UR 09",
+            "link": "/items/516365261",
+            "price": 4809,
+            "name": "霧の水晶【UR】{0",
             "date": "2023-01-05",
             "stock": 1
         },
@@ -33,12 +97,28 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/85710009",
+            "price": 4400,
+            "name": "霧の水晶 UR 09",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19421",
             "price": 4500,
             "name": "霧の水晶(UR){グ",
             "date": "2023-01-05",
             "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31922",
+            "price": 3780,
+            "name": "霧の水晶093/07",
+            "date": "2023-01-05",
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -49,14 +129,6 @@
             "stock": 50
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31922",
-            "price": 3780,
-            "name": "霧の水晶093/07",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
             "market": "magi",
             "link": "/items/516365261",
             "price": 4809,
@@ -74,17 +146,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/85710009",
-            "price": 4400,
-            "name": "霧の水晶 UR 09",
+            "link": "/items/1714908829",
+            "price": 3969,
+            "name": "〔状態A-〕霧の水晶",
             "date": "2023-01-04",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1714908829",
-            "price": 3969,
-            "name": "〔状態A-〕霧の水晶",
+            "link": "/items/85710009",
+            "price": 4400,
+            "name": "霧の水晶 UR 09",
             "date": "2023-01-04",
             "stock": 1
         },
@@ -98,14 +170,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20189",
-            "price": 4580,
-            "name": "霧の水晶093/07",
-            "date": "2023-01-04",
-            "stock": 65
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31922",
             "price": 3780,
             "name": "霧の水晶093/07",
@@ -113,18 +177,26 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/1714908829",
-            "price": 3969,
-            "name": "〔状態A-〕霧の水晶",
-            "date": "2023-01-03",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20189",
+            "price": 4580,
+            "name": "霧の水晶093/07",
+            "date": "2023-01-04",
+            "stock": 65
         },
         {
             "market": "magi",
             "link": "/items/85710009",
             "price": 4400,
             "name": "霧の水晶 UR 09",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/791680017",
+            "price": 3400,
+            "name": "（微キズ）霧の水晶 ",
             "date": "2023-01-03",
             "stock": 1
         },
@@ -138,9 +210,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/791680017",
-            "price": 3400,
-            "name": "（微キズ）霧の水晶 ",
+            "link": "/items/1714908829",
+            "price": 3969,
+            "name": "〔状態A-〕霧の水晶",
             "date": "2023-01-03",
             "stock": 1
         },
@@ -226,17 +298,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/85710009",
-            "price": 4400,
-            "name": "霧の水晶 UR 09",
+            "link": "/items/516365261",
+            "price": 4809,
+            "name": "霧の水晶【UR】{0",
             "date": "2023-01-01",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1714908829",
-            "price": 3969,
-            "name": "〔状態A-〕霧の水晶",
+            "link": "/items/85710009",
+            "price": 4400,
+            "name": "霧の水晶 UR 09",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -250,9 +322,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/516365261",
-            "price": 4809,
-            "name": "霧の水晶【UR】{0",
+            "link": "/items/1714908829",
+            "price": 3969,
+            "name": "〔状態A-〕霧の水晶",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -263,6 +335,14 @@
             "name": "霧の水晶(UR){グ",
             "date": "2023-01-01",
             "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31922",
+            "price": 3780,
+            "name": "霧の水晶093/07",
+            "date": "2023-01-01",
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -273,11 +353,11 @@
             "stock": 62
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31922",
-            "price": 3780,
-            "name": "霧の水晶093/07",
-            "date": "2023-01-01",
+            "market": "magi",
+            "link": "/items/791680017",
+            "price": 3400,
+            "name": "（微キズ）霧の水晶 ",
+            "date": "2022-12-31",
             "stock": 1
         },
         {
@@ -305,28 +385,12 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/791680017",
-            "price": 3400,
-            "name": "（微キズ）霧の水晶 ",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19421",
             "price": 4500,
             "name": "霧の水晶(UR){グ",
             "date": "2022-12-31",
             "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31922",
-            "price": 3780,
-            "name": "霧の水晶093/07",
-            "date": "2022-12-31",
-            "stock": 1
         },
         {
             "market": "cardrush",
@@ -337,19 +401,11 @@
             "stock": 61
         },
         {
-            "market": "magi",
-            "link": "/items/791680017",
-            "price": 3400,
-            "name": "（微キズ）霧の水晶 ",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/516365261",
-            "price": 4809,
-            "name": "霧の水晶【UR】{0",
-            "date": "2022-12-30",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31922",
+            "price": 3780,
+            "name": "霧の水晶093/07",
+            "date": "2022-12-31",
             "stock": 1
         },
         {
@@ -369,26 +425,10 @@
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19421",
-            "price": 4500,
-            "name": "霧の水晶(UR){グ",
-            "date": "2022-12-30",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20189",
-            "price": 4580,
-            "name": "霧の水晶093/07",
-            "date": "2022-12-30",
-            "stock": 64
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31922",
-            "price": 3780,
-            "name": "霧の水晶093/07",
+            "market": "magi",
+            "link": "/items/516365261",
+            "price": 4809,
+            "name": "霧の水晶【UR】{0",
             "date": "2022-12-30",
             "stock": 1
         },
@@ -397,31 +437,7 @@
             "link": "/items/791680017",
             "price": 3400,
             "name": "（微キズ）霧の水晶 ",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/85710009",
-            "price": 4400,
-            "name": "霧の水晶 UR 09",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1714908829",
-            "price": 3969,
-            "name": "〔状態A-〕霧の水晶",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/516365261",
-            "price": 4809,
-            "name": "霧の水晶【UR】{0",
-            "date": "2022-12-29",
+            "date": "2022-12-30",
             "stock": 1
         },
         {
@@ -429,24 +445,24 @@
             "link": "https://www.hareruya2.com/product/19421",
             "price": 4500,
             "name": "霧の水晶(UR){グ",
-            "date": "2022-12-29",
+            "date": "2022-12-30",
             "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20189",
-            "price": 4580,
-            "name": "霧の水晶093/07",
-            "date": "2022-12-29",
-            "stock": 64
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31922",
             "price": 3780,
             "name": "霧の水晶093/07",
-            "date": "2022-12-29",
+            "date": "2022-12-30",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20189",
+            "price": 4580,
+            "name": "霧の水晶093/07",
+            "date": "2022-12-30",
+            "stock": 64
         }
     ]
 }

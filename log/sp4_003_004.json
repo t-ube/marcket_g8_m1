@@ -5,6 +5,38 @@
             "link": "/items/1509135923",
             "price": 2200,
             "name": "サンダースVMAX ",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1886067753",
+            "price": 2250,
+            "name": "サンダースVMAX(",
+            "date": "2023-01-06",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20722",
+            "price": 2480,
+            "name": "サンダースVMAX0",
+            "date": "2023-01-06",
+            "stock": 31
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32039",
+            "price": 2350,
+            "name": "サンダースVMAX0",
+            "date": "2023-01-06",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1509135923",
+            "price": 2200,
+            "name": "サンダースVMAX ",
             "date": "2023-01-05",
             "stock": 1
         },
@@ -114,6 +146,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32039",
+            "price": 2350,
+            "name": "サンダースVMAX0",
+            "date": "2023-01-02",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20722",
             "price": 2480,
             "name": "サンダースVMAX0",
@@ -121,11 +161,11 @@
             "stock": 31
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32039",
-            "price": 2350,
-            "name": "サンダースVMAX0",
-            "date": "2023-01-02",
+            "market": "magi",
+            "link": "/items/1886067753",
+            "price": 2250,
+            "name": "サンダースVMAX(",
+            "date": "2023-01-01",
             "stock": 2
         },
         {
@@ -135,14 +175,6 @@
             "name": "サンダースVMAX ",
             "date": "2023-01-01",
             "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1886067753",
-            "price": 2250,
-            "name": "サンダースVMAX(",
-            "date": "2023-01-01",
-            "stock": 2
         },
         {
             "market": "cardrush",
@@ -162,14 +194,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1886067753",
-            "price": 2250,
-            "name": "サンダースVMAX(",
-            "date": "2022-12-31",
-            "stock": 2
-        },
-        {
-            "market": "magi",
             "link": "/items/1509135923",
             "price": 2300,
             "name": "サンダースVMAX ",
@@ -177,10 +201,10 @@
             "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32039",
-            "price": 2350,
-            "name": "サンダースVMAX0",
+            "market": "magi",
+            "link": "/items/1886067753",
+            "price": 2250,
+            "name": "サンダースVMAX(",
             "date": "2022-12-31",
             "stock": 2
         },
@@ -193,12 +217,12 @@
             "stock": 86
         },
         {
-            "market": "magi",
-            "link": "/items/1509135923",
-            "price": 2300,
-            "name": "サンダースVMAX ",
-            "date": "2022-12-30",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32039",
+            "price": 2350,
+            "name": "サンダースVMAX0",
+            "date": "2022-12-31",
+            "stock": 2
         },
         {
             "market": "magi",
@@ -209,35 +233,11 @@
             "stock": 2
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20722",
-            "price": 2480,
-            "name": "サンダースVMAX0",
-            "date": "2022-12-30",
-            "stock": 86
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32039",
-            "price": 2350,
-            "name": "サンダースVMAX0",
-            "date": "2022-12-30",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1886067753",
-            "price": 2250,
-            "name": "サンダースVMAX(",
-            "date": "2022-12-29",
-            "stock": 2
-        },
-        {
             "market": "magi",
             "link": "/items/1509135923",
             "price": 2300,
             "name": "サンダースVMAX ",
-            "date": "2022-12-29",
+            "date": "2022-12-30",
             "stock": 1
         },
         {
@@ -245,7 +245,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/32039",
             "price": 2350,
             "name": "サンダースVMAX0",
-            "date": "2022-12-29",
+            "date": "2022-12-30",
             "stock": 2
         },
         {
@@ -253,7 +253,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/20722",
             "price": 2480,
             "name": "サンダースVMAX0",
-            "date": "2022-12-29",
+            "date": "2022-12-30",
             "stock": 86
         }
     ]
