@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/21171",
             "price": 450,
             "name": "【未開封プロモ】 こ",
+            "date": "2023-01-07",
+            "stock": 39
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20159",
+            "price": 180,
+            "name": "こくばバドレックスV",
+            "date": "2023-01-07",
+            "stock": 62
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21686",
+            "price": 420,
+            "name": "こくばバドレックスV",
+            "date": "2023-01-07",
+            "stock": 194
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21171",
+            "price": 450,
+            "name": "【未開封プロモ】 こ",
             "date": "2023-01-06",
             "stock": 39
         },
@@ -66,19 +90,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20159",
-            "price": 180,
-            "name": "こくばバドレックスV",
-            "date": "2023-01-04",
-            "stock": 62
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21686",
             "price": 420,
             "name": "こくばバドレックスV",
             "date": "2023-01-04",
             "stock": 194
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20159",
+            "price": 180,
+            "name": "こくばバドレックスV",
+            "date": "2023-01-04",
+            "stock": 62
         },
         {
             "market": "hareruya2",
@@ -87,6 +111,14 @@
             "name": "【未開封プロモ】 こ",
             "date": "2023-01-03",
             "stock": 40
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21686",
+            "price": 420,
+            "name": "こくばバドレックスV",
+            "date": "2023-01-03",
+            "stock": 194
         },
         {
             "market": "cardrush",
@@ -97,28 +129,12 @@
             "stock": 61
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21686",
-            "price": 420,
-            "name": "こくばバドレックスV",
-            "date": "2023-01-03",
-            "stock": 194
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21171",
             "price": 450,
             "name": "【未開封プロモ】 こ",
             "date": "2023-01-02",
             "stock": 40
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21686",
-            "price": 420,
-            "name": "こくばバドレックスV",
-            "date": "2023-01-02",
-            "stock": 194
         },
         {
             "market": "cardrush",
@@ -129,6 +145,14 @@
             "stock": 65
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21686",
+            "price": 420,
+            "name": "こくばバドレックスV",
+            "date": "2023-01-02",
+            "stock": 194
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21171",
             "price": 450,
@@ -162,14 +186,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21686",
-            "price": 420,
-            "name": "こくばバドレックスV",
-            "date": "2022-12-31",
-            "stock": 193
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20159",
             "price": 180,
             "name": "こくばバドレックスV",
@@ -177,28 +193,12 @@
             "stock": 33
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21171",
-            "price": 450,
-            "name": "【未開封プロモ】 こ",
-            "date": "2022-12-30",
-            "stock": 42
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21686",
             "price": 420,
             "name": "こくばバドレックスV",
-            "date": "2022-12-30",
+            "date": "2022-12-31",
             "stock": 193
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20159",
-            "price": 180,
-            "name": "こくばバドレックスV",
-            "date": "2022-12-30",
-            "stock": 33
         }
     ]
 }

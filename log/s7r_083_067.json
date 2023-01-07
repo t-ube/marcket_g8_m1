@@ -2,10 +2,138 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1339773244",
+            "price": 149986,
+            "name": "レックウザVMAX ",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/880926481",
+            "price": 207900,
+            "name": "レックウザVMAX(",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1590729269",
+            "price": 168000,
+            "name": "ポケカ　レックウザV",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/297928392",
+            "price": 140000,
+            "name": "キズあり特価レックウ",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1045945682",
+            "price": 222222,
+            "name": "レックウザVMAX ",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1562718203",
+            "price": 160000,
+            "name": "レックウザVMAX ",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1971265355",
+            "price": 249900,
+            "name": "〔PSA10鑑定済〕",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1949218840",
+            "price": 198000,
+            "name": "ポケカ【美品】レック",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1823442331",
+            "price": 168000,
+            "name": "ポケカ　レックウザV",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/544290502",
+            "price": 178000,
+            "name": "ポケカ　レックウザV",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/389603731",
+            "price": 168000,
+            "name": "ポケカ　レックウザV",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1970492565",
             "price": 850000,
             "name": "ポケカ　蒼空ストリー",
-            "date": "2023-01-06",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/779661957",
+            "price": 165900,
+            "name": "〔状態A-〕レックウ",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/312889221",
+            "price": 249999,
+            "name": "PSA10 レックウ",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21483",
+            "price": 198000,
+            "name": "レックウザVMAX0",
+            "date": "2023-01-07",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36158",
+            "price": 238000,
+            "name": "レックウザVMAX0",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21681",
+            "price": 158000,
+            "name": "レックウザVMAX0",
+            "date": "2023-01-07",
             "stock": 1
         },
         {
@@ -18,25 +146,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/921283459",
-            "price": 151200,
-            "name": "〔PSA9鑑定済〕レ",
+            "link": "/items/1971265355",
+            "price": 249900,
+            "name": "〔PSA10鑑定済〕",
             "date": "2023-01-06",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/779661957",
-            "price": 165900,
-            "name": "〔状態A-〕レックウ",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1590729269",
-            "price": 168000,
-            "name": "ポケカ　レックウザV",
+            "link": "/items/1970492565",
+            "price": 850000,
+            "name": "ポケカ　蒼空ストリー",
             "date": "2023-01-06",
             "stock": 1
         },
@@ -74,17 +194,33 @@
         },
         {
             "market": "magi",
-            "link": "/items/880926481",
-            "price": 207900,
-            "name": "レックウザVMAX(",
+            "link": "/items/779661957",
+            "price": 165900,
+            "name": "〔状態A-〕レックウ",
             "date": "2023-01-06",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1971265355",
-            "price": 249900,
-            "name": "〔PSA10鑑定済〕",
+            "link": "/items/921283459",
+            "price": 151200,
+            "name": "〔PSA9鑑定済〕レ",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1590729269",
+            "price": 168000,
+            "name": "ポケカ　レックウザV",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/880926481",
+            "price": 207900,
+            "name": "レックウザVMAX(",
             "date": "2023-01-06",
             "stock": 1
         },
@@ -122,8 +258,8 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36158",
-            "price": 238000,
+            "link": "https://www.cardrush-pokemon.jp/product/21681",
+            "price": 158000,
             "name": "レックウザVMAX0",
             "date": "2023-01-06",
             "stock": 1
@@ -138,8 +274,8 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21681",
-            "price": 158000,
+            "link": "https://www.cardrush-pokemon.jp/product/36158",
+            "price": 238000,
             "name": "レックウザVMAX0",
             "date": "2023-01-06",
             "stock": 1
@@ -150,6 +286,38 @@
             "price": 144000,
             "name": "レックウザVMAX0",
             "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1339773244",
+            "price": 149986,
+            "name": "レックウザVMAX ",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1823442331",
+            "price": 168000,
+            "name": "ポケカ　レックウザV",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1970492565",
+            "price": 850000,
+            "name": "ポケカ　蒼空ストリー",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/389603731",
+            "price": 168000,
+            "name": "ポケカ　レックウザV",
+            "date": "2023-01-05",
             "stock": 1
         },
         {
@@ -178,9 +346,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1339773244",
-            "price": 149986,
-            "name": "レックウザVMAX ",
+            "link": "/items/544290502",
+            "price": 178000,
+            "name": "ポケカ　レックウザV",
             "date": "2023-01-05",
             "stock": 1
         },
@@ -226,46 +394,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1562718203",
-            "price": 160000,
-            "name": "レックウザVMAX ",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1823442331",
-            "price": 168000,
-            "name": "ポケカ　レックウザV",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/544290502",
-            "price": 178000,
-            "name": "ポケカ　レックウザV",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/389603731",
-            "price": 168000,
-            "name": "ポケカ　レックウザV",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1970492565",
-            "price": 850000,
-            "name": "ポケカ　蒼空ストリー",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/779661957",
             "price": 165900,
             "name": "〔状態A-〕レックウ",
@@ -273,17 +401,17 @@
             "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21483",
-            "price": 198000,
-            "name": "レックウザVMAX0",
+            "market": "magi",
+            "link": "/items/1562718203",
+            "price": 160000,
+            "name": "レックウザVMAX ",
             "date": "2023-01-05",
-            "stock": 2
+            "stock": 1
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21681",
-            "price": 158000,
+            "link": "https://www.cardrush-pokemon.jp/product/38973",
+            "price": 144000,
             "name": "レックウザVMAX0",
             "date": "2023-01-05",
             "stock": 1
@@ -298,10 +426,90 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38973",
-            "price": 144000,
+            "link": "https://www.cardrush-pokemon.jp/product/21681",
+            "price": 158000,
             "name": "レックウザVMAX0",
             "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21483",
+            "price": 198000,
+            "name": "レックウザVMAX0",
+            "date": "2023-01-05",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1823442331",
+            "price": 168000,
+            "name": "ポケカ　レックウザV",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/880926481",
+            "price": 207900,
+            "name": "レックウザVMAX(",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1970492565",
+            "price": 850000,
+            "name": "ポケカ　蒼空ストリー",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1590729269",
+            "price": 168000,
+            "name": "ポケカ　レックウザV",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/921283459",
+            "price": 165900,
+            "name": "〔PSA9鑑定済〕レ",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/297928392",
+            "price": 140000,
+            "name": "キズあり特価レックウ",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/312889221",
+            "price": 249999,
+            "name": "PSA10 レックウ",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1949218840",
+            "price": 198000,
+            "name": "ポケカ【美品】レック",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1562718203",
+            "price": 160000,
+            "name": "レックウザVMAX ",
+            "date": "2023-01-04",
             "stock": 1
         },
         {
@@ -322,8 +530,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1339773244",
-            "price": 149986,
+            "link": "/items/1045945682",
+            "price": 222222,
             "name": "レックウザVMAX ",
             "date": "2023-01-04",
             "stock": 1
@@ -346,81 +554,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/297928392",
-            "price": 140000,
-            "name": "キズあり特価レックウ",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1823442331",
-            "price": 168000,
-            "name": "ポケカ　レックウザV",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1045945682",
-            "price": 222222,
+            "link": "/items/1339773244",
+            "price": 149986,
             "name": "レックウザVMAX ",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1562718203",
-            "price": 160000,
-            "name": "レックウザVMAX ",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/880926481",
-            "price": 207900,
-            "name": "レックウザVMAX(",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/312889221",
-            "price": 249999,
-            "name": "PSA10 レックウ",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1949218840",
-            "price": 198000,
-            "name": "ポケカ【美品】レック",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/921283459",
-            "price": 165900,
-            "name": "〔PSA9鑑定済〕レ",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1590729269",
-            "price": 168000,
-            "name": "ポケカ　レックウザV",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1970492565",
-            "price": 850000,
-            "name": "ポケカ　蒼空ストリー",
             "date": "2023-01-04",
             "stock": 1
         },
@@ -458,6 +594,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1949218840",
+            "price": 198000,
+            "name": "ポケカ【美品】レック",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1970492565",
             "price": 850000,
             "name": "ポケカ　蒼空ストリー",
@@ -490,9 +634,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/975502552",
-            "price": 165900,
-            "name": "〔PSA9鑑定済〕レ",
+            "link": "/items/1823442331",
+            "price": 168000,
+            "name": "ポケカ　レックウザV",
             "date": "2023-01-03",
             "stock": 1
         },
@@ -509,22 +653,6 @@
             "link": "/items/389603731",
             "price": 168000,
             "name": "ポケカ　レックウザV",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1823442331",
-            "price": 168000,
-            "name": "ポケカ　レックウザV",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1949218840",
-            "price": 198000,
-            "name": "ポケカ【美品】レック",
             "date": "2023-01-03",
             "stock": 1
         },
@@ -581,6 +709,22 @@
             "link": "/items/312889221",
             "price": 249999,
             "name": "PSA10 レックウ",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/975502552",
+            "price": 165900,
+            "name": "〔PSA9鑑定済〕レ",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21681",
+            "price": 158000,
+            "name": "レックウザVMAX0",
             "date": "2023-01-03",
             "stock": 1
         },
@@ -609,18 +753,50 @@
             "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21681",
-            "price": 158000,
-            "name": "レックウザVMAX0",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
             "market": "magi",
             "link": "/items/1562718203",
             "price": 160000,
             "name": "レックウザVMAX ",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/312889221",
+            "price": 279999,
+            "name": "PSA10 レックウ",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/297928392",
+            "price": 140000,
+            "name": "キズあり特価レックウ",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1971265355",
+            "price": 260400,
+            "name": "〔PSA10鑑定済〕",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1045945682",
+            "price": 222222,
+            "name": "レックウザVMAX ",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1949218840",
+            "price": 198000,
+            "name": "ポケカ【美品】レック",
             "date": "2023-01-02",
             "stock": 1
         },
@@ -650,9 +826,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1590729269",
-            "price": 168000,
-            "name": "ポケカ　レックウザV",
+            "link": "/items/1339773244",
+            "price": 149986,
+            "name": "レックウザVMAX ",
             "date": "2023-01-02",
             "stock": 1
         },
@@ -690,49 +866,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1045945682",
-            "price": 222222,
-            "name": "レックウザVMAX ",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1949218840",
-            "price": 198000,
-            "name": "ポケカ【美品】レック",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1339773244",
-            "price": 149986,
-            "name": "レックウザVMAX ",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1971265355",
-            "price": 260400,
-            "name": "〔PSA10鑑定済〕",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/297928392",
-            "price": 140000,
-            "name": "キズあり特価レックウ",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/312889221",
-            "price": 279999,
-            "name": "PSA10 レックウ",
+            "link": "/items/1590729269",
+            "price": 168000,
+            "name": "ポケカ　レックウザV",
             "date": "2023-01-02",
             "stock": 1
         },
@@ -770,38 +906,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1562718203",
-            "price": 160000,
-            "name": "レックウザVMAX ",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/389603731",
-            "price": 168000,
-            "name": "ポケカ　レックウザV",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1590729269",
-            "price": 168000,
-            "name": "ポケカ　レックウザV",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/975502552",
-            "price": 165900,
-            "name": "〔PSA9鑑定済〕レ",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1970492565",
             "price": 850000,
             "name": "ポケカ　蒼空ストリー",
@@ -810,25 +914,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/544290502",
-            "price": 178000,
-            "name": "ポケカ　レックウザV",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/312889221",
-            "price": 279999,
-            "name": "PSA10 レックウ",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1949218840",
-            "price": 198000,
-            "name": "ポケカ【美品】レック",
+            "link": "/items/1045945682",
+            "price": 222222,
+            "name": "レックウザVMAX ",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -842,25 +930,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1339773244",
-            "price": 149986,
-            "name": "レックウザVMAX ",
+            "link": "/items/880926481",
+            "price": 207900,
+            "name": "レックウザVMAX(",
             "date": "2023-01-01",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/297928392",
-            "price": 140000,
-            "name": "キズあり特価レックウ",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1045945682",
-            "price": 222222,
-            "name": "レックウザVMAX ",
+            "link": "/items/1971265355",
+            "price": 260400,
+            "name": "〔PSA10鑑定済〕",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -874,25 +954,73 @@
         },
         {
             "market": "magi",
-            "link": "/items/1971265355",
-            "price": 260400,
-            "name": "〔PSA10鑑定済〕",
+            "link": "/items/297928392",
+            "price": 140000,
+            "name": "キズあり特価レックウ",
             "date": "2023-01-01",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/880926481",
-            "price": 207900,
-            "name": "レックウザVMAX(",
+            "link": "/items/1339773244",
+            "price": 149986,
+            "name": "レックウザVMAX ",
             "date": "2023-01-01",
             "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38973",
-            "price": 158000,
-            "name": "レックウザVMAX0",
+            "market": "magi",
+            "link": "/items/1949218840",
+            "price": 198000,
+            "name": "ポケカ【美品】レック",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/312889221",
+            "price": 279999,
+            "name": "PSA10 レックウ",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/544290502",
+            "price": 178000,
+            "name": "ポケカ　レックウザV",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/975502552",
+            "price": 165900,
+            "name": "〔PSA9鑑定済〕レ",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1590729269",
+            "price": 168000,
+            "name": "ポケカ　レックウザV",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/389603731",
+            "price": 168000,
+            "name": "ポケカ　レックウザV",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1562718203",
+            "price": 160000,
+            "name": "レックウザVMAX ",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -906,6 +1034,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21483",
+            "price": 198000,
+            "name": "レックウザVMAX0",
+            "date": "2023-01-01",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/36158",
             "price": 248000,
             "name": "レックウザVMAX0",
@@ -914,34 +1050,10 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21483",
-            "price": 198000,
+            "link": "https://www.cardrush-pokemon.jp/product/38973",
+            "price": 158000,
             "name": "レックウザVMAX0",
             "date": "2023-01-01",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/544290502",
-            "price": 178000,
-            "name": "ポケカ　レックウザV",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1970492565",
-            "price": 850000,
-            "name": "ポケカ　蒼空ストリー",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1971265355",
-            "price": 260400,
-            "name": "〔PSA10鑑定済〕",
-            "date": "2022-12-31",
             "stock": 1
         },
         {
@@ -949,6 +1061,14 @@
             "link": "/items/880926481",
             "price": 207900,
             "name": "レックウザVMAX(",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/297928392",
+            "price": 140000,
+            "name": "キズあり特価レックウ",
             "date": "2022-12-31",
             "stock": 1
         },
@@ -978,9 +1098,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/975502552",
-            "price": 165900,
-            "name": "〔PSA9鑑定済〕レ",
+            "link": "/items/544290502",
+            "price": 178000,
+            "name": "ポケカ　レックウザV",
             "date": "2022-12-31",
             "stock": 1
         },
@@ -994,9 +1114,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/297928392",
-            "price": 140000,
-            "name": "キズあり特価レックウ",
+            "link": "/items/975502552",
+            "price": 165900,
+            "name": "〔PSA9鑑定済〕レ",
             "date": "2022-12-31",
             "stock": 1
         },
@@ -1041,91 +1161,11 @@
             "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21483",
-            "price": 198000,
-            "name": "レックウザVMAX0",
+            "market": "magi",
+            "link": "/items/1970492565",
+            "price": 850000,
+            "name": "ポケカ　蒼空ストリー",
             "date": "2022-12-31",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/38973",
-            "price": 158000,
-            "name": "レックウザVMAX0",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36158",
-            "price": 248000,
-            "name": "レックウザVMAX0",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/297928392",
-            "price": 140000,
-            "name": "キズあり特価レックウ",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1823442331",
-            "price": 168000,
-            "name": "ポケカ　レックウザV",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/544290502",
-            "price": 178000,
-            "name": "ポケカ　レックウザV",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1339773244",
-            "price": 149986,
-            "name": "レックウザVMAX ",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/880926481",
-            "price": 207900,
-            "name": "レックウザVMAX(",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1045945682",
-            "price": 222222,
-            "name": "レックウザVMAX ",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/975502552",
-            "price": 165900,
-            "name": "〔PSA9鑑定済〕レ",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/389603731",
-            "price": 168000,
-            "name": "ポケカ　レックウザV",
-            "date": "2022-12-30",
             "stock": 1
         },
         {
@@ -1133,55 +1173,7 @@
             "link": "/items/1971265355",
             "price": 260400,
             "name": "〔PSA10鑑定済〕",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1949218840",
-            "price": 198000,
-            "name": "ポケカ【美品】レック",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1970492565",
-            "price": 850000,
-            "name": "ポケカ　蒼空ストリー",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1366887487",
-            "price": 209999,
-            "name": "【PSA10】レック",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1590729269",
-            "price": 168000,
-            "name": "ポケカ　レックウザV",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/312889221",
-            "price": 279999,
-            "name": "PSA10 レックウ",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1562718203",
-            "price": 160000,
-            "name": "レックウザVMAX ",
-            "date": "2022-12-30",
+            "date": "2022-12-31",
             "stock": 1
         },
         {
@@ -1189,7 +1181,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/36158",
             "price": 248000,
             "name": "レックウザVMAX0",
-            "date": "2022-12-30",
+            "date": "2022-12-31",
             "stock": 1
         },
         {
@@ -1197,7 +1189,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/38973",
             "price": 158000,
             "name": "レックウザVMAX0",
-            "date": "2022-12-30",
+            "date": "2022-12-31",
             "stock": 1
         },
         {
@@ -1205,7 +1197,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/21483",
             "price": 198000,
             "name": "レックウザVMAX0",
-            "date": "2022-12-30",
+            "date": "2022-12-31",
             "stock": 2
         }
     ]

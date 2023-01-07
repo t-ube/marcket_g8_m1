@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/22895",
             "price": 200,
             "name": "スーパーボール(D)",
+            "date": "2023-01-07",
+            "stock": 36
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7735",
+            "price": 80,
+            "name": "スーパーボール008",
+            "date": "2023-01-07",
+            "stock": 2
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22895",
+            "price": 200,
+            "name": "スーパーボール(D)",
             "date": "2023-01-06",
             "stock": 36
         },
@@ -94,14 +110,6 @@
             "price": 200,
             "name": "スーパーボール(D)",
             "date": "2022-12-31",
-            "stock": 25
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22895",
-            "price": 200,
-            "name": "スーパーボール(D)",
-            "date": "2022-12-30",
             "stock": 25
         }
     ]

@@ -2,6 +2,22 @@
     "items": [
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32395",
+            "price": 1580,
+            "name": "レックウザV075/",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21475",
+            "price": 1880,
+            "name": "レックウザV075/",
+            "date": "2023-01-07",
+            "stock": 13
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21475",
             "price": 1880,
             "name": "レックウザV075/",
@@ -26,6 +42,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32395",
+            "price": 1580,
+            "name": "レックウザV075/",
+            "date": "2023-01-04",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21475",
             "price": 1880,
             "name": "レックウザV075/",
@@ -37,7 +61,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/32395",
             "price": 1580,
             "name": "レックウザV075/",
-            "date": "2023-01-04",
+            "date": "2023-01-03",
             "stock": 4
         },
         {
@@ -53,7 +77,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/32395",
             "price": 1580,
             "name": "レックウザV075/",
-            "date": "2023-01-03",
+            "date": "2023-01-02",
             "stock": 4
         },
         {
@@ -69,7 +93,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/32395",
             "price": 1580,
             "name": "レックウザV075/",
-            "date": "2023-01-02",
+            "date": "2023-01-01",
             "stock": 4
         },
         {
@@ -79,14 +103,6 @@
             "name": "レックウザV075/",
             "date": "2023-01-01",
             "stock": 10
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32395",
-            "price": 1580,
-            "name": "レックウザV075/",
-            "date": "2023-01-01",
-            "stock": 4
         },
         {
             "market": "cardrush",
@@ -103,30 +119,6 @@
             "name": "レックウザV075/",
             "date": "2022-12-31",
             "stock": 11
-        },
-        {
-            "market": "magi",
-            "link": "/items/1434923466",
-            "price": 1500,
-            "name": "レックウザV SR ",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21475",
-            "price": 1880,
-            "name": "レックウザV075/",
-            "date": "2022-12-30",
-            "stock": 11
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32395",
-            "price": 1580,
-            "name": "レックウザV075/",
-            "date": "2022-12-30",
-            "stock": 4
         }
     ]
 }

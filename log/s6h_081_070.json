@@ -2,6 +2,54 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1777096782",
+            "price": 650,
+            "name": "ドクター SR 08",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1391328738",
+            "price": 1000,
+            "name": "ドクター SR 08",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/986107371",
+            "price": 760,
+            "name": "ドクター SR 08",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19314",
+            "price": 1300,
+            "name": "ドクター(SR){サ",
+            "date": "2023-01-07",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20201",
+            "price": 1280,
+            "name": "ドクター081/07",
+            "date": "2023-01-07",
+            "stock": 69
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31934",
+            "price": 1090,
+            "name": "ドクター081/07",
+            "date": "2023-01-07",
+            "stock": 14
+        },
+        {
+            "market": "magi",
             "link": "/items/986107371",
             "price": 768,
             "name": "ドクター SR 08",
@@ -34,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31934",
-            "price": 1090,
-            "name": "ドクター081/07",
-            "date": "2023-01-06",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20201",
             "price": 1280,
             "name": "ドクター081/07",
             "date": "2023-01-06",
             "stock": 69
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31934",
+            "price": 1090,
+            "name": "ドクター081/07",
+            "date": "2023-01-06",
+            "stock": 8
         },
         {
             "market": "magi",
@@ -82,14 +130,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31934",
-            "price": 1090,
-            "name": "ドクター081/07",
-            "date": "2023-01-05",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20201",
             "price": 1280,
             "name": "ドクター081/07",
@@ -97,9 +137,17 @@
             "stock": 69
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31934",
+            "price": 1090,
+            "name": "ドクター081/07",
+            "date": "2023-01-05",
+            "stock": 8
+        },
+        {
             "market": "magi",
-            "link": "/items/986107371",
-            "price": 768,
+            "link": "/items/1391328738",
+            "price": 1000,
             "name": "ドクター SR 08",
             "date": "2023-01-04",
             "stock": 1
@@ -114,8 +162,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1391328738",
-            "price": 1000,
+            "link": "/items/986107371",
+            "price": 768,
             "name": "ドクター SR 08",
             "date": "2023-01-04",
             "stock": 1
@@ -127,14 +175,6 @@
             "name": "ドクター(SR){サ",
             "date": "2023-01-04",
             "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31934",
-            "price": 1090,
-            "name": "ドクター081/07",
-            "date": "2023-01-04",
-            "stock": 8
         },
         {
             "market": "cardrush",
@@ -145,17 +185,25 @@
             "stock": 55
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31934",
+            "price": 1090,
+            "name": "ドクター081/07",
+            "date": "2023-01-04",
+            "stock": 8
+        },
+        {
             "market": "magi",
-            "link": "/items/986107371",
-            "price": 768,
+            "link": "/items/1777096782",
+            "price": 800,
             "name": "ドクター SR 08",
             "date": "2023-01-03",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1777096782",
-            "price": 800,
+            "link": "/items/986107371",
+            "price": 768,
             "name": "ドクター SR 08",
             "date": "2023-01-03",
             "stock": 1
@@ -175,14 +223,6 @@
             "name": "ドクター(SR){サ",
             "date": "2023-01-03",
             "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20201",
-            "price": 1280,
-            "name": "ドクター081/07",
-            "date": "2023-01-03",
-            "stock": 36
         },
         {
             "market": "cardrush",
@@ -193,12 +233,12 @@
             "stock": 9
         },
         {
-            "market": "magi",
-            "link": "/items/1391328738",
-            "price": 1000,
-            "name": "ドクター SR 08",
-            "date": "2023-01-02",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20201",
+            "price": 1280,
+            "name": "ドクター081/07",
+            "date": "2023-01-03",
+            "stock": 36
         },
         {
             "market": "magi",
@@ -217,20 +257,20 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/1391328738",
+            "price": 1000,
+            "name": "ドクター SR 08",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19314",
             "price": 1300,
             "name": "ドクター(SR){サ",
             "date": "2023-01-02",
             "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31934",
-            "price": 1090,
-            "name": "ドクター081/07",
-            "date": "2023-01-02",
-            "stock": 6
         },
         {
             "market": "cardrush",
@@ -241,20 +281,12 @@
             "stock": 24
         },
         {
-            "market": "magi",
-            "link": "/items/1777096782",
-            "price": 800,
-            "name": "ドクター SR 08",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1391328738",
-            "price": 1000,
-            "name": "ドクター SR 08",
-            "date": "2023-01-01",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31934",
+            "price": 1090,
+            "name": "ドクター081/07",
+            "date": "2023-01-02",
+            "stock": 6
         },
         {
             "market": "magi",
@@ -265,20 +297,28 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/1391328738",
+            "price": 1000,
+            "name": "ドクター SR 08",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1777096782",
+            "price": 800,
+            "name": "ドクター SR 08",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19314",
             "price": 1300,
             "name": "ドクター(SR){サ",
             "date": "2023-01-01",
             "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20201",
-            "price": 1280,
-            "name": "ドクター081/07",
-            "date": "2023-01-01",
-            "stock": 34
         },
         {
             "market": "cardrush",
@@ -289,9 +329,17 @@
             "stock": 6
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20201",
+            "price": 1280,
+            "name": "ドクター081/07",
+            "date": "2023-01-01",
+            "stock": 34
+        },
+        {
             "market": "magi",
-            "link": "/items/1391328738",
-            "price": 1000,
+            "link": "/items/1777096782",
+            "price": 800,
             "name": "ドクター SR 08",
             "date": "2022-12-31",
             "stock": 1
@@ -306,8 +354,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1777096782",
-            "price": 800,
+            "link": "/items/1391328738",
+            "price": 1000,
             "name": "ドクター SR 08",
             "date": "2022-12-31",
             "stock": 1
@@ -319,6 +367,14 @@
             "name": "ドクター(SR){サ",
             "date": "2022-12-31",
             "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31934",
+            "price": 1090,
+            "name": "ドクター081/07",
+            "date": "2022-12-31",
+            "stock": 6
         },
         {
             "market": "cardrush",
@@ -327,70 +383,6 @@
             "name": "ドクター081/07",
             "date": "2022-12-31",
             "stock": 34
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31934",
-            "price": 1090,
-            "name": "ドクター081/07",
-            "date": "2022-12-31",
-            "stock": 6
-        },
-        {
-            "market": "magi",
-            "link": "/items/986107371",
-            "price": 776,
-            "name": "ドクター SR 08",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1777096782",
-            "price": 800,
-            "name": "ドクター SR 08",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1391328738",
-            "price": 1000,
-            "name": "ドクター SR 08",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2047354789",
-            "price": 599,
-            "name": "ドクター SR 08",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19314",
-            "price": 1300,
-            "name": "ドクター(SR){サ",
-            "date": "2022-12-30",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31934",
-            "price": 1090,
-            "name": "ドクター081/07",
-            "date": "2022-12-30",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20201",
-            "price": 1280,
-            "name": "ドクター081/07",
-            "date": "2022-12-30",
-            "stock": 33
         }
     ]
 }

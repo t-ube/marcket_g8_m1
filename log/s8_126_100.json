@@ -5,13 +5,45 @@
             "link": "/items/1454601787",
             "price": 2500,
             "name": "パワータブレット U",
-            "date": "2023-01-06",
+            "date": "2023-01-07",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1691012170",
             "price": 2398,
+            "name": "パワータブレット U",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22211",
+            "price": 2480,
+            "name": "パワータブレット12",
+            "date": "2023-01-07",
+            "stock": 8
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g126-100-S8-B/",
+            "price": 2420,
+            "name": "【ポケカ】ＵＲ◇パワ",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1691012170",
+            "price": 2398,
+            "name": "パワータブレット U",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1454601787",
+            "price": 2500,
             "name": "パワータブレット U",
             "date": "2023-01-06",
             "stock": 1
@@ -146,16 +178,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1454601787",
-            "price": 2500,
+            "link": "/items/1691012170",
+            "price": 2399,
             "name": "パワータブレット U",
             "date": "2023-01-01",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1691012170",
-            "price": 2399,
+            "link": "/items/1454601787",
+            "price": 2500,
             "name": "パワータブレット U",
             "date": "2023-01-01",
             "stock": 1
@@ -206,38 +238,6 @@
             "price": 2420,
             "name": "【ポケカ】ＵＲ◇パワ",
             "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1691012170",
-            "price": 2399,
-            "name": "パワータブレット U",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1454601787",
-            "price": 2500,
-            "name": "パワータブレット U",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22211",
-            "price": 2380,
-            "name": "パワータブレット12",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g126-100-S8-B/",
-            "price": 2420,
-            "name": "【ポケカ】ＵＲ◇パワ",
-            "date": "2022-12-30",
             "stock": 1
         }
     ]

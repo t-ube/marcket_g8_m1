@@ -5,6 +5,30 @@
             "link": "/items/262237658",
             "price": 3654,
             "name": "ヘルガー【UR】{0",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19011",
+            "price": 3500,
+            "name": "ヘルガー(UR){悪",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18239",
+            "price": 3480,
+            "name": "ヘルガー089/07",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/262237658",
+            "price": 3654,
+            "name": "ヘルガー【UR】{0",
             "date": "2023-01-06",
             "stock": 1
         },
@@ -82,19 +106,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31186",
-            "price": 2780,
-            "name": "ヘルガー089/07",
-            "date": "2023-01-04",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/18239",
             "price": 3480,
             "name": "ヘルガー089/07",
             "date": "2023-01-04",
             "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31186",
+            "price": 2780,
+            "name": "ヘルガー089/07",
+            "date": "2023-01-04",
+            "stock": 2
         },
         {
             "market": "magi",
@@ -114,16 +138,16 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31186",
-            "price": 2780,
+            "link": "https://www.cardrush-pokemon.jp/product/18239",
+            "price": 3480,
             "name": "ヘルガー089/07",
             "date": "2023-01-03",
             "stock": 2
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18239",
-            "price": 3480,
+            "link": "https://www.cardrush-pokemon.jp/product/31186",
+            "price": 2780,
             "name": "ヘルガー089/07",
             "date": "2023-01-03",
             "stock": 2
@@ -206,30 +230,6 @@
             "price": 3480,
             "name": "ヘルガー089/07",
             "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/262237658",
-            "price": 3654,
-            "name": "ヘルガー【UR】{0",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19011",
-            "price": 3500,
-            "name": "ヘルガー(UR){悪",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18239",
-            "price": 3480,
-            "name": "ヘルガー089/07",
-            "date": "2022-12-30",
             "stock": 1
         }
     ]

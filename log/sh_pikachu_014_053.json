@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/19801",
             "price": 100,
             "name": "ゲッコウガV:キラ(",
+            "date": "2023-01-07",
+            "stock": 32
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19949",
+            "price": 50,
+            "name": "ゲッコウガV(-){",
+            "date": "2023-01-07",
+            "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21375",
+            "price": 80,
+            "name": "ゲッコウガV014/",
+            "date": "2023-01-07",
+            "stock": 139
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19801",
+            "price": 100,
+            "name": "ゲッコウガV:キラ(",
             "date": "2023-01-06",
             "stock": 32
         },
@@ -74,19 +98,19 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19949",
-            "price": 50,
-            "name": "ゲッコウガV(-){",
-            "date": "2023-01-03",
-            "stock": 12
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19801",
             "price": 100,
             "name": "ゲッコウガV:キラ(",
             "date": "2023-01-03",
             "stock": 33
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19949",
+            "price": 50,
+            "name": "ゲッコウガV(-){",
+            "date": "2023-01-03",
+            "stock": 12
         },
         {
             "market": "cardrush",
@@ -146,14 +170,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21375",
-            "price": 80,
-            "name": "ゲッコウガV014/",
-            "date": "2023-01-01",
-            "stock": 140
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21429",
             "price": 80,
             "name": "ゲッコウガV014/",
@@ -161,12 +177,12 @@
             "stock": 18
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19801",
-            "price": 100,
-            "name": "ゲッコウガV:キラ(",
-            "date": "2022-12-31",
-            "stock": 33
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21375",
+            "price": 80,
+            "name": "ゲッコウガV014/",
+            "date": "2023-01-01",
+            "stock": 140
         },
         {
             "market": "hareruya2",
@@ -177,35 +193,11 @@
             "stock": 13
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21429",
-            "price": 80,
-            "name": "ゲッコウガV014/",
-            "date": "2022-12-31",
-            "stock": 18
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21375",
-            "price": 80,
-            "name": "ゲッコウガV014/",
-            "date": "2022-12-31",
-            "stock": 140
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19949",
-            "price": 50,
-            "name": "ゲッコウガV(-){",
-            "date": "2022-12-30",
-            "stock": 13
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19801",
             "price": 100,
             "name": "ゲッコウガV:キラ(",
-            "date": "2022-12-30",
+            "date": "2022-12-31",
             "stock": 33
         },
         {
@@ -213,7 +205,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/21375",
             "price": 80,
             "name": "ゲッコウガV014/",
-            "date": "2022-12-30",
+            "date": "2022-12-31",
             "stock": 140
         },
         {
@@ -221,7 +213,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/21429",
             "price": 80,
             "name": "ゲッコウガV014/",
-            "date": "2022-12-30",
+            "date": "2022-12-31",
             "stock": 18
         }
     ]

@@ -5,6 +5,46 @@
             "link": "/items/2039694847",
             "price": 650,
             "name": "【割引あり】シャンデ",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20475",
+            "price": 900,
+            "name": "シャンデラV(SR)",
+            "date": "2023-01-07",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22276",
+            "price": 480,
+            "name": "シャンデラV102/",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32571",
+            "price": 680,
+            "name": "シャンデラV102/",
+            "date": "2023-01-07",
+            "stock": 34
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22187",
+            "price": 780,
+            "name": "シャンデラV102/",
+            "date": "2023-01-07",
+            "stock": 115
+        },
+        {
+            "market": "magi",
+            "link": "/items/2039694847",
+            "price": 650,
+            "name": "【割引あり】シャンデ",
             "date": "2023-01-06",
             "stock": 1
         },
@@ -58,11 +98,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22276",
-            "price": 480,
+            "link": "https://www.cardrush-pokemon.jp/product/22187",
+            "price": 780,
             "name": "シャンデラV102/",
             "date": "2023-01-05",
-            "stock": 1
+            "stock": 107
         },
         {
             "market": "cardrush",
@@ -74,11 +114,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22187",
-            "price": 780,
+            "link": "https://www.cardrush-pokemon.jp/product/22276",
+            "price": 480,
             "name": "シャンデラV102/",
             "date": "2023-01-05",
-            "stock": 107
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -130,19 +170,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22187",
-            "price": 780,
-            "name": "シャンデラV102/",
-            "date": "2023-01-03",
-            "stock": 102
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22276",
             "price": 480,
             "name": "シャンデラV102/",
             "date": "2023-01-03",
             "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22187",
+            "price": 780,
+            "name": "シャンデラV102/",
+            "date": "2023-01-03",
+            "stock": 102
         },
         {
             "market": "hareruya2",
@@ -154,11 +194,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22187",
-            "price": 780,
+            "link": "https://www.cardrush-pokemon.jp/product/22276",
+            "price": 480,
             "name": "シャンデラV102/",
             "date": "2023-01-02",
-            "stock": 97
+            "stock": 2
         },
         {
             "market": "cardrush",
@@ -170,11 +210,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22276",
-            "price": 480,
+            "link": "https://www.cardrush-pokemon.jp/product/22187",
+            "price": 780,
             "name": "シャンデラV102/",
             "date": "2023-01-02",
-            "stock": 2
+            "stock": 97
         },
         {
             "market": "hareruya2",
@@ -191,6 +231,14 @@
             "name": "シャンデラV102/",
             "date": "2023-01-01",
             "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32571",
+            "price": 680,
+            "name": "シャンデラV102/",
+            "date": "2023-01-01",
+            "stock": 32
         },
         {
             "market": "cardrush",
@@ -201,34 +249,10 @@
             "stock": 97
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32571",
-            "price": 680,
-            "name": "シャンデラV102/",
-            "date": "2023-01-01",
-            "stock": 32
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/20475",
             "price": 900,
             "name": "シャンデラV(SR)",
-            "date": "2022-12-31",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32571",
-            "price": 680,
-            "name": "シャンデラV102/",
-            "date": "2022-12-31",
-            "stock": 32
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22276",
-            "price": 480,
-            "name": "シャンデラV102/",
             "date": "2022-12-31",
             "stock": 2
         },
@@ -241,27 +265,11 @@
             "stock": 106
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20475",
-            "price": 900,
-            "name": "シャンデラV(SR)",
-            "date": "2022-12-30",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22187",
-            "price": 780,
-            "name": "シャンデラV102/",
-            "date": "2022-12-30",
-            "stock": 128
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22276",
             "price": 480,
             "name": "シャンデラV102/",
-            "date": "2022-12-30",
+            "date": "2022-12-31",
             "stock": 2
         },
         {
@@ -269,7 +277,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/32571",
             "price": 680,
             "name": "シャンデラV102/",
-            "date": "2022-12-30",
+            "date": "2022-12-31",
             "stock": 32
         }
     ]
