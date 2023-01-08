@@ -1,6 +1,22 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19568",
+            "price": 2800,
+            "name": "ニンフィアVMAX(",
+            "date": "2023-01-08",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20758",
+            "price": 2580,
+            "name": "ニンフィアVMAX0",
+            "date": "2023-01-08",
+            "stock": 16
+        },
+        {
             "market": "magi",
             "link": "/items/1724867823",
             "price": 3000,
@@ -70,14 +86,6 @@
             "price": 2580,
             "name": "ニンフィアVMAX0",
             "date": "2023-01-01",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20758",
-            "price": 2580,
-            "name": "ニンフィアVMAX0",
-            "date": "2022-12-31",
             "stock": 3
         }
     ]

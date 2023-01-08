@@ -3,6 +3,38 @@
         {
             "market": "magi",
             "link": "/items/1820242558",
+            "price": 900,
+            "name": "バシャーモV CSR",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21363",
+            "price": 1400,
+            "name": "バシャーモV(CSR",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23088",
+            "price": 990,
+            "name": "バシャーモV216/",
+            "date": "2023-01-08",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22995",
+            "price": 1180,
+            "name": "バシャーモV216/",
+            "date": "2023-01-08",
+            "stock": 89
+        },
+        {
+            "market": "magi",
+            "link": "/items/1820242558",
             "price": 800,
             "name": "バシャーモV CSR",
             "date": "2023-01-07",
@@ -50,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23088",
-            "price": 990,
-            "name": "バシャーモV216/",
-            "date": "2023-01-06",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22995",
             "price": 1180,
             "name": "バシャーモV216/",
             "date": "2023-01-06",
             "stock": 87
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23088",
+            "price": 990,
+            "name": "バシャーモV216/",
+            "date": "2023-01-06",
+            "stock": 4
         },
         {
             "market": "magi",
@@ -114,19 +146,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22995",
-            "price": 1180,
-            "name": "バシャーモV216/",
-            "date": "2023-01-04",
-            "stock": 71
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23088",
             "price": 990,
             "name": "バシャーモV216/",
             "date": "2023-01-04",
             "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22995",
+            "price": 1180,
+            "name": "バシャーモV216/",
+            "date": "2023-01-04",
+            "stock": 71
         },
         {
             "market": "magi",
@@ -146,19 +178,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23088",
-            "price": 990,
-            "name": "バシャーモV216/",
-            "date": "2023-01-03",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22995",
             "price": 1180,
             "name": "バシャーモV216/",
             "date": "2023-01-03",
             "stock": 68
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23088",
+            "price": 990,
+            "name": "バシャーモV216/",
+            "date": "2023-01-03",
+            "stock": 5
         },
         {
             "market": "magi",
@@ -210,51 +242,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22995",
-            "price": 1180,
-            "name": "バシャーモV216/",
-            "date": "2023-01-01",
-            "stock": 53
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23088",
             "price": 990,
             "name": "バシャーモV216/",
             "date": "2023-01-01",
             "stock": 5
-        },
-        {
-            "market": "magi",
-            "link": "/items/1820242558",
-            "price": 800,
-            "name": "バシャーモV CSR",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21363",
-            "price": 1400,
-            "name": "バシャーモV(CSR",
-            "date": "2022-12-31",
-            "stock": 1
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22995",
             "price": 1180,
             "name": "バシャーモV216/",
-            "date": "2022-12-31",
-            "stock": 56
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23088",
-            "price": 990,
-            "name": "バシャーモV216/",
-            "date": "2022-12-31",
-            "stock": 5
+            "date": "2023-01-01",
+            "stock": 53
         }
     ]
 }

@@ -5,6 +5,38 @@
             "link": "/items/149366157",
             "price": 500,
             "name": "オーロットV SR ",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19854",
+            "price": 900,
+            "name": "オーロットV(SR)",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32388",
+            "price": 680,
+            "name": "オーロットV068/",
+            "date": "2023-01-08",
+            "stock": 21
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21468",
+            "price": 780,
+            "name": "オーロットV068/",
+            "date": "2023-01-08",
+            "stock": 93
+        },
+        {
+            "market": "magi",
+            "link": "/items/149366157",
+            "price": 500,
+            "name": "オーロットV SR ",
             "date": "2023-01-07",
             "stock": 1
         },
@@ -82,19 +114,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32388",
-            "price": 680,
-            "name": "オーロットV068/",
-            "date": "2023-01-05",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21468",
             "price": 780,
             "name": "オーロットV068/",
             "date": "2023-01-05",
             "stock": 87
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32388",
+            "price": 680,
+            "name": "オーロットV068/",
+            "date": "2023-01-05",
+            "stock": 12
         },
         {
             "market": "hareruya2",
@@ -106,19 +138,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21468",
-            "price": 780,
-            "name": "オーロットV068/",
-            "date": "2023-01-04",
-            "stock": 94
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32388",
             "price": 680,
             "name": "オーロットV068/",
             "date": "2023-01-04",
             "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21468",
+            "price": 780,
+            "name": "オーロットV068/",
+            "date": "2023-01-04",
+            "stock": 94
         },
         {
             "market": "hareruya2",
@@ -154,19 +186,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32388",
-            "price": 680,
-            "name": "オーロットV068/",
-            "date": "2023-01-02",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21468",
             "price": 780,
             "name": "オーロットV068/",
             "date": "2023-01-02",
             "stock": 91
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32388",
+            "price": 680,
+            "name": "オーロットV068/",
+            "date": "2023-01-02",
+            "stock": 8
         },
         {
             "market": "hareruya2",
@@ -178,14 +210,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32388",
-            "price": 680,
-            "name": "オーロットV068/",
-            "date": "2023-01-01",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21468",
             "price": 780,
             "name": "オーロットV068/",
@@ -193,28 +217,12 @@
             "stock": 91
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19854",
-            "price": 900,
-            "name": "オーロットV(SR)",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32388",
             "price": 680,
             "name": "オーロットV068/",
-            "date": "2022-12-31",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21468",
-            "price": 780,
-            "name": "オーロットV068/",
-            "date": "2022-12-31",
-            "stock": 90
+            "date": "2023-01-01",
+            "stock": 8
         }
     ]
 }

@@ -5,7 +5,7 @@
             "link": "/items/1679181498",
             "price": 4980,
             "name": "いちげきエネルギー　",
-            "date": "2023-01-07",
+            "date": "2023-01-08",
             "stock": 1
         },
         {
@@ -13,6 +13,22 @@
             "link": "https://www.cardrush-pokemon.jp/product/31197",
             "price": 2080,
             "name": "いちげきエネルギー0",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18250",
+            "price": 2480,
+            "name": "いちげきエネルギー0",
+            "date": "2023-01-08",
+            "stock": 24
+        },
+        {
+            "market": "magi",
+            "link": "/items/1679181498",
+            "price": 4980,
+            "name": "いちげきエネルギー　",
             "date": "2023-01-07",
             "stock": 1
         },
@@ -23,6 +39,14 @@
             "name": "いちげきエネルギー0",
             "date": "2023-01-07",
             "stock": 24
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31197",
+            "price": 2080,
+            "name": "いちげきエネルギー0",
+            "date": "2023-01-07",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -118,22 +142,6 @@
             "price": 2780,
             "name": "いちげきエネルギー0",
             "date": "2023-01-01",
-            "stock": 19
-        },
-        {
-            "market": "magi",
-            "link": "/items/1679181498",
-            "price": 4980,
-            "name": "いちげきエネルギー　",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18250",
-            "price": 2780,
-            "name": "いちげきエネルギー0",
-            "date": "2022-12-31",
             "stock": 19
         }
     ]

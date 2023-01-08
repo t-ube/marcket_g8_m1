@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/19319",
             "price": 700,
             "name": "サダイジャVMAX(",
+            "date": "2023-01-08",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31939",
+            "price": 680,
+            "name": "サダイジャVMAX0",
+            "date": "2023-01-08",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20206",
+            "price": 780,
+            "name": "サダイジャVMAX0",
+            "date": "2023-01-08",
+            "stock": 68
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19319",
+            "price": 700,
+            "name": "サダイジャVMAX(",
             "date": "2023-01-07",
             "stock": 2
         },
@@ -58,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31939",
-            "price": 680,
-            "name": "サダイジャVMAX0",
-            "date": "2023-01-05",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20206",
             "price": 780,
             "name": "サダイジャVMAX0",
             "date": "2023-01-05",
             "stock": 68
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31939",
+            "price": 680,
+            "name": "サダイジャVMAX0",
+            "date": "2023-01-05",
+            "stock": 2
         },
         {
             "market": "hareruya2",
@@ -154,34 +178,10 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20206",
-            "price": 780,
-            "name": "サダイジャVMAX0",
-            "date": "2023-01-01",
-            "stock": 59
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31939",
             "price": 680,
             "name": "サダイジャVMAX0",
             "date": "2023-01-01",
-            "stock": 2
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19319",
-            "price": 700,
-            "name": "サダイジャVMAX(",
-            "date": "2022-12-31",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31939",
-            "price": 680,
-            "name": "サダイジャVMAX0",
-            "date": "2022-12-31",
             "stock": 2
         },
         {
@@ -189,8 +189,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/20206",
             "price": 780,
             "name": "サダイジャVMAX0",
-            "date": "2022-12-31",
-            "stock": 58
+            "date": "2023-01-01",
+            "stock": 59
         }
     ]
 }

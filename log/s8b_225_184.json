@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/21372",
             "price": 1000,
             "name": "パルスワンV(CSR",
+            "date": "2023-01-08",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23097",
+            "price": 730,
+            "name": "パルスワンV225/",
+            "date": "2023-01-08",
+            "stock": 13
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23004",
+            "price": 880,
+            "name": "パルスワンV225/",
+            "date": "2023-01-08",
+            "stock": 100
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21372",
+            "price": 1000,
+            "name": "パルスワンV(CSR",
             "date": "2023-01-07",
             "stock": 4
         },
@@ -58,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23097",
-            "price": 730,
-            "name": "パルスワンV225/",
-            "date": "2023-01-05",
-            "stock": 13
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23004",
             "price": 880,
             "name": "パルスワンV225/",
             "date": "2023-01-05",
             "stock": 95
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23097",
+            "price": 730,
+            "name": "パルスワンV225/",
+            "date": "2023-01-05",
+            "stock": 13
         },
         {
             "market": "hareruya2",
@@ -154,14 +178,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23004",
-            "price": 880,
-            "name": "パルスワンV225/",
-            "date": "2023-01-01",
-            "stock": 53
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23097",
             "price": 730,
             "name": "パルスワンV225/",
@@ -169,27 +185,11 @@
             "stock": 15
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21372",
-            "price": 1000,
-            "name": "パルスワンV(CSR",
-            "date": "2022-12-31",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23097",
-            "price": 730,
-            "name": "パルスワンV225/",
-            "date": "2022-12-31",
-            "stock": 15
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23004",
             "price": 880,
             "name": "パルスワンV225/",
-            "date": "2022-12-31",
+            "date": "2023-01-01",
             "stock": 53
         }
     ]

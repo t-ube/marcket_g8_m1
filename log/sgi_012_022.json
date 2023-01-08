@@ -5,6 +5,30 @@
             "link": "/items/953254448",
             "price": 699,
             "name": "クイックボール(R仕",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2097628850",
+            "price": 480,
+            "name": "クイックボール(R仕",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20638",
+            "price": 320,
+            "name": "クイックボール012",
+            "date": "2023-01-08",
+            "stock": 293
+        },
+        {
+            "market": "magi",
+            "link": "/items/953254448",
+            "price": 699,
+            "name": "クイックボール(R仕",
             "date": "2023-01-07",
             "stock": 1
         },
@@ -170,16 +194,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/2097628850",
-            "price": 980,
+            "link": "/items/953254448",
+            "price": 699,
             "name": "クイックボール(R仕",
             "date": "2023-01-01",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/953254448",
-            "price": 699,
+            "link": "/items/2097628850",
+            "price": 980,
             "name": "クイックボール(R仕",
             "date": "2023-01-01",
             "stock": 1
@@ -191,30 +215,6 @@
             "name": "クイックボール012",
             "date": "2023-01-01",
             "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/2097628850",
-            "price": 980,
-            "name": "クイックボール(R仕",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/953254448",
-            "price": 699,
-            "name": "クイックボール(R仕",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20638",
-            "price": 320,
-            "name": "クイックボール012",
-            "date": "2022-12-31",
-            "stock": 10
         }
     ]
 }

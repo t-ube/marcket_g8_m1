@@ -5,6 +5,38 @@
             "link": "/items/2115656429",
             "price": 100,
             "name": "シキジカ C 005",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19238",
+            "price": 50,
+            "name": "シキジカ(C){草}",
+            "date": "2023-01-08",
+            "stock": 25
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20014",
+            "price": 30,
+            "name": "シキジカ005/07",
+            "date": "2023-01-08",
+            "stock": 44
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g005-070-S6H-B/",
+            "price": 6,
+            "name": "【ポケカ】Ｃ◇シキジ",
+            "date": "2023-01-08",
+            "stock": 20
+        },
+        {
+            "market": "magi",
+            "link": "/items/2115656429",
+            "price": 100,
+            "name": "シキジカ C 005",
             "date": "2023-01-07",
             "stock": 1
         },
@@ -222,38 +254,6 @@
             "price": 6,
             "name": "【ポケカ】Ｃ◇シキジ",
             "date": "2023-01-01",
-            "stock": 20
-        },
-        {
-            "market": "magi",
-            "link": "/items/2115656429",
-            "price": 100,
-            "name": "シキジカ C 005",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19238",
-            "price": 50,
-            "name": "シキジカ(C){草}",
-            "date": "2022-12-31",
-            "stock": 25
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20014",
-            "price": 30,
-            "name": "シキジカ005/07",
-            "date": "2022-12-31",
-            "stock": 44
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g005-070-S6H-B/",
-            "price": 6,
-            "name": "【ポケカ】Ｃ◇シキジ",
-            "date": "2022-12-31",
             "stock": 20
         }
     ]

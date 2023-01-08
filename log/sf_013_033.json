@@ -5,6 +5,14 @@
             "link": "https://www.cardrush-pokemon.jp/product/18209",
             "price": 120,
             "name": "ふつうのつりざお01",
+            "date": "2023-01-08",
+            "stock": 13
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18209",
+            "price": 120,
+            "name": "ふつうのつりざお01",
             "date": "2023-01-07",
             "stock": 13
         },
@@ -34,19 +42,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18209",
-            "price": 120,
-            "name": "ふつうのつりざお01",
-            "date": "2023-01-04",
-            "stock": 14
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31156",
             "price": 110,
             "name": "ふつうのつりざお01",
             "date": "2023-01-04",
             "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18209",
+            "price": 120,
+            "name": "ふつうのつりざお01",
+            "date": "2023-01-04",
+            "stock": 14
         },
         {
             "market": "hareruya2",
@@ -87,14 +95,6 @@
             "name": "ふつうのつりざお(D",
             "date": "2023-01-01",
             "stock": 2
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19117",
-            "price": 200,
-            "name": "ふつうのつりざお(D",
-            "date": "2022-12-31",
-            "stock": 1
         }
     ]
 }

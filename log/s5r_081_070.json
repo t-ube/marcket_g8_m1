@@ -2,10 +2,42 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1700306374",
+            "price": 9954,
+            "name": "モミ【SR】{081",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/800261550",
             "price": 8169,
             "name": "〔状態A-〕モミ【S",
-            "date": "2023-01-07",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19094",
+            "price": 10000,
+            "name": "モミ(SR){サポー",
+            "date": "2023-01-08",
+            "stock": 11
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31216",
+            "price": 7780,
+            "name": "モミ081/070",
+            "date": "2023-01-08",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18269",
+            "price": 9480,
+            "name": "モミ081/070",
+            "date": "2023-01-08",
             "stock": 1
         },
         {
@@ -13,6 +45,14 @@
             "link": "/items/1700306374",
             "price": 9954,
             "name": "モミ【SR】{081",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/800261550",
+            "price": 8169,
+            "name": "〔状態A-〕モミ【S",
             "date": "2023-01-07",
             "stock": 1
         },
@@ -26,19 +66,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18269",
-            "price": 9480,
-            "name": "モミ081/070",
-            "date": "2023-01-07",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31216",
             "price": 7780,
             "name": "モミ081/070",
             "date": "2023-01-07",
             "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18269",
+            "price": 9480,
+            "name": "モミ081/070",
+            "date": "2023-01-07",
+            "stock": 2
         },
         {
             "market": "magi",
@@ -82,17 +122,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/800261550",
-            "price": 8169,
-            "name": "〔状態A-〕モミ【S",
+            "link": "/items/1700306374",
+            "price": 9954,
+            "name": "モミ【SR】{081",
             "date": "2023-01-05",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1700306374",
-            "price": 9954,
-            "name": "モミ【SR】{081",
+            "link": "/items/800261550",
+            "price": 8169,
+            "name": "〔状態A-〕モミ【S",
             "date": "2023-01-05",
             "stock": 1
         },
@@ -247,30 +287,6 @@
             "name": "モミ081/070",
             "date": "2023-01-01",
             "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1700306374",
-            "price": 9954,
-            "name": "モミ【SR】{081",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19094",
-            "price": 10000,
-            "name": "モミ(SR){サポー",
-            "date": "2022-12-31",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18269",
-            "price": 9480,
-            "name": "モミ081/070",
-            "date": "2022-12-31",
-            "stock": 2
         }
     ]
 }

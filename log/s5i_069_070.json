@@ -2,10 +2,26 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/810048706",
+            "link": "/items/36979312",
             "price": 25,
             "name": "PC あくの塔(06",
-            "date": "2023-01-07",
+            "date": "2023-01-08",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2087580691",
+            "price": 25,
+            "name": "PC あくの塔(06",
+            "date": "2023-01-08",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1639164501",
+            "price": 25,
+            "name": "PC あくの塔(06",
+            "date": "2023-01-08",
             "stock": 4
         },
         {
@@ -13,7 +29,7 @@
             "link": "/items/255728049",
             "price": 25,
             "name": "PC あくの塔(06",
-            "date": "2023-01-07",
+            "date": "2023-01-08",
             "stock": 4
         },
         {
@@ -21,7 +37,15 @@
             "link": "/items/942324439",
             "price": 25,
             "name": "PC あくの塔(06",
-            "date": "2023-01-07",
+            "date": "2023-01-08",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1450388772",
+            "price": 25,
+            "name": "PC あくの塔(06",
+            "date": "2023-01-08",
             "stock": 4
         },
         {
@@ -29,12 +53,36 @@
             "link": "/items/335632871",
             "price": 25,
             "name": "DM あくの塔(06",
-            "date": "2023-01-07",
+            "date": "2023-01-08",
             "stock": 4
         },
         {
             "market": "magi",
-            "link": "/items/36979312",
+            "link": "/items/810048706",
+            "price": 25,
+            "name": "PC あくの塔(06",
+            "date": "2023-01-08",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18121",
+            "price": 80,
+            "name": "あくの塔069/07",
+            "date": "2023-01-08",
+            "stock": 11
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g069-070-S5I-B/",
+            "price": 55,
+            "name": "【ポケカ】Ｕ◇あくの",
+            "date": "2023-01-08",
+            "stock": 13
+        },
+        {
+            "market": "magi",
+            "link": "/items/255728049",
             "price": 25,
             "name": "PC あくの塔(06",
             "date": "2023-01-07",
@@ -50,7 +98,15 @@
         },
         {
             "market": "magi",
-            "link": "/items/1450388772",
+            "link": "/items/335632871",
+            "price": 25,
+            "name": "DM あくの塔(06",
+            "date": "2023-01-07",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/810048706",
             "price": 25,
             "name": "PC あくの塔(06",
             "date": "2023-01-07",
@@ -65,6 +121,30 @@
             "stock": 4
         },
         {
+            "market": "magi",
+            "link": "/items/1450388772",
+            "price": 25,
+            "name": "PC あくの塔(06",
+            "date": "2023-01-07",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/36979312",
+            "price": 25,
+            "name": "PC あくの塔(06",
+            "date": "2023-01-07",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/942324439",
+            "price": 25,
+            "name": "PC あくの塔(06",
+            "date": "2023-01-07",
+            "stock": 4
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/18121",
             "price": 80,
@@ -222,30 +302,6 @@
             "price": 55,
             "name": "【ポケカ】Ｕ◇あくの",
             "date": "2023-01-01",
-            "stock": 16
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18991",
-            "price": 50,
-            "name": "あくの塔(U){スタ",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18121",
-            "price": 80,
-            "name": "あくの塔069/07",
-            "date": "2022-12-31",
-            "stock": 8
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g069-070-S5I-B/",
-            "price": 55,
-            "name": "【ポケカ】Ｕ◇あくの",
-            "date": "2022-12-31",
             "stock": 16
         }
     ]

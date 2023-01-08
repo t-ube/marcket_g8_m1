@@ -5,6 +5,22 @@
             "link": "/items/81064585",
             "price": 150,
             "name": "【特価】ムゲンダイナ",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22480",
+            "price": 80,
+            "name": "ムゲンダイナV010",
+            "date": "2023-01-08",
+            "stock": 25
+        },
+        {
+            "market": "magi",
+            "link": "/items/81064585",
+            "price": 150,
+            "name": "【特価】ムゲンダイナ",
             "date": "2023-01-07",
             "stock": 1
         },
@@ -111,22 +127,6 @@
             "name": "ムゲンダイナV010",
             "date": "2023-01-01",
             "stock": 6
-        },
-        {
-            "market": "magi",
-            "link": "/items/81064585",
-            "price": 150,
-            "name": "【特価】ムゲンダイナ",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22480",
-            "price": 80,
-            "name": "ムゲンダイナV010",
-            "date": "2022-12-31",
-            "stock": 3
         }
     ]
 }

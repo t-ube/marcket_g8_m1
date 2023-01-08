@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/19556",
             "price": 2200,
             "name": "エーフィV(SR){",
+            "date": "2023-01-08",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32054",
+            "price": 1430,
+            "name": "エーフィV080/0",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20746",
+            "price": 1680,
+            "name": "エーフィV080/0",
+            "date": "2023-01-08",
+            "stock": 56
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19556",
+            "price": 2200,
+            "name": "エーフィV(SR){",
             "date": "2023-01-07",
             "stock": 2
         },
@@ -111,14 +135,6 @@
             "name": "エーフィV080/0",
             "date": "2023-01-01",
             "stock": 20
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20746",
-            "price": 1680,
-            "name": "エーフィV080/0",
-            "date": "2022-12-31",
-            "stock": 21
         }
     ]
 }

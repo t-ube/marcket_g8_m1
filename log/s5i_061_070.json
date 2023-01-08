@@ -5,6 +5,30 @@
             "link": "/items/1257420390",
             "price": 300,
             "name": "あなぬけのヒモ U ",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/19435",
+            "price": 80,
+            "name": "あなぬけのヒモ061",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18113",
+            "price": 180,
+            "name": "あなぬけのヒモ061",
+            "date": "2023-01-08",
+            "stock": 40
+        },
+        {
+            "market": "magi",
+            "link": "/items/1257420390",
+            "price": 300,
+            "name": "あなぬけのヒモ U ",
             "date": "2023-01-07",
             "stock": 1
         },
@@ -127,14 +151,6 @@
             "name": "あなぬけのヒモ061",
             "date": "2023-01-01",
             "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1257420390",
-            "price": 300,
-            "name": "あなぬけのヒモ U ",
-            "date": "2022-12-31",
-            "stock": 1
         }
     ]
 }
