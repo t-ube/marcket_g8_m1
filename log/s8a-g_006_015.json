@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/22893",
             "price": 1300,
             "name": "ピカチュウVMAX(",
+            "date": "2023-01-09",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23857",
+            "price": 1280,
+            "name": "ピカチュウVMAX0",
+            "date": "2023-01-09",
+            "stock": 14
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/22893",
+            "price": 1300,
+            "name": "ピカチュウVMAX(",
             "date": "2023-01-08",
             "stock": 4
         },
@@ -111,14 +127,6 @@
             "name": "ピカチュウVMAX0",
             "date": "2023-01-02",
             "stock": 14
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/22893",
-            "price": 1300,
-            "name": "ピカチュウVMAX(",
-            "date": "2023-01-01",
-            "stock": 7
         }
     ]
 }

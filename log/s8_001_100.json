@@ -5,6 +5,38 @@
             "link": "/items/1145690486",
             "price": 25,
             "name": "キャタピー C 00",
+            "date": "2023-01-09",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20368",
+            "price": 50,
+            "name": "キャタピー(C){草",
+            "date": "2023-01-09",
+            "stock": 23
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22076",
+            "price": 30,
+            "name": "キャタピー001/1",
+            "date": "2023-01-09",
+            "stock": 25
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g001-100-S8-B/",
+            "price": 14,
+            "name": "【ポケカ】Ｃ◇キャタ",
+            "date": "2023-01-09",
+            "stock": 29
+        },
+        {
+            "market": "magi",
+            "link": "/items/1145690486",
+            "price": 25,
+            "name": "キャタピー C 00",
             "date": "2023-01-08",
             "stock": 4
         },
@@ -202,11 +234,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/1820972277",
+            "link": "/items/1218572681",
             "price": 100,
             "name": "キャタピー C 00",
             "date": "2023-01-02",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1145690486",
+            "price": 25,
+            "name": "キャタピー C 00",
+            "date": "2023-01-02",
+            "stock": 4
         },
         {
             "market": "magi",
@@ -218,82 +258,10 @@
         },
         {
             "market": "magi",
-            "link": "/items/1145690486",
-            "price": 25,
-            "name": "キャタピー C 00",
-            "date": "2023-01-02",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1218572681",
-            "price": 100,
-            "name": "キャタピー C 00",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20368",
-            "price": 50,
-            "name": "キャタピー(C){草",
-            "date": "2023-01-02",
-            "stock": 23
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22076",
-            "price": 30,
-            "name": "キャタピー001/1",
-            "date": "2023-01-02",
-            "stock": 25
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g001-100-S8-B/",
-            "price": 14,
-            "name": "【ポケカ】Ｃ◇キャタ",
-            "date": "2023-01-02",
-            "stock": 29
-        },
-        {
-            "market": "magi",
-            "link": "/items/1145690486",
-            "price": 25,
-            "name": "キャタピー C 00",
-            "date": "2023-01-01",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1218572681",
-            "price": 100,
-            "name": "キャタピー C 00",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2098422786",
-            "price": 100,
-            "name": "キャタピー C 00",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/839643600",
-            "price": 100,
-            "name": "キャタピー C 00",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1820972277",
             "price": 100,
             "name": "キャタピー C 00",
-            "date": "2023-01-01",
+            "date": "2023-01-02",
             "stock": 1
         },
         {
@@ -301,7 +269,7 @@
             "link": "https://www.hareruya2.com/product/20368",
             "price": 50,
             "name": "キャタピー(C){草",
-            "date": "2023-01-01",
+            "date": "2023-01-02",
             "stock": 23
         },
         {
@@ -309,7 +277,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/22076",
             "price": 30,
             "name": "キャタピー001/1",
-            "date": "2023-01-01",
+            "date": "2023-01-02",
             "stock": 25
         },
         {
@@ -317,7 +285,7 @@
             "link": "/shop/g/g001-100-S8-B/",
             "price": 14,
             "name": "【ポケカ】Ｃ◇キャタ",
-            "date": "2023-01-01",
+            "date": "2023-01-02",
             "stock": 29
         }
     ]

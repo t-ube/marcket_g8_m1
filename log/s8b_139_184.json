@@ -2,16 +2,96 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/101416441",
-            "price": 760,
+            "link": "/items/1204966570",
+            "price": 100,
             "name": "ふつうのつりざお 1",
-            "date": "2023-01-08",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/357732089",
+            "price": 95,
+            "name": "【4枚セット】ふつう",
+            "date": "2023-01-09",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1383175157",
+            "price": 100,
+            "name": "ふつうのつりざお 1",
+            "date": "2023-01-09",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1911056412",
             "price": 120,
+            "name": "ふつうのつりざお 1",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/101416441",
+            "price": 760,
+            "name": "ふつうのつりざお 1",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21286",
+            "price": 250,
+            "name": "ふつうのつりざお:ミ",
+            "date": "2023-01-09",
+            "stock": 8
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21107",
+            "price": 200,
+            "name": "ふつうのつりざお(C",
+            "date": "2023-01-09",
+            "stock": 92
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32846",
+            "price": 110,
+            "name": "ふつうのつりざお13",
+            "date": "2023-01-09",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22918",
+            "price": 180,
+            "name": "ふつうのつりざお13",
+            "date": "2023-01-09",
+            "stock": 30
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22777",
+            "price": 120,
+            "name": "ふつうのつりざお13",
+            "date": "2023-01-09",
+            "stock": 72
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g139-184-S8B-B/",
+            "price": 132,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2023-01-09",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/101416441",
+            "price": 760,
             "name": "ふつうのつりざお 1",
             "date": "2023-01-08",
             "stock": 1
@@ -31,6 +111,14 @@
             "name": "【4枚セット】ふつう",
             "date": "2023-01-08",
             "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1911056412",
+            "price": 120,
+            "name": "ふつうのつりざお 1",
+            "date": "2023-01-08",
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -50,19 +138,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32846",
-            "price": 110,
-            "name": "ふつうのつりざお13",
-            "date": "2023-01-08",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22918",
             "price": 180,
             "name": "ふつうのつりざお13",
             "date": "2023-01-08",
             "stock": 28
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32846",
+            "price": 110,
+            "name": "ふつうのつりざお13",
+            "date": "2023-01-08",
+            "stock": 3
         },
         {
             "market": "cardrush",
@@ -82,11 +170,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/101416441",
-            "price": 760,
-            "name": "ふつうのつりざお 1",
+            "link": "/items/357732089",
+            "price": 95,
+            "name": "【4枚セット】ふつう",
             "date": "2023-01-07",
-            "stock": 1
+            "stock": 4
         },
         {
             "market": "magi",
@@ -98,11 +186,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/357732089",
-            "price": 95,
-            "name": "【4枚セット】ふつう",
+            "link": "/items/101416441",
+            "price": 760,
+            "name": "ふつうのつりざお 1",
             "date": "2023-01-07",
-            "stock": 4
+            "stock": 1
         },
         {
             "market": "magi",
@@ -114,19 +202,19 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21286",
-            "price": 250,
-            "name": "ふつうのつりざお:ミ",
-            "date": "2023-01-07",
-            "stock": 6
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21107",
             "price": 200,
             "name": "ふつうのつりざお(C",
             "date": "2023-01-07",
             "stock": 51
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21286",
+            "price": 250,
+            "name": "ふつうのつりざお:ミ",
+            "date": "2023-01-07",
+            "stock": 6
         },
         {
             "market": "cardrush",
@@ -218,19 +306,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22918",
-            "price": 180,
-            "name": "ふつうのつりざお13",
-            "date": "2023-01-06",
-            "stock": 28
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22777",
             "price": 120,
             "name": "ふつうのつりざお13",
             "date": "2023-01-06",
             "stock": 78
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22918",
+            "price": 180,
+            "name": "ふつうのつりざお13",
+            "date": "2023-01-06",
+            "stock": 28
         },
         {
             "market": "torecolo",
@@ -271,14 +359,6 @@
             "name": "ふつうのつりざお 1",
             "date": "2023-01-05",
             "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21286",
-            "price": 250,
-            "name": "ふつうのつりざお:ミ",
-            "date": "2023-01-05",
-            "stock": 7
         },
         {
             "market": "hareruya2",
@@ -289,12 +369,20 @@
             "stock": 51
         },
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21286",
+            "price": 250,
+            "name": "ふつうのつりざお:ミ",
+            "date": "2023-01-05",
+            "stock": 7
+        },
+        {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22777",
-            "price": 120,
+            "link": "https://www.cardrush-pokemon.jp/product/32846",
+            "price": 110,
             "name": "ふつうのつりざお13",
             "date": "2023-01-05",
-            "stock": 80
+            "stock": 7
         },
         {
             "market": "cardrush",
@@ -306,11 +394,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32846",
-            "price": 110,
+            "link": "https://www.cardrush-pokemon.jp/product/22777",
+            "price": 120,
             "name": "ふつうのつりざお13",
             "date": "2023-01-05",
-            "stock": 7
+            "stock": 80
         },
         {
             "market": "torecolo",
@@ -322,8 +410,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/101416441",
-            "price": 760,
+            "link": "/items/1911056412",
+            "price": 120,
             "name": "ふつうのつりざお 1",
             "date": "2023-01-04",
             "stock": 1
@@ -338,27 +426,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/357732089",
-            "price": 95,
-            "name": "【4枚セット】ふつう",
-            "date": "2023-01-04",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1911056412",
-            "price": 120,
+            "link": "/items/101416441",
+            "price": 760,
             "name": "ふつうのつりざお 1",
             "date": "2023-01-04",
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21107",
-            "price": 200,
-            "name": "ふつうのつりざお(C",
+            "market": "magi",
+            "link": "/items/357732089",
+            "price": 95,
+            "name": "【4枚セット】ふつう",
             "date": "2023-01-04",
-            "stock": 57
+            "stock": 4
         },
         {
             "market": "hareruya2",
@@ -369,12 +449,12 @@
             "stock": 7
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22777",
-            "price": 120,
-            "name": "ふつうのつりざお13",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21107",
+            "price": 200,
+            "name": "ふつうのつりざお(C",
             "date": "2023-01-04",
-            "stock": 96
+            "stock": 57
         },
         {
             "market": "cardrush",
@@ -383,6 +463,14 @@
             "name": "ふつうのつりざお13",
             "date": "2023-01-04",
             "stock": 28
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/22777",
+            "price": 120,
+            "name": "ふつうのつりざお13",
+            "date": "2023-01-04",
+            "stock": 96
         },
         {
             "market": "cardrush",
@@ -402,6 +490,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1911056412",
+            "price": 120,
+            "name": "ふつうのつりざお 1",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/357732089",
             "price": 95,
             "name": "【4枚セット】ふつう",
@@ -412,14 +508,6 @@
             "market": "magi",
             "link": "/items/101416441",
             "price": 760,
-            "name": "ふつうのつりざお 1",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1911056412",
-            "price": 120,
             "name": "ふつうのつりざお 1",
             "date": "2023-01-03",
             "stock": 1
@@ -450,6 +538,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32846",
+            "price": 110,
+            "name": "ふつうのつりざお13",
+            "date": "2023-01-03",
+            "stock": 11
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/22777",
             "price": 120,
             "name": "ふつうのつりざお13",
@@ -465,36 +561,12 @@
             "stock": 28
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32846",
-            "price": 110,
-            "name": "ふつうのつりざお13",
-            "date": "2023-01-03",
-            "stock": 11
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g139-184-S8B-B/",
             "price": 132,
             "name": "【ポケカ】Ｃ）通常仕",
             "date": "2023-01-03",
             "stock": 5
-        },
-        {
-            "market": "magi",
-            "link": "/items/357732089",
-            "price": 95,
-            "name": "【4枚セット】ふつう",
-            "date": "2023-01-02",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1204966570",
-            "price": 100,
-            "name": "ふつうのつりざお 1",
-            "date": "2023-01-02",
-            "stock": 1
         },
         {
             "market": "magi",
@@ -513,12 +585,20 @@
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21107",
-            "price": 200,
-            "name": "ふつうのつりざお(C",
+            "market": "magi",
+            "link": "/items/1204966570",
+            "price": 100,
+            "name": "ふつうのつりざお 1",
             "date": "2023-01-02",
-            "stock": 70
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/357732089",
+            "price": 95,
+            "name": "【4枚セット】ふつう",
+            "date": "2023-01-02",
+            "stock": 4
         },
         {
             "market": "hareruya2",
@@ -527,6 +607,14 @@
             "name": "ふつうのつりざお:ミ",
             "date": "2023-01-02",
             "stock": 7
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21107",
+            "price": 200,
+            "name": "ふつうのつりざお(C",
+            "date": "2023-01-02",
+            "stock": 70
         },
         {
             "market": "cardrush",
@@ -558,86 +646,6 @@
             "price": 132,
             "name": "【ポケカ】Ｃ）通常仕",
             "date": "2023-01-02",
-            "stock": 11
-        },
-        {
-            "market": "magi",
-            "link": "/items/357732089",
-            "price": 95,
-            "name": "【4枚セット】ふつう",
-            "date": "2023-01-01",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1204966570",
-            "price": 100,
-            "name": "ふつうのつりざお 1",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1911056412",
-            "price": 120,
-            "name": "ふつうのつりざお 1",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/101416441",
-            "price": 760,
-            "name": "ふつうのつりざお 1",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21286",
-            "price": 250,
-            "name": "ふつうのつりざお:ミ",
-            "date": "2023-01-01",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21107",
-            "price": 200,
-            "name": "ふつうのつりざお(C",
-            "date": "2023-01-01",
-            "stock": 50
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32846",
-            "price": 110,
-            "name": "ふつうのつりざお13",
-            "date": "2023-01-01",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22918",
-            "price": 180,
-            "name": "ふつうのつりざお13",
-            "date": "2023-01-01",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/22777",
-            "price": 120,
-            "name": "ふつうのつりざお13",
-            "date": "2023-01-01",
-            "stock": 3
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g139-184-S8B-B/",
-            "price": 132,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2023-01-01",
             "stock": 11
         }
     ]

@@ -2,10 +2,18 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1118130055",
+            "price": 6200,
+            "name": "キバナ SR 077",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1911006115",
             "price": 4494,
             "name": "キバナ【SR】{07",
-            "date": "2023-01-08",
+            "date": "2023-01-09",
             "stock": 1
         },
         {
@@ -13,6 +21,38 @@
             "link": "/items/911870685",
             "price": 9980,
             "name": "キバナ SR 077",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19886",
+            "price": 5000,
+            "name": "キバナ(SR){サポ",
+            "date": "2023-01-09",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21454",
+            "price": 4280,
+            "name": "キバナ077/067",
+            "date": "2023-01-09",
+            "stock": 28
+        },
+        {
+            "market": "magi",
+            "link": "/items/911870685",
+            "price": 9980,
+            "name": "キバナ SR 077",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1911006115",
+            "price": 4494,
+            "name": "キバナ【SR】{07",
             "date": "2023-01-08",
             "stock": 1
         },
@@ -162,17 +202,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1911006115",
-            "price": 4494,
-            "name": "キバナ【SR】{07",
+            "link": "/items/911870685",
+            "price": 9980,
+            "name": "キバナ SR 077",
             "date": "2023-01-03",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/911870685",
-            "price": 9980,
-            "name": "キバナ SR 077",
+            "link": "/items/1911006115",
+            "price": 4494,
+            "name": "キバナ【SR】{07",
             "date": "2023-01-03",
             "stock": 1
         },
@@ -194,17 +234,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1911006115",
-            "price": 4494,
-            "name": "キバナ【SR】{07",
+            "link": "/items/911870685",
+            "price": 9980,
+            "name": "キバナ SR 077",
             "date": "2023-01-02",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/911870685",
-            "price": 9980,
-            "name": "キバナ SR 077",
+            "link": "/items/1911006115",
+            "price": 4494,
+            "name": "キバナ【SR】{07",
             "date": "2023-01-02",
             "stock": 1
         },
@@ -222,38 +262,6 @@
             "price": 4280,
             "name": "キバナ077/067",
             "date": "2023-01-02",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/911870685",
-            "price": 9980,
-            "name": "キバナ SR 077",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1911006115",
-            "price": 4494,
-            "name": "キバナ【SR】{07",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19886",
-            "price": 5000,
-            "name": "キバナ(SR){サポ",
-            "date": "2023-01-01",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21454",
-            "price": 4280,
-            "name": "キバナ077/067",
-            "date": "2023-01-01",
             "stock": 2
         }
     ]

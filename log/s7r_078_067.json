@@ -5,6 +5,38 @@
             "link": "/items/1802258570",
             "price": 700,
             "name": "スクールボーイ SR",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32398",
+            "price": 680,
+            "name": "スクールボーイ078",
+            "date": "2023-01-09",
+            "stock": 17
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21478",
+            "price": 780,
+            "name": "スクールボーイ078",
+            "date": "2023-01-09",
+            "stock": 66
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g078-067-S7R-B/",
+            "price": 660,
+            "name": "【ポケカ】ＳＲ◇スク",
+            "date": "2023-01-09",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1802258570",
+            "price": 700,
+            "name": "スクールボーイ SR",
             "date": "2023-01-08",
             "stock": 1
         },
@@ -74,19 +106,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32398",
-            "price": 680,
-            "name": "スクールボーイ078",
-            "date": "2023-01-06",
-            "stock": 16
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21478",
             "price": 780,
             "name": "スクールボーイ078",
             "date": "2023-01-06",
             "stock": 63
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32398",
+            "price": 680,
+            "name": "スクールボーイ078",
+            "date": "2023-01-06",
+            "stock": 16
         },
         {
             "market": "torecolo",
@@ -135,14 +167,6 @@
             "name": "スクールボーイ SR",
             "date": "2023-01-04",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32398",
-            "price": 680,
-            "name": "スクールボーイ078",
-            "date": "2023-01-04",
-            "stock": 16
         },
         {
             "market": "cardrush",
@@ -153,6 +177,14 @@
             "stock": 61
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32398",
+            "price": 680,
+            "name": "スクールボーイ078",
+            "date": "2023-01-04",
+            "stock": 16
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g078-067-S7R-B/",
             "price": 660,
@@ -170,14 +202,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21478",
-            "price": 780,
-            "name": "スクールボーイ078",
-            "date": "2023-01-03",
-            "stock": 57
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32398",
             "price": 680,
             "name": "スクールボーイ078",
@@ -185,6 +209,14 @@
             "stock": 16
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21478",
+            "price": 780,
+            "name": "スクールボーイ078",
+            "date": "2023-01-03",
+            "stock": 57
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g078-067-S7R-B/",
             "price": 660,
@@ -202,14 +234,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32398",
-            "price": 680,
-            "name": "スクールボーイ078",
-            "date": "2023-01-02",
-            "stock": 14
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21478",
             "price": 780,
             "name": "スクールボーイ078",
@@ -217,35 +241,11 @@
             "stock": 44
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g078-067-S7R-B/",
-            "price": 660,
-            "name": "【ポケカ】ＳＲ◇スク",
-            "date": "2023-01-02",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/1802258570",
-            "price": 700,
-            "name": "スクールボーイ SR",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21478",
-            "price": 780,
-            "name": "スクールボーイ078",
-            "date": "2023-01-01",
-            "stock": 44
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32398",
             "price": 680,
             "name": "スクールボーイ078",
-            "date": "2023-01-01",
+            "date": "2023-01-02",
             "stock": 14
         },
         {
@@ -253,7 +253,7 @@
             "link": "/shop/g/g078-067-S7R-B/",
             "price": 660,
             "name": "【ポケカ】ＳＲ◇スク",
-            "date": "2023-01-01",
+            "date": "2023-01-02",
             "stock": 3
         }
     ]

@@ -5,6 +5,22 @@
             "link": "/items/647375976",
             "price": 1350,
             "name": "ゼラオラV CSR ",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23003",
+            "price": 1580,
+            "name": "ゼラオラV224/1",
+            "date": "2023-01-09",
+            "stock": 132
+        },
+        {
+            "market": "magi",
+            "link": "/items/647375976",
+            "price": 1350,
+            "name": "ゼラオラV CSR ",
             "date": "2023-01-08",
             "stock": 1
         },
@@ -58,19 +74,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23096",
-            "price": 1330,
-            "name": "ゼラオラV224/1",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23003",
             "price": 1580,
             "name": "ゼラオラV224/1",
             "date": "2023-01-05",
             "stock": 122
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23096",
+            "price": 1330,
+            "name": "ゼラオラV224/1",
+            "date": "2023-01-05",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -82,19 +98,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23003",
-            "price": 1580,
-            "name": "ゼラオラV224/1",
-            "date": "2023-01-04",
-            "stock": 102
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23096",
             "price": 1330,
             "name": "ゼラオラV224/1",
             "date": "2023-01-04",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23003",
+            "price": 1580,
+            "name": "ゼラオラV224/1",
+            "date": "2023-01-04",
+            "stock": 102
         },
         {
             "market": "cardrush",
@@ -111,14 +127,6 @@
             "name": "ゼラオラV224/1",
             "date": "2023-01-02",
             "stock": 85
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23003",
-            "price": 1580,
-            "name": "ゼラオラV224/1",
-            "date": "2023-01-01",
-            "stock": 88
         }
     ]
 }

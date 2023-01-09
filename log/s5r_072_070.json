@@ -5,6 +5,38 @@
             "link": "https://www.hareruya2.com/product/19085",
             "price": 800,
             "name": "ビクティニV(SR)",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18357",
+            "price": 480,
+            "name": "ビクティニV072/",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31199",
+            "price": 680,
+            "name": "ビクティニV072/",
+            "date": "2023-01-09",
+            "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18252",
+            "price": 780,
+            "name": "ビクティニV072/",
+            "date": "2023-01-09",
+            "stock": 19
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19085",
+            "price": 800,
+            "name": "ビクティニV(SR)",
             "date": "2023-01-08",
             "stock": 1
         },
@@ -90,19 +122,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18252",
-            "price": 780,
-            "name": "ビクティニV072/",
-            "date": "2023-01-05",
-            "stock": 19
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31199",
             "price": 680,
             "name": "ビクティニV072/",
             "date": "2023-01-05",
             "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18252",
+            "price": 780,
+            "name": "ビクティニV072/",
+            "date": "2023-01-05",
+            "stock": 19
         },
         {
             "market": "hareruya2",
@@ -138,6 +170,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31199",
+            "price": 680,
+            "name": "ビクティニV072/",
+            "date": "2023-01-03",
+            "stock": 9
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/18252",
             "price": 780,
             "name": "ビクティニV072/",
@@ -145,14 +185,6 @@
             "stock": 12
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31199",
-            "price": 680,
-            "name": "ビクティニV072/",
-            "date": "2023-01-03",
-            "stock": 9
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19085",
             "price": 800,
@@ -175,30 +207,6 @@
             "name": "ビクティニV072/",
             "date": "2023-01-02",
             "stock": 9
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19085",
-            "price": 800,
-            "name": "ビクティニV(SR)",
-            "date": "2023-01-01",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31199",
-            "price": 680,
-            "name": "ビクティニV072/",
-            "date": "2023-01-01",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18252",
-            "price": 780,
-            "name": "ビクティニV072/",
-            "date": "2023-01-01",
-            "stock": 11
         }
     ]
 }

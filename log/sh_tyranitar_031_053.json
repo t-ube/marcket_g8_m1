@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/19832",
             "price": 100,
             "name": "バンギラスV(-){",
+            "date": "2023-01-09",
+            "stock": 68
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21406",
+            "price": 120,
+            "name": "バンギラスV031/",
+            "date": "2023-01-09",
+            "stock": 102
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19832",
+            "price": 100,
+            "name": "バンギラスV(-){",
             "date": "2023-01-08",
             "stock": 68
         },
@@ -111,22 +127,6 @@
             "name": "バンギラスV031/",
             "date": "2023-01-02",
             "stock": 102
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19832",
-            "price": 100,
-            "name": "バンギラスV(-){",
-            "date": "2023-01-01",
-            "stock": 68
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21406",
-            "price": 120,
-            "name": "バンギラスV031/",
-            "date": "2023-01-01",
-            "stock": 101
         }
     ]
 }
