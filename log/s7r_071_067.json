@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/19857",
             "price": 1000,
             "name": "チャーレムV(SR)",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21471",
+            "price": 780,
+            "name": "チャーレムV071/",
+            "date": "2023-01-10",
+            "stock": 31
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19857",
+            "price": 1000,
+            "name": "チャーレムV(SR)",
             "date": "2023-01-09",
             "stock": 1
         },
@@ -55,6 +71,14 @@
             "name": "チャーレムV(SR)",
             "date": "2023-01-07",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21471",
+            "price": 780,
+            "name": "チャーレムV071/",
+            "date": "2023-01-07",
+            "stock": 31
         },
         {
             "market": "cardrush",
@@ -63,14 +87,6 @@
             "name": "チャーレムV071/",
             "date": "2023-01-07",
             "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21471",
-            "price": 780,
-            "name": "チャーレムV071/",
-            "date": "2023-01-07",
-            "stock": 31
         },
         {
             "market": "hareruya2",
@@ -127,6 +143,14 @@
             "name": "チャーレムV(SR)",
             "date": "2023-01-04",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32391",
+            "price": 680,
+            "name": "チャーレムV071/",
+            "date": "2023-01-04",
+            "stock": 2
         },
         {
             "market": "cardrush",
@@ -135,14 +159,6 @@
             "name": "チャーレムV071/",
             "date": "2023-01-04",
             "stock": 25
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32391",
-            "price": 680,
-            "name": "チャーレムV071/",
-            "date": "2023-01-04",
-            "stock": 2
         },
         {
             "market": "hareruya2",
@@ -167,22 +183,6 @@
             "name": "チャーレムV071/",
             "date": "2023-01-03",
             "stock": 23
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19857",
-            "price": 1000,
-            "name": "チャーレムV(SR)",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21471",
-            "price": 780,
-            "name": "チャーレムV071/",
-            "date": "2023-01-02",
-            "stock": 21
         }
     ]
 }

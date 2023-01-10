@@ -2,6 +2,54 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1842956829",
+            "price": 9900,
+            "name": "ゼラオラV SR 0",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1073860988",
+            "price": 10479,
+            "name": "ゼラオラV(SA)【",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/775846719",
+            "price": 8694,
+            "name": "〔状態A-〕ゼラオラ",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19402",
+            "price": 10000,
+            "name": "ゼラオラV:SA(S",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20171",
+            "price": 9980,
+            "name": "ゼラオラV074/0",
+            "date": "2023-01-10",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31904",
+            "price": 8280,
+            "name": "ゼラオラV074/0",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/775846719",
             "price": 8694,
             "name": "〔状態A-〕ゼラオラ",
@@ -26,19 +74,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31904",
-            "price": 8280,
-            "name": "ゼラオラV074/0",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20171",
             "price": 9980,
             "name": "ゼラオラV074/0",
             "date": "2023-01-09",
             "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31904",
+            "price": 8280,
+            "name": "ゼラオラV074/0",
+            "date": "2023-01-09",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -178,14 +226,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20171",
-            "price": 9980,
-            "name": "ゼラオラV074/0",
-            "date": "2023-01-03",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31904",
             "price": 8280,
             "name": "ゼラオラV074/0",
@@ -193,43 +233,11 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/1969474987",
-            "price": 10479,
-            "name": "ゼラオラV(SA)【",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/608162699",
-            "price": 8694,
-            "name": "〔状態A-〕ゼラオラ",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19402",
-            "price": 10000,
-            "name": "ゼラオラV:SA(S",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31904",
-            "price": 8280,
-            "name": "ゼラオラV074/0",
-            "date": "2023-01-02",
-            "stock": 3
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20171",
             "price": 9980,
             "name": "ゼラオラV074/0",
-            "date": "2023-01-02",
+            "date": "2023-01-03",
             "stock": 10
         }
     ]

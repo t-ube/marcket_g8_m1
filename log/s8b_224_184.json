@@ -2,6 +2,38 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1578703278",
+            "price": 1500,
+            "name": "ゼラオラV CSR ",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1909425531",
+            "price": 1200,
+            "name": "ゼラオラV CSR ",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/647375976",
+            "price": 1350,
+            "name": "ゼラオラV CSR ",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23003",
+            "price": 1580,
+            "name": "ゼラオラV224/1",
+            "date": "2023-01-10",
+            "stock": 131
+        },
+        {
+            "market": "magi",
             "link": "/items/647375976",
             "price": 1350,
             "name": "ゼラオラV CSR ",
@@ -119,14 +151,6 @@
             "name": "ゼラオラV224/1",
             "date": "2023-01-03",
             "stock": 98
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23003",
-            "price": 1580,
-            "name": "ゼラオラV224/1",
-            "date": "2023-01-02",
-            "stock": 85
         }
     ]
 }

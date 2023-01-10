@@ -5,6 +5,22 @@
             "link": "/items/1751797864",
             "price": 165,
             "name": "【4枚セット】しんか",
+            "date": "2023-01-10",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21270",
+            "price": 220,
+            "name": "しんかのおこう057",
+            "date": "2023-01-10",
+            "stock": 205
+        },
+        {
+            "market": "magi",
+            "link": "/items/1751797864",
+            "price": 165,
+            "name": "【4枚セット】しんか",
             "date": "2023-01-09",
             "stock": 4
         },
@@ -138,19 +154,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32249",
-            "price": 200,
-            "name": "しんかのおこう057",
-            "date": "2023-01-04",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21270",
             "price": 220,
             "name": "しんかのおこう057",
             "date": "2023-01-04",
             "stock": 199
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32249",
+            "price": 200,
+            "name": "しんかのおこう057",
+            "date": "2023-01-04",
+            "stock": 10
         },
         {
             "market": "torecolo",
@@ -182,30 +198,6 @@
             "price": 220,
             "name": "【ポケカ】Ｕ◇しんか",
             "date": "2023-01-03",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/1751797864",
-            "price": 165,
-            "name": "【4枚セット】しんか",
-            "date": "2023-01-02",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21270",
-            "price": 220,
-            "name": "しんかのおこう057",
-            "date": "2023-01-02",
-            "stock": 134
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g057-067-S7D-B/",
-            "price": 220,
-            "name": "【ポケカ】Ｕ◇しんか",
-            "date": "2023-01-02",
             "stock": 3
         }
     ]

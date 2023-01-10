@@ -5,6 +5,30 @@
             "link": "/items/1080844337",
             "price": 1298,
             "name": "フヨウ 087/07",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19009",
+            "price": 1300,
+            "name": "フヨウ(HR){サポ",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18247",
+            "price": 1180,
+            "name": "フヨウ087/070",
+            "date": "2023-01-10",
+            "stock": 8
+        },
+        {
+            "market": "magi",
+            "link": "/items/1080844337",
+            "price": 1298,
+            "name": "フヨウ 087/07",
             "date": "2023-01-09",
             "stock": 1
         },
@@ -66,14 +90,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31194",
-            "price": 990,
-            "name": "フヨウ087/070",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/18247",
             "price": 1180,
             "name": "フヨウ087/070",
@@ -81,6 +97,14 @@
             "stock": 8
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31194",
+            "price": 990,
+            "name": "フヨウ087/070",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
             "market": "magi",
             "link": "/items/1080844337",
             "price": 1298,
@@ -98,19 +122,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18247",
-            "price": 1180,
-            "name": "フヨウ087/070",
-            "date": "2023-01-06",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31194",
             "price": 990,
             "name": "フヨウ087/070",
             "date": "2023-01-06",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/18247",
+            "price": 1180,
+            "name": "フヨウ087/070",
+            "date": "2023-01-06",
+            "stock": 8
         },
         {
             "market": "magi",
@@ -130,19 +154,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31194",
-            "price": 990,
-            "name": "フヨウ087/070",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/18247",
             "price": 1180,
             "name": "フヨウ087/070",
             "date": "2023-01-05",
             "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31194",
+            "price": 990,
+            "name": "フヨウ087/070",
+            "date": "2023-01-05",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -194,14 +218,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18247",
-            "price": 1180,
-            "name": "フヨウ087/070",
-            "date": "2023-01-03",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31194",
             "price": 990,
             "name": "フヨウ087/070",
@@ -209,27 +225,11 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/1080844337",
-            "price": 1298,
-            "name": "フヨウ 087/07",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19009",
-            "price": 1300,
-            "name": "フヨウ(HR){サポ",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/18247",
             "price": 1180,
             "name": "フヨウ087/070",
-            "date": "2023-01-02",
+            "date": "2023-01-03",
             "stock": 8
         }
     ]

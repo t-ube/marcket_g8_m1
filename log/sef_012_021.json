@@ -1,6 +1,38 @@
 ﻿{
     "items": [
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33644",
+            "price": 320,
+            "name": "クイックボール012",
+            "date": "2023-01-10",
+            "stock": 79
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17799",
+            "price": 320,
+            "name": "クイックボール012",
+            "date": "2023-01-10",
+            "stock": 61
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g012-021-SEF-G/",
+            "price": 440,
+            "name": "【ポケカ】ＳＳ◇クイ",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g012-021-SLL-R/",
+            "price": 440,
+            "name": "【ポケカ】ＳＳ◇クイ",
+            "date": "2023-01-10",
+            "stock": 7
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/22781",
             "price": 400,
@@ -122,14 +154,6 @@
         },
         {
             "market": "torecolo",
-            "link": "/shop/g/g012-021-SEF-G/",
-            "price": 440,
-            "name": "【ポケカ】ＳＳ◇クイ",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "torecolo",
             "link": "/shop/g/g012-021-SLL-R/",
             "price": 440,
             "name": "【ポケカ】ＳＳ◇クイ",
@@ -137,20 +161,12 @@
             "stock": 7
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33644",
-            "price": 320,
-            "name": "クイックボール012",
-            "date": "2023-01-06",
-            "stock": 80
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17799",
-            "price": 320,
-            "name": "クイックボール012",
-            "date": "2023-01-06",
-            "stock": 57
+            "market": "torecolo",
+            "link": "/shop/g/g012-021-SEF-G/",
+            "price": 440,
+            "name": "【ポケカ】ＳＳ◇クイ",
+            "date": "2023-01-07",
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -161,12 +177,20 @@
             "stock": 6
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g012-021-SLL-R/",
-            "price": 440,
-            "name": "【ポケカ】ＳＳ◇クイ",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17799",
+            "price": 320,
+            "name": "クイックボール012",
             "date": "2023-01-06",
-            "stock": 7
+            "stock": 57
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33644",
+            "price": 320,
+            "name": "クイックボール012",
+            "date": "2023-01-06",
+            "stock": 80
         },
         {
             "market": "torecolo",
@@ -177,12 +201,12 @@
             "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30963",
-            "price": 300,
-            "name": "クイックボール012",
-            "date": "2023-01-05",
-            "stock": 5
+            "market": "torecolo",
+            "link": "/shop/g/g012-021-SLL-R/",
+            "price": 440,
+            "name": "【ポケカ】ＳＳ◇クイ",
+            "date": "2023-01-06",
+            "stock": 7
         },
         {
             "market": "cardrush",
@@ -191,6 +215,14 @@
             "name": "クイックボール012",
             "date": "2023-01-05",
             "stock": 57
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30963",
+            "price": 300,
+            "name": "クイックボール012",
+            "date": "2023-01-05",
+            "stock": 5
         },
         {
             "market": "cardrush",
@@ -202,19 +234,19 @@
         },
         {
             "market": "torecolo",
-            "link": "/shop/g/g012-021-SEF-G/",
-            "price": 440,
-            "name": "【ポケカ】ＳＳ◇クイ",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "torecolo",
             "link": "/shop/g/g012-021-SLL-R/",
             "price": 440,
             "name": "【ポケカ】ＳＳ◇クイ",
             "date": "2023-01-05",
             "stock": 7
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g012-021-SEF-G/",
+            "price": 440,
+            "name": "【ポケカ】ＳＳ◇クイ",
+            "date": "2023-01-05",
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -226,19 +258,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17799",
-            "price": 320,
-            "name": "クイックボール012",
-            "date": "2023-01-04",
-            "stock": 56
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33644",
             "price": 320,
             "name": "クイックボール012",
             "date": "2023-01-04",
             "stock": 100
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17799",
+            "price": 320,
+            "name": "クイックボール012",
+            "date": "2023-01-04",
+            "stock": 56
         },
         {
             "market": "torecolo",
@@ -255,14 +287,6 @@
             "name": "【ポケカ】ＳＳ◇クイ",
             "date": "2023-01-04",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33644",
-            "price": 320,
-            "name": "クイックボール012",
-            "date": "2023-01-03",
-            "stock": 102
         },
         {
             "market": "cardrush",
@@ -273,43 +297,19 @@
             "stock": 55
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g012-021-SLL-R/",
-            "price": 440,
-            "name": "【ポケカ】ＳＳ◇クイ",
-            "date": "2023-01-03",
-            "stock": 7
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g012-021-SEF-G/",
-            "price": 440,
-            "name": "【ポケカ】ＳＳ◇クイ",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17799",
-            "price": 320,
-            "name": "クイックボール012",
-            "date": "2023-01-02",
-            "stock": 41
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33644",
             "price": 320,
             "name": "クイックボール012",
-            "date": "2023-01-02",
-            "stock": 26
+            "date": "2023-01-03",
+            "stock": 102
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g012-021-SEF-G/",
             "price": 440,
             "name": "【ポケカ】ＳＳ◇クイ",
-            "date": "2023-01-02",
+            "date": "2023-01-03",
             "stock": 1
         },
         {
@@ -317,7 +317,7 @@
             "link": "/shop/g/g012-021-SLL-R/",
             "price": 440,
             "name": "【ポケカ】ＳＳ◇クイ",
-            "date": "2023-01-02",
+            "date": "2023-01-03",
             "stock": 7
         }
     ]

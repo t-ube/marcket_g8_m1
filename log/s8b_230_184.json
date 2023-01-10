@@ -2,10 +2,18 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1189147488",
+            "price": 700,
+            "name": "ガラルフリーザーV ",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1180994621",
             "price": 700,
             "name": "ガラルフリーザーV ",
-            "date": "2023-01-09",
+            "date": "2023-01-10",
             "stock": 1
         },
         {
@@ -13,6 +21,54 @@
             "link": "/items/85665163",
             "price": 800,
             "name": "ガラルフリーザーV(",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1607306973",
+            "price": 777,
+            "name": "ガラルフリーザーV ",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21374",
+            "price": 800,
+            "name": "ガラルフリーザーV(",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23006",
+            "price": 880,
+            "name": "ガラルフリーザーV2",
+            "date": "2023-01-10",
+            "stock": 144
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23099",
+            "price": 730,
+            "name": "ガラルフリーザーV2",
+            "date": "2023-01-10",
+            "stock": 17
+        },
+        {
+            "market": "magi",
+            "link": "/items/85665163",
+            "price": 800,
+            "name": "ガラルフリーザーV(",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1180994621",
+            "price": 700,
+            "name": "ガラルフリーザーV ",
             "date": "2023-01-09",
             "stock": 1
         },
@@ -82,14 +138,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23006",
-            "price": 880,
-            "name": "ガラルフリーザーV2",
-            "date": "2023-01-08",
-            "stock": 136
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23099",
             "price": 730,
             "name": "ガラルフリーザーV2",
@@ -97,18 +145,26 @@
             "stock": 18
         },
         {
-            "market": "magi",
-            "link": "/items/1607306973",
-            "price": 777,
-            "name": "ガラルフリーザーV ",
-            "date": "2023-01-07",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23006",
+            "price": 880,
+            "name": "ガラルフリーザーV2",
+            "date": "2023-01-08",
+            "stock": 136
         },
         {
             "market": "magi",
             "link": "/items/85665163",
             "price": 800,
             "name": "ガラルフリーザーV(",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1607306973",
+            "price": 777,
+            "name": "ガラルフリーザーV ",
             "date": "2023-01-07",
             "stock": 1
         },
@@ -178,17 +234,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1607306973",
-            "price": 777,
-            "name": "ガラルフリーザーV ",
+            "link": "/items/85665163",
+            "price": 800,
+            "name": "ガラルフリーザーV(",
             "date": "2023-01-05",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/85665163",
-            "price": 800,
-            "name": "ガラルフリーザーV(",
+            "link": "/items/1607306973",
+            "price": 777,
+            "name": "ガラルフリーザーV ",
             "date": "2023-01-05",
             "stock": 1
         },
@@ -199,14 +255,6 @@
             "name": "ガラルフリーザーV(",
             "date": "2023-01-05",
             "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23099",
-            "price": 730,
-            "name": "ガラルフリーザーV2",
-            "date": "2023-01-05",
-            "stock": 18
         },
         {
             "market": "cardrush",
@@ -217,12 +265,12 @@
             "stock": 131
         },
         {
-            "market": "magi",
-            "link": "/items/1607306973",
-            "price": 777,
-            "name": "ガラルフリーザーV ",
-            "date": "2023-01-04",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23099",
+            "price": 730,
+            "name": "ガラルフリーザーV2",
+            "date": "2023-01-05",
+            "stock": 18
         },
         {
             "market": "magi",
@@ -233,20 +281,20 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/1607306973",
+            "price": 777,
+            "name": "ガラルフリーザーV ",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21374",
             "price": 800,
             "name": "ガラルフリーザーV(",
             "date": "2023-01-04",
             "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23099",
-            "price": 730,
-            "name": "ガラルフリーザーV2",
-            "date": "2023-01-04",
-            "stock": 19
         },
         {
             "market": "cardrush",
@@ -257,12 +305,12 @@
             "stock": 118
         },
         {
-            "market": "magi",
-            "link": "/items/85665163",
-            "price": 800,
-            "name": "ガラルフリーザーV(",
-            "date": "2023-01-03",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23099",
+            "price": 730,
+            "name": "ガラルフリーザーV2",
+            "date": "2023-01-04",
+            "stock": 19
         },
         {
             "market": "magi",
@@ -273,20 +321,20 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/85665163",
+            "price": 800,
+            "name": "ガラルフリーザーV(",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/21374",
             "price": 800,
             "name": "ガラルフリーザーV(",
             "date": "2023-01-03",
             "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23099",
-            "price": 730,
-            "name": "ガラルフリーザーV2",
-            "date": "2023-01-03",
-            "stock": 19
         },
         {
             "market": "cardrush",
@@ -297,44 +345,12 @@
             "stock": 111
         },
         {
-            "market": "magi",
-            "link": "/items/1607306973",
-            "price": 777,
-            "name": "ガラルフリーザーV ",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/85665163",
-            "price": 800,
-            "name": "ガラルフリーザーV(",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21374",
-            "price": 800,
-            "name": "ガラルフリーザーV(",
-            "date": "2023-01-02",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23006",
-            "price": 880,
-            "name": "ガラルフリーザーV2",
-            "date": "2023-01-02",
-            "stock": 83
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23099",
             "price": 730,
             "name": "ガラルフリーザーV2",
-            "date": "2023-01-02",
-            "stock": 17
+            "date": "2023-01-03",
+            "stock": 19
         }
     ]
 }

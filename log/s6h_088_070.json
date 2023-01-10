@@ -1,6 +1,14 @@
 ﻿{
     "items": [
         {
+            "market": "torecolo",
+            "link": "/shop/g/g088-070-S6H-B/",
+            "price": 1320,
+            "name": "【ポケカ】ＨＲ◇アス",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20208",
             "price": 1180,
@@ -103,14 +111,6 @@
             "name": "アスナ088/070",
             "date": "2023-01-03",
             "stock": 20
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20208",
-            "price": 1180,
-            "name": "アスナ088/070",
-            "date": "2023-01-02",
-            "stock": 18
         }
     ]
 }

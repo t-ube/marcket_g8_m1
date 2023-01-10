@@ -1,6 +1,22 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19550",
+            "price": 2000,
+            "name": "シャワーズV(SR)",
+            "date": "2023-01-10",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20740",
+            "price": 1780,
+            "name": "シャワーズV074/",
+            "date": "2023-01-10",
+            "stock": 64
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20740",
             "price": 1780,
@@ -34,6 +50,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20740",
+            "price": 1780,
+            "name": "シャワーズV074/",
+            "date": "2023-01-05",
+            "stock": 43
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/32048",
             "price": 1530,
             "name": "シャワーズV074/",
@@ -42,11 +66,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20740",
-            "price": 1780,
+            "link": "https://www.cardrush-pokemon.jp/product/32048",
+            "price": 1530,
             "name": "シャワーズV074/",
-            "date": "2023-01-05",
-            "stock": 43
+            "date": "2023-01-04",
+            "stock": 5
         },
         {
             "market": "cardrush",
@@ -61,7 +85,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/32048",
             "price": 1530,
             "name": "シャワーズV074/",
-            "date": "2023-01-04",
+            "date": "2023-01-03",
             "stock": 5
         },
         {
@@ -71,30 +95,6 @@
             "name": "シャワーズV074/",
             "date": "2023-01-03",
             "stock": 23
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32048",
-            "price": 1530,
-            "name": "シャワーズV074/",
-            "date": "2023-01-03",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20740",
-            "price": 1780,
-            "name": "シャワーズV074/",
-            "date": "2023-01-02",
-            "stock": 18
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32048",
-            "price": 1530,
-            "name": "シャワーズV074/",
-            "date": "2023-01-02",
-            "stock": 3
         }
     ]
 }

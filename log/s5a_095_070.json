@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/19232",
             "price": 2000,
             "name": "活力の壺(UR){グ",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/19012",
+            "price": 1980,
+            "name": "活力の壺095/07",
+            "date": "2023-01-10",
+            "stock": 18
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19232",
+            "price": 2000,
+            "name": "活力の壺(UR){グ",
             "date": "2023-01-09",
             "stock": 1
         },
@@ -90,19 +106,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31611",
-            "price": 1680,
-            "name": "活力の壺095/07",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/19012",
             "price": 1980,
             "name": "活力の壺095/07",
             "date": "2023-01-04",
             "stock": 17
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31611",
+            "price": 1680,
+            "name": "活力の壺095/07",
+            "date": "2023-01-04",
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -114,26 +130,10 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/19012",
-            "price": 1980,
-            "name": "活力の壺095/07",
-            "date": "2023-01-03",
-            "stock": 17
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31611",
             "price": 1680,
             "name": "活力の壺095/07",
             "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19232",
-            "price": 2000,
-            "name": "活力の壺(UR){グ",
-            "date": "2023-01-02",
             "stock": 1
         },
         {
@@ -141,16 +141,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/19012",
             "price": 1980,
             "name": "活力の壺095/07",
-            "date": "2023-01-02",
-            "stock": 16
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31611",
-            "price": 1680,
-            "name": "活力の壺095/07",
-            "date": "2023-01-02",
-            "stock": 1
+            "date": "2023-01-03",
+            "stock": 17
         }
     ]
 }
