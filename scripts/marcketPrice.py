@@ -22,6 +22,9 @@ class priceDaily():
             "max": None
         }
 
+    def get(self):
+        return self.data
+
     def isDescribeData(self,desc):
         if 'min' not in desc:
             return False
@@ -50,6 +53,65 @@ class priceDaily():
             return None
         return value
 
+    def validate(self):
+        if self.data['count'] == float('inf'): return False
+        if self.data['mean'] == float('inf'): return False
+        if self.data['std'] == float('inf'): return False
+        if self.data['min'] == float('inf'): return False
+        if self.data['25%'] == float('inf'): return False
+        if self.data['50%'] == float('inf'): return False
+        if self.data['75%'] == float('inf'): return False
+        if self.data['max'] == float('inf'): return False
+        return True
+
+    def inf2zero(self):
+        if self.data['count'] == float('inf'): self.data['count'] = 0.0
+        if self.data['mean'] == float('inf'): self.data['mean'] = 0.0
+        if self.data['std'] == float('inf'): self.data['std'] = 0.0
+        if self.data['min'] == float('inf'): self.data['min'] = 0.0
+        if self.data['25%'] == float('inf'): self.data['25%'] = 0.0
+        if self.data['50%'] == float('inf'): self.data['50%'] = 0.0
+        if self.data['75%'] == float('inf'): self.data['75%'] = 0.0
+        if self.data['max'] == float('inf'): self.data['max'] = 0.0
+
+# 価格データの詳細
+class priceVolatilityDetails():
+    def __init__(self):
+        self.data = {
+            "basePrice": None,
+            "latestPrice": None,
+            "percent": None,
+        }
+
+    def set(self,base,latest,percent):
+        self.data = {
+            "basePrice": base,
+            "latestPrice": latest,
+            "percent": percent,
+        }
+
+    def get(self):
+        return self.data
+
+    def setDict(self,dict):
+        self.data = {
+            "basePrice": dict["basePrice"],
+            "latestPrice": dict["latestPrice"],
+            "percent": dict["percent"],
+        }
+
+    def validate(self):
+        if self.data['basePrice'] == float('inf'): return False
+        if self.data['latestPrice'] == float('inf'): return False
+        if self.data['percent'] == float('inf'): return False
+        return True
+
+    def inf2zero(self):
+        if self.data['basePrice'] == float('inf'): self.data['basePrice'] = 0.0
+        if self.data['latestPrice'] == float('inf'): self.data['latestPrice'] = 0.0
+        if self.data['percent'] == float('inf'): self.data['percent'] = 0.0
+
+
 # 価格データ
 class priceVolatility():
     def __init__(self):
@@ -57,6 +119,48 @@ class priceVolatility():
             "weekly": None,
             "daily": None,
         }
+
+    def set(self,_data):
+        self.data = _data
+
+    def get(self):
+        return self.data
+
+    def filterInf(self,data):
+        if data == float('inf'):
+            return 0.0
+        return data
+
+    def validate(self):
+        detail = priceVolatilityDetails()
+        detail.setDict(self.data["weekly"]["min"])
+        if detail.validate() == False: return False
+        detail.setDict(self.data["weekly"]["50%"])
+        if detail.validate() == False: return False
+        detail.setDict(self.data["daily"]["min"])
+        if detail.validate() == False: return False
+        detail.setDict(self.data["daily"]["50%"])
+        if detail.validate() == False: return False
+        return True
+
+    def inf2zero(self):
+        detail = priceVolatilityDetails()
+        detail.setDict(self.data["weekly"]["min"])
+        if detail.validate() == False:
+            detail.inf2zero()
+            self.data["weekly"]["min"] = detail.get()
+        detail.setDict(self.data["weekly"]["50%"])
+        if detail.validate() == False:
+            detail.inf2zero()
+            self.data["weekly"]["50%"] = detail.get()
+        detail.setDict(self.data["daily"]["min"])
+        if detail.validate() == False:
+            detail.inf2zero()
+            self.data["daily"]["min"] = detail.get()
+        detail.setDict(self.data["daily"]["50%"])
+        if detail.validate() == False:
+            detail.inf2zero()
+            self.data["daily"]["50%"] = detail.get()
 
     # 差分データの変化率を計算する
     def calcDailyData(self, df, colName):
@@ -70,7 +174,7 @@ class priceVolatility():
             dailyCurrent = data[colName]
         for index, data in d2.pct_change().fillna(0).tail(1).iterrows():
             daily = data[colName]
-        return {'basePrice': dailyBase, 'latestPrice': dailyCurrent, 'percent': round(daily*100, 2)}
+        return {'basePrice': dailyBase, 'latestPrice': dailyCurrent, 'percent': self.filterInf(round(daily*100, 2))}
 
     def getDailyData(self, df):
         return {
@@ -89,7 +193,7 @@ class priceVolatility():
             weeklyCurrent = data[colName]
         for index, data in d7.pct_change().fillna(0).tail(1).iterrows():
             weekly = data[colName]
-        return {'basePrice': weeklyBase, 'latestPrice': weeklyCurrent, 'percent': round(weekly*100, 2)}
+        return {'basePrice': weeklyBase, 'latestPrice': weeklyCurrent, 'percent': self.filterInf(round(weekly*100, 2))}
 
     def getWeeklyData(self, df):
         return {
@@ -152,6 +256,9 @@ class priceIO():
             return
         with open(self.__file, encoding='utf_8_sig') as f:
             self.data = json.load(f)
+
+    def getPrice(self):
+        return self.data['price']
 
     def checkUpdate(self, spanHours):
         current = jst.now().replace(microsecond=0)
@@ -258,6 +365,9 @@ class dailyPriceIOCSV():
     def getDataframe(self):
         return self.__df
 
+    def getDict(self):
+        return self.__df.to_dict(orient='records')
+
 # 価格表結合ファイル
 class priceLogCsv():
     def __init__(self, data_dir):
@@ -331,6 +441,25 @@ class priceLogCsv():
         data = {'items': l}
         with open(_json_file, 'w', encoding="utf_8_sig") as f:
             json.dump(data, f, indent=4, ensure_ascii=False)
+
+    def getList(self):
+        if os.path.isfile(self.__file) == False:
+            return
+        readDf = pd.read_csv(
+            self.__file,
+            encoding="utf_8_sig", sep=",",
+            header=0)
+        l = []
+        for index, data in readDf.iterrows():
+            l.append({
+                'market': data['market'],
+                'link': data['link'],
+                'price': data['price'],
+                'name': data['name'],
+                'date': data['date'],
+                'stock': data['stock'],
+            })
+        return l
 
 # 日次経過ファイルをバックアップする
 class backupPriceRawCSV():
