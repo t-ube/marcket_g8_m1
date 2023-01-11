@@ -40,7 +40,7 @@ loader = marcketCalc.rawLoader()
 writer = supabaseUtil.batchWriter()
 editor = supabaseUtil.batchEditor()
 reader = supabaseUtil.marketRawUpdatedIndexReader()
-updated_id_list = reader.read(supabase)
+updated_id_list = reader.readEx(supabase)
 
 for exp in expansion.getList():
     print('check:'+exp)
