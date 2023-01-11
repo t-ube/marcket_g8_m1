@@ -2,7 +2,23 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/591202344",
+            "price": 200,
+            "name": "PC エネルギーリサ",
+            "date": "2023-01-11",
+            "stock": 4
+        },
+        {
+            "market": "magi",
             "link": "/items/31585163",
+            "price": 200,
+            "name": "PC エネルギーリサ",
+            "date": "2023-01-11",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/905023802",
             "price": 200,
             "name": "PC エネルギーリサ",
             "date": "2023-01-10",
@@ -18,7 +34,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/905023802",
+            "link": "/items/31585163",
             "price": 200,
             "name": "PC エネルギーリサ",
             "date": "2023-01-10",
@@ -126,22 +142,6 @@
             "price": 440,
             "name": "【ポケカ】Ｕ◇エネル",
             "date": "2023-01-04",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/18184",
-            "price": 380,
-            "name": "エネルギーリサイクル",
-            "date": "2023-01-03",
-            "stock": 65
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g062-070-S5R-B/",
-            "price": 440,
-            "name": "【ポケカ】Ｕ◇エネル",
-            "date": "2023-01-03",
             "stock": 5
         }
     ]

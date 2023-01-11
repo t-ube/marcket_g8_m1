@@ -2,11 +2,83 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1535978668",
+            "price": 925,
+            "name": "【特価セット】レジド",
+            "date": "2023-01-11",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/466064606",
+            "price": 160,
+            "name": "レジドラゴ R 05",
+            "date": "2023-01-11",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/651603902",
             "price": 900,
             "name": "レジドラゴ R 05",
-            "date": "2023-01-10",
+            "date": "2023-01-11",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/63846800",
+            "price": 900,
+            "name": "レジドラゴ R 05",
+            "date": "2023-01-11",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2103212488",
+            "price": 75,
+            "name": "PC レジドラゴ(0",
+            "date": "2023-01-11",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/522583412",
+            "price": 75,
+            "name": "PC レジドラゴ(0",
+            "date": "2023-01-11",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1547729747",
+            "price": 75,
+            "name": "PC レジドラゴ(0",
+            "date": "2023-01-11",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19760",
+            "price": 100,
+            "name": "レジドラゴ(R){ド",
+            "date": "2023-01-11",
+            "stock": 194
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21332",
+            "price": 180,
+            "name": "レジドラゴ052/0",
+            "date": "2023-01-11",
+            "stock": 353
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g052-067-S7R-B/",
+            "price": 110,
+            "name": "【ポケカ】Ｒ◇レジド",
+            "date": "2023-01-11",
+            "stock": 16
         },
         {
             "market": "magi",
@@ -18,7 +90,23 @@
         },
         {
             "market": "magi",
-            "link": "/items/63846800",
+            "link": "/items/522583412",
+            "price": 75,
+            "name": "PC レジドラゴ(0",
+            "date": "2023-01-10",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1547729747",
+            "price": 75,
+            "name": "PC レジドラゴ(0",
+            "date": "2023-01-10",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/651603902",
             "price": 900,
             "name": "レジドラゴ R 05",
             "date": "2023-01-10",
@@ -34,27 +122,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/466064606",
-            "price": 160,
+            "link": "/items/63846800",
+            "price": 900,
             "name": "レジドラゴ R 05",
             "date": "2023-01-10",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1547729747",
-            "price": 75,
-            "name": "PC レジドラゴ(0",
+            "link": "/items/466064606",
+            "price": 160,
+            "name": "レジドラゴ R 05",
             "date": "2023-01-10",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/522583412",
-            "price": 75,
-            "name": "PC レジドラゴ(0",
-            "date": "2023-01-10",
-            "stock": 4
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -82,11 +162,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/522583412",
+            "link": "/items/651603902",
+            "price": 900,
+            "name": "レジドラゴ R 05",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2103212488",
             "price": 75,
             "name": "PC レジドラゴ(0",
             "date": "2023-01-09",
-            "stock": 4
+            "stock": 2
         },
         {
             "market": "magi",
@@ -98,27 +186,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/651603902",
-            "price": 900,
-            "name": "レジドラゴ R 05",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1535978668",
-            "price": 928,
-            "name": "【特価セット】レジド",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2103212488",
+            "link": "/items/522583412",
             "price": 75,
             "name": "PC レジドラゴ(0",
             "date": "2023-01-09",
-            "stock": 2
+            "stock": 4
         },
         {
             "market": "magi",
@@ -137,6 +209,14 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/1535978668",
+            "price": 928,
+            "name": "【特価セット】レジド",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19760",
             "price": 100,
@@ -242,16 +322,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1547729747",
-            "price": 75,
-            "name": "PC レジドラゴ(0",
+            "link": "/items/651603902",
+            "price": 900,
+            "name": "レジドラゴ R 05",
             "date": "2023-01-07",
-            "stock": 4
+            "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/466064606",
-            "price": 162,
+            "link": "/items/63846800",
+            "price": 900,
             "name": "レジドラゴ R 05",
             "date": "2023-01-07",
             "stock": 1
@@ -266,19 +346,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/63846800",
-            "price": 900,
+            "link": "/items/466064606",
+            "price": 162,
             "name": "レジドラゴ R 05",
             "date": "2023-01-07",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/651603902",
-            "price": 900,
-            "name": "レジドラゴ R 05",
+            "link": "/items/522583412",
+            "price": 75,
+            "name": "PC レジドラゴ(0",
             "date": "2023-01-07",
-            "stock": 1
+            "stock": 4
         },
         {
             "market": "magi",
@@ -290,7 +370,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/522583412",
+            "link": "/items/1547729747",
             "price": 75,
             "name": "PC レジドラゴ(0",
             "date": "2023-01-07",
@@ -322,40 +402,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/2103212488",
-            "price": 75,
-            "name": "PC レジドラゴ(0",
-            "date": "2023-01-06",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1535978668",
-            "price": 928,
-            "name": "【特価セット】レジド",
+            "link": "/items/651603902",
+            "price": 900,
+            "name": "レジドラゴ R 05",
             "date": "2023-01-06",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1547729747",
-            "price": 75,
-            "name": "PC レジドラゴ(0",
-            "date": "2023-01-06",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/522583412",
-            "price": 75,
-            "name": "PC レジドラゴ(0",
-            "date": "2023-01-06",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/63846800",
-            "price": 900,
+            "link": "/items/466064606",
+            "price": 162,
             "name": "レジドラゴ R 05",
             "date": "2023-01-06",
             "stock": 1
@@ -370,19 +426,43 @@
         },
         {
             "market": "magi",
-            "link": "/items/466064606",
-            "price": 162,
+            "link": "/items/63846800",
+            "price": 900,
             "name": "レジドラゴ R 05",
             "date": "2023-01-06",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/651603902",
-            "price": 900,
-            "name": "レジドラゴ R 05",
+            "link": "/items/522583412",
+            "price": 75,
+            "name": "PC レジドラゴ(0",
+            "date": "2023-01-06",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1535978668",
+            "price": 928,
+            "name": "【特価セット】レジド",
             "date": "2023-01-06",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2103212488",
+            "price": 75,
+            "name": "PC レジドラゴ(0",
+            "date": "2023-01-06",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1547729747",
+            "price": 75,
+            "name": "PC レジドラゴ(0",
+            "date": "2023-01-06",
+            "stock": 4
         },
         {
             "market": "hareruya2",
@@ -410,6 +490,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/63846800",
+            "price": 900,
+            "name": "レジドラゴ R 05",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/2103212488",
             "price": 75,
             "name": "PC レジドラゴ(0",
@@ -428,14 +516,6 @@
             "market": "magi",
             "link": "/items/466064606",
             "price": 164,
-            "name": "レジドラゴ R 05",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/63846800",
-            "price": 900,
             "name": "レジドラゴ R 05",
             "date": "2023-01-05",
             "stock": 1
@@ -498,11 +578,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/522583412",
-            "price": 75,
-            "name": "PC レジドラゴ(0",
+            "link": "/items/63846800",
+            "price": 900,
+            "name": "レジドラゴ R 05",
             "date": "2023-01-04",
-            "stock": 4
+            "stock": 1
         },
         {
             "market": "magi",
@@ -511,6 +591,38 @@
             "name": "レジドラゴ R 05",
             "date": "2023-01-04",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1535978668",
+            "price": 928,
+            "name": "【特価セット】レジド",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/651603902",
+            "price": 900,
+            "name": "レジドラゴ R 05",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2103212488",
+            "price": 75,
+            "name": "PC レジドラゴ(0",
+            "date": "2023-01-04",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/522583412",
+            "price": 75,
+            "name": "PC レジドラゴ(0",
+            "date": "2023-01-04",
+            "stock": 4
         },
         {
             "market": "magi",
@@ -527,38 +639,6 @@
             "name": "PC レジドラゴ(0",
             "date": "2023-01-04",
             "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/651603902",
-            "price": 900,
-            "name": "レジドラゴ R 05",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1535978668",
-            "price": 928,
-            "name": "【特価セット】レジド",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/63846800",
-            "price": 900,
-            "name": "レジドラゴ R 05",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2103212488",
-            "price": 75,
-            "name": "PC レジドラゴ(0",
-            "date": "2023-01-04",
-            "stock": 2
         },
         {
             "market": "hareruya2",
@@ -582,94 +662,6 @@
             "price": 110,
             "name": "【ポケカ】Ｒ◇レジド",
             "date": "2023-01-04",
-            "stock": 16
-        },
-        {
-            "market": "magi",
-            "link": "/items/1547729747",
-            "price": 75,
-            "name": "PC レジドラゴ(0",
-            "date": "2023-01-03",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/2103212488",
-            "price": 75,
-            "name": "PC レジドラゴ(0",
-            "date": "2023-01-03",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/466064606",
-            "price": 164,
-            "name": "レジドラゴ R 05",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1535978668",
-            "price": 928,
-            "name": "【特価セット】レジド",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1545596606",
-            "price": 290,
-            "name": "レジドラゴ R 05",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/651603902",
-            "price": 900,
-            "name": "レジドラゴ R 05",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/522583412",
-            "price": 75,
-            "name": "PC レジドラゴ(0",
-            "date": "2023-01-03",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/63846800",
-            "price": 900,
-            "name": "レジドラゴ R 05",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19760",
-            "price": 100,
-            "name": "レジドラゴ(R){ド",
-            "date": "2023-01-03",
-            "stock": 197
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21332",
-            "price": 180,
-            "name": "レジドラゴ052/0",
-            "date": "2023-01-03",
-            "stock": 358
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g052-067-S7R-B/",
-            "price": 110,
-            "name": "【ポケカ】Ｒ◇レジド",
-            "date": "2023-01-03",
             "stock": 16
         }
     ]

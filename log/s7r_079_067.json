@@ -2,24 +2,64 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1974418414",
+            "price": 25000,
+            "name": "ヒガナの決意 SR ",
+            "date": "2023-01-11",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1733562484",
+            "price": 9500,
+            "name": "ヒガナの決意 SR ",
+            "date": "2023-01-11",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/371804266",
+            "price": 8904,
+            "name": "ヒガナの決意【SR】",
+            "date": "2023-01-11",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/627930927",
             "price": 20790,
             "name": "〔PSA10鑑定済〕",
-            "date": "2023-01-10",
+            "date": "2023-01-11",
             "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19865",
+            "price": 8500,
+            "name": "ヒガナの決意(SR)",
+            "date": "2023-01-11",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37459",
+            "price": 19800,
+            "name": "ヒガナの決意079/",
+            "date": "2023-01-11",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21479",
+            "price": 8480,
+            "name": "ヒガナの決意079/",
+            "date": "2023-01-11",
+            "stock": 36
         },
         {
             "market": "magi",
             "link": "/items/1974418414",
             "price": 25000,
-            "name": "ヒガナの決意 SR ",
-            "date": "2023-01-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/875123119",
-            "price": 8500,
             "name": "ヒガナの決意 SR ",
             "date": "2023-01-10",
             "stock": 1
@@ -41,20 +81,28 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/627930927",
+            "price": 20790,
+            "name": "〔PSA10鑑定済〕",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/875123119",
+            "price": 8500,
+            "name": "ヒガナの決意 SR ",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19865",
             "price": 8500,
             "name": "ヒガナの決意(SR)",
             "date": "2023-01-10",
             "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37459",
-            "price": 19800,
-            "name": "ヒガナの決意079/",
-            "date": "2023-01-10",
-            "stock": 1
         },
         {
             "market": "cardrush",
@@ -65,6 +113,14 @@
             "stock": 37
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37459",
+            "price": 19800,
+            "name": "ヒガナの決意079/",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
             "market": "magi",
             "link": "/items/1733562484",
             "price": 9500,
@@ -114,14 +170,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/37459",
-            "price": 19800,
-            "name": "ヒガナの決意079/",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21479",
             "price": 8480,
             "name": "ヒガナの決意079/",
@@ -129,17 +177,25 @@
             "stock": 38
         },
         {
-            "market": "magi",
-            "link": "/items/371804266",
-            "price": 8904,
-            "name": "ヒガナの決意【SR】",
-            "date": "2023-01-08",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/37459",
+            "price": 19800,
+            "name": "ヒガナの決意079/",
+            "date": "2023-01-09",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1974418414",
             "price": 25000,
+            "name": "ヒガナの決意 SR ",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1733562484",
+            "price": 9500,
             "name": "ヒガナの決意 SR ",
             "date": "2023-01-08",
             "stock": 1
@@ -154,9 +210,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1733562484",
-            "price": 9500,
-            "name": "ヒガナの決意 SR ",
+            "link": "/items/371804266",
+            "price": 8904,
+            "name": "ヒガナの決意【SR】",
             "date": "2023-01-08",
             "stock": 1
         },
@@ -178,16 +234,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1733562484",
-            "price": 9500,
-            "name": "ヒガナの決意 SR ",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1974418414",
-            "price": 25000,
+            "link": "/items/875123119",
+            "price": 8500,
             "name": "ヒガナの決意 SR ",
             "date": "2023-01-07",
             "stock": 1
@@ -202,8 +250,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/875123119",
-            "price": 8500,
+            "link": "/items/1733562484",
+            "price": 9500,
+            "name": "ヒガナの決意 SR ",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1974418414",
+            "price": 25000,
             "name": "ヒガナの決意 SR ",
             "date": "2023-01-07",
             "stock": 1
@@ -226,6 +282,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/371804266",
+            "price": 8904,
+            "name": "ヒガナの決意【SR】",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/875123119",
             "price": 8500,
             "name": "ヒガナの決意 SR ",
@@ -245,14 +309,6 @@
             "link": "/items/1974418414",
             "price": 25000,
             "name": "ヒガナの決意 SR ",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/371804266",
-            "price": 8904,
-            "name": "ヒガナの決意【SR】",
             "date": "2023-01-06",
             "stock": 1
         },
@@ -322,8 +378,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1974418414",
-            "price": 25000,
+            "link": "/items/1733562484",
+            "price": 9500,
             "name": "ヒガナの決意 SR ",
             "date": "2023-01-04",
             "stock": 1
@@ -338,16 +394,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/875123119",
-            "price": 8500,
+            "link": "/items/1974418414",
+            "price": 25000,
             "name": "ヒガナの決意 SR ",
             "date": "2023-01-04",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1733562484",
-            "price": 9500,
+            "link": "/items/875123119",
+            "price": 8500,
             "name": "ヒガナの決意 SR ",
             "date": "2023-01-04",
             "stock": 1
@@ -367,54 +423,6 @@
             "name": "ヒガナの決意079/",
             "date": "2023-01-04",
             "stock": 43
-        },
-        {
-            "market": "magi",
-            "link": "/items/1974418414",
-            "price": 25000,
-            "name": "ヒガナの決意 SR ",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/875123119",
-            "price": 8500,
-            "name": "ヒガナの決意 SR ",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1733562484",
-            "price": 9500,
-            "name": "ヒガナの決意 SR ",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/371804266",
-            "price": 8904,
-            "name": "ヒガナの決意【SR】",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19865",
-            "price": 8500,
-            "name": "ヒガナの決意(SR)",
-            "date": "2023-01-03",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21479",
-            "price": 8480,
-            "name": "ヒガナの決意079/",
-            "date": "2023-01-03",
-            "stock": 38
         }
     ]
 }

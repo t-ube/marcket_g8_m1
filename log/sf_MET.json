@@ -5,8 +5,16 @@
             "link": "https://www.hareruya2.com/product/20604",
             "price": 50,
             "name": "基本鋼エネルギー:2",
-            "date": "2023-01-10",
+            "date": "2023-01-11",
             "stock": 112
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/21613",
+            "price": 100,
+            "name": "基本鋼エネルギー:ミ",
+            "date": "2023-01-11",
+            "stock": 14
         },
         {
             "market": "hareruya2",
@@ -15,6 +23,14 @@
             "name": "基本鋼エネルギー:ミ",
             "date": "2023-01-10",
             "stock": 14
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/20604",
+            "price": 50,
+            "name": "基本鋼エネルギー:2",
+            "date": "2023-01-10",
+            "stock": 112
         },
         {
             "market": "hareruya2",
@@ -151,30 +167,6 @@
             "name": "基本鋼エネルギー:2",
             "date": "2023-01-04",
             "stock": 125
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21613",
-            "price": 100,
-            "name": "基本鋼エネルギー:ミ",
-            "date": "2023-01-03",
-            "stock": 29
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/21437",
-            "price": 50,
-            "name": "基本鋼エネルギー(C",
-            "date": "2023-01-03",
-            "stock": 15
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20604",
-            "price": 50,
-            "name": "基本鋼エネルギー:2",
-            "date": "2023-01-03",
-            "stock": 132
         }
     ]
 }

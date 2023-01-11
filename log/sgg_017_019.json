@@ -5,6 +5,38 @@
             "link": "/items/2137985970",
             "price": 70,
             "name": "【4枚セット】マリィ",
+            "date": "2023-01-11",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19448",
+            "price": 100,
+            "name": "マリィ(-){サポー",
+            "date": "2023-01-11",
+            "stock": 29
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31968",
+            "price": 110,
+            "name": "マリィ017/019",
+            "date": "2023-01-11",
+            "stock": 11
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20624",
+            "price": 120,
+            "name": "マリィ017/019",
+            "date": "2023-01-11",
+            "stock": 230
+        },
+        {
+            "market": "magi",
+            "link": "/items/2137985970",
+            "price": 70,
+            "name": "【4枚セット】マリィ",
             "date": "2023-01-10",
             "stock": 4
         },
@@ -103,14 +135,6 @@
             "name": "【4枚セット】マリィ",
             "date": "2023-01-07",
             "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20624",
-            "price": 120,
-            "name": "マリィ017/019",
-            "date": "2023-01-07",
-            "stock": 234
         },
         {
             "market": "cardrush",
@@ -121,12 +145,12 @@
             "stock": 12
         },
         {
-            "market": "magi",
-            "link": "/items/776745456",
-            "price": 30,
-            "name": "PC マリィ(017",
-            "date": "2023-01-06",
-            "stock": 4
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20624",
+            "price": 120,
+            "name": "マリィ017/019",
+            "date": "2023-01-07",
+            "stock": 234
         },
         {
             "market": "magi",
@@ -161,6 +185,14 @@
             "stock": 4
         },
         {
+            "market": "magi",
+            "link": "/items/776745456",
+            "price": 30,
+            "name": "PC マリィ(017",
+            "date": "2023-01-06",
+            "stock": 4
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/31968",
             "price": 110,
@@ -186,19 +218,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31968",
-            "price": 110,
-            "name": "マリィ017/019",
-            "date": "2023-01-05",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20624",
             "price": 120,
             "name": "マリィ017/019",
             "date": "2023-01-05",
             "stock": 234
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/31968",
+            "price": 110,
+            "name": "マリィ017/019",
+            "date": "2023-01-05",
+            "stock": 12
         },
         {
             "market": "magi",
@@ -223,30 +255,6 @@
             "name": "マリィ017/019",
             "date": "2023-01-04",
             "stock": 12
-        },
-        {
-            "market": "magi",
-            "link": "/items/2137985970",
-            "price": 70,
-            "name": "【4枚セット】マリィ",
-            "date": "2023-01-03",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20624",
-            "price": 120,
-            "name": "マリィ017/019",
-            "date": "2023-01-03",
-            "stock": 234
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/31968",
-            "price": 110,
-            "name": "マリィ017/019",
-            "date": "2023-01-03",
-            "stock": 6
         }
     ]
 }

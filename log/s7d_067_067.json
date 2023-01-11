@@ -2,31 +2,95 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/2000951696",
-            "price": 230,
-            "name": "ツインエネルギー４枚",
-            "date": "2023-01-10",
+            "link": "/items/594502034",
+            "price": 200,
+            "name": "ツインエネルギー U",
+            "date": "2023-01-11",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1713197545",
+            "price": 25,
+            "name": "PC ツインエネルギ",
+            "date": "2023-01-11",
+            "stock": 4
         },
         {
             "market": "magi",
             "link": "/items/617635135",
             "price": 25,
             "name": "PC ツインエネルギ",
-            "date": "2023-01-10",
+            "date": "2023-01-11",
             "stock": 4
         },
         {
             "market": "magi",
-            "link": "/items/594502034",
-            "price": 200,
-            "name": "ツインエネルギー U",
-            "date": "2023-01-10",
-            "stock": 1
+            "link": "/items/923543974",
+            "price": 25,
+            "name": "PC ツインエネルギ",
+            "date": "2023-01-11",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/298199683",
+            "price": 25,
+            "name": "PC ツインエネルギ",
+            "date": "2023-01-11",
+            "stock": 4
         },
         {
             "market": "magi",
             "link": "/items/2124059111",
+            "price": 25,
+            "name": "PC ツインエネルギ",
+            "date": "2023-01-11",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2000951696",
+            "price": 230,
+            "name": "ツインエネルギー４枚",
+            "date": "2023-01-11",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19708",
+            "price": 100,
+            "name": "ツインエネルギー(U",
+            "date": "2023-01-11",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21280",
+            "price": 80,
+            "name": "ツインエネルギー06",
+            "date": "2023-01-11",
+            "stock": 251
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32259",
+            "price": 70,
+            "name": "ツインエネルギー06",
+            "date": "2023-01-11",
+            "stock": 4
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g067-067-S7D-B/",
+            "price": 77,
+            "name": "【ポケカ】Ｕ◇ツイン",
+            "date": "2023-01-11",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/298199683",
             "price": 25,
             "name": "PC ツインエネルギ",
             "date": "2023-01-10",
@@ -34,7 +98,15 @@
         },
         {
             "market": "magi",
-            "link": "/items/298199683",
+            "link": "/items/1713197545",
+            "price": 25,
+            "name": "PC ツインエネルギ",
+            "date": "2023-01-10",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/617635135",
             "price": 25,
             "name": "PC ツインエネルギ",
             "date": "2023-01-10",
@@ -50,7 +122,23 @@
         },
         {
             "market": "magi",
-            "link": "/items/1713197545",
+            "link": "/items/2000951696",
+            "price": 230,
+            "name": "ツインエネルギー４枚",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/594502034",
+            "price": 200,
+            "name": "ツインエネルギー U",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2124059111",
             "price": 25,
             "name": "PC ツインエネルギ",
             "date": "2023-01-10",
@@ -90,11 +178,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/298199683",
-            "price": 25,
-            "name": "PC ツインエネルギ",
+            "link": "/items/594502034",
+            "price": 200,
+            "name": "ツインエネルギー U",
             "date": "2023-01-09",
-            "stock": 4
+            "stock": 1
         },
         {
             "market": "magi",
@@ -138,11 +226,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/594502034",
-            "price": 200,
-            "name": "ツインエネルギー U",
+            "link": "/items/298199683",
+            "price": 25,
+            "name": "PC ツインエネルギ",
             "date": "2023-01-09",
-            "stock": 1
+            "stock": 4
         },
         {
             "market": "hareruya2",
@@ -234,14 +322,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32259",
-            "price": 70,
-            "name": "ツインエネルギー06",
-            "date": "2023-01-08",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21280",
             "price": 80,
             "name": "ツインエネルギー06",
@@ -249,6 +329,14 @@
             "stock": 240
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32259",
+            "price": 70,
+            "name": "ツインエネルギー06",
+            "date": "2023-01-08",
+            "stock": 6
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g067-067-S7D-B/",
             "price": 77,
@@ -258,19 +346,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/2124059111",
+            "link": "/items/923543974",
             "price": 25,
             "name": "PC ツインエネルギ",
             "date": "2023-01-07",
             "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/594502034",
-            "price": 200,
-            "name": "ツインエネルギー U",
-            "date": "2023-01-07",
-            "stock": 1
         },
         {
             "market": "magi",
@@ -306,19 +386,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/923543974",
+            "link": "/items/594502034",
+            "price": 200,
+            "name": "ツインエネルギー U",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2124059111",
             "price": 25,
             "name": "PC ツインエネルギ",
             "date": "2023-01-07",
             "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21280",
-            "price": 80,
-            "name": "ツインエネルギー06",
-            "date": "2023-01-07",
-            "stock": 243
         },
         {
             "market": "cardrush",
@@ -327,6 +407,14 @@
             "name": "ツインエネルギー06",
             "date": "2023-01-07",
             "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21280",
+            "price": 80,
+            "name": "ツインエネルギー06",
+            "date": "2023-01-07",
+            "stock": 243
         },
         {
             "market": "torecolo",
@@ -338,7 +426,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/617635135",
+            "link": "/items/1713197545",
             "price": 25,
             "name": "PC ツインエネルギ",
             "date": "2023-01-06",
@@ -347,14 +435,6 @@
         {
             "market": "magi",
             "link": "/items/298199683",
-            "price": 25,
-            "name": "PC ツインエネルギ",
-            "date": "2023-01-06",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1713197545",
             "price": 25,
             "name": "PC ツインエネルギ",
             "date": "2023-01-06",
@@ -391,6 +471,14 @@
             "name": "ツインエネルギー４枚",
             "date": "2023-01-06",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/617635135",
+            "price": 25,
+            "name": "PC ツインエネルギ",
+            "date": "2023-01-06",
+            "stock": 4
         },
         {
             "market": "cardrush",
@@ -498,6 +586,22 @@
         },
         {
             "market": "magi",
+            "link": "/items/923543974",
+            "price": 25,
+            "name": "PC ツインエネルギ",
+            "date": "2023-01-04",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/298199683",
+            "price": 25,
+            "name": "PC ツインエネルギ",
+            "date": "2023-01-04",
+            "stock": 4
+        },
+        {
+            "market": "magi",
             "link": "/items/2000951696",
             "price": 230,
             "name": "ツインエネルギー４枚",
@@ -522,15 +626,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/298199683",
-            "price": 25,
-            "name": "PC ツインエネルギ",
-            "date": "2023-01-04",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/923543974",
+            "link": "/items/1713197545",
             "price": 25,
             "name": "PC ツインエネルギ",
             "date": "2023-01-04",
@@ -539,14 +635,6 @@
         {
             "market": "magi",
             "link": "/items/2124059111",
-            "price": 25,
-            "name": "PC ツインエネルギ",
-            "date": "2023-01-04",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1713197545",
             "price": 25,
             "name": "PC ツインエネルギ",
             "date": "2023-01-04",
@@ -574,86 +662,6 @@
             "price": 77,
             "name": "【ポケカ】Ｕ◇ツイン",
             "date": "2023-01-04",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/594502034",
-            "price": 200,
-            "name": "ツインエネルギー U",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2000951696",
-            "price": 230,
-            "name": "ツインエネルギー４枚",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/298199683",
-            "price": 25,
-            "name": "PC ツインエネルギ",
-            "date": "2023-01-03",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/2124059111",
-            "price": 25,
-            "name": "PC ツインエネルギ",
-            "date": "2023-01-03",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/923543974",
-            "price": 25,
-            "name": "PC ツインエネルギ",
-            "date": "2023-01-03",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1713197545",
-            "price": 25,
-            "name": "PC ツインエネルギ",
-            "date": "2023-01-03",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/617635135",
-            "price": 25,
-            "name": "PC ツインエネルギ",
-            "date": "2023-01-03",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21280",
-            "price": 80,
-            "name": "ツインエネルギー06",
-            "date": "2023-01-03",
-            "stock": 243
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32259",
-            "price": 70,
-            "name": "ツインエネルギー06",
-            "date": "2023-01-03",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g067-067-S7D-B/",
-            "price": 77,
-            "name": "【ポケカ】Ｕ◇ツイン",
-            "date": "2023-01-03",
             "stock": 3
         }
     ]

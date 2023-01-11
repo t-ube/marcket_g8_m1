@@ -5,6 +5,22 @@
             "link": "/items/2112496659",
             "price": 9300,
             "name": "カイリューV SR ",
+            "date": "2023-01-11",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21473",
+            "price": 1380,
+            "name": "カイリューV073/",
+            "date": "2023-01-11",
+            "stock": 14
+        },
+        {
+            "market": "magi",
+            "link": "/items/2112496659",
+            "price": 9300,
+            "name": "カイリューV SR ",
             "date": "2023-01-10",
             "stock": 1
         },
@@ -106,16 +122,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/2112496659",
-            "price": 9300,
+            "link": "/items/1316602174",
+            "price": 999,
             "name": "カイリューV SR ",
             "date": "2023-01-05",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1316602174",
-            "price": 999,
+            "link": "/items/2112496659",
+            "price": 9300,
             "name": "カイリューV SR ",
             "date": "2023-01-05",
             "stock": 1
@@ -151,30 +167,6 @@
             "name": "カイリューV073/",
             "date": "2023-01-04",
             "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1316602174",
-            "price": 999,
-            "name": "カイリューV SR ",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2112496659",
-            "price": 9300,
-            "name": "カイリューV SR ",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21473",
-            "price": 1380,
-            "name": "カイリューV073/",
-            "date": "2023-01-03",
-            "stock": 2
         }
     ]
 }

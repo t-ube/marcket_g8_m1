@@ -2,10 +2,42 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1138343546",
+            "price": 800,
+            "name": "レジエレキ R 03",
+            "date": "2023-01-11",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1946629998",
             "price": 500,
             "name": "PC レジエレキ(0",
-            "date": "2023-01-10",
+            "date": "2023-01-11",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19741",
+            "price": 800,
+            "name": "レジエレキ(R){雷",
+            "date": "2023-01-11",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21313",
+            "price": 580,
+            "name": "レジエレキ033/0",
+            "date": "2023-01-11",
+            "stock": 51
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g033-067-S7R-B/",
+            "price": 550,
+            "name": "【ポケカ】Ｒ◇レジエ",
+            "date": "2023-01-11",
             "stock": 4
         },
         {
@@ -15,6 +47,14 @@
             "name": "レジエレキ R 03",
             "date": "2023-01-10",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1946629998",
+            "price": 500,
+            "name": "PC レジエレキ(0",
+            "date": "2023-01-10",
+            "stock": 4
         },
         {
             "market": "hareruya2",
@@ -74,19 +114,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/1138343546",
-            "price": 800,
-            "name": "レジエレキ R 03",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1946629998",
             "price": 500,
             "name": "PC レジエレキ(0",
             "date": "2023-01-08",
             "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1138343546",
+            "price": 800,
+            "name": "レジエレキ R 03",
+            "date": "2023-01-08",
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -174,6 +214,14 @@
             "price": 550,
             "name": "【ポケカ】Ｒ◇レジエ",
             "date": "2023-01-06",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1946629998",
+            "price": 500,
+            "name": "PC レジエレキ(0",
+            "date": "2023-01-05",
             "stock": 4
         },
         {
@@ -185,14 +233,6 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/1946629998",
-            "price": 500,
-            "name": "PC レジエレキ(0",
-            "date": "2023-01-05",
-            "stock": 4
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19741",
             "price": 800,
@@ -246,38 +286,6 @@
             "price": 550,
             "name": "【ポケカ】Ｒ◇レジエ",
             "date": "2023-01-04",
-            "stock": 8
-        },
-        {
-            "market": "magi",
-            "link": "/items/1946629998",
-            "price": 500,
-            "name": "PC レジエレキ(0",
-            "date": "2023-01-03",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19741",
-            "price": 800,
-            "name": "レジエレキ(R){雷",
-            "date": "2023-01-03",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21313",
-            "price": 580,
-            "name": "レジエレキ033/0",
-            "date": "2023-01-03",
-            "stock": 52
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g033-067-S7R-B/",
-            "price": 550,
-            "name": "【ポケカ】Ｒ◇レジエ",
-            "date": "2023-01-03",
             "stock": 8
         }
     ]

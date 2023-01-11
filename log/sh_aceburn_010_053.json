@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/19783",
             "price": 100,
             "name": "エースバーンV:キラ",
+            "date": "2023-01-11",
+            "stock": 75
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21428",
+            "price": 120,
+            "name": "エースバーンV010",
+            "date": "2023-01-11",
+            "stock": 95
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21357",
+            "price": 80,
+            "name": "エースバーンV010",
+            "date": "2023-01-11",
+            "stock": 311
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19783",
+            "price": 100,
+            "name": "エースバーンV:キラ",
             "date": "2023-01-10",
             "stock": 75
         },
@@ -82,14 +106,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21357",
-            "price": 80,
-            "name": "エースバーンV010",
-            "date": "2023-01-07",
-            "stock": 311
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21428",
             "price": 120,
             "name": "エースバーンV010",
@@ -97,6 +113,14 @@
             "stock": 95
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21357",
+            "price": 80,
+            "name": "エースバーンV010",
+            "date": "2023-01-07",
+            "stock": 311
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/19783",
             "price": 100,
@@ -106,19 +130,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21357",
-            "price": 80,
-            "name": "エースバーンV010",
-            "date": "2023-01-06",
-            "stock": 311
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21428",
             "price": 120,
             "name": "エースバーンV010",
             "date": "2023-01-06",
             "stock": 95
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21357",
+            "price": 80,
+            "name": "エースバーンV010",
+            "date": "2023-01-06",
+            "stock": 311
         },
         {
             "market": "hareruya2",
@@ -130,19 +154,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21428",
-            "price": 120,
-            "name": "エースバーンV010",
-            "date": "2023-01-05",
-            "stock": 95
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21357",
             "price": 80,
             "name": "エースバーンV010",
             "date": "2023-01-05",
             "stock": 311
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21428",
+            "price": 120,
+            "name": "エースバーンV010",
+            "date": "2023-01-05",
+            "stock": 95
         },
         {
             "market": "hareruya2",
@@ -154,14 +178,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21357",
-            "price": 80,
-            "name": "エースバーンV010",
-            "date": "2023-01-04",
-            "stock": 311
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21428",
             "price": 120,
             "name": "エースバーンV010",
@@ -169,36 +185,12 @@
             "stock": 95
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19783",
-            "price": 100,
-            "name": "エースバーンV:キラ",
-            "date": "2023-01-03",
-            "stock": 75
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19948",
-            "price": 50,
-            "name": "エースバーンV(-)",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21357",
             "price": 80,
             "name": "エースバーンV010",
-            "date": "2023-01-03",
+            "date": "2023-01-04",
             "stock": 311
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21428",
-            "price": 120,
-            "name": "エースバーンV010",
-            "date": "2023-01-03",
-            "stock": 95
         }
     ]
 }
