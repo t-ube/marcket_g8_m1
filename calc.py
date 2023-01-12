@@ -60,6 +60,9 @@ cleaner = supabaseUtil.marketRawCleaner()
 currentDT = jst.now()
 print(currentDT)
 
+if os.path.exists('./log') == False:
+    Path('./log').mkdir(parents=True, exist_ok=True)
+
 for exp in expansion.getList():
     print('check:'+exp)
     dfExp = pd.read_csv('./data/card/'+exp+'.csv', header=0, encoding='utf_8_sig')
@@ -93,11 +96,11 @@ for exp in expansion.getList():
                 if os.path.exists(dataDir) == False:
                     Path(dataDir).mkdir(parents=True, exist_ok=True)
 
-                # ログ（CSVとSupabaseに記録する）
+                # ログ（log.csvとSupabaseに記録する）
                 log_file = './log/'+row['master_id']+'.json'
                 log = marcketPrice.priceLogCsv(dataDir)
                 log.save(recordDf, currentDT.strftime('%Y-%m-%d'))
-                log.convert2Json(log_file)
+                #log.convert2Json(log_file)
                 batch_logs.append(editor.getCardMarketLog(master_id,log.getList()))
 
                 # 日次情報（CSVに記録する）
