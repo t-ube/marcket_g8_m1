@@ -97,7 +97,7 @@ class marketRawUpdatedIndexReader:
                 return []
             if data.data[0]['master_id_list'] == None:
                 return []
-            return data.data[0]['master_id_list']
+            return data.data[0]['master_id_list'].split(',')
         except httpx.ReadTimeout as e:
             print("httpx.ReadTimeout")
             print(e.args)
@@ -112,7 +112,7 @@ class marketRawUpdatedIndexReader:
                 return []
             if data.data[0]['master_id_list'] == None:
                 return []
-            return data.data[0]['master_id_list']
+            return data.data[0]['master_id_list'].split(',')
         except httpx.ReadTimeout as e:
             print("httpx.ReadTimeout")
             print(e.args)
