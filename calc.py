@@ -129,15 +129,6 @@ for exp in expansion.getList():
                     halfYearDf,
                     halfYearDf.diff())
                 ))
-                file = './dist/'+row['master_id']+'.json'
-                calc.writeDailyDf(
-                    file,
-                    daysDf.tail(1),
-                    sampleDf.diff().tail(1),
-                    daysDf,
-                    daysDf.diff(),
-                    halfYearDf,
-                    halfYearDf.diff())
                 # バックアップ
                 backup = marcketPrice.backupPriceRawCSV(dataDir)
                 backup.backup(1)
