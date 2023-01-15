@@ -44,7 +44,7 @@ updated_id_list = reader.read(supabase)
 
 counter = 0
 
-# バッチは10件溜まったらPOSTして空にする
+# 繝舌ャ繝√�ｯ10莉ｶ貅懊∪縺｣縺溘ｉPOST縺励※遨ｺ縺ｫ縺吶ｋ
 batch_items = []
 
 for exp in expansion.getList():
@@ -80,7 +80,7 @@ for exp in expansion.getList():
             writer.write(supabase, "card_market_raw", batch_items)
             batch_items = []
 
-# 残っていたらPOSTする
+# 谿九▲縺ｦ縺�縺溘ｉPOST縺吶ｋ
 if len(batch_items) > 0:
     writer.write(supabase, "card_market_raw", batch_items)
     batch_items = []
