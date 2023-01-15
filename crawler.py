@@ -42,6 +42,11 @@ editor = supabaseUtil.batchEditor()
 reader = supabaseUtil.marketRawUpdatedIndexReader()
 updated_id_list = reader.read(supabase)
 
+counter = 0
+
+# バッチは10件溜まったらPOSTして空にする
+batch_items = []
+
 for exp in expansion.getList():
     print('check:'+exp)
     dfExp = pd.read_csv('./data/card/'+exp+'.csv', header=0, encoding='utf_8_sig')
@@ -49,7 +54,6 @@ for exp in expansion.getList():
         break
 
     for index, row in dfExp.iterrows():
-        batch_items = []
         if time.time() - start > 480:
             break
         if pd.isnull(row['master_id']):
@@ -70,6 +74,17 @@ for exp in expansion.getList():
 
         df = loader.getUniqueRecodes(dataDir)
         batch_items.append(editor.getCardMarketRaw(row['master_id'],df.to_dict(orient='records')))
-        writer.write(supabase, "card_market_raw", batch_items)
+        counter += 1
+
+        if len(batch_items) >= 10:
+            writer.write(supabase, "card_market_raw", batch_items)
+            batch_items = []
+
+# 残っていたらPOSTする
+if len(batch_items) > 0:
+    writer.write(supabase, "card_market_raw", batch_items)
+    batch_items = []
+
+print('count:'+str(counter))
 
 wrapper.end()
