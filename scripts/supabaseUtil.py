@@ -73,6 +73,9 @@ class batchWriter:
         except postgrest.exceptions.APIError as e:
             print("postgrest.exceptions.APIError")
             print(e.args)
+            print('Begin error data')
+            print(batch_item)
+            print('End error data')
 
 # card_market_raw の読み取り用
 class marketRawReader:

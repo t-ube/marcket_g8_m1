@@ -46,6 +46,7 @@ counter = 0
 
 # バッチは10件溜まったらPOSTして空にする
 batch_items = []
+batch_master_id = []
 
 for exp in expansion.getList():
     print('check:'+exp)
@@ -64,7 +65,11 @@ for exp in expansion.getList():
             continue
         if row['master_id'] in updated_id_list:
             print('skip:'+row['name']+' '+row['master_id'])
-            continue 
+            continue
+        # CSVのマスタIDが重複する可能性がある
+        if row['master_id'] in batch_master_id:
+            print('skip (already exist):'+row['name']+' '+row['master_id'])
+            continue
 
         dataDir = './data/marcket/'+row['master_id']
         torecoloBot.download(wrapper, row['name'], row['cn'], dataDir)
@@ -74,16 +79,19 @@ for exp in expansion.getList():
 
         df = loader.getUniqueRecodes(dataDir)
         batch_items.append(editor.getCardMarketRaw(row['master_id'],df.to_dict(orient='records')))
+        batch_master_id.append(row['master_id'])
         counter += 1
 
         if len(batch_items) >= 10:
             writer.write(supabase, "card_market_raw", batch_items)
             batch_items = []
+            batch_master_id = []
 
 # 残っていたらPOSTする
 if len(batch_items) > 0:
     writer.write(supabase, "card_market_raw", batch_items)
     batch_items = []
+    batch_master_id = []
 
 print('count:'+str(counter))
 
