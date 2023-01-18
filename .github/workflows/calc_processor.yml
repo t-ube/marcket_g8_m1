@@ -2,8 +2,6 @@ name: Process calc
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 11-13 * * *'
 
 jobs:
   build:
