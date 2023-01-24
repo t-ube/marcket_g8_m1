@@ -55,16 +55,19 @@ class magiListParser():
                     price = math.floor(price/setNumber)
                     if price < 1:
                         price = 1
-                l.append({
-                    "market": 'magi',
-                    "link": a['href'],
-                    "price": price,
-                    "name": '{:.10}'.format(name),
-                    #"image": self.getImage(a),
-                    "date": None,
-                    "datetime": None,
-                    "stock": stock,
-                })
+
+                # 1,500,000 未満のみ登録
+                if price < 1500000:
+                    l.append({
+                        "market": 'magi',
+                        "link": a['href'],
+                        "price": price,
+                        "name": '{:.10}'.format(name),
+                        #"image": self.getImage(a),
+                        "date": None,
+                        "datetime": None,
+                        "stock": stock,
+                    })
         return l
 
     def keywordInName(self,keyword,name):
