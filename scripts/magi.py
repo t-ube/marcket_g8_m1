@@ -56,8 +56,8 @@ class magiListParser():
                     if price < 1:
                         price = 1
 
-                # 1,500,000 未満のみ登録
-                if price < 1500000:
+                # 1,500,000 かつ 9 枚未満のみ登録
+                if price < 1500000 and stock < 9:
                     l.append({
                         "market": 'magi',
                         "link": a['href'],
