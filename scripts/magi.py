@@ -22,7 +22,7 @@ import traceback
 class magiListParser():
     def __init__(self, _html):
         self.__html = _html
-        self.__reject = ['デッキ','ケース','募集','専用','様','プレイマット', 'スリーブ', '未開封', '予約', '構築', 'オリパ', 'パック', '管理', '買い取り', '買取', '注文用', '送料']
+        self.__reject = ['デッキ','ケース','募集','専用','様','プレイマット', 'スリーブ', '未開封', '予約', '構築', 'オリパ', 'パック', '管理', '買い取り', '買取', '注文用', '送料','ポケカくじ','ポケモンくじ']
         #(ミラー)/
 
     def getItemList(self,keyword):
@@ -43,10 +43,14 @@ class magiListParser():
                     else:
                         find = True
                         break
+            if find == False:
+                # くじ系の商品
+                if self.kujiFilter(name) == True:
+                    find = True
             if find == False and self.keywordInName(keyword,name) and self.getSoldIcon(a) == False:
                 price = int(self.getPrice(a).replace("¥ ","").replace(",","").replace(" ",""))
                 priceTemp = self.getTitlePrice(name)
-                setNumber = self.getSetNumber(name)
+                setNumber = self.getSetNumberSafe(name)
                 stock = 1
                 if priceTemp is not None:
                     price = priceTemp
@@ -70,6 +74,17 @@ class magiListParser():
                     })
         return l
 
+    def kujiFilter(self,keyword):
+        find_pattern = r'1口(?P<x>\d+)円'
+        m = re.search(find_pattern, keyword)
+        if m != None:
+            return True
+        find_pattern = r'(?P<x>\d+)口.+くじ'
+        m = re.search(find_pattern, keyword)
+        if m != None:
+            return True
+        return False
+
     def keywordInName(self,keyword,name):
         if keyword in name:
             return True
@@ -92,6 +107,13 @@ class magiListParser():
         if m != None:
             return int(m.group('x'))
         return None
+
+    def getSetNumberSafe(self, keyword):
+        find_pattern = r'全(?P<x>\d+)枚セット'
+        m = re.search(find_pattern, keyword)
+        if m != None:
+            return None
+        return self.getSetNumber(keyword)
     
     def getPrice(self,_BeautifulSoup):
         li = _BeautifulSoup.find("li", class_="item-list__price-box--price")
