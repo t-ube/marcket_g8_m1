@@ -4,6 +4,7 @@ from selenium import webdriver
 import socket
 import time
 import pandas as pd
+from pathlib import Path
 import expansion
 from supabase import create_client, Client 
 from scripts import seleniumDriverWrapper as wrap
@@ -78,18 +79,22 @@ for exp in expansion.getList():
         magiBot.download(wrapper, 1, row['name'], row['expansion'], row['cn'], row['rarity'], dataDir)
 
         df = loader.getUniqueRecodes(dataDir)
-        batch_items.append(editor.getCardMarketRaw(row['master_id'],df.to_dict(orient='records')))
-        batch_master_id.append(row['master_id'])
-        counter += 1
+        records = df.to_dict(orient='records')
+        items = editor.getShopItem(row['master_id'],records)
+        if len(items) > 0:
+            batch_items.extend(items)
+            batch_master_id.append(row['master_id'])
+            counter += 1
 
         if len(batch_items) >= 10:
-            writer.write(supabase, "card_market_raw", batch_items)
+            writer.write(supabase, "shop_item", batch_items)
             batch_items = []
             batch_master_id = []
 
+
 # 残っていたらPOSTする
 if len(batch_items) > 0:
-    writer.write(supabase, "card_market_raw", batch_items)
+    writer.write(supabase, "shop_item", batch_items)
     batch_items = []
     batch_master_id = []
 

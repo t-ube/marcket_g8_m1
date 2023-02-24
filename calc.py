@@ -16,6 +16,32 @@ from scripts import marcketPrice
 from scripts import supabaseUtil
 
 
+# 従来ファイルと同等フォーマットへの変換処理
+def convertShopItemRecordData(rec):
+    return {
+        'market':rec['shop_name'],
+        'link':rec['link'],
+        'price':rec['price'],
+        'name':rec['item_name'],
+        'date':rec['date'],
+        'datetime':rec['datetime_jst'],
+        'stock':rec['stock']
+    }
+
+# 従来ファイルと同等フォーマットへの変換処理
+def convertDailyPriceRecordData(rec):
+    return {
+        'datetime':rec['datetime_jst'],
+        'count':rec['count'],
+        'mean':rec['mean'],
+        'std':rec['std'],
+        'min':rec['min'],
+        '25%':rec['percent_25'],
+        '50%':rec['percent_50'],
+        '75%':rec['percent_75'],
+        'max':rec['max']
+    }
+
 # 1週間分のデータを取得する。
 def getWeeklyData(ioCsv, currentDT):
     firstDate = currentDT - datetime.timedelta(days=7)
@@ -52,12 +78,15 @@ service_key: str = os.environ.get("SUPABASE_SERVICE_KEY")
 supabase: Client = create_client(url, key)
 supabase.postgrest.auth(service_key)
 
-rawReader = supabaseUtil.marketRawReader()
+itemReader = supabaseUtil.shopItemReader()
+dailyPriceReader = supabaseUtil.CardPriceDailyReader()
 editor = supabaseUtil.batchEditor()
 writer = supabaseUtil.batchWriter()
-cleaner = supabaseUtil.marketRawCleaner()
+cleaner = supabaseUtil.shopItemCleaner()
 
 currentDT = jst.now()
+if currentDT.hour < 20:
+    currentDT = currentDT - datetime.timedelta(days=1)
 print(currentDT)
 
 if os.path.exists('./log') == False:
@@ -73,35 +102,48 @@ for exp in expansion.getList():
             continue
         id_list.append(row['master_id'])
 
-    for i in range(0, len(id_list), 100):
-        batch = id_list[i: i+100]
+    for i in range(0, len(id_list), 5):
+        batch = id_list[i: i+5]
         print('Write log no.:'+str(i))
-        data = rawReader.read(supabase,batch)
+        data = itemReader.read(supabase,batch)
+        data2 = dailyPriceReader.readLimit(supabase,batch,currentDT)
+
+        # まずは日次記録をファイルに書き込む
+        if len(data2) > 0:
+            df = pd.DataFrame.from_records(data2)
+            for master_id in batch:
+                cardDf = df[df['master_id'] == master_id]
+                dataDir = './data/marcket/'+master_id
+                if os.path.exists(dataDir) == False:
+                    Path(dataDir).mkdir(parents=True, exist_ok=True)
+                dailyCsv = marcketPrice.dailyPriceIOCSV(dataDir)
+                records = []
+                for index, row in cardDf.iterrows():
+                    records.append(convertDailyPriceRecordData(row))
+                recordDf = pd.DataFrame.from_records(records)
+                dailyCsv.addPostgresData(recordDf)
+                dailyCsv.save()
+
         if len(data) > 0:
-            batch_logs = []
+            batch_dailydata = []
             batch_results = []
             df = pd.DataFrame.from_records(data)
             for master_id in batch:
                 cardDf = df[df['master_id'] == master_id]
                 records = []
                 for index, row in cardDf.iterrows():
-                    records.extend(row['raw'])
+                    records.append(convertShopItemRecordData(row))
                 recordDf = pd.DataFrame.from_records(records)
                 print(master_id)
                 if len(records) > 0:
                     recordDf = recordDf.sort_values(by=['datetime'], ascending=False) 
                     recordDf = recordDf[~recordDf.duplicated(subset=['market','date','name','link'],keep='first')]
-                #print(recordDf)
+                else:
+                    recordDf = pd.DataFrame(columns=['market','link','price','name','date','datetime','stock'])
+
                 dataDir = './data/marcket/'+master_id
                 if os.path.exists(dataDir) == False:
                     Path(dataDir).mkdir(parents=True, exist_ok=True)
-
-                # ログ（log.csvとSupabaseに記録する）
-                log_file = './log/'+row['master_id']+'.json'
-                log = marcketPrice.priceLogCsv(dataDir)
-                log.save(recordDf, currentDT.strftime('%Y-%m-%d'))
-                #log.convert2Json(log_file)
-                batch_logs.append(editor.getCardMarketLog(master_id,log.getList()))
 
                 # 日次情報（CSVに記録する）
                 dailyCsv = marcketPrice.dailyPriceIOCSV(dataDir)
@@ -110,10 +152,11 @@ for exp in expansion.getList():
                 recordDf = calc.convert2BaseDf(recordDf)
                 days30Df = calc.getDailyDf2(recordDf,30)
                 dailyCsv.add(days30Df)
-                #print(dailyCsv.getDict())
-                dailyCsv.save()
+                records = dailyCsv.getMigrateData()
+                if len(records) > 0:
+                    batch_dailydata.extend(editor.getPriceDaily(master_id, records))
 
-                # 集計結果（CSVとSupabaseに記録する）
+                # 集計結果（Supabaseに記録する）
                 # 1週間分のデータを取得する。（日間）
                 daysDf = getWeeklyData(dailyCsv, currentDT)
                 halfYearDf = getHalfYearData(dailyCsv, currentDT)
@@ -129,13 +172,8 @@ for exp in expansion.getList():
                     halfYearDf,
                     halfYearDf.diff())
                 ))
-                # バックアップ
-                backup = marcketPrice.backupPriceRawCSV(dataDir)
-                backup.backup(1)
-                backup.delete(1)
-            #print(batch_results)
-            #print(batch_logs)
-            writer.write(supabase, "card_market_result", batch_results)
-            writer.write(supabase, "card_market_log", batch_logs)
+            result1 = writer.write(supabase, "card_market_result", batch_results)
+            result2 = writer.write(supabase, "card_price_daily", batch_dailydata)
             # 削除
-            cleaner.delete(supabase,batch)
+            if result1 == True and result2 == True:
+                cleaner.delete(supabase,batch,currentDT)

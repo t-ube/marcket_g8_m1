@@ -368,6 +368,25 @@ class dailyPriceIOCSV():
     def getDict(self):
         return self.__df.to_dict(orient='records')
 
+    def addPostgresData(self, df):
+        if len(df) > 0:
+            df = df.set_index('datetime')
+            df.index = pd.to_datetime(df.index, format='%Y-%m-%dT%H:%M:%S')
+            df = df.sort_index()
+            self.__df = pd.concat([self.__df,df],axis=0)
+            self.__df = self.__df.fillna({'count': 0})
+            # 新しく重複かつ値がないものを削除
+            self.__df = self.__df[~((self.__df.index.duplicated(keep='first')) & (self.__df['count'] == 0))]
+            # その後、インデックスが重複した場合には古いデータを破棄する
+            self.__df = self.__df[~self.__df.index.duplicated(keep='last')]
+            self.__df = self.__df.sort_index()
+
+    def getMigrateData(self):
+        df = self.__df.copy()
+        df['datetime'] = df.index
+        df['datetime'] = df['datetime'].dt.strftime('%Y-%m-%d 00:00:00')
+        return df.to_dict(orient='records')
+
 # 価格表結合ファイル
 class priceLogCsv():
     def __init__(self, data_dir):

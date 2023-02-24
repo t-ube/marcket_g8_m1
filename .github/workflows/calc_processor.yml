@@ -6,6 +6,17 @@ on:
 jobs:
   build:
     name: Process calc
+    permissions:
+      actions: write
+      checks: write
+      contents: write
+      deployments: write
+      issues: write
+      packages: write
+      pull-requests: write
+      repository-projects: write
+      security-events: write
+      statuses: write
     runs-on: ubuntu-latest
     env:
       SUPABASE_URL: ${{secrets.SUPABASE_URL}}
@@ -16,9 +27,12 @@ jobs:
       shell: bash
       run: echo "branch=$(echo ${GITHUB_REF#refs/heads/})" >> $GITHUB_OUTPUT
       id: extract_branch
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
+      with:
+          persist-credentials: false
+          fetch-depth: 0
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v4
       with:
         python-version: '3.9.13'
     - name: Install dependencies
@@ -28,15 +42,3 @@ jobs:
     - name: Build data
       run: |
         python3 calc.py
-    - name: Commit files
-      run: |
-        git config --local user.email "ube@coder.okinawa.jp"
-        git config --local user.name "Tomoyuki UBE"
-        git add data
-        git add dist
-        git diff-index --quiet HEAD || git commit -m "[BOT] crawler"
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: ${{ steps.extract_branch.outputs.branch }}
