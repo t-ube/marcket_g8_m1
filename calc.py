@@ -102,8 +102,8 @@ for exp in expansion.getList():
             continue
         id_list.append(row['master_id'])
 
-    for i in range(0, len(id_list), 5):
-        batch = id_list[i: i+5]
+    for i in range(0, len(id_list), 30):
+        batch = id_list[i: i+30]
         print('Write log no.:'+str(i))
         data = itemReader.read(supabase,batch)
         data2 = dailyPriceReader.readLimit(supabase,batch,currentDT)

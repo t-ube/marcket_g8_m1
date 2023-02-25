@@ -191,7 +191,7 @@ class CardPriceDailyReader:
         try:
             data = supabase.table("card_price_daily_jst").select(
                 "master_id,datetime_jst,created_at,updated_at,count,mean,std,min,percent_25,percent_50,percent_75,max"
-                ).in_("master_id",id_list).limit(1000).order("datetime_jst", desc=True).gte("datetime_jst",self.limit(base_date, 168)).execute()
+                ).in_("master_id",id_list).limit(1000).order("datetime_jst", desc=True).gte("datetime_jst",self.limit(base_date, 30)).execute()
             return data.data
         except httpx.ReadTimeout as e:
             print("httpx.ReadTimeout")
