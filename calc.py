@@ -102,10 +102,10 @@ for exp in expansion.getList():
             continue
         id_list.append(row['master_id'])
 
-    for i in range(0, len(id_list), 30):
-        batch = id_list[i: i+30]
+    for i in range(0, len(id_list), 5):
+        batch = id_list[i: i+5]
         print('Write log no.:'+str(i))
-        data = itemReader.read(supabase,batch)
+        data = itemReader.readLimit(supabase,batch,currentDT)
         data2 = dailyPriceReader.readLimit(supabase,batch,currentDT)
 
         # まずは日次記録をファイルに書き込む

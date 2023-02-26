@@ -171,6 +171,23 @@ class shopItemReader:
             print(e.args)
         return []
 
+    def readLimit(self, supabase:Client, id_list, base_date):
+        try:
+            data = supabase.table("shop_item_jst").select("master_id,id,datetime_jst,link,created_at,date,shop_name,item_name,price,stock").in_("master_id",id_list).limit(1000).order("datetime_jst", desc=True).order("master_id", desc=True).gte("datetime_jst",self.limit(base_date, 2)).execute()
+            return data.data
+        except httpx.ReadTimeout as e:
+            print("httpx.ReadTimeout")
+            print(e.args)
+        except postgrest.exceptions.APIError as e:
+            print("postgrest.exceptions.APIError")
+            print(e.args)
+        return []
+
+    def limit(self,base_date,days):
+        td = datetime.timedelta(days=days)
+        limit_date = base_date - td
+        return limit_date.strftime('%Y-%m-%d 00:00:00')
+
 # card_price_daily の読み取り用
 class CardPriceDailyReader:
     def read(self, supabase:Client, id_list):
