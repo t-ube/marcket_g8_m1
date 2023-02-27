@@ -99,10 +99,10 @@ class cardrushListParser():
         if a is not None:
             p = a.find("p", class_="stock")
             if p is not None:
-                find_pattern = r"(?P<c>[0-9]+)"
+                find_pattern = r"(?P<c>[0-9,]+)"
                 m = re.search(find_pattern, p.get_text())
                 if m != None:
-                    return int(m.group('c'))
+                    return int(m.group('c').replace(',',''))
         return 0
 
 class cardrushSearchCsv():
