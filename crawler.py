@@ -12,6 +12,7 @@ from scripts import cardrush
 from scripts import hareruya2
 from scripts import magi
 from scripts import torecolo
+from scripts import asoviva
 from scripts import marcketConfig
 from scripts import marcketCalc
 from scripts import supabaseUtil
@@ -32,6 +33,7 @@ cardrushBot = cardrush.cardrushCsvBot()
 hareruya2Bot = hareruya2.hareruya2CsvBot()
 magiBot = magi.magiCsvBot()
 torecoloBot = torecolo.torecoloCsvBot()
+asovivaBot = asoviva.asovivaCsvBot()
 
 ip = socket.gethostbyname(socket.gethostname())
 print(ip)
@@ -77,7 +79,8 @@ for exp in expansion.getList():
         cardrushBot.download(wrapper, row['name'], row['cn'], dataDir)
         hareruya2Bot.download(wrapper, row['name'], row['cn'], dataDir)
         magiBot.download(wrapper, 1, row['name'], row['expansion'], row['cn'], row['rarity'], dataDir)
-
+        asovivaBot.download(wrapper, row['name'], row['expansion'], row['cn'], dataDir)
+        
         df = loader.getUniqueRecodes(dataDir)
         records = df.to_dict(orient='records')
         items = editor.getShopItem(row['master_id'],records)
