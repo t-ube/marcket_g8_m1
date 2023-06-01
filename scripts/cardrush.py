@@ -23,7 +23,7 @@ class cardrushListParser():
         l = list()
         liList = soup.find_all("li", class_="list_item_cell")
         for li in liList:
-            name = self.getItemName(li)
+            name = self.getItemNameV2(li)
             if name is None:
                 continue
             find = False
@@ -62,6 +62,14 @@ class cardrushListParser():
         if span is not None:
             return span.get_text()
         return None
+
+    def getItemNameV2(self,_BeautifulSoup):
+        p = _BeautifulSoup.find("span", class_="goods_name")
+        if p == None:
+            return None
+        text = ''
+        text = p.get_text()
+        return text
     
     def getItemName(self,_BeautifulSoup):
         spanParent = _BeautifulSoup.find("span", class_="goods_name")
